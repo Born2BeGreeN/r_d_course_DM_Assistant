@@ -1,0 +1,635 @@
+[PDF_PAGE=1]
+ 
+1 
+Not for resale. Permission granted to print or photocopy this document for personal use only. 
+ 
+  
+ 
+ 
+
+[PDF_PAGE=2]
+ 
+2 
+Not for resale. Permission granted to print or photocopy this document for personal use only. 
+  
+Guide to this adventure: 
+Regular text can be read to the party at the DM’s Discretion if warranted 
+ 
+ 
+ 
+Text in Italics is important story instruction, strictly for the DM 
+***Encounter experience is to be added depending on party size and difficulty of the encounter. 
+Due to the nonlinear nature of the story and also varying levels of actual content completion, the 
+earnest is placed upon the dungeon master to provide a suitable challenge and appropriate party 
+experience*** 
+Credits in this adventure: WoTC for making such a terrific system and game. 
+Art & Cover’s: Nicholas Martignago, DM’s Guild, Rich Lescouflair 
+Editing, Proofing and Continuity Collaborators:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, the dragon ampersand, Player’s Handbook, Monster Manual, Dungeon Master’s Guide, D&D Adventurers 
+League, all other Wizards of the Coast product names, and their respective logos are trademarks of Wizards of the Coast in the USA and other countries. All characters and their distinctive 
+likenesses are property of Wizards of the Coast. This material is protected under the copyright laws of the United States of America. Any reproduction or unauthorized use of the material or 
+artwork contained herein is prohibited without the express written permission of Wizards of the Coast. 
+ 
+©2016 Wizards of the Coast LLC, PO Box 707, Renton, WA 98057-0707, USA. Manufactured by Hasbro SA, Rue Emile-Boéchat 31, 2800 Delémont, CH. Represented by Hasbro Europe, 
+4 The Square, Stockley Park, Uxbridge, Middlesex, UB11 1ET, UK. 
+ 
+If you have any questions or comments please contact me at exsisto87@gmail.com 
+ 
+Boxes like this are to be 
+read aloud to the players. 
+
+[PDF_PAGE=3]
+ 
+3 
+Not for resale. Permission granted to print or photocopy this document for personal use only. 
+Contents 
+Guide to this adventure: .............................. 2 
+Background & Setting .............................. 4 
+Introduction ............................................... 5 
+The Merchant’s Quest ............................. 5 
+Journey to Lhuvenhead ............................ 6 
+Lhuvenhead ............................................... 7 
+ 
+ 
+Lhuvenhead Shops and Characters ......... 7 
+Lhuvenhead Surrounds ........................... 8 
+Passing Time ........................................... 8 
+Road to Everlund ...................................... 9 
+A  Journey’s End..................................... 9 
+ 
+  
+
+[PDF_PAGE=4]
+ 
+4 
+Not for resale. Permission granted to print or photocopy this document for personal use only. 
+Background & Setting 
+This adventure series is set in and around the 
+lands adjoining the Nether Mountain Range of 
+The Silver Marches. Halved by the River 
+Rauvin, these lands are a racial melting pot of 
+the elves, human, halflings, dwarves, gnomes, 
+orc’s and the occasional kobold or goblin.  
+Relations between the more “civilised” races 
+and those of a more “barbaric” nature, often 
+are strained to say the least. Orcish raids 
+impact upon elvish and human settlements. 
+Dwarvish interests, laying below ground, are 
+less targeted by creatures living above, yet 
+face their own set of perilous foes. 
+The River Rauvin acts as a trade route cutting 
+through the area, with numerous settlements 
+dotting its fertile banks. To the north, the 
+Nether Mountains act as an imposing 
+boundary, full of varying races and the odd 
+blue dragon. South of the river, lies the 
+expanse of the dense and somewhat sacred 
+High Forrest. Rumoured to house at least two 
+Uhtgarde Barbarian tribes, ancient elvish cities 
+and numerous ruins.  
+Civilised points of interest within this small 
+region include the “Gem of the North”, 
+Silverymoon, Everlund the merchant city, 
+Sundabar the subterranean dwarvish city, and 
+numerous smaller villages and towns.  
+Our story is to begin in the small resolute 
+village of Jalanthar. This small village of some 
+300 souls features a number of humans, elves 
+halflings and 3 or 4 half-orcs.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This village’s primary occupations include 
+hunting and trapping for fur through the 
+nearby foothills. Local’s also often act as 
+guides for various Waterdhavian Noble 
+hunting parties, or various merchant folk 
+travelling throughout the land.   
+The village is troubled from time to time by 
+the various orcish tribes that inhabit the 
+mountain’s to the north. Being used to such 
+antics however, the village doesn’t often allow 
+themselves to be bested by such a raid.  
+Players wishing to create characters to suit 
+such a setting have a plethora of options 
+available to them. Both racially and in terms of 
+background, players could draw on various 
+sources of inspiration from the industrious 
+dwarven miners of nearby Sundabar to the 
+mythical Uhtgardian Barbarian tribes of the 
+Highforest. Additionally, due to the high levels 
+of mercantile activity within the region, 
+strange visitors or travellers often happen by 
+even the smallest, villages.  
+Ideally however, each of these characters 
+should have a reason for finding themselves in 
+the small village of Jalanthar, and ultimately, a 
+desire to leave sooner, rather than later. 
+Desires for wanting to leave this area or town 
+at least could include: 
+ A lack of suitable work  
+ Wonderlust  
+ Running from a debt or problem 
+ Person quest 
+  
+
+
+[PDF_PAGE=5]
+ 
+5 
+Not for resale. Permission granted to print or photocopy this document for personal use only. 
+Introduction 
+ 
+The Merchant’s Quest 
+ Grilop is nowhere to be seen the following 
+morning as the sun rises over the lower peaks 
+of the Nether Mountain range. His previous 
+ranting of not being able to wait to leave this 
+town, seem to have softened as mid-morning 
+eventually rolls around. In the soft autumn sun 
+eventually a gruff stomping Grilop emerges 
+from the inn holding his head. A stable boy 
+runs from behind the inn with a medium sized 
+cart towed by two large draft horses.  
+Grilop turns around after barking at the boy to 
+not waste his time, then to face the assembled 
+party. Scrutinising each of characters with 
+bloodshot eyes, he begins to lay out a number 
+of “rules” for the upcoming travel. They 
+mostly entail how not to make him angry, care 
+of the horses, maintaining a watch at all times, 
+protecting the wagon and other trivial tasks. 
+Grilop grunts that the pay is 15gp each for 
+accompanying the cart and providing a full 
+and safe delivery to the next town of 
+Lhuvenhead, which lay around 4 days travel to 
+the west. He snorts at the party, stating that he 
+has seen more professional goblin bands than 
+the riff-raff standing before him.  
+With that he turns, mounts the driver’s seat on 
+the wagon and gives the reins a flick, urging 
+the draft horses onwards. The party must hurry 
+to keep up. 
+You, for whatever reason, find yourself 
+milling around Jalanthar restlessly. With 
+almost no work around for a strong back, or 
+dexterous hand, the village has little to offer 
+the few idle people such as yourself. In which 
+case you seem to find yourself gathering in or 
+around the well-known Crowing Cockatrice 
+inn at the end of each day to catch any news 
+of work.  
+Through pure chance or perhaps fate, as some 
+may deem it, a merchant who frequents the 
+village, on a monthly routine, has recently 
+had a disagreement with his regular “muscle” 
+and is looking for a number of capable 
+persons to accompany him through the next 
+leg of his route.  
+This merchant has a somewhat dubious 
+reputation as being greedy, arrogant and 
+purely self-serving. Named Grilop Dungree 
+he is a balding, silver haired, middle aged 
+human, disenfranchised by his own reality. 
+Rumour has it that over the years and constant 
+irritations from raiding orc’s, pillaging 
+bandits or pure bad luck, Grilop makes close 
+to enough money to happily retire before 
+having his cart burnt, his wares ransacked or 
+his purse lightened by feverous drinking and 
+gambling binges in Silverymoon. These 
+events lead Grilop back to the roads and his 
+merchant ways, destined it seems, to grind 
+this path continually till his own demise. 
+Grilop has announced throughout the inn this 
+past evening, during a series of drunken 
+ranting full of vulgarity, that he will be 
+leaving the village at the crack of dawn, for 
+his next destination. Should anyone be 
+interested in accompanying him, he can offer 
+15gp for each person. He continues with, 
+“Although the pay may seem low in terms of 
+gold pieces, the opportunity to leave a fetid 
+backwater town such as this one, is in itself a 
+priceless opportunity. Should anyone be 
+interested in accompanying me for protection 
+for coin, should be there dressed and prepared 
+for anything in front of the inn when I leave.” 
+Roleplaying Grilop Dungree: 
+Grilop is a bitter old man, dissatisfied with 
+his lot in life, even though he is partially to 
+blame for it. He is gruff, dishonest, and 
+devious when it comes to dealing with 
+others and will often try to squeeze extra 
+coin in any opportunity. Grilop should react 
+poorly to being questioned or disagreed 
+with. Additionally he will typically criticise 
+anything a character does or tries. He is 
+lazy and will expect the party to prepare 
+camp or anything else menial.  
+Grilop should be a tyrannical employer and 
+should pick on one specific character over 
+all the others. This can lead to some 
+interesting party politics or dynamics. 
+
+[PDF_PAGE=6]
+ 
+6 
+Not for resale. Permission granted to print or photocopy this document for personal use only. 
+Journey to Lhuvenhead 
+With around an hour of daylight still 
+remaining the party is able to sort out anything 
+camp related before settling in for the night. 
+As the suns last rays can be seen on the tip of 
+the Nether Mountains to the North have the 
+party make a Wisdom (Perception) Check. 
+The character with the highest roll, will notice 
+in the distance to the north, moving through 
+the field towards the wagon, three orc’s (MM 
+pg.246) in light armour carrying javelins. The 
+Orcs are unaware they have been seen and are 
+currently 120ft to the north. 
+These orc’s each bear an effigy on their 
+tattered leather armour which can be identified 
+with a DC12 Intelligence (History) Check. 
+The symbol represents the tribe of the 
+“Thousand Fists”. A particularly blood thirsty 
+tribe notorious within this region. A successful 
+roll of DC15 or over will additionally identify 
+these orcs as being scouts, as determined by 
+their armour and weapons.      
+Defeating these orc scouts will yield 300xp 
+shared between the party members. One orc 
+can be found wearing an amethyst crystal the 
+size of a man’s thumb. This crystal can be 
+used as an Arcane Focus and is worth 35gp. 
+The orcs are primarily interested in the furs 
+visibly loaded on the wagon. They will attempt 
+to draw the party away from the wagon with 
+hit and run tactics, while one of the orcs 
+attempts to steal as many furs as possible. 
+Should Grilop discover the next morning that 
+any of the furs are missing, he will deduct 5gp 
+from each of the characters pay.  
+The rest of the first night proceeds without 
+incident, however the character on watch may 
+be nervous about nearby wolf howls heard 
+throughout the night. Grilop arises with dawn 
+this morning as the poisonous grasp of alcohol 
+has run its course. He kicks any member of the 
+party still sleeping till they rise and swiftly 
+goes about telling the party to hurry up with 
+the camp as they have many miles to make up 
+today.  
+At this point the DM should choose a 
+responsible character to receive a message 
+found wrapped around an ornate dagger 
+beside their head as they awake. The message 
+reads as follows:  
+Travelling to the next town will take around 
+three and a half days due to the slow start the 
+previous day. During this time for each 
+morning and afternoon DM’s should roll a 1d4 
+to determine if a random encounter should 
+take place. Odds mean there is no encounter 
+and Evens rolled determine there is. 
+Encounters in this region can be derived from 
+the following table: 
+Roll 
+1d8 Consequences 
+1-2 4 wolves hunt the wagon 
+3-4 1 ogre strolling through the world 
+5-6  2 orcs roaming around for food 
+7-8 4 kobolds tunnelling near the road 
+ (Creature Locations: Wolf MM pg.341, Ogre MM pg.237, 
+Orc pg.246 & Kobolds pg.195)  
+The remainder of the day spent travelling 
+from Jalanthar is quiet and uneventful. The 
+countryside consists of rolling hills with 
+typical farm land to either side of the narrow 
+and rutted roadway. Grilop remains in the 
+driver’s seat for the entire journey nursing a 
+seemingly wicked hangover, judging by the 
+constant groans and rubbing of his temples. 
+The party finds themselves able to converse 
+relatively freely, as long doing so quietly 
+around Grilop, which gives them a chance to 
+introduce themselves and their stories.  
+As the sun begins to fall towards the horizon 
+Grilop states that camp should be made just 
+off the road here. He pulls in the horses to a 
+small clearing, reaches into the cart for a 
+bedroll, and painfully descends from his 
+position on the wagon before unrolling his 
+makeshift bed and crawling in to sleep 
+immediately.  
+ 
+Grilop has few friends due to his stingy 
+nature. Take care following such a greedy 
+selfish fool… Don’t lose this dagger, I’ll 
+be back for it shortly.  
+Snuf. 
+ 
+
+[PDF_PAGE=7]
+ 
+7 
+Not for resale. Permission granted to print or photocopy this document for personal use only. 
+The wolves will attempt to attack any 
+character slightly separated from the group. 
+The ogre will attempt to charge and attack the 
+horses for food. 
+The orcs will attempt to steal from the cart. 
+The kobolds will attempt to lead players away 
+with poorly aimed arrows while 2 raid the cart.  
+Each of these encounters should grant 25xp 
+per character and 1 reward from the 
+Individual Treasure: Challenge 0-4 Table 
+from the DMG pg.136. 
+Characters should be very near to level 2 
+before they reach the village of Lhuvenhead. If 
+desired, the DM may wish to add additional 
+challenges to the party, should they be coping 
+easily with the current challenges.  
+Lhuvenhead 
+ Within the town of Lhuvenhead are 3 small 
+stores, the Inn and a very modest number of 
+homes scattered through the overgrown ruins. 
+Any local will be able to explain that the ruins 
+are due to a massive orc raid which occurred 
+around 8 or 9 years ago now which essentially 
+ruined the town. Few still remain from what 
+was a vibrant river trading town. Folk here 
+seem to be weary of Grilop and his market 
+stand. Seemly having had poor experiences 
+with him before. NPC characters about town 
+may inform the party on multiple occasions to 
+avoid trusting him too much. 
+Lhuvenhead Shops and Characters  
+Iron Piercer (smithy): Blacksmith which 
+specialises in arrowheads and knives/daggers 
+and also regular horse tack. Run by a young 
+dark bearded dwarf named Punket Ironheart. 
+This store sells arrows, daggers and Horse 
+Tack at 15% off the regular price. Punket, will 
+also offer the party a quest to identify some 
+strange script he found chiselled on a large 
+slab of stone outside of town. He shows the 
+party a small piece of parchment which he had 
+copied it onto. The script is in dwarvish, but 
+the letters it depicts form words which are not 
+recognisable. Characters able to shed any light 
+on the script receive a free dagger and 35xp.  
+The script is in Giant, characters who 
+understand this language are able to read it 
+immediately. Characters can make a DC15 
+Intelligence (History) check, to uncover the 
+script as giant. But they are unable to decipher 
+it. The script reads: “To the Sky for the Seat of 
+Ostoria”   
+With a DC18 Intelligence (History) check, a 
+character can recall that Ostoria was the 
+Empire of the Giants, in the times before 
+dwarves, men and elves.  
+Herbal Help (alchemist): An overgrown 
+shack seemingly standing from before the orc 
+attack. Run by an old elf named Quina 
+Aedwin. Has 2 Potions of Healing (50gp each) 
+in stock if characters can afford them. Can 
+produce a number of differing sleep (DC13), 
+paralysis (DC13) potions or weak poisons 
+(1d6) if requested for the same price as the 
+healing potions. 
+Dendlin’s Goods (general store): This 
+building looks to have been erected in the past 
+Upon approach to the settlement of 
+Lhuvenhead, late on the fourth afternoon. 
+Grilop states that he will being staying in 
+town to do some business for the next 
+three nights. He obliges the characters 
+remain around and out of trouble if they 
+wish to continue to work for him. Grilop 
+offers the party the promised 15gp each 
+for their work and states that there will be 
+twice the pay for the next leg of the 
+journey if the characters continue to help. 
+Grilop directs the cart to a small square 
+within the village and begins to setup a 
+market stand, yelling to the players to 
+meet here on the morning he departs.  
+Lhuvenhead itself is a quiet country style 
+frontier settlement. Some houses lay in 
+derelict wrecks around the area and close 
+to the river a number of ruined docks and 
+buildings can be seen stretching into the 
+river. A small inn spills smoke from its 
+single chimney near to the center green. 
+Above the door lay a simple sign which 
+reads “Orc’s End”. Around the inn a few 
+buildings seem new and in order. It’s as if 
+the town has recently rebuilt itself around 
+a previous Catastrophe.   
+
+[PDF_PAGE=8]
+ 
+8 
+Not for resale. Permission granted to print or photocopy this document for personal use only. 
+few months. The clean pine wall boards still 
+have the fresh scent of unseasoned wood about 
+them. Inside is a middle aged man by the name 
+of Dendlin Ferbid. He sells anything found on 
+the Adventuring Gear list in the PHB pg.150 
+worth 5gp or less. 
+Orc’s End (Inn): The Orc’s End is a tiny inn 
+sitting beside the village square in 
+Lhuvenhead. Run by a half elf man by the 
+name of Lilt Greenwreath, the inn features two 
+rooms, a common room and a single tapped 
+keg of ale which sits behind a narrow and 
+short bar. Lilt is an extremely affable host who 
+offers you drinks and food as soon as you 
+enter.  
+The characters may notice Lilt has little 
+business through the inn. Lilt explains that the 
+population has dropped to around 60 people 
+after the orc raids 9 years ago, but slowly 
+people are beginning to return. Lilt will offer 
+the character’s a job to bring in a bear’s pelt 
+for the common room as it currently is empty 
+apart from crude furniture. He suggests that a 
+bear’s roar has been heard a few miles to the 
+north in the foothills of the mountain range. 
+Lilt offers the party free board and 10gp each 
+if they are able to retrieve the pelt. Otherwise 
+the rooms are available to the characters for 
+standard rates. Alternatively Lilt offers the 
+party 5gp each for each set of orcish tusks 
+retured for Lilt to hang from above the bar. 
+Completing either task should provide the 
+party 75xp each. 
+Hanging around the bar provides little 
+information from the locals about current 
+events. Eventually however on the last night 
+characters remain in town, the party hears an 
+old human named Junda discussing with a 
+friend about one of the local rangers who 
+became lost after being chased by 4 owlbears 
+two days north west of town. After running for 
+over an hour trying to avoid the vicious beasts 
+the ranger stumbled across a set of huge stone 
+heads in the forest. The heads appeared to be 
+dwarvish, and wore strange helms. If 
+questioned about any of this Junda states that 
+the ranger in question has left for Everlund to 
+deliver a set of skins and is named Fraid 
+Kinglig.   
+Lhuvenhead Surrounds 
+The country side surrounding Lhuvenhead is 
+mostly ancient pine forests which encircle the 
+town to the west, north and east. Much further 
+north the Nether Mountains can be seen 
+reaching towards the heavens. To the south the 
+River Rauven winds its way towards 
+Silverymoon. Some in town suggest that a 
+small orc encampment can be found through 
+the forest to the north. It is agreed upon that all 
+the surrounding forest is inhabited by a 
+number of horrifying and deadly creatures, 
+including bears, ogres and wolves.  The 
+foothills of the mountains start some 8 miles to 
+the north of town. If the characters decide to 
+enter the woods outside of town they run the 
+chances to encounter some form of trouble.  
+Rolling a 1d4, odds will determine an 
+encounter with consequences seen on the 
+following table: 
+Roll 
+1d8 Consequences 
+1-2 4 wolves attack the last character in the woods 
+3-4 1 owlbear attacks from some small brush  
+5-6  2 orcs roaming around for food 
+7-8 1 brown bear attacks from the mouth of its cave 
+(Creature Locations: Wolf MM pg.341, Owlbear MM pg.249, 
+Orc pg.246 & Brown Bear pg.319)  
+Each of these encounters should grant 25xp per 
+character and 1 reward from the Individual 
+Treasure: Challenge 0-4 Table from the DMG 
+pg.136. 
+Passing Time 
+If characters have time they wish to pass while 
+staying in Lhuvenhead, they can simply spend 
+their time at the inn, practicing a profession or 
+learning a new skill if practical.  
+Before the party does leave however, the 
+character in possession of the ornate dagger 
+will have it disappear whilst they are 
+sleeping/distracted on the final night before 
+Grilop leaves.  
+
+[PDF_PAGE=9]
+ 
+9 
+Not for resale. Permission granted to print or photocopy this document for personal use only. 
+Road to Everlund 
+The archers view seems obscured as they have 
+miss the party on every second attack 
+regardless of rolls.  
+Each of the two ambushers running towards 
+Grilop are considered Thug’s (MM pg.350). 
+The two firing arrows are considered Bandit’s 
+(MM pg.343). Upon defeat players may notice 
+that each of the attackers have a strange rat 
+skull symbol on their leather armour. Any 
+attacker left alive for questioning will be very 
+resistant and will require a DC18 Charisma 
+(Persuasion) Check to let the players know 
+they have orders to kill Grilop from the Dead 
+Rats. 
+A DC17 Intelligence (History) Check will 
+reveal this to be the symbol of the Dead Rats, 
+a notorious thief’s guild usually operating out 
+of Luskan. 
+Upon the bodies of the attackers players find a 
+total of 34gp and 23sp in coins. Additionally 
+they find a contract letter with Grilop’s 
+description and a dead or alive clause with a 
+reward of 50gp. Characters who defeat the 
+attackers also get 75xp each. 
+Characters may ask Grilop explain this 
+situation to them. Grilop will tell you all to 
+“Shut up and if you mind your own business if 
+you want an extra 5gp each” If pressed further 
+Grilop will simply ignore the characters and 
+continue to drive the cart onward to Everlund. 
+A  Journey’s End 
+As the party crests the final hill of the journey, 
+Grilop halts the cart and gruffly thanks the 
+party for their valiant efforts to keep himself 
+and his business alive and well. He pays each 
+character the agreed 35gp’s and ask’s the 
+player’s not believe everything they hear. 
+Grilop states he can be found in the merchant 
+quarter if the party is more work and that for 
+the party’s safety they should enter the city 
+separately.  
+ 
+  
+After meeting a very hungover Grilop on 
+the agreed upon morning, the merchant 
+moans at the party to get a move on 
+before urging the horses onward. The 
+road leading toward Everlund is clearly 
+the most travelled characters may have 
+encountered thus far. As the party 
+accompanies Grilop along the eight hour 
+trek to Everlund they are met by an 
+unusual sight. 
+Four arrows stand driven partially on the 
+road in a diamond shape. Atop each arrow 
+is the head of a large rat. Grilop 
+immediately looks fearful upon seeing 
+this and begins yelling for players to 
+withdraw their weapons and get ready to 
+fight.  
+Out of the bushes, arrows fly silently, 
+slamming into the cart and ground near to 
+the characters. Two roguish looking elves 
+in dark leather armour spring from the 
+bushes to either side of the cart and begin 
+to lunge towards Grilop. Arrows continue 
+to fly from behind the cart off the road to 
+the east. Another two archers remain 
+hidden firing their arrows upon the party 
+from the safety of the trees. 
+Stretched out westward, lay the large 
+trading town of Everlund. As the sun’s 
+final rays still light the towns many 
+buildings, the party looks upon one of the 
+largest cities in the entire region. Barges 
+and watercraft flow along the River 
+Rauvin, which Everlund hugs tightly for 
+several hundred feet. People can be seen 
+amongst the streets moving to and fro, a 
+number of brightly lit taverns and inns 
+can be seen with chimneys smoking.  
+ 
+
+[PDF_PAGE=10]
+ 
+10 
+Not for resale. Permission granted to print or photocopy this document for personal use only. 
+ 
+ 
+

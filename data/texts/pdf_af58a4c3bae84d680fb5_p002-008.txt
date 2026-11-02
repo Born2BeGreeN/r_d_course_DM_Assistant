@@ -1,0 +1,444 @@
+[PDF_PAGE=2]
+The Silver Bane Campaign
+The Amphail Affair
+Introduction: Seeking a rest from travel, the Party arrives in Amphail, looking forward to a 
+warm meal and a refreshing drink. The villagers gather as the night falls and a friendly, 
+peaceful night begins. The calm of the evening is soon shattered as a woman rushes into the 
+tavern, screaming hysterically.
+A 2-hour adventure intended for 1st-3rd level characters
+by Callum Williamson
+DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, the dragon ampersand, Player’s Handbook, Monster Manual, Dungeon Master’s Guide, D&D Adventurers 
+League, all other Wizards of the Coast product names, and their respective logos are trademarks of Wizards of the Coast in the USA and other countries. All characters and 
+their distinctive likenesses are property of Wizards of the Coast. This material is protected under the copyright laws of the United States of America. Any reproduction or 
+unauthorized use of the material or artwork contained herein is prohibited without the express written permission of Wizards of the Coast.
+©2016 Wizards of the Coast LLC, PO Box 707, Renton, WA 98057-0707, USA. Manufactured by Hasbro SA, Rue Emile-Boéchat 31, 2800 Delémont, CH. Represented by Hasbro Europe, 4 
+The Square, Stockley Park, Uxbridge, Middlesex, UB11 1ET, UK.
+
+[PDF_PAGE=3]
+This encounter is intended to be the introductory 
+session of a homebrew campaign beginning in 
+Amphail and contains references to homebrew rules 
+for that campaign, which are included in the 
+'Homebrew Rules' section. 
+It can be run as a one-shot for any running 
+campaign by placing it in any small village. A lot of 
+information and choices are given here as there is an 
+assumption that a first time or beginner DM will be 
+running the encounter, who may not be as 
+comfortable being 'on-the-fly', there are multiple 
+branching points and opportunities for the DM to 
+bring the Party back to the intended plot but also 
+examples of consequences that you can implement in 
+‘The Worst Possible Outcome’ section. 
+There are multiple options for the DM to sidestep 
+difficult combat with NPC actions to allow this to run 
+with as little as 1 DM and 1 Player.
+Running as part of The 
+Silver Bane Campaign
+Key things to remember if running as part of the 
+'Silver Bane':
+ The Party should learn about Lycanthropy, 
+Belladonna, and V ariscite.
+ The Party will almost certainly not be able to 
+kill the lycanthropes when they are at full 
+health and not under the effect of Belladonna / 
+V ariscite. A single attack from a wererat could 
+kill a character with too low of a total health 
+pool in a single hit, especially at level 1. 
+ The woodsman does not use the wererat stat 
+block when he is in human form, this is 
+because he has never transformed before, but 
+he will transform if his health reaches 0 HP . 
+ Saving villagers is directly tied to their reward. 
+ Remember about Passive skills, if a check is 
+equal to or lower than a Characters base stat 
+and modifier, maybe allow them to 
+automatically succeed. 
+ If anyone drops to 0 HP , and no one was 
+prepared to have their character die in the first 
+session, ensure their body is evacuated by 
+either a fleeing villager or another Party 
+member, this could bring them back into the 
+fold with 1 HP or they just survive for the next 
+session if it happens towards the end. You can 
+even hide and fiddle with the death throws. 
+ ‘The Worst Possible Outcome’ section is for a 
+Party that is just not engaging with the session, 
+blundering so hard that you need to kill some 
+villagers, or are able to damage the wererats 
+significantly and you want to include a fight.
+The Party Arrive
+Text within boxes like below is meant to be read out 
+loud, dice rolls and other important information will 
+be bold.
+Each member of the party has come to Amphail to rest 
+after long journeys, congregating one by one in the 
+Amphail Ale, they sit at a shared table.
+The atmosphere in the tavern is welcoming, the fire 
+warm, the food and drink refreshing after your 
+journey. It is a peaceful evening, the local shopkeepers 
+and villagers begin to congregate in the tavern as the 
+day comes to a close, soon the whole town is gathered, 
+18 people crowd the tavern as a lively night begins.
+Take this opportunity to have the Party introduce 
+their characters, perhaps they speak to the villagers.
+Investigate disturbances on the road leading between 
+Amphail and Waterdeep. Someone mentions that they 
+have been waiting for a letter for some time, and 
+another says it has been a few days since any 
+merchants travelled through town.
+The foresters have been finishing work early, so they 
+are home long before nightfall.
+Not for resale. Permission granted to print or photocopy this document for personal use only .                                                                                                     3
+Introduction
+Tavern Scene by Joos van Craesbeeck
+
+
+[PDF_PAGE=4]
+Intelligence (Investigation) DC 12 / Wisdom 
+(Perception DC 12) / Wisdom (Insight) DC 12 – The 
+Character notices a woman fussing over a woodsman's 
+bandage in the corner, he is trying to rest. When asked 
+about it he will say it was just from an accident with 
+an axe but the woman won't believe him.
+If pressed to see the wound, Charisma (Persuasion / 
+Intimidation) DC 12 the party can try to examine it.
+ 
+Wisdom (Nature) DC 12, they can observe the wound 
+is actually a bite mark, they are unable to tell which 
+animal caused it, but they can tell it has a large 
+mouth from the puncture pattern. 
+Intelligence (Medicine) DC 12, they can tell the wound 
+is infected and that it likely from an animal attack.
+In truth it doesn’t matter what the Party decides to do 
+at this point, before they can do anything further a 
+villager bursts into the tavern screaming.
+The welcoming and relaxing atmosphere slowly dies 
+as muffled screams come from outside.
+Suddenly the door to the Amphail Ale slams open as a 
+woman bursts into the tavern screaming in terror.
+"It's here! oh gods! the monster is here! It killed Delvin!" 
+The woman cries, collapsing to the ground as she 
+enters the safety of the tavern.
+"Valiria? What in the hells are you talking about?" 
+another villager asks, as they rush over to her, urging 
+her to sit down at a table.
+The Party watch as the other villagers immediately 
+split into two groups, some heading outside to 
+investigate and the others crowding round the 
+woman, a majority stay.
+At this point the Party will decide what they will do, 
+will they stay and hear what Valiria has to say or will 
+they go outside to investigate?
+If the party interacted with the woodsman, they look 
+around at the scene before them and notice he is even 
+more on edge, he hasn’t moved from his chair and he 
+is staring at Valiria, seemingly terrified.
+Not for resale. Permission granted to print or photocopy this document for personal use only .                                                                                                     4
+Le Désespéré by Gustave Courbet
+The Wounded Man by Gustave Courbet
+Woman, Why Weepest Thou? by Fritz von Uhde
+
+
+[PDF_PAGE=5]
+Staying in the tavern
+The Party has decided to stay in the tavern, or have 
+returned after being outside and you decided to allow 
+them to return with no consequences, and speak with 
+the occupants.
+The Party approaches the table where Valiria is sitting 
+and hear the following:
+"Slow down Valiria, breathe, tell us what happened" 
+the bartender says, trying to soothe her.
+"He... He's dead... I... There was so much blood" Valiria 
+sobs into her hands.
+The Party realises she is nearly inconsolable in her 
+current state.
+The Party may try to speak to Valiria, the woodsman, 
+or head outside at this point. 7 villagers leave the 
+tavern to investigate and 11 villagers stay, including 
+the barman, the woodsman, and Valiria.
+Speaking to Valiria
+Valiria is sitting at a table surrounded by the 
+remaining villagers.
+Wisdom (Insight) DC 10 – The Party successfully sees 
+that Valiria is terrified to her core, there won't be an 
+easy way to calm her down without a good deal of 
+convincing or a shock to her senses. (Meant to gently 
+nudge the players towards a solution)
+Charisma (Persuasion) DC 12 or Charisma 
+(Intimidation) DC 15 – The Party successfully 
+manages to calm her down. After some shuddering 
+breathes Valiria explains what happened, "My 
+husband Delvin... I went outside to fetch him for 
+supper and... all I found were his clothes, ripped to 
+shreds on the ground, great chunks of his skin... 
+everywhere..."
+If pressed for details, all she will add is "I told 
+them I wasn't lying... I told them I saw it... now he's 
+dead...", she begins sobbing again at this point and 
+will not elaborate unless Calm Person is cast on her or 
+the Party get her a drink (does not have to be a strong 
+drink).
+If Calm Person is cast or she is given a drink, 
+she settles down and says "It was the monster in the 
+forest, I don't know what it was but I saw it when I 
+was foraging for belladonna last month. I tried to tell 
+the others but they just ignored me and said I was 
+spooked by a boar."
+Characters proficient in Nature are told that 
+belladonna is a poisonous plant that can hurt them if 
+handled incorrectly, by making an Intelligence 
+(Nature) DC 10 ability check. It's used to make an a 
+numbing salve. They note that her fingers and hands 
+have hives on them, a reaction to touching the plant.
+If the Party asks why the creature didn't attack 
+her, she doesn't know.
+Wisdom (Medicine) DC 10 – The Party inspects 
+Valiria for injuries. There are no injuries on Valeria, 
+the blood she is covered in is presumably from Delvin. 
+The blood is on her face, hands, and chest.
+Physical Strike – The Party decides to physically 
+shock Valiria.
+Slap – Strength DC 14, a Character slaps 
+Valiria to shock her into calmness.
+On a normal failure, she recoils and cries 
+harder, she is inconsolable now, the barkeep strongly 
+suggests that the Party leave her alone, he will not be 
+persuaded to let them speak to her, nor would she 
+speak to the Party if they were somehow able to get to 
+her.
+On a critical fail, or just if you think it will be 
+entertaining, the slap knocks her out, the villagers 
+around rush to her and chastise the Party, ordering 
+them to leave the tavern, leading them to the scene 
+were Greela is just about to see the monster. This can 
+have a small effect for the ‘The Transformation’ section 
+Not for resale. Permission granted to print or photocopy this document for personal use only .                                                                                                     5
+A weeping woman by Rembrandt van Rijn
+
+
+[PDF_PAGE=6]
+if you decide to have her get a small amount of 
+revenge against the party.
+Shake – Strength DC 8, a Character gently 
+shakes Valiria. Has the same effect as the 'pressed for 
+details' paragraph for the Charisma check above and 
+no negatives if they fail, but you could consider having 
+the failure react the same way as the normal failure 
+for slapping her above.
+Get her a drink – The Party suggest she have a drink 
+to calm her nerves, which has the same effect as the 
+first paragraph for the Charisma check above.
+If pressed, she will accept another drink but 
+asks for something stronger, this has a similar effect to 
+if Calm Person was cast on her. The barman offers her 
+a swig of his homemade moonshine, it's an incredibly 
+strong high alcohol content drink, the smell alone 
+nearly burns your nostrils.
+Characters proficient in Alchemy Supplies, or 
+those with an Intelligence score of 15 or higher, realise 
+that this is an incredibly flammable and potentially 
+unstable liquid. The barman’s moonshine is nearly 
+80% alcohol.
+If offered another drink, she will decline saying 
+she is feeling unwell after the last one, but if the Party 
+push her it will render her Unconscious as she faints 
+from the combination of the alcohol and shock. This 
+will have a small effect the 'The Transformation' 
+section.
+Speaking to the Woodsman
+If the party spoke to woodsman before, they are now 
+able to insist he explains his injury as they notice how 
+nervous he now is that Valiria is here, and he is sitting 
+alone in the corner.
+Charisma (Persuasion / Intimidation) DC 15 – If the 
+party already discovered that the wound is a bite 
+mark they have Advantage on this roll. The Party 
+convinces the woodsman to detail what happened to 
+him.
+The woodsman whispers, "Fine I'll tell you, but 
+keep your voices down... Last night I was coming 
+home, I hadn't paid any mind to the stories people 
+round here were spreading, but then I saw it... 
+something in the corner of my eye, watching me... I 
+could see it creeping between the trees, something as 
+big as I am, hairy too, and a disgusting, fleshy tail... 
+Anyway I start sprinting and chomp!... I dig my 
+fingers into it's eyes before I could even think, the beast 
+let go of me and I ran as fast as I could... The thing 
+didn't chase after me... I thought that would be the end 
+of it... I should have told someone…"
+ If the Party has not already inspected the 
+wound, the woodsman lets them examine it. They do 
+not need to roll anything here as he tells them that the 
+wound is infected.
+Not for resale. Permission granted to print or photocopy this document for personal use only .                                                                                                     6
+Tavern Interior by Jacob Duck
+Once it Chased Dr. Wilkerson Into the Very Town Itself by Howard Pyle
+
+
+[PDF_PAGE=7]
+Physically Threaten – The Party physically threatens 
+the woodsman to reveal what happened to him. As he 
+is injured and scared, the Party will automatically 
+succeed at this.
+The woodsman begs the Party not to hurt him. 
+This draws some villagers away from Valiria. "Okay, 
+Okay, I'll tell you" The rest is the same as persuading 
+him except he now also apologises to the villagers and 
+Valiria directly, "I'm sorry I didn't believe you Valiria, 
+I'm so sorry...”
+Valiria just nods solemnly in response.
+The Party might be convinced to keep an eye on the 
+woodsman or restrain him, if the want to do this 
+allow it, but have them roll the following. 
+Charisma (Persuasion) DC 16, with Advantage if 
+they uncovered his story AND the possible connection 
+to Lycanthropy – You successfully convince the 
+villagers that it would be a good idea to restrain the 
+woodsman as you think he is infected.
+If the result is 18 or higher, the woodsman 
+allows you to do this. Otherwise, roll a Strength 
+(Athletics) DC 16 to forcefully do so.
+The villagers will react with disdain toward the 
+Party if they forcefully retrain the woodsman as they 
+failed to convince them it was necessary, possibly 
+making them leave the tavern.
+Speaking to the villagers
+Should the Party decide to speak to other patrons of 
+the bar, before speaking to Valiria, then no one has 
+any idea what is going on as they are also trying to 
+find out what is happening, they will shoo the Party as 
+they try to eavesdrop or speak to Valiria themselves, 
+some example statements are shown below.
+"Shh! I can't hear what she's saying."
+"Did you see how much blood is on her?"
+"Hells, I can't fathom what would do this."
+"Poor Valiria, she looks scared to death."
+If the Party only managed to get the basic information 
+from Valiria, the other patrons will be shocked and 
+sympathetic towards Valeria.
+"Oh gods, Delvin is dead!"
+"What could have done this?"
+"To shreds she said."
+If the Party managed to get Valiria to talk about the 
+monster, the other patrons will shuffle around 
+nervously with guilty expressions.
+"She came running into the village shouting about 
+some hairy beast she saw, we thought she was just 
+spooked, had we have known…"
+"I'm so sorry Valiria, we... we should have believed 
+you…"
+"We didn't listen and now... oh poor Delvin…"
+"I mean people told stories... but to think they are real... 
+it's terrifying."
+None of the villagers are aware of the woodsman's 
+injury and will offer next to no details.
+"Oh that sort of thing happens all the time... between 
+the wolves, boars, and whatever else lives in there, 
+someone always comes home with a scratch or two"
+"I don't know why he'd lie about it being an axe 
+wound... excuse me I need to see if Valiria is okay"
+If the Party got Valiria to reveal about the monster, 
+"Surely it wasn't from the same beast? Why would he 
+hide it?"
+They do not leave
+If the Party spends too much time in the tavern, by 
+either exhausting their talking points with Valiria and 
+the woodsman, and speaking with too many villagers, 
+or by lingering to see what happens (roughly 5 to 10 
+minutes of in game time), or just doesn't go outside, 
+then the plot advances.
+The door slams open again and the villagers who left 
+earlier return, though dishevelled, exhausted and 
+terrified.
+ "It was there! It was outside!" a villager shouts, "Just at 
+the edge of the village, standing and staring at us!"
+ "Greela went over to scare it away and it mauled his 
+arms and bit his neck! The poor whoreson was dead in 
+an instant" another villager adds.
+ "Elimar threw a pitchfork at it and flew into the 
+beasts chest, but it pulled it out and threw it to the 
+ground... the thing scurried away but it didn't seem 
+injured." a third villager continues.
+Not for resale. Permission granted to print or photocopy this document for personal use only .                                                                                                     7
+
+[PDF_PAGE=8]
+"It was the size of a man and as hairy as a wolf, 
+with a twisted, fleshy tail" Elimar confirms.
+The villagers are panicking now, being non-
+combatants, everyone is Frightened of the monster. 
+They are refusing to go outside again and are at a loss 
+about what to do, some suggest locking the doors and 
+windows and hiding, some others suggest fleeing the 
+village entirely.
+The Party can attempt to rally the villagers 
+with a Charisma (Persuasion) DC14 ability roll, 
+which removes the 'Can't Approach' effect of 
+Frightened. If they roll a DC18 or higher, the 
+Frightened effect is totally removed and the DM could 
+award the Character that gives the speech the 
+'Amphail Alliance' Heroic Inspiration point.
+The Party might suggest leaving the tavern to 
+investigate, if this happens proceed to the ‘Leave the 
+Tavern’ section, and allow them to make the checks 
+found at the start of that section other than the 
+Perception check to see the creature as it has already 
+gone.
+"Be careful out there, come back and tell us if 
+you find anything, the monster ran into the woods but 
+keep watch and be safe." one of the villagers that was 
+outside says to the Party.
+If the Party returns from their investigation, stays in 
+the tavern, or decides to flee, move onto 'The 
+Woodsman Turns' section. This could be a branching 
+point for 'The Worst Possible Outcome' section. 
+Tavern Loot
+Should the Party try to pickpocket anyone that isn't 
+Valiria:
+Some amount of coins (2d4 sp, 3d6 cp).
+AND one of;
+Their (dirty, clean, lacy) handkerchief.
+The key to their home.
+A button and some lint.
+Pocket cheese, a small coin sized chunk of cheese, has 
+hair on it.
+A small knife, the handle is made of horn.
+A silver earscoop, there are wax remnants still on it.
+A wooden pipe.
+Should the Party try to pickpocket or loot Valiria at 
+any point:
+Some amount of coins (2d4 sp, 3d6 cp).
+ OR 
+A 1d4 amount of Belladonna, the Character takes 1d2 
+Poison damage per Belladonna sprig.
+You feel a dull throbbing pain in your hand as 
+your fingers wrap around the sprigs of Belladonna 
+tucked into Valirias apron, she catches you in the act.
+Should the Party try to steal from the bar:
+Some amount of coins in the till (3d10 sp, 4d10 cp).
+A 13 gallon barrel of homemade moonshine, it weighs 
+over 80lbs.
+A jar of pickled eggs.
+A pork pie.
+An unopened litre bottle of mead.
+Tall Tales to Tell Tykes – The folklore story book that 
+the barman will try to use to explain the monster is a 
+wererat.
+ Should the Character read the book, the 
+Character will gain advantage on all checks to 
+identify the creature and will automatically know it is 
+a wererat when first encountered.
+ It does not offer any great detail other than 
+children's stories about monsters in the night.
+Should the Party try to steal from the back office:
+Some amount of coins (0-1gp, 3d20 sp, 4d20 cp).
+Ink, quills, parchment.
+The barman’s recipe for making moonshine.
+Should the Party try to steal from the storeroom:
+Same food items as the Bar as well as the ‘Food, Drink, 
+and Lodging’ table.
+Large Barrels of ale.
+Food related items on the ‘Trade Goods’ table.
+Not for resale. Permission granted to print or photocopy this document for personal use only .                                                                                                     8

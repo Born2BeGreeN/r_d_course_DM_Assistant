@@ -1,0 +1,10 @@
+{
+  "title": "The Pumpkin King",
+  "language": "en",
+  "recommended_level": "1-2",
+  "hook": "The small farming village of Krahedorf, if you can call their meager corn crops “farms”, hashad a rash of children go missing leading up to all hallows eve",
+  "npcs": [{"name":"The Great Pumpkin","role":"villain"}],
+  "locations": ["Krahedorf Village","Cornfield"],
+  "threats": ["Looking around, you find a path that leads deeper into the cornfield and realize it is in fact a corn maze."],
+  "rewards": []
+}

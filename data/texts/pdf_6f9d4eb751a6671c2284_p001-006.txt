@@ -1,0 +1,525 @@
+[PDF_PAGE=1]
+Not for resale. Permission granted to print or photocopy this document for personal use only.  All Aboard the Golden Mast  1 
+All Aboard the Golden Mast 
+ 
+ 
+A Swashbuckling Adventure Beginning in Vilhon Reach of the 
+Forgotten Realms 
+ 
+ 
+Introduction:  A group of adventurers have all chanced upon tiny bottles with lengths of cloth stuffed 
+into them. They appear to be strips torn from a larger tapestry, or perhaps fancy bed clothes. There’s 
+an identical, handwritten message on each that reads as follows: “Fortune & fame await! Meet me 
+by the southern dock of Shulth before first light on the third day past fullest moon, and be ready to 
+set sail! You’ll know me by my fine scarlet coat. - Lord Dunstuhl.” 
+ 
+ 
+a 4(ish)-hour adventure for 1st-3rd level characters 
+ 
+ 
+by Bryan T. Livengood 
+ 
+ 
+ 
+ 
+DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, the dragon ampersand, Player’s Handbook, Monster Manual, Dungeon Master’s Guide, D&D Adventurers League, all other Wizards 
+of the Coast product names, and their respective logos are trademarks of Wizards of the Coast in the USA and other countries. All characters and their distinctive likenesses are property of Wizards of the 
+Coast. This material is protected under the copyright laws of the United States of America. Any reproduction or unauthorized use of the material or artwork contained herein is prohibited without the 
+express written permission of Wizards of the Coast. 
+ 
+©2018 Wizards of the Coast LLC, PO Box 707, Renton, WA 98057-0707, USA. Manufactured by Hasbro SA, Rue Emile-Boéchat 31, 2800 Delémont, CH. Represented by Hasbro Europe, 4 The Square, 
+Stockley Park, Uxbridge, Middlesex, UB11 1ET, UK. 
+ 
+This work contains material that is copyright wizards of the coast and/or other authors. Such material is used with permission under the community content agreement for dungeon masters guild. 
+All other original material in this work is copyright 2018 by Bryan T. Livengood and published under the community content agreement for dungeon masters guild. 
+  
+
+
+[PDF_PAGE=2]
+Not for resale. Permission granted to print or photocopy this document for personal use only.  All Aboard the Golden Mast  2 
+All Aboard the Golden Mast 
+ 
+Never will ye find a less hospitable place, but never 
+will ye have more fun. 
+   —Proverb of the Pirate Isles 
+Area Information 
+This adventure begins in the nondescript port town of 
+Shulth, not far off the Emerald Way along the south-
+eastern waters of The Vilhon Reach, near where it 
+meets the Sea of Fallen Stars . It’s mostly a pitstop for 
+small to medium vessels on their way in and out of the 
+larger sea toward The Vilhon Reach’s many other ports. 
+The entire town resides along the water and includes a 
+small general store, a few knickknack vendors, a thriving 
+fishery, sporadic residential dwellings, and a large wharf 
+area with a combination inn, tavern, and restaurant 
+called The Shattered Oar . There’s also a long dock that 
+can accommodate 8-10 ships, depending on size – there 
+are currently four small ships, plus one medium-sized 
+ship that just happens to be docked in the southern-
+most position. 
+ 
+Party Arrival 
+The adventurers could find themselves in Shulth for a 
+myriad of reasons:  they’re from nearby and looking for 
+an escape at sea; they wandered there from The 
+Emerald Road; they came by boat, but couldn’t afford 
+further passage; they have a Stowaway background 
+(see below); etc. 
+ 
+Whatever their reason for being there, they’ve all 
+happened upon the same message in a bottle, and 
+have decided to heed the call for “fortune and fame.” 
+[DM Note:  Allow your players the opportunity to 
+purchase any extra generic supplies they may 
+want/need before the adventure begins because once 
+they meet Lord Dunstuhl there’s no turning back 
+(unless, of course, they decide to turn back, but I don’t 
+expect them to).] 
+ 
+Lord Dunstuhl 
+Lord Octavius Overdale Merriweather Dunstuhl  is a 
+slight, garish human that swears he has ancient high elf 
+in his “Overdale bloodline.” He wears black pants – 
+stuffed into shiny, brass-buckled, mid-calf black boots – 
+that are cinched at the waist with a delicate, yellow 
+rope that he claims was once the curtain pull in an 
+elven castle. To this, he adds a ruffled, open-chested 
+(to show off his many bejeweled necklaces) white shirt 
+that he tucks into his pants. Topping it all off, he sports 
+a double-breasted, brilliantly scarlet coat with many 
+yellow accents that almost match his rope belt. The 
+coat is obviously too big for him; his hands often 
+disappear into its sleeves, and it nearly drags the 
+ground as he walks. 
+ 
+Very little is known about Lord Dunstuhl around Shulth 
+except for what he’s told people (probably several 
+times over). Aside from his tales of elvish heritage, the 
+main tales one is likely to hear pertain to his previous 
+career as a dread pirate on the Sea of Fallen Stars. 
+According to the legend from his own mouth, any ship 
+that merely thought they glimpsed the scarlet banners 
+on his fabled Golden Mast would take to oar and 
+navigate away from him with speed. The story of how 
+he ended up adrift on land with no treasure, crew, or 
+ship, however, varies: 
+ 
+Roll 1d6 to Determine Dunstuhl’s Story 
+1 – He was made to walk the plank in a mutiny, but survived 
+due to his tremendous skill and moxie. 
+2 – He gave up the pirate’s life for a woman who eventually 
+scorned him and took everything. 
+3 – Several pirate crews ganged up and attacked his ship 
+while they slept – he was the sole survivor. 
+4 – He surrendered his ship and all he had to one of the 
+Overdale high elves. 
+5 – Dragons! 
+6 – Everything still exists, hidden away, waiting for him to 
+come get it. 
+
+[PDF_PAGE=3]
+Not for resale. Permission granted to print or photocopy this document for personal use only.  All Aboard the Golden Mast  3 
+The Adventure Begins 
+The adventurers arrive at the southern dock of Shulth 
+just as the mysterious message stated. There they see 
+Lord Dunstuhl, alone, standing nervously next to a 
+modest-sized ship moored to the last berth. Lord 
+Dunstuhl stops wringing his hands and beams as he 
+notices the party. 
+“Greetings, travelers, and, well, my faithful new crew! I 
+am Lord Octavius Overdale Merriweather Dunstuhl . I 
+take it you’ve noticed my fine scarlet coat?” He pulls at 
+the breasts of his coat in a showy gesture. “Quick 
+introductions are in order, but then we must make haste 
+to this terrific vessel, The Haberdasher, if we’re to be 
+full sail by sunrise! So, who wants to go first?” 
+Here the party will make quick introductions and Lord 
+Dunstuhl will interact with them joyfully. Once this is 
+complete, he’ll usher everyone quickly onto the 
+Haberdasher ahead of him while he unmoors the ship, 
+and the players will instantly roll for initiative. 
+ 
+The Haberdasher 
+As the heroes step aboard The Haberdasher ahead of 
+Lord Dunstuhl, two lizardfolk emerge from below 
+decks. Lord Dunstuhl yells something about heathen 
+bandits, drawing their ire, and they attack. The ship is 
+fairly small, so the combat will be tight. Lord Dunstuhl 
+will remain on the dock throughout all combat rounds. 
+[DM Note:  If a player attempts to toss someone 
+overboard, have the victim roll a STR save to see if the 
+player is successful. If someone is knocked off, assume 
+they will re-board the ship and re-enter combat after 3 
+rounds (unless a player rolls a natural 20 and you 
+decide whoever gets knocked overboard is eaten by 
+sharks, decides to bail, or something else).] 
+ 
+There are two more standard lizardfolk left below 
+decks, as well as their leader, Straaz. If combat is going 
+too well, or the adventurers do something that would 
+alert them aside from standard combat actions and 
+spells, have one or both of those standard lizardfolk go 
+topside; otherwise, leave them below with their leader 
+for a future encounter. Once the combat above decks 
+is finished, Lord Dunstuhl will come aboard and say 
+he’ll go about readying the ship to leave port while the 
+adventurers check the rest of the ship. In theory, they’ll 
+then encounter Straaz and whatever guard he has left; 
+however, they may choose to stay up top and help 
+Lord Dunstuhl. If so, don’t forget that Straaz & Co. are 
+below and will likely come see what’s going on when 
+they notice they’re moving. [DM Note:  If you are 
+running this module with lower-level characters, use 
+your discretion as to whether or not to omit the two 
+lizardfolk crew below decks with Straaz as such an 
+encounter may be too difficult for adventurers below 
+level three.] 
+ 
+After all the lizardfolk and their leader are defeated, 
+the adventurers may choose to investigate the ship. If 
+they do this before Lord Dunstuhl has a chance to go 
+below decks, and succeed on a DC 8 Perception check 
+when searching, they’ll find paperwork stating that The 
+Haberdasher was, in fact, Straaz’s ship. Lord Dunstuhl 
+has used the party of adventurers to steal it for him. 
+Without this information, the party will believe Lord 
+Dunstuhl’s lie that it’s his ship and the lizardfolk were 
+merely bandits attempting to steal it from him since 
+they likely knew he previously had no crew to protect 
+it. [DM Note:  There’s also a possibility that the 
+encounter with Straaz will come to a non-violent 
+conclusion. If that’s the case, he becomes an NPC that’s 
+willing to help the party find the treasure in question, 
+but he will absolutely, under no circumstances 
+whatsoever, even with a natural 20, work with 
+Dunstuhl. This situation becomes mostly up to you to 
+riff and see how the story moves forward.] 
+ 
+The Vilhon Reach 
+At this point, regardless of the outcome and what the 
+adventurers know, the ship should be well into The 
+Vilhon Reach as Lord Dunstuhl’s top priority would 
+have been to get the ship free and away from Shulth as 
+soon as possible. 
+ 
+If the party knows of Lord Dunstuhl’s treachery, they 
+may decide to kill him. Lord Dunstuhl will protest 
+greatly, saying this was all for the sake of treasure. He’ll 
+say he needed to deceive the party because otherwise 
+no one would believe him, or they would just try to 
+steal his map and find the treasure themselves (FYI:  
+the messages in the bottles were written on strips torn 
+from the edges of the treasure map). If the party 
+decides to kill him anyway, it wouldn’t involve combat 
+as Lord Dunstuhl is weak and unarmed. When looted, 
+Lord Dunstuhl will yield 12 gp, jewelry worth roughly 
+10 gp, the treasure map, a small vial of red liquid, and a 
+conch shell. Without Lord Dunstuhl, the party will have 
+to make checks to both sail (DC 11 DEX without an 
+applicable skill) and navigate (DC 11 INT without an 
+
+[PDF_PAGE=4]
+Not for resale. Permission granted to print or photocopy this document for personal use only.  All Aboard the Golden Mast  4 
+applicable skill) the ship, and may likely get off course, 
+taking extra time and eating into their rations (unless 
+Straaz is with them, then his sailing expertise can get 
+them where they’re going posthaste). [DM Note:  If 
+they happen to toss Lord Dunstuhl overboard before 
+they get the map, have it come floating to the surface 
+and have them come up with some way to get it, using 
+applicable checks for things like swimming, throwing 
+nets, etc. They would not be able to loot the other 
+items, however.] 
+ 
+If the confrontation with Lord Dunstuhl is non-lethal, or 
+the party doesn’t know they were duped, Lord 
+Dunstuhl will divulge his plan: 
+ 
+“The Pirate Isles are a treasure trove, but also a 
+terribly dangerous, unsavory place to find oneself. 
+Luckily, I now have you fearsome adventurers at my 
+side – the fortunes we will collect from this will be 
+immeasurable!” He holds up the map triumphantly. 
+“Only one thing stands in our way:  Grandeur Kaine. He 
+and his men block the path to our fortune as it lies 
+beyond their waters in the Sea of Fallen Stars. My plan 
+is to catch a great creature from the deeps and then 
+unleash it upon Kaine, securing our passage through 
+his domain while he’s busy with the beast!” 
+ 
+Lord Dunstuhl goes on to explain how he has acquired 
+a magical conch from a group of Kraken Priests that, 
+when played, can subdue even the most savage beast 
+of the sea. Lord Dunstuhl knows where to find such a 
+creature, but it will be up to the party to figure out 
+how to lure it out of the depths so the conch can be 
+used. [DM Note:  If Lord Dunstuhl is gone, and the 
+conch went with him, the party will (most likely) make 
+their way directly to the treasure location on the map, 
+thus having to fight off Grandeur Kaine directly. If this 
+is the case, you can skip over the Sea of Fallen Stars 
+section and go directly to The Pirate Isles section. If 
+Lord Dunstuhl is gone, but the conch remains, a party 
+member may discover its magical function by 
+succeeding on a DC 15 Insight or DC 12 Arcana check 
+(the DCs drop by five if a party member decides to cast 
+Detect Magic on the conch first). Even with this 
+information, however, the party will have to determine 
+what, if anything, they can do with the conch without 
+Dunstuhl to guide them. This scenario can play out to 
+your discretion, though the conch will only work at the 
+red star as detailed in the following section.] 
+ 
+Sea of Fallen Stars 
+Once the ship spills out of the Vilhon Reach, the 
+adventurers will find themselves in the Sea of Fallen 
+Stars. At this point, Lord Dunstuhl will show them the 
+treasure map, and indicate that they are headed for 
+the red star that originally marked a spot to avoid 
+because it’s known to be the lair of a vicious sea 
+creature that sometimes torments sailors. With the 
+conch, though, Dunstuhl is sure the party will not only 
+be safe, but they’ll be able to charm the beast, or 
+whatever comes to the surface, into doing their 
+bidding; however, Dunstuhl says he isn’t confident 
+enough in himself to use the conch, and one of his new 
+crew will have to do it. Have the party assign someone 
+this task. 
+ 
+Before that comes into play, though, the party will 
+have to do something to ensure the creature comes up 
+from the depths. This will be completely up to the 
+creativity of the party. If they don’t come up with 
+something themselves, have Dunstuhl suggest tying a 
+rope around one of them and tossing them overboard 
+as bait as if they’re fishing for the creature. [DM Note:  
+This is a fairly predictable idea, so feel free to suggest 
+whatever else comes to mind. That said, though, if the 
+party requires Dunstuhl’s assistance rather than 
+coming up with their own idea, give them a -4 when 
+they roll on the Sea Encounter Table. When the party 
+has decided on their tactic, you can have them roll 
+whatever checks might be applicable for what they’re 
+attempting to do: Strength for holding the rope for 
+Dunstuhl’s idea, Nature for the person in the water to 
+see if they’re convincing bait, Animal Handling if they 
+decide to try to catch their own bait, and so on, 
+deciding how to handle poor or exceptional roll 
+outcomes as they happen; conversely, you can let the 
+party roleplay this without rolling any dice and just 
+allow their idea (or Dunstuhl’s) to work as intended.] 
+ 
+When the party’s plan, whatever it may be, is put into 
+action, have everyone roll a d20, add the values 
+together, then divide the total by the number of party 
+members to find the average. Use that average to 
+determine exactly what will rise to engage your 
+adventurers: 
+  
+
+[PDF_PAGE=5]
+Not for resale. Permission granted to print or photocopy this document for personal use only.  All Aboard the Golden Mast  5 
+ 
+ Sea Encounter Table 
+1-2 1 Crawling Crab Claw 
+3-4 1 Giant Frog 
+5-6 1d6 Reef Sharks 
+7-8 2d4 Sea Spawn 
+9-10 1d4 Sea Hags 
+11-12 1d6 Deep Scions 
+13-14 1d4 Plesiosauruses 
+15-16 1 Cursed Pirate Ship 
+17-18 1 Dragon Turtle 
+19-20 1 Kraken 
+ 
+Now that the sea encounter is prepared, have the 
+assigned conch blower roll a Performance check with a 
+DC of the average the party rolled on the Sea 
+Encounter Table minus four. [DM Note: For example, if 
+they rolled an average of 14, they would have to 
+succeed on a DC 10 Performance check to pacify those 
+1d4 Plesiosauruses.] Give the party two chances to 
+successfully complete the check, allowing them to roll 
+with advantage if another party member offers to help. 
+[DM Note: You may have Lord Dunstuhl suggest that 
+someone do something to calm or inspire the 
+adventurer blowing the conch if you so choose.] If they 
+fail both checks, whatever they summoned will retreat, 
+realizing something is wrong and these sailors aren’t 
+safe to torment. If they succeed, Lord Dunstuhl will 
+give their subdued minion(s) the following command: 
+“Vicious <insert sea encounter here>, you now bend to 
+the will of the great Kraken Priests! You will seek out 
+the dread pirate Grandeur Kaine, and you will not be 
+released until you taste his blood!” 
+ 
+At this, Dunstuhl will empty a small vial into the water, 
+causing whatever’s been charmed to go into a kind of 
+frenzy and take off toward their prey, and the party 
+sets sail after them. 
+ 
+The Pirate Isles 
+Regardless of how they get there, the party will 
+eventually arrive near the marked location on the map. 
+If they’ve successfully charmed a sea creature, they’ll 
+find it wreaking havoc on Grandeur Kaine’s forces. If 
+Lord Dunstuhl is still with the party, he will insist that 
+they use the distraction to get to the treasure location; 
+however, in spite of Dunstuhl’s insistence, or if he’s no 
+longer present, the party may decide to join the fray 
+and fight off the remaining pirates on Kaine’s ship, The 
+Opulence. If this is the case, use the following table to 
+determine how many pirates the adventurers will 
+encounter (use the same number from the Sea 
+Encounter Table): 
+ 
+ Remaining Pirates Table 
+1-2 4 Cannons, 6 Pirates + Grandeur Kaine 
+3-4 2 Cannons, 6 Pirates + Grandeur Kaine 
+5-6 6 Pirates + Grandeur Kaine 
+7-8 5 Pirates + Grandeur Kaine 
+9-10 4 Pirates + Grandeur Kaine 
+11-12 3 Pirates + Grandeur Kaine 
+13-14 2 Pirates + Grandeur Kaine 
+15-16 1 Pirate + Grandeur Kaine 
+17-18 Grandeur Kaine 
+19-20 None! 
+ 
+[DM Note:  For this encounter, if the party faces canons 
+(which isn’t likely, but possible) each member will 
+suffer 1 damage per cannon every round that there’s a 
+pirate not engaged and therefore free to fire the 
+cannons.] Those that survive this fight will move on to 
+the treasure location on the map to collect their riches. 
+ 
+If the adventurers heed Dunstuhl’s advice and sail past 
+their diversion, heading to the treasure location 
+immediately, they will be able to sort through their 
+loot unimpaired; however, as a crafty, dangerous 
+pirate, Grandeur Kaine will ambush the party on the 
+treasure island and try to take back what he believes to 
+be rightfully his. 
+ 
+Grandeur Kaine 
+Grandeur Kaine is a stout, flamboyant halfling whose 
+looks seem completely contrary to his reputation. He 
+wears an oversized, wide-brimmed bush hat with 
+feathers from some unknown exotic species of bird 
+strapped to each side by a polished brass band. His 
+ears are pierced several times, and his long, black hair 
+is often overlooked for the extremely well-manicured, 
+enormous handlebar mustache that extends past the 
+edges of his face. His blue overcoat with brass 
+adornments is dyed leather and covers a white shirt 
+not unlike Lord Dunstuhl’s save it’s cinched at the top 
+with a white handkerchief of the same delicate fabric. 
+His pants and boots, while clearly high quality, are only 
+a backdrop for the vibrant green dragon skin loin cloth 
+he wears under his brass-buckled leather belt. 
+Completing his look is the huge (for a halfling) rapier 
+with intricately crafted basket guard that always seems 
+to shimmer unnaturally. 
+ 
+
+[PDF_PAGE=6]
+Not for resale. Permission granted to print or photocopy this document for personal use only.  All Aboard the Golden Mast  6 
+If Dunstuhl is still with the party whenever they 
+encounter Kaine, upon seeing each other Kaine will 
+immediately say: 
+“You…I should have known. This nonsense has your 
+messy fingerprints all over it. I gave you a chance to 
+start over! I gave you a chance to be free! You won’t get 
+another…” 
+ 
+Clearly these two have some history. [DM Note:  If the 
+party encounters Kaine on his ship, he gets a +2 to all 
+non-damage rolls.] 
+ 
+Once the encounter with Kaine comes to its conclusion, 
+if either Dunstuhl or Kaine are still standing, the 
+adventures may pry as to the details of their previous 
+relationship. Both will divulge that they were once 
+partners, but Dunstuhl’s version of the story is that he 
+was constantly disrespected and treated more like a 
+pet than a companion so he escaped to plot his 
+revenge; Kaine’s version (the truth) is that Dunstuhl’s 
+mouth landed the crew in one too many unnecessary 
+brawls and they were conspiring to take matters into 
+their own hands. Essentially to save Dunstuhl’s life, 
+Kaine fed his partner a strong sleeping potion so he 
+appeared dead and tossed him overboard in a barrel 
+with only his aforementioned items. [DM Note: It is 
+very unlikely that Kaine will be left standing as pirates 
+do not commonly become amicable with those that 
+attempt to steal their treasure, but in D&D anything is 
+possible!] 
+ 
+When looted, Grandeur Kaine will yield 40 gp, his hat, 
+his green dragonhide loin cloth, and his magical rapier, 
+The Rapier of Grandeur (see stats below). 
+ 
+The Treasure 
+No matter how the adventure plays out, (hopefully?) the 
+party should arrive at the X on the map. With Dunstuhl 
+still along for the ride, the party won’t need to worry 
+about the directions on the map; however, if he’s not 
+around, the party will have to determine where exactly 
+their treasure is hidden. As the directions vaguely state, 
+the party is looking for an island with a single tree that 
+also has a rock that molten copper has been poured 
+over to make it appear like a wax seal. [DM Note:  If you 
+have a group that likes to roll, you can have them roll for 
+Perception or Investigation to find the island, and then 
+they can roll for Strength, etc. to move the rock, dig up 
+the treasure, unlock the chest, and so on; otherwise, 
+just allow them to recognize the island once they’re in 
+the right location on the map and simply talk them 
+through unearthing and opening the treasure chest.] 
+ 
+Treasure Contents 
+The wooden chest opens with a cloud of dust and an acrid 
+smell the assaults the nostrils. Upon looking inside, the 
+adventurers find the following items: 
+ Several bottles of vintage wine, one of which appears to 
+have been broken when the chest was first buried. 
+ Three wine-stained outfits in a similar style to what 
+Grandeur Kaine was wearing. 
+ A velvet pouch containing the bones of a large bird. 
+ What appears to be a hand-sized cannon with a flint 
+mechanism for igniting the flammable powder. 
+ An incomplete spell scroll. 
+ A note with a broken elven seal that simply reads, “IOU.” 
+ 500 gold dragons. 
+The End 
+Now that the treasure has been dispersed, this 
+adventure has come to an end. If your party wants to 
+move forward, you can pull on the string of the 
+mysterious “IOU” to setup the next hook or follow the 
+gold dragons back to Waterdeep where adventures are 
+always waiting. Hopefully you’ve enjoyed running this 
+adventure, and hopefully your players had a blast! Oh 
+yeah, before I forget, if you’re asking yourself, “what 
+about the Golden Mast?” well…it never existed, 
+Dunstuhl made it up. The end. 
+ 
+Final Notes 
+The real beauty of playing Dungeons & Dragons lies in 
+the simple truth that nearly anything can happen at any 
+time. With that in mind, I tried not to go too overboard 
+with options and explanations for what could happen as 
+I want the game and story to feel as much yours as 
+mine. I also didn’t include any specific game maps 
+because I wanted to leave it up to the DM’s preference. 
+Basically, though, all you’ll need is a medium/small ship 
+for The Haberdasher, maybe a medium/large ship for 
+The Opulence, and an island (preferably with one tree 
+and a copper rock); however, depending on what the 
+party does, other maps may become necessary. Luckily, 
+the internet is an absolute treasure trove for all of 
+these, and you’re likely to find something much better 
+than I’d make myself anyway. 
+ 
+If you have any questions, concerns, comments or 
+curse words for me, send them to 
+futhatswho@gmail.com.  

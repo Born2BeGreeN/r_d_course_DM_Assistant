@@ -1,0 +1,426 @@
+[PDF_PAGE=1]
+The Weight of GloryThe Weight of GloryThe Weight of GloryThe Weight of GloryThe Weight of Glory
+
+
+[PDF_PAGE=2]
+T
+        
+his adventure is one piece of a movement within the D&D community to invite, encourage, and include those who have not been,
+both in the RPG community and nearly everywhere in real life. Wyrmworks Publishing is dedicated to using RPGs
+to help you make lives better, to provide tools, training, and a community to this end. We believe that this will extend
+far beyond the ever-growing RPG community as more and more people learn, grow, and give and receive
+acceptance. If you want to help make that happen, we invite you to support the Wyrmworks Publishing Patreon at
+https://patreon.com/wyrmworkspublishing and enjoy the additional benefits we offer to our patrons. All of our
+Wyrmling-level patrons ($9/month) get free access to our entire library, and we have other levels to get live access to
+our works in progress.
+4K Combat Maps for this and all other Adventures of the Week can be found on DriveThruRPG for $1 per adventure, or
+free when you sign up for our newsletter at https://wyrmworkspublishing.com, along with a free subclass and and lots of
+other free tips and resources!
+Wyrmworkspublishing.com is the first place to get notified when our compendium of comprehensive game mechanics
+for including characters with disabilities, mental illness, and neurodivergence in fifth edition goes live on Kickstarter.
+    
+This adventure includes death and violence, undead, disapproval by parents, and death of parents.
+2
+
+
+[PDF_PAGE=3]
+ ’          ’         
+D
+ad was a hero but died without the glory he
+desired and deserved. Can you help bring
+reconciliation to his grieving child?
+This one-shot sidequest adventure is designed
+for 4-5 characters, level 5-7, with a total of 20-22
+levels.
+    
+Maledos, a tiefling sorcerer, is looking for help. Their father
+died in the battle, and they wish to give him a proper burial,
+but the battlefield is haunted by sword wraiths who prevent
+the battlefield from being disturbed. What the players don’t
+know is that Maledos was the one who ended the battle with
+a fireball that also killed their father, who is one of the sword
+wraiths.
+The adventure begins when the party is traveling along a
+road through the woods and encounters a cottage with a
+dying couple. As the party comes to their aid, they learn that
+the couple had traveled to a nearby town to visit their
+daughter as she gave birth to a new granddaughter. Because
+it took longer than expected, they were away and missed the
+monthly “Valor Day” ritual that would appease the sword
+wraiths of the nearby battleground. When they returned
+home, the sword wraiths attacked them. They begged for
+mercy, explaining about their granddaughter, the sword
+wraiths decided that the granddaughter doesn’t deserve more
+glory than they, so she must die, so they intend to go to the
+town the next night. The couple begs the party to go to the
+battlefield and stop the sword wraiths before they kill their
+family.
+As the party heads to the battlefield, they encounter
+Maledos, who had come to help the couple with their
+observance but left when they weren’t there. They witnessed
+the attack but knew they didn’t have the power to protect the
+couple and hid. They want to put the undead to rest,
+especially their father.
+The party sets out for the battlefield and arrives to discover
+the sword wraiths about to head out for the town. During the
+battle, the party notices that the crests represent both sides
+of the battle. The Sword Wraith Commander is Maledos’s
+father, and he (correctly) blames Maledos for his death and,
+more importantly to him, his loss of glory.
+If the party destroys the sword wraiths, they will come back
+the next night, as they are subconsciously being raised by
+Maledos’s guilt. This will repeat until the party helps Maledos
+and his father reconcile with the promise of building a
+monument there, after which the sword wraiths instantly
+crumble.
+  
+The party will begin this side adventure when they encounter
+the broken house. If they ignore it and pass by, the couple
+within will call out, “Is someone out there? Help!”
+    
+This adventure takes place near a forest between two large
+towns, one of which is about a day’s walk away. It could take
+place in nearly any fantasy world, and while it’s designed for a
+forest setting, it could take place nearly anywhere. It could
+also fit well into many Ravenloft settings as a side adventure
+or even to treat Maledos as a dark lord.
+      
+As the players travel along the road through the woods on the
+way to the next town, they pass a cob cottage with smashed
+walls and a torn thatch roof. All the windows are broken in.
+Any investigation indicates that the destruction is recent.
+While the party is investigating the cottage or as they pass by,
+they hear a weak cry: “Is someone there? Please help us!
+We’re trapped!” Under the rubble, the party finds a middle-
+aged couple, Torsten & Anika, trapped and barely alive,
+covered in bruises and slash cuts. The party can use
+whatever means they have to stabilize the couple.
+Once stabilized, the couple will tell the party what
+happened:
+We should’ve known better. We should’ve just waited until
+after, but we wanted to be there for our daughter, and we
+didn’t know it would take so long!
+Our Lorena was going to have a baby soon, and we knew Valor
+Day was coming, but we thought there would be enough time.
+But then the baby didn’t come, and she didn’t come, and once
+she finally came, it was too late. There was no way we could be
+back in time. But we thought, “Maybe if we’re not there, it
+won’t matter. They won’t need to be honored, because there
+will be nobody there to forget them.”
+We were wrong. When we got back, they soon found us. We
+tried to explain to them why we were gone, but it didn’t
+matter. They decided that Lorena and the baby would need to
+be sacrificed so we wouldn’t forget them anymore. They
+attacked us, destroyed our home, and left us for dead, and we
+would’ve been if you hadn’t stopped to help.
+When asked for clarification, they will tell the party about
+the soldiers who died on a nearby battlefield, but because
+some wizard (They don’t know who.) ended the battle
+abruptly with an explosive spell, the warriors died in disgrace.
+Every year on the anniversary of the battle or anytime their
+remains are disturbed, they arise to get glory for themselves,
+so we hold a celebration called “Valor Day” to remember
+them and their mighty deeds.
+3
+
+
+[PDF_PAGE=4]
+This year, they were away on Valor Day, visiting their
+daughter, Lorena, who was having a baby, but she gave birth
+later than expected, so they were delayed. (They will get
+sidetracked talking about how beautiful their new
+granddaughter, Yasmina, is.) But now, the soldiers are angry
+and planning to exact their revenge on Lorena and Yasmina.
+They plead with the party to stop the soldiers and save their
+daughter and granddaughter and give directions to the
+battlefield, which is about a mile from their home.
+If asked why they don’t just move away from the battlefield,
+they will say that someone must remain to honor them, or
+they’ll lay waste to the nearby towns.
+  
+4
+
+Medium humanoid (tiefling sorcerer), neutral good
+Armor Class 12 (15 with mage armor)
+Hit Points 32
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+8 (-1) 14 (+2) 14 (+2) 13 (+1) 10 (+0) 18 (+4)
+Saving Throws Con +4, Cha +6
+Skills Arcana +3, Deception +6, History +3, Intimidation
++6
+Damage Resistances fire
+Senses darkvision 120 ft., passive Perception 10
+Languages Celestial, Common, Infernal, Sylvan
+Challenge 0 (10 XP)
+Cramps (Severity Degree 3, Periodic). You experience
+sudden painful tightening of muscles in your body with
+little or no warning. This tightness makes the cramped
+part of your body completely unusable and distracting.
+This cramp may always be in the same body part or
+travel around the body, typically in the same region. The
+cramp lasts (Severity Degree)d4 minutes. At the end of
+the duration, you must succeed on a DC 8 + (Severity
+Degree) Strength saving throw or the cramp moves to a
+different part of the same region of the body, such as
+lower abdomen to upper abdomen or from calf to shin
+or from left leg to right leg for another (Severity
+Degree)d4 minutes, after which you must succeed on a
+DC + (Severity Degree) Strength saving throw or
+continue the process, the DC decreasing by 1 each
+time. Any action that requires concentration (e.g.
+maintaining a spell) requires a successful DC 10 +
+(Severity Degree) Constitution saving throw per round
+to maintain concentration. 
+ 
+    It will recur in 1d20 days.
+Spellcasting. Maledos is a 5th-level spellcaster. Their
+spellcasting ability is Charisma (spell save DC 14, +6 to
+hit with spell attacks). Maledos has the following
+sorcerer spells prepared: 
+ 
+Cantrips (at will): chill touch, fire bolt, lightning lure,
+mage hand, mending, thaumaturgy 
+1st level (4 slots): expeditious retreat, mage armor,
+magic missile 
+2nd level (3 slots): cloud of daggers, darkness, misty
+step
+3rd level (2 slots): fireball
+Sorcery Points. Maledos has 5 sorcery points that you
+regain when you finish a long rest.
+Metamagic - Distant Spell. When Maledos casts a spell
+that has a range of 5 ft. or greater, Maledos can spend 1
+sorcery point to double the range of the spell (or make
+the range 30 ft. for a spell with a range of touch).
+Metamagic - Empowered Spell. When Maledos rolls
+damage for a spell, Maledos can spend 1 sorcery point
+to reroll up to 4 of the dice. Maledos must use the new
+rolls and Maledos can use this option even if Maledos
+has already used another Metamagic option.
+Strength of the Grave. When damage (that isn't radiant
+or from a critical hit) reduces Maledos to 0 HP,
+Maledos can make a CHA saving throw (DC 5 + the
+damage taken). On a success, Maledos instead drops to
+1 HP (and can't use this feature again until finishing a
+long rest).
+Infernal Legacy. Maledos knows the thaumaturgy
+cantrip. They can cast the hellish rebuke spell as a 2nd-
+level spell once with this trait and regain the ability to
+do so when they finish a long rest. They can cast the
+darkness spell once with this trait and regain the ability
+to do so when they finish a long rest. Charisma is their
+spellcasting ability for these spells.
+ActionsActions
+Hand Crossbow. Ranged Weapon Attack: +4 to hit,
+range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing
+damage.
+Dagger. Melee or Ranged Weapon Attack: +4 to hit,
+reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 +
+2) piercing damage.
+
+
+[PDF_PAGE=5]
+5
+  
+
+Medium undead, lawful evil
+Armor Class 18 (breastplate, shield)
+Hit Points 127 (15d8 + 60)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+18 (+4) 14 (+2) 18 (+4) 11 (+0) 12 (+1) 14 (+2)
+Skills Perception +4
+Damage Resistances necrotic; bludgeoning, piercing,
+and slashing from nonmagical attacks
+Damage Immunities poison
+Condition Immunities exhaustion, frightened,
+poisoned, unconscious
+Senses darkvision 60 ft., passive Perception 14
+Languages the languages it knew in life
+Challenge 8 (3,900 XP)
+Proficiency Bonus +3
+Martial Fury. As a bonus action, the sword wraith can
+make one weapon attack, which deals an extra 9
+(2d8) necrotic damage on a hit. If it does so, attack
+rolls against it have advantage until the start of its
+next turn.
+Turning Defiance. The sword wraith and any other
+sword wraiths within 30 feet of it have advantage on
+saving throws against effects that turn undead.
+ActionsActions
+Multiattack. The sword wraith makes two weapon
+attacks.
+Longsword. Melee Weapon Attack: +7 to hit, reach 5
+ft., one target. Hit: 8 (1d8 + 4) slashing damage, or
+9 (1d10 + 4) slashing damage if used with two
+hands.
+Longbow. Ranged Weapon Attack: +5 to hit, range
+150/600 ft., one target. Hit: 6 (1d8 + 2) piercing
+damage.
+Call to Honor (1/Day). To use this action, the sword
+wraith must have taken damage during the current
+combat. If the sword wraith can use this action, it
+gives itself advantage on attack rolls until the end of
+its next turn, and 1d4 + 1 sword wraith warriors
+appear in unoccupied spaces within 30 feet of it.
+The warriors last until they drop to 0 hit points, and
+they take their turns immediately after the
+commander's turn on the same initiative count.
+    
+Medium undead, lawful evil
+Armor Class 16 (chain shirt, shield)
+Hit Points 45 (6d8 + 18)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+18 (+4) 12 (+1) 17 (+3) 6 (-2) 9 (-1) 10 (+0)
+Damage Resistances necrotic; bludgeoning, piercing,
+and slashing from nonmagical attacks
+Damage Immunities poison
+Condition Immunities exhaustion, frightened,
+poisoned, unconscious
+Senses darkvision 60 ft., passive Perception 9
+Languages the languages it knew in life
+Challenge 3 (700 XP)
+Proficiency Bonus +2
+Martial Fury. As a bonus action, the sword wraith can
+make one weapon attack. If it does so, attack rolls
+against it have advantage until the start of its next
+turn.
+ActionsActions
+Longsword. Melee Weapon Attack: +6 to hit, reach 5
+ft., one target. Hit: 8 (1d8 + 4) slashing damage, or
+9 (1d10 + 4) slashing damage if used with two
+hands.
+Longbow. Ranged Weapon Attack: +3 to hit, range
+150/600 ft., one target. Hit: 5 (1d8 + 1) piercing
+damage.
+
+
+[PDF_PAGE=6]
+      
+
+As the party heads toward the battlefield through the woods,
+they come upon an old abandoned shack. Anyone with a
+passive Wisdom (Perception) of 10 or greater will hear the
+sound of crying coming from the shack, and the words, “Too
+late,” and, “I’m so sorry,” through the crying.
+Regardless of whether the party attempts stealth or not
+(Attempts will have advantage due to the crying.), they will
+find a tiefling sitting on a broken crate in the shed who, when
+noticing the party, will jump up defensively, ready to attack.
+The crying stops suddenly as the tiefling jumps to their feet
+and grabs a staff which starts glowing. “What do you want?!”
+they yell, “Why are you desecrating this sacred land? Get out
+while you can!”
+Once the party calms the situation and gains Maledos’s trust
+that they only want to help, Maledos will tell the party that
+they were planning to help the couple with Valor Day, but
+when they were clearly not home, they left. They witnessed
+the attack but hid, because they knew they were no match for
+the soldiers and would be killed. They ask whether the party
+would be willing to help destroy the soldiers once and for all.
+      
+The party sets out for the battlefield and arrives to discover
+the sword wraiths about to head out for the town. During the
+battle, the party notices that the crests represent both sides
+of the battle. The Sword Wraith Commander is Maledos’s
+father, and he (correctly) blames Maledos for his death and,
+more importantly to him, his loss of glory.
+If the party destroys the sword wraiths, they will come back
+the next night, as they are subconsciously being raised by
+Maledos’s guilt. This will repeat until the party helps Maledos
+and his father reconcile with the promise of building a
+monument there, after which the sword wraiths instantly
+crumble.
+When the party arrives with Maledos at the battlefield, they
+witness the undead soldiers, a sword wraith commander
+and 5 sword wraith warriors, rising from the ground, a
+sword wraith commander and 5 sword wraith warriors,
+leaving toward the town to exact their revenge. The
+commander suddenly stops and raises a hand, which halts
+the rest of the soldiers. The commander turns and faces
+Maedos and points a finger at them saying in a low raspy
+voice like a growl, “The source of our ignominy. Comrades,
+our vengeance has been usurped by a greater requirement.”
+They turn to the party and move to attack.
+During the fight, Maledos and the commander are
+screaming at each other over the din of battle. Maledos keeps
+apologizing, and the commander speaks of Maledos stealing
+the glory. Maledos will refer to the commander as “father,”
+and the commander will respond with, “You are not my child.
+My child is dead to me. My child died when my glory died.”
+They will hear hints in the argument that Maledos ended the
+battle with a fireball that wiped out both armies. The party
+might also notice that the sword wraiths wear the tattered
+colors and emblems of two different armies, as Maledos
+wiped out both, but now both have united for vengeance and
+glory.
+If the party defeats the sword wraiths, Maledos suggests
+that they go back to Torsten and Anika’s to check on them,
+help them, and get some rest. The next day, the sword
+wraiths will attack them at the cottage before they leave.
+  
+No matter how many times they’re defeated, the sword
+wraiths will keep returning every day no matter how much
+damage they receive unless the party finds a way to
+permanently banish them. Unknown to anyone, Maledos is
+subconsciously raising them as their guilt combines with
+their sorcery. This will continue until Maledos makes
+restitution by building a monument on the battlefield in their
+honor. Once Maledos promises to build the monument, the
+sword wraiths crumble to dust but will reform the next day if
+the promise is not kept.
+The Dungeon Master may want to invite the players to help
+Maledos design and build the monument from the ample
+stone in the area.
+  
+Once the monument is built, Torsten and Anika decide to
+leave instead of rebuilding their destroyed home. They gather
+what belongings they can salvage and carry, and if the party is
+heading toward the same town, they’ll ask to journey with the
+party. If not, Maledos will escort them.
+6
+
+
+[PDF_PAGE=7]
+Credits &Credits &Credits &Credits &Credits &
+CopyrightCopyrightCopyrightCopyrightCopyright
+Lead writer, editor & developer: Dale Critchley
+Artwork public domain illustrations by Jim Cooper, Yuri_B,
+Artie_Navarre
+  
+Dale Critchley is the owner, lead writer, and chief
+tea drinker at Wyrmworks Publishing. He’s been
+playing tabletop role-playing games since 1982
+and launched Wyrmworks Publishing as a hobby
+in 2001 to share his homebrew resources with
+the world. In 2021, after seeing the power that a
+TTRPG group can have to change the lives of the
+participants for the better, he rededicated
+Wyrmworks Publishing to focus on using
+TTRPGs to intentionally improve the lives of
+others and turned a hobby into a full time
+pursuit.
+    
+
+What happens when people decide to level up
+their play by using the game to improve the lives
+of others? And how can YOU do the same with
+your game? Subscribe via YouTube / Podcast
+Legal
+DUNGEONS & DRAGONS, D&D, Wizards of the
+Coast, Forgotten Realms, Ravenloft, Eberron, the
+dragon ampersand, Ravnica and all other Wizards
+of the Coast product names, and their respective
+logos are trademarks of Wizards of the Coast in
+the USA and other countries.
+This work contains material that is copyright
+Wizards of the Coast and/or other authors. Such
+material is used with permission under the
+Community Content Agreement for Dungeon
+Masters Guild.
+All other original material in this work is
+copyright 2021 by Wyrmworks Publishing and
+published under the Community Content
+Agreement for Dungeon Masters Guild.
+

@@ -1,0 +1,10 @@
+{
+  "title": "Book Wyrm’s Birthday Gift",
+  "language": "en",
+  "recommended_level": null,
+  "hook": "Trollskull Alley is filled with laughter, singing, and pouring of drinks as a party is in full swing. Sitting at a large table is anuncomfortable dragonborn who ni bbles on a piece of chocolate cake, then smiles as an inebriated couple walks up to him and shouts “Happy Birthday!” As you walk further into the party, a human wearing a trenchcoat greets you with a smile while holding a leather bound tome.",
+  "npcs": [{"name":"Eban Lorlei","role":"dog walker"},{"name":"Teeleef Bramblescar","role":null},{"name":"The cleric Obaya Uday","role":null},{"name":"Vulcara Ripsheef","role":"blacksmith"},{"name":"Octo Brewfist","role":null},{"name":"Roland Lhal","role":" Parks and Recreation Guest Services Coordinator"},{"name":"Flint","role":"Parks and Recreation Deputy Director"},{"name":"Delnar Grimaxe","role":null},{"name":"Floon Blagmaar","role":"resident"},{"name":"Mirt","role":"noble"}],
+  "locations": [],
+  "threats": [],
+  "rewards": []
+}

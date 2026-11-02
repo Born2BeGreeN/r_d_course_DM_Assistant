@@ -1,0 +1,723 @@
+[PDF_PAGE=4]
+   
+ 
+ 
+Not for resale. Permission granted to print or photocopy this document for personal use only. 
+FR-DC-SCROG-02 Bad Weather Over Longsaddle (v1.4)       3 
+ 
+ADVENTURE PRIMER 
+"We dragons pride ourselves on grace and 
+majesty… except that one. The flying stink barrel. 
+He’s an embarrassment to the species." 
+Saryndalaghlothtor, “Lady Gemcloak” 
+Bad Weather Over Longsaddle is designed for three 
+to seven 1st-2nd-level characters and is optimized for 
+five characters with an average party level (APL) of 1. 
+Characters outside this level range cannot participate in 
+this adventure. This adventure occurs in Longsaddle.  
+Background 
+The hardy folk of LONGSADDLE have had about all they 
+can stomach. See, for weeks now, a mischievous copper 
+dragon - goes by the name of OL’ STINKYBUTT to 
+anyone who's had the misfortune of looking up at the 
+wrong time - has been flying over the farms, 
+bombarding homesteads with something a whole lot 
+worse than fire and brimstone. DRAGON POOP.  
+ Roofs have been busted, wells fouled, and more than 
+a few poor longhorns and ranch hands ended up 
+injured. When the folk of Longsaddle went complaining 
+to THE HARPELLS, the hamlet’s long-standing family of 
+eccentric wizards, the wizards answered with what can 
+only be described as a collective shrug. Busy with 
+arcane experiments and none too keen on tromping 
+after dragons, they decided the problem was better 
+solved by handing it off to a few adventurers who could 
+face down the dragon and set things right again. 
+Overview 
+The adventure begins with a Call to Action scene and 
+has one main Part. The adventure takes approximately 
+1 hour to play. 
+Call to Action. As the characters head northwest, 
+following rumors of dragon activity, they come across 
+the aftermath of a recent flyover. Following the trail 
+of destruction is the Call to Action. 
+Part 1. Wranglers. The characters encounter the 
+copper dragon up to their old tricks. Convincing Ol’ 
+Stinkybutt to stop defecating on the properties, 
+people, and beasts of Longsaddle is the Story 
+Objective. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Adventure Hook  
+Use these hooks to explain why the characters are in 
+Longsaddle. 
+Longrider. The character has heard that Longsaddle is a 
+place where fortunes are made. Out on these frontier 
+lands, ranchers, farmers, and wizards are always 
+looking to hire folks who can fend off monsters, cattle 
+thieves, and the occasional band of marauding 
+barbarians. 
+Longsaddler. The character is or was a resident of 
+Longsaddle or the surrounding lands. They know the 
+local faces, the Harpells’ reputation, and just how 
+weird things can get around these parts. They might 
+be just as strange themselves and have been accepted 
+as part of the community all the same. 
+Faction Agent. The character is working with one of the 
+many factions of Faerûn, an adventuring society, or a 
+guild. Either way, they are temporarily stationed in 
+Longsaddle between missions, gathering information, 
+maintaining a presence, or awaiting new orders. 
+Harpell Apprentice. The character is currently staying 
+at Ivy Mansion as part of an apprenticeship. Under 
+the tutelage of the Harpells, they’ve been learning 
+spells, dodging experiments gone wrong, and helping 
+contain magical accidents. When the Harpells need 
+someone to handle a strange task or investigate a 
+disturbance, it’s usually the apprentices who get 
+volunteered. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+
+[PDF_PAGE=5]
+   
+ 
+ 
+Not for resale. Permission granted to print or photocopy this document for personal use only. 
+FR-DC-SCROG-02 Bad Weather Over Longsaddle (v1.4)       4 
+ 
+CALL TO ACTION 
+Estimated Duration. 15 minutes 
+ 
+The characters have been hired out of Longsaddle to 
+look into a local nuisance, a copper dragon that goes by 
+the name Ol’ Stinkybutt. He’s been flying over the 
+ranchlands, dropping foul surprises on roofs, wells, and 
+anyone unlucky enough to be caught outside. The 
+Harpells want the party to tell him to knock it off, 
+preferably without undue violence, and have promised 
+a reward through the family’s discretionary reward 
+system. That is wizard talk for "we will give you a magic 
+item," though they have not exactly said what kind. Still, 
+a bit of magic in the pouch never hurts in this line of 
+work.  
+ To help the characters, the Harpells have even 
+provided a gift for the dragon, or as some folks call it, a 
+bribe. It is an enormous, lumpy statue of a longhorn cow 
+with one horn longer than the other and eyes that do 
+not quite point in the same direction. Hauling the ugly 
+thing is a wooden cart hitched to Honey (mule), a 
+shaggy, unimpressed-looking mule. The Harpells also 
+provide each character with a riding horse (for 
+medium-size characters) or a mastiff (for small-size 
+characters) with accompanying riding saddles. The 
+mastiffs resemble giant Welsh corgis. 
+ Based on recent sightings, the Harpells believe Ol’ 
+Stinkybutt is a young dragon and reckon the characters 
+are most likely to find him by patrolling the ranchlands 
+northwest of the hamlet.  
+Call to Action 
+Following the trail of destruction is the Call to Action. 
+That’s One Big Pile of Dung 
+The characters begin their patrol the moment they 
+depart the frontier hamlet of Longsaddle, heading 
+northwest toward the ranchlands where Ol’ Stinkybutt 
+has been most active. The plains stretch out in every 
+direction, a sea of golden grasses rippling in the wind. 
+Scattered buttes rise like sunbaked sentinels from the 
+flatland. Here and there, sagebrush clings to the cracked 
+earth, and narrow game trails wind between patches of 
+scrub and dry creek beds. On clear days, the jagged 
+peaks of the Crag Mountains loom far to the north.  
+ On the third day of traveling the plains, the characters 
+come across the aftermath of a recent flyover. Read 
+aloud or paraphrase the following: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Area Information 
+This stretch of the plains have the following features. 
+Terrain. The plains stretch wide and open, a sea of tall 
+grasses dotted with wildflowers, sagebrush, and the 
+occasional lone tree or rocky outcrop. Characters can 
+see about 2 miles in any direction on a clear day, 
+except where obstructions block their view. 
+Lighting. During the day, the plains are bathed in bright 
+light. A rocky outcrop or a lone tree provides shade, 
+creating areas of dim light beneath them. 
+Sounds. Wind rustling through grass is a near-constant 
+presence.  
+Weather. The plains are generally dry, with light winds. 
+Daytime temperatures average around 72°F (22°C), 
+while nights grow chilly, dropping to approximately 
+47°F (8°C). 
+Tracks. A character can use the Search action to inspect 
+the tracks left behind by Lee’s longhorns. On a DC 10 
+Wisdom (Survival) check, they see clear signs that a 
+herd of longhorns passed through the area 
+approximately four hours ago. Their hoofprints are 
+scattered and erratic, suggesting they were spooked 
+and fled in a panic. They fled north.  
+Dragon Dung. A steaming pile of dragon dung, roughly 
+the size of a hay bale. A character can use the Study 
+action to inspect the pile of dung left behind by Ol’ 
+Stinkybutt. If they succeed on a DC 15 Intelligence 
+(Nature) check, they learn that the dung is mildly 
+acidic and unfit for fertilizer. Its corrosive properties 
+are too weak to be used as a weapon in its raw form.   
+THE HARPELLS’ GIFT 
+The characters are delivering a 400 lbs. stone statue of a 
+poorly crafted longhorn cow, hauled by cart and a mule 
+named Honey. Each player character is also provided with a 
+mount and saddle. The statue, cart, mounts, riding saddles, 
+and mule are story items and may not be kept after the 
+adventure. Pay attention to what the characters do with the 
+cart and statue in Part One, Encounter A.  
+Creature Information 
+Buried in the dragon dung is an unfortunate human  
+ranch hand struggling to climb out of the muck. Lee  
+(scout) is currently at 2 hit points due to a busted hip  
+from falling off their horse. Lee has the prone and  
+restrained condition and two levels of exhaustion. A  
+character can pull her free with a DC 10 Strength  
+(Athletics) check. On a success, Lee is freed and  
+immediately collapses to catch her breath. 
+ Lee explains she was watching Mister Zelorrgosz’s 
+longhorns when something struck her and knocked her 
+off her horse. Before she could react, she found herself 
+buried in dragon dung. As she scans the area, panic sets 
+in when she realizes the herd is gone. With rising 
+urgency, she begs the characters to help round up the 
+lost longhorns.  If the characters ask about a reward, 
+Lee promises she can pay them in coin. She explains 
+that she had been saving up to visit the Gambling 
+Golem, but has no problem parting with the gold if it 
+means keeping her job.  
+A foul wind hits you first. Just over the next rise, you find 
+the source: a steaming mound of dung the size of a hay 
+bale. It’s fresh. Swarming with flies. Just as you’re taking 
+in the sheer scale, and smell, of the mess, a wet squelch 
+breaks the silence. The dung pile shifts. Then again. A 
+hand, coated elbow-deep in filth, reaches out and grabs 
+the grass. “Help.. urk.. somebody help me!” 
+
+[PDF_PAGE=6]
+   
+ 
+ 
+Not for resale. Permission granted to print or photocopy this document for personal use only. 
+FR-DC-SCROG-02 Bad Weather Over Longsaddle (v1.4)       5 
+ 
+LEE 
+Neutral Human (she/her) unfortunate rancher 
+Lee is a lanky teenager with sunburned skin and a mess of 
+straw-colored hair. She wears a too-big canvas duster over 
+patched overalls and scuffed boots, all of which are currently 
+caked in dragon dung. 
+What They Want. Lee just wants to round up her runaway 
+longhorns, get them back to Zelorrgosz’s ranch before 
+sundown, and take a bath. 
+ Rustic Drawl. Lee speaks in a slow, plainspoken cowboy 
+drawl and light on punctuation. She uses phrases like 
+“reckon,” “ain’t right,” and “more trouble than a rattlesnake 
+in a washbasin.” Lee refers to Ol’ Stinkybutt only as “that 
+airborne menace.” 
+ Lasso Maker. Lee is an avid lasso enthusiast who spends 
+her spare time crafting lassos by hand while keeping watch 
+over Zelorrgosz’s cattle. 
+Not too far from the scene is Lucky (riding horse), 
+Lee’s horse, grazing on the grass. Either on her own or 
+with the characters’ help, Lee limps over and rummages 
+through Lucky’s saddlebags. She pulls out a set of five 
+lassos and hands them out to the characters. As she 
+distributes them, she offers a few quick tips on their 
+use: success depends more on timing and control than 
+raw strength. Once the loop lands, the wrangler must 
+pull the rope taut and hold firm to guide the animal. 
+ Once the characters are ready to move on, proceed to 
+Part 1.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LASSO 
+A lasso is a loop of rope designed to be thrown around a 
+target and pulled tight to catch or restrain it. Commonly used 
+by ranchers, it's a practical tool for wrangling cattle or other 
+large animals. Treat each lasso as a reskinned Net.  
+NET     
+Adventuring Gear 
+Weight: 3 lb. Cost: 1 GP 
+When you take the Attack action, you can replace one of your 
+attacks with throwing a Net. Target a creature you can see 
+within 15 feet of yourself. The target must succeed on a 
+Dexterity saving throw (DC 8 plus your Dexterity modifier and 
+Proficiency Bonus) or have the Restrained condition until it 
+escapes. The target succeeds automatically if it is Huge or 
+larger. 
+ To escape, the target or a creature within 5 feet of it must 
+take an action to make a DC 10 Strength (Athletics) check, 
+freeing the Restrained creature on a success. Destroying the 
+Net (AC 10; 5 HP; Immunity to Bludgeoning, Poison, and 
+Psychic damage) also frees the target, ending the effect. 
+Source: Player’s Handbook (2024), page 227. Available in the 
+SRD 5.2.1 and the Basic Rules (2024). 
+  
+
+
+[PDF_PAGE=7]
+   
+ 
+ 
+Not for resale. Permission granted to print or photocopy this document for personal use only. 
+FR-DC-SCROG-02 Bad Weather Over Longsaddle (v1.4)       6 
+ 
+PART 1: WRANGLERS 
+Estimated Duration. 45 minutes 
+ 
+It takes about an hour of travel before the characters 
+spot a herd of longhorns grazing in the distance, roughly 
+two miles ahead. From their vantage point, they can 
+clearly make out a large copper dragon, about the size 
+of a lanky warhorse, soaring high above the plains. The 
+dragon circles lazily above the herd like a bird of prey. 
+When the characters close to within a mile, the dragon 
+climbs higher into the sky and vanishes into the clouds. 
+Story Objective 
+Convincing Ol’ Stinkybutt to stop defecating on the 
+properties, people, and beasts of Longsaddle is the 
+Story Objective. 
+Encounter A. Time to Wrangle 
+It takes approximately 15 minutes for the party to reach 
+the area. Read aloud or paraphrase the following: 
+Up ahead, a small herd of cattle grazes peacefully.  
+As you approach, the herd suddenly bolts, bellowing and 
+crashing into one another in panic. A moment later, the 
+cause becomes clear. A pack of jackals bursts from the tall 
+grass and fans out behind the cattle, barking and yipping 
+as they nip at the herd's flanks. 
+Area Information 
+The plains share the same general features outlined in 
+the Call to Action, though without the presence of 
+dragon dung. 
+Creature Information 
+There are a number of longhorns (ox) equal to the 
+number of player characters. Each longhorn begins the 
+encounter with a Hostile attitude and starts 40 feet 
+away from the characters, fleeing across the plains in 
+the same direction. The longhorns are being pursued by 
+two jackalweres in jackal form, who are focused on 
+driving one of the cattle away from the herd. The 
+jackalwere begin the encounter with a Hostile attitude 
+and start 20 feet away from the longhorns.  
+  Unbeknownst to the characters, these jackalweres 
+are members of the Gogan Brothers Gang, a fiendish 
+family of notorious outlaws responsible for rustling, 
+thefts, and scams along The Long Road. The jackalweres 
+are not initially interested in the characters and attempt 
+to complete their hunt. If the characters interfere, the 
+jackalweres defend themselves but will attempt to flee 
+if reduced to the bloodied condition. The Gogan siblings 
+constantly bicker among themselves, blaming each 
+other for any setbacks and fumbling through makeshift 
+strategies. If they flee, they split up in different 
+directions to make pursuit more difficult. 
+ADJUSTING THE SCENE  
+Here are some suggestions for adjusting this scene: 
+ 
+• Very Weak. Replace one jackalwere with two jackals 
+• Average. Two jackalweres. Longhorns equal to the number 
+of player characters 
+• Strong. Add a jackalwere 
+• Very Strong. Add a jackalwere  
+Wilderness Chase 
+Use map 2.2 as the battle map for this encounter and 
+map 2.3 as the chase tracker (see Appendix 1). The 
+longhorns are the targets of the chase and remain at the 
+0 marker. The jackalweres begin at the -20 ft. marker, 
+and the characters start at the -40 ft. marker. All 
+movement is tracked relative to the longhorns, who are 
+always treated as staying at +0 for simplicity. When the 
+longhorns move, all other participants fall back by the 
+same distance. For example, if the longhorns move 40 
+feet, all pursuers shift 40 feet farther from the 0 marker. 
+At initiative count 0 each round, any longhorn not 
+within line of sight of either the characters or the jackals 
+makes a Dexterity (Stealth) check with disadvantage.  
+On the open plains, longhorns can disappear from view 
+behind rocky outcrops, in dry creek beds, through tall 
+prairie grasses, or behind scattered trees and dust 
+clouds. If the result exceeds the highest passive 
+Perception among the pursuers, that longhorn escapes 
+the chase and cannot be recovered.  
+ The jackalweres abandon the chase once they have 
+rendered a longhorn unconscious using their Sleep 
+Gaze. Once a longhorn collapses, the jackalweres close 
+in for the slaughter. 
+Running the Chase 
+A chase participant can take the Dash action a number 
+of times equal to 3 plus its Constitution modifier 
+(minimum of once). Each additional Dash action it takes 
+during the chase requires the creature to succeed on a 
+DC 10 Constitution saving throw at the end of its turn or 
+gain 1 Exhaustion level. A participant drops out of the 
+chase if its Speed is 0. 
+ During the chase, participants can make attacks, cast 
+spells at creatures within range, or perform the 
+Influence action if adjacent to a longhorn. A character 
+can attempt to calm and control a longhorn by using the 
+Influence action to make a Wisdom (Animal Handling) 
+check against DC 15. On a success, the longhorn settles 
+down and stops resisting. On a failure, the creature 
+remains agitated and continues trying to flee. If a 
+longhorn is restrained or otherwise unable to flee, it 
+drops out of the chase. 
+  
+
+[PDF_PAGE=8]
+   
+ 
+ 
+Not for resale. Permission granted to print or photocopy this document for personal use only. 
+FR-DC-SCROG-02 Bad Weather Over Longsaddle (v1.4)       7 
+ 
+Wilderness Complications 
+Once the stampede begins, the longhorns tear across 
+the open prairie in a blind panic, kicking up dust and 
+mowing through brush. The herd moves as one, hooves 
+pounding like thunder, but any creature close behind 
+quickly realizes that the plains are far from smooth. Dry 
+creek beds, gnarled trees, and windblown hazards turn 
+the chase into a series of unpredictable challenges. 
+ At the end of each participant’s turn, roll 1d12. On a 
+result of 1–6, roll or choose a result from the 
+Wilderness Chase Complications table. On a 7–12, no 
+complication occurs.  
+TABLE 1.1 WILDERNESS COMPLICATIONS 
+1d12 Complication 
+1 You clearly hear someone singing loudly from a 
+nearby bush. Make a DC 10 Wisdom saving throw 
+or be momentarily distracted and lose 10 feet of 
+movement. The voice comes from a singing bush 
+(awakened shrub). 
+2 You smack into an invisible fence post left behind 
+by the Harpells. Make a DC 13 Dexterity saving 
+throw or take 1d6 bludgeoning damage and lose 
+10 feet of movement.  
+3 Make a DC 10 Constitution saving throw. On a 
+failed save, blowing dust, dirt, or pollen causes 
+you to have the Blinded condition until the end of 
+your turn. While you are blinded in this way, your 
+Speed is halved. 
+4 A sudden drop catches you by surprise. Make a DC 
+10 Dexterity saving throw to navigate the 
+impediment. On a failed save, you fall 10 feet. 
+5 Your path takes you through a thicket of prairie 
+cactus. Make a DC 15 Dexterity saving throw or 
+use 10 feet of movement (your choice) to carefully 
+avoid the spines. On a failed save, you take 1d10 
+piercing damage as the cactus thorns rake your 
+arms and legs. 
+6 You trip over a single dirty left boot sitting upright 
+in the grass. Make a DC 10 Dexterity saving throw 
+or fall Prone. If you pick it up, it doesn’t fit anyone.  
+7-12 There is no complication 
+ 
+Ending the Chase 
+The chase ends when all the longhorns have been 
+calmed or restrained, or after 30 minutes of play have 
+passed. Any cattle still running free by then are 
+considered lost to the plains. If the characters interfered 
+with the jackalwere hunt, they acquire the Story 
+Award: Gogan Brothers Gang Feud.  
+Development 
+Unless the characters left someone to guard the cart, 
+they return to an unfortunate surprise. During the 
+chaos, Honey apparently wandered off, crossing a 
+shallow dry ravine in pursuit of a patch of prickly pear 
+growing on the far side. The mule made it across just 
+fine. The cart didn’t. Its axle cracked on the descent, and 
+the already top-heavy, ugly-as-sin statue tipped over 
+and smashed against the rail. Now, the shattered 
+remains lie in jagged pieces across the cart bed. Honey 
+stands beside it, cheerfully munching cactus pads with 
+total disinterest. 
+Reward 
+If the characters return with at least half as many 
+longhorns as there are members in their party 
+(minimum 1), Lee, grateful for their help, rummages 
+through her dusty pack and offers them a weathered 
+leather pouch containing 20 gold pieces. If any of the 
+lassos remain intact, Lee tells the characters they can 
+keep them. 
+ If the characters fail to bring back any longhorns, or 
+fewer than the required amount, Lee is still thankful. 
+With a resigned sigh, she mutters about how she’s likely 
+to lose her job and prepares for the long ride back to 
+Zelorrgosz’s ranch.  
+Encounter B. Ol’ Stinkybutt 
+This encounter occurs after Lee, now mounted on her 
+horse, departs with any longhorns the characters 
+managed to wrangle. Read aloud or paraphrase the 
+following: 
+A shifting shadow glides over the tall grass. Moments later, 
+the copper dragon swoops down and lands nearby, kicking 
+up grass and dirt. The dragon bows low and calls out, 
+"That was some mighty fine wrangling. You handled that 
+better than I figured!" 
+Ol’ Stinkybutt (young copper dragon) introduces 
+themself as Nuragha. The copper dragon is talkative and 
+shows all the signs of teenage immaturity. Slung 
+beneath one foreleg by a makeshift leather strap is a 
+wooden barrel of Mira’s Creamy Condiment Co., its 
+sides stained with streaks of oily white goo and sloshing 
+ominously with spoiled mayonnaise, the dragon’s fuel 
+for his infamous aerial bombardments.  
+THE JOKE THAT WENT TOO FAR 
+Originally from the south, Nuragha is a young copper dragon 
+who claimed a patch of rugged land near the southern Crag 
+Mountains. One quiet afternoon as Nuragha lounged on a 
+sunbaked ridge, watching a group of ranch hands mend a 
+fence. One of the ranchers paused to tip back a drink when a 
+passing bird delivered an accidental aerial bombardment right 
+on his hat. The ranch hand yelped, slipped, and landed face-
+first in a cow patty. Nuragha roared with laughter. It was the 
+funniest thing the young dragon had ever seen. If a bird could 
+bring such joy by accident, imagine what a dragon could do on 
+purpose. From that day on, Nuragha took to the skies, 
+dropping “gifts” on Longsaddle’s ranchers as part of his grand 
+comedy. In his mind, it was a layered joke. Manure helps 
+crops grow, right? Surely they’d be grateful. But fewer 
+ranchers wave hello these days, and more wave pitchforks. 
+Still, Nuragha remains convinced they'll come around 
+eventually. 
+
+[PDF_PAGE=9]
+   
+ 
+ 
+Not for resale. Permission granted to print or photocopy this document for personal use only. 
+FR-DC-SCROG-02 Bad Weather Over Longsaddle (v1.4)       8 
+ 
+NURAGHA “OL’ STINKYBUTT” 
+Chaotic Good Copper Dragon (he/him) prankster  
+A lanky young copper dragon the size of a warhorse with an 
+oversized grin and a tendency to talk with their manta-like 
+wings.  
+What They Want. Nuragha wants to make people laugh, 
+lighten their burdens, and bring joy to the world through 
+elaborate pranks and spontaneous humor. Unfortunately, 
+they often fail to understand the line between harmless fun 
+and genuine trouble.  
+Dragon Teen. Nuragha is loud, attention seeking, and 
+convinced they are much funnier than they actually are. 
+After explaining their “comedy,” Ol’ Stinkybutt looks at 
+the characters expectantly, hoping for laughter or 
+applause. When none is immediately forthcoming, the 
+dragon frowns, tilts their head, and asks with genuine 
+confusion, “Wait. You mean folks ain’t enjoying this? 
+That one had visual flair! Heck! I gave them free manure 
+for their farm! Farmers love manure!” 
+ The dragon listens to the characters, but interrupts 
+often, defends their “art,” and insists that humor is 
+subjective. Still, Ol’ Stinkybutt is not hostile, just 
+clueless. Their starting attitude is Indifferent.  
+Development 
+The characters may resolve the situation by making a 
+group check using one of the following Influence actions 
+against a DC 15: 
+• A character can make a Charisma (Persuasion) check 
+to explain why folks are angry or offer suggestions 
+for more acceptable pranks. 
+• A character can make a Charisma (Deception) check 
+to trick Ol’ Stinkybutt by exaggerating the severity of 
+the ranchers’ reaction, pretending the Harpells are 
+preparing magical retaliation, or claiming the 
+longhorn statue is a tribute from a secret admirer. 
+• A character can attempt to scold Ol’ Stinkybutt and 
+point out that their pranks have harmed people. They 
+can even point out that their dung isn’t even fit for 
+fertilizer. This requires a Charisma (Intimidation) 
+check. 
+If the characters brought the giant longhorn statue or 
+decide to use another appropriate gift, Ol’ Stinkybutt is 
+immediately enthralled by the gift. The characters gain 
+Advantage on their Charisma-related skill checks. 
+ Success convinces the copper dragon to try a new 
+approach and stop the dung-bombing. Eventually, they 
+sigh, stretches their wings, and nods in agreement. Read 
+or paraphrase the following:  
+"Fine. Perhaps the joke got a little out of hand. I believed 
+folks would laugh. But if all I am doing is making people 
+mad, then maybe it is time to rethink my approach."  
+ 
+ 
+Copper Plopper 
+If the characters fail their group check, Ol’ Stinkybutt 
+becomes defensive and flies off in a huff. As the dragon 
+rises into the sky, he circles once, then lines up a parting 
+shot. The characters have one round to act before the 
+dragon prepares to bombard them. This is an 
+improvised scene. If their preparations make sense and 
+they succeed on a relevant check against DC 12, they 
+gain Advantage on their upcoming Dexterity saving 
+throw against the dragon’s parting gift. 
+ With theatrical flair, and zero shame, the dragon 
+bombards a 20-foot-radius area centered on as many 
+characters as possible. Each creature in the area must 
+succeed on a DC 15 Dexterity saving throw or be 
+thoroughly splattered, taking 1d6 psychic damage from 
+the shame. The foul stench lingers on the character for 
+the next 24 hours. A prestidigitation cantrip or a very 
+good bath can remove the stench. The copper dragon 
+then departs for the Crags, choosing to lay low until the 
+folk of Longsaddle have had time to cool off.  
+ If the characters attack Ol’ Stinkybutt, the copper 
+dragon shrieks in surprise, flares their wings, and 
+immediately takes flight. The dragon wants no part of a 
+serious fight, but they refuse to leave without leaving 
+their mark. Before fleeing, the dragon banks hard, loops 
+around, and delivers their signature parting prank. 
+Afterwards, Ol’ Stinkybutt vanishes into the skies and 
+retreats deep into the Crags. 
+ A failure outcome results in the characters receiving 
+the Story Award: Watch the Skies.  
+Treasure 
+Ol’ Stinkybutt remarks that the party has a lot of guts 
+for standing up to a dragon and says they deserve 
+something shiny for their courage. The copper dragon 
+then begins to cough and gag like a cat with a hairball. 
+After several dramatic heaves, they regurgitate a 
+weathered six-string guitar glistening with dragon spit. 
+Ol’ Stinkybutt assures the characters it is one of their 
+favorites. The copper dragon then departs for the Crags 
+(taking their gift if there is one).  
+ On the ground is the guitar, an Instrument of Illusions 
+imbued with the Blissful quirk.  
+Conclusion 
+After dealing with the copper dragon, whether through 
+diplomacy or disaster, the characters can return to 
+Longsaddle. People are surprised to see them alive. 
+Word spreads quickly, and by sundown, the locals 
+gather at the Horn and Hoof tavern to celebrate the 
+brave souls who stood face-to-face with Ol’ Stinkybutt. 
+ True to their word, the Harpells hands over a Shield 
+of Expression imbued with the Metamorphic quirk to 
+each of the characters as their reward. The face on the 
+shield is a sculpted likeness of the dark elf ranger, Drizzt 
+Do’Urden, created during a brief attempt to profit off 
+the dark elf’s widespread fame. When the shields failed 
+to sell, they were tucked away in the Harpell’s family 
+vaults. 
+
+[PDF_PAGE=10]
+   
+ 
+ 
+Not for resale. Permission granted to print or photocopy this document for personal use only. 
+FR-DC-SCROG-02 Bad Weather Over Longsaddle (v1.4)       9 
+ 
+REWARDS 
+At the end of the session, the characters receive rewards based upon their accomplishments. 
+CHARACTER REWARDS 
+The characters earn the following rewards: 
+Advancement 
+A character participating in this adventure gains one level.  
+Gold 
+If found during the adventure the following items are 
+converted to gold and added to any coins found during the 
+adventure. The gold is split among the party members. If 
+someone wants to keep an item in particular that character 
+can either take it as part of their share, or pay for it with 
+their own gold. Mundane items are not duplicated nor 
+included in this.  
+Item Gold Value 
+Lee’s Reward 20 gp 
+Maximum 20 gp 
+Equipment 
+The following mundane adventuring gear was found 
+during the course of the adventure. Items are not 
+duplicated. The party determines who receives an item 
+unless an NPC or event during the adventure gave the 
+item to a specific character. 
+ 
+Item Gold Value 
+5 Lassos (Nets) 1 gp each 
+Maximum  5 gp 
+Magic Item(s) 
+If found during the adventure, the characters can keep the 
+following magic items; these items are described in 
+Appendix 2: 
+• Instrument of Illusions 
+• Shield of Expression 
+Story Awards(s) 
+• Gogan Brothers Gang Feud 
+• Watch the Skies 
+ 
+These awards are described in Appendix 2. 
+DUNGEON MASTER REWARDS 
+For running this adventure, you earn a DM Reward. See the 
+Adventurers League Dungeon Master’s Guide for more 
+information. 
+ 
+ 
+  

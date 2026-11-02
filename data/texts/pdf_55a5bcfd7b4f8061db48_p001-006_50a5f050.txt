@@ -1,0 +1,506 @@
+[PDF_PAGE=1]
+Not for resale. Permission granted to print or photocopy this document for personal use only. 
+  TITLE 1 
+Droop’s Dilemma 
+ 
+ 
+ 
+Big Trouble in Droop’s Keep 
+ 
+ 
+ 
+Introduction: Droop has been living the dream by goblin standards 
+ever since he came to live in the rebuilt Cragmaw Castle. That is 
+until recently. Lately Droop has been plagued by attempted break-ins 
+and is beginning to think that he should just move away. He is 
+unsure of what the villains are after, but has gathered a few clues 
+and is desperately searching for a group of brave adventurers to 
+help him solve this mystery. Why are they attacking his home? What 
+do they want? And more importantly, how can they be stopped. 
+ 
+ 
+A 4-hour adventure for 4th-6th level characters 
+ 
+ 
+ 
+  
+ 
+By Dave Cecil 
+ 
+ 
+ 
+ 
+ 
+DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, the dragon ampersand, Player’s Handbook, Monster Manual, Dungeon Master’s Guide, D&D Adventurers League, all other 
+Wizards of the Coast product names, and their respective logos are trademarks of Wizards of the Coast in the USA and other countries. All characters and their distinctive likenesses are property of Wizards 
+of the Coast. This material is protected under the copyright laws of the United States of America. Any reproduction or unauthorized use of the material or artwork contained herein is prohibited without the 
+express written permission of Wizards of the Coast. 
+ 
+©2016 Wizards of the Coast LLC, PO Box 707, Renton, WA 98057-0707, USA. Manufactured by Hasbro SA, Rue Emile-Boéchat 31, 2800 Delémont, CH. Represented by Hasbro Europe, 4 The Square, 
+Stockley Park, Uxbridge, Middlesex, UB11 1ET, UK. 
+
+
+[PDF_PAGE=2]
+Not for resale. Permission granted to print or photocopy this document for personal use only. 
+  TITLE 2 
+ 
+Assumptions 
+It is assumed that the DM and the 
+players have played the Lost Mines of 
+Phandelver (LMoP) by Wizards of the Coast , 
+prior to beginning this adventure, 
+but this adventure can be played on 
+its own.  In LMoP, the players 
+encounter a pitiful goblin named 
+Droop. When first encountered, he is 
+the slave to a couple of Bugbears 
+that beat on him for fun. That 
+encounter lends itself to several 
+possible outcomes, but the most 
+likely are: 
+1. Players somehow missed the room 
+that Droop is first seen in and 
+skipped his scene altogether. 
+If this is the case, the DM 
+should use back story 1 for 
+Droop as clearly some other 
+band of adventurers rescued 
+him. 
+2. Players charged into that room 
+(Room 9 LMoP) and slaughtered 
+every living thing in there. In 
+this case, shame on you all. 
+Lol the DM should use back 
+story 2. 
+3. Players beat up Droop’s captors 
+and allow the pitiful 
+pessimistic goblin to leave the 
+area on his own. Here the DM 
+should use back story 3. 
+4. Players rescue Droop and keep 
+him along for a while. In most 
+groups that may have done this, 
+Droop likely stayed with them 
+until every monster encounter 
+they had was just too deadly 
+for the little guy and they 
+allowed his retirement. (This 
+happened in my own group for 
+example) If this is the case, 
+there are likely some members 
+of the group who may inquire 
+from time to time what happened 
+to Droop.  The DM is welcome to 
+make any story that fits his 
+campaign as well as increase 
+the monsters shown if that 
+original group (assumed higher 
+level) wants to help out their 
+old buddy.  But in case of time 
+constraint, use back story 1 
+with name substitutions as 
+appropriate. The DM should know 
+his/her group best and go with 
+the best one. 
+Materials needed 
+If you are like us, you have a strange 
+addiction to purchasing every single 
+Wizards of the Coast 5e D&D book they 
+publish and you already have all of 
+them, but this adventure assumes you 
+have the following at a minimum. 
+Required Books 
+ Players Handbook  
+ Monster Manual  
+ Dungeon Masters Guide  
+If you don’t have them, GET THEM, 
+they are awesome.  Great layouts, 
+Fantastic Artwork and full of a 
+wealth of gaming goodness. Wizards of 
+the Coast really knocked it out of 
+the park with this edition and you 
+really need this books in your life.  
+Stop reading at once and race to your 
+friendly local game store and buy 
+them.   
+Recommended books  
+ D&D 5E Starter set, including the Lost 
+Mines of Phandelver adventure . Droops 
+debut adventure and an instant 
+classic. 
+ Sword Coast Adventure Guide , A 
+valuable tool for players and 
+DMs alike for additional flavor 
+to the game.  
+Other Materials that will help 
+Dice – lots of them 
+Friends – 3 to 5 plus a DM if you can 
+find them, but they don’t necessarily 
+have to be friends I guess. 
+Paper - obviously 
+Pencils – while you can still 
+purchase them, they will be obsolete 
+someday. 
+Big Table - and hopefully enough 
+chairs, DM automatically gets the 
+best chair, otherwise all players are 
+at disadvantage until the DM gets a 
+better chair. 
+Miniatures – Hopefully another 
+addiction we share. I would have a 
+handful hidden behind the DM screen, 
+but you don’t have to use them if you 
+don’t absolutely want to.   
+
+[PDF_PAGE=3]
+Not for resale. Permission granted to print or photocopy this document for personal use only. 
+  TITLE 3 
+Bandits Plan 
+The bandits have figured out where the 
+master’s key is hidden, but they 
+haven’t found a way to get in. Some of 
+the bandits are escapees from 
+Phandalin that got out while the 
+adventurers were cleaning the old 
+manor house. They realize that the 
+skills of the adventures in problem 
+solving is much better than their own. 
+If they can find a way to get those 
+guys involved, it would be easier to 
+take the masters key from them, after 
+the hard work is done. They believe 
+the answer lies with the castle in 
+some way and have decided that if they 
+cause enough havoc there, there that 
+Droop will send for his friends. Once 
+help has arrived, the bandits will 
+lure the party into getting the key 
+for them. 
+ 
+Adventure Hooks 
+Below are a few hooks that the DM can 
+use if needed to get the Players into 
+the game quickly.  DM will know 
+his/her players best, so pick and 
+choose from these as you see fit. 
+ 
+Droops Letter 
+As Droop cannot write in the common 
+tongue, he has attempted scribe a 
+letter in best way he can that 
+translates to: 
+“Dear Adventurers, HELP, Bad men have 
+come on 3 nights trying to attack us. 
+They got in once and stole all the 
+cheese. I need some brave people to come 
+to Cragmaw Keep and help me figure out 
+how to stop them.  Please hurry, I don’t 
+know how long I can hold them off.” 
+ 
+Droop has scrawled this letter on a 
+piece of parchment and copied it 
+several times. He sent one copy to 
+each of the towns he visited on his 
+journey with the adventures and threw 
+one in a bottle and put it in the 
+river.  Droop is desperate for help.  
+Will the party answer his plea? 
+ 
+Strange Men in the woods 
+Townsfolk of Phandalin reports seeing 
+strange men going into the woods at 
+night. In this scenario, the townsfolk 
+nearby suspect bandits are setting up 
+operations just off the road.  The 
+party is asked to investigate.  Once 
+they investigate, they find Droops 
+letter which leads them to Cragmaw 
+Castle. 
+ 
+Player previous knowledge of “the 
+Masters Key” 
+In this hook, one or more of the 
+players know about the magic item that 
+the bandits are searching for. The 
+player knows some of its powers and 
+may be searching for the item for 
+ulterior motives. Perhaps the player 
+has been sent by some thieves’ guild 
+master on a quest, or works for a wise 
+and learned old mage wishing to study 
+the key. This option allows the DM to 
+collaborate with the player to create 
+a tailor made hook. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[PDF_PAGE=4]
+Not for resale. Permission granted to print or photocopy this document for personal use only. 
+  TITLE 4 
+Encounter keys 
+ 
+Droop’s Castle 
+Droop was given the castle by the 
+adventures after they cleared it. It 
+is likely that someone out there 
+actually may be an heir and really own 
+it, but no one has staked a claim as 
+of yet.  It is intended that the 
+players not spend a great amount of 
+time here but just in case, the 
+details are below. 
+ 
+Key to areas at the castle 
+ 
+1. Main Entrance 
+The main doors to the castle have been 
+repaired and rehung.  These doors are 
+large bronze covered wood.  The bottom 
+3 feet of the doors have been somewhat 
+polished while the upper parts still 
+show the bluish green signs of age. 
+Droop never comes in this way as first 
+he lacks the strength to open them and 
+also it’s not the door he and the 
+original party used when they 
+originally came, so he is still 
+convinced that the door at area 10 is 
+the main entrance. 
+A pair of large bronze doors stand as the 
+main gate for the keep, the doors look to 
+be quite old, however the lower part of 
+the door shows signs that someone tried 
+to polish them.  The upper portion of the 
+doors are corroded and blued from ages of 
+weather.  It looks like they would be a 
+challenge to open to all but the 
+strongest of people.  A large brass ring 
+is affixed to the right door, obviously 
+some kind of knocker. 
+If the party tries to open the door, 
+they will find it is barred from the 
+inside.  
+Knocking on the door will bring Barg 
+from area 7 to open the door.  He is 
+simple minded as they come.  Someone 
+knocks, he opens, if they are looking 
+for a fight he will oblige, otherwise 
+he will instruct the party to go 
+around to area 10. 
+ 
+2. This area isn’t marked on the map, 
+seems that Droop forgot to label it, 
+so it doesn’t exist. 
+ 
+3. Archer Posts 
+These areas would be great to look 
+over the main entry way to the keep, 
+however as Droop does not employ any 
+guards there are none to watch over 
+Area 1. There are however 2 shortbows 
+and 20 arrows in each of the rooms, 
+left over from days past. 
+This small room is mostly empty save for 
+a pair of short bows and 20 arrows lying 
+next to the arrow slit. 
+4. The room without a door 
+This nice sized but oddly shaped room 
+has no door to get in.  Seems that 
+Droop forgot to mention the need to 
+get into the room. If someone looks 
+through the arrow slit, they will see 
+a table and 4 chairs that sit unused. 
+ 
+5. Storage room   
+The castle receives regular shipments 
+of salted meat, pickled fish, ale and 
+cheese from Phandalin as part of a 
+trade arrangement made with the town. 
+There is enough food here to feed the 
+castles 5 inhabitants for several 
+months, but no one tracks inventory. 
+Oddly, all the crates marked “cheese” 
+are empty. 
+This room contains several barrels and 
+crates.  A faint odor of pickled fish and 
+cheese past its prime lingers in the air. 
+
+[PDF_PAGE=5]
+Not for resale. Permission granted to print or photocopy this document for personal use only. 
+  TITLE 5 
+6. Armory 
+This room is the armory that Droop has 
+created with all the left over weapons 
+that were left behind by the original 
+inhabitants. 
+Mounted in racks on the walls are spears, 
+swords of various kinds, a pair of 
+morningstars and a few crossbows.  There 
+are enough weapons here for a small 
+platoon size force, if one were ever to 
+be here. 
+There are a total of 5 spears, 1 
+greatsword, 3 longswords, 12 
+shortswords, 3 daggers, 2 
+morningstars, 3 crossbows and 40 bolts 
+here 
+ 
+7.  Barg’s Hall  
+This large room used to be a banquet 
+hall back in the glory days of the 
+castle.  Now it only entertains Barg 
+as it has become his room. 
+As you enter this large hall you are hit 
+with a strong odor of smelly feet and 
+sweat. In this room are two large banquet 
+size tables.  Between the tables are a 
+pile of assorted blankets and pillows.  
+Bits of meat and cheese litter one of the 
+tables, while the other has a large club 
+laying on it. 
+There is a 25% chance that Barg is in 
+the room unless he is known to be 
+somewhere else.  If he is here, he 
+won’t like any visitors and will 
+insist they leave.  Under his blankets 
+are 2 small sacks, which contain his 
+loot.  37cp 21sp and 14 gp.  He also 
+has various small worthless trinkets 
+lying about. 
+ 
+8. Central Hall 
+The hall hasn’t changed much since 
+Droop moved in.  He now uses it as a 
+sitting area for guests, although he 
+hasn’t had any yet.   
+This room was probably a chapel at some 
+point in its history.  The walls have 
+Angelic figures sculpted into the stone.  
+On the center of the northern wall is a 
+stone brazier that burns red with coal 
+most of the time.  A dozen small chairs 
+are scattered randomly about the room in 
+a rough circular pattern.  The center of 
+the floor is covered by 4 rugs of ornate 
+design. 
+Under the ashes in the brazier is a 
+lump of melted gold. It was a statue 
+that was hidden but never found. It’s 
+worth 80gp based on weight. 
+ 
+9. Shrine of Light 
+Droop’s only contact with religion was 
+with Everiss. He only knows that 
+Everiss’s God has something to do with 
+light. 
+This is the brightest room in the castle.  
+There are scores of candles burning all 
+about the area on tables and crates and 
+some just on the floor.  There are also 6 
+hooded lanterns that burn constantly in 
+the room. Scattered about in between the 
+candles are drawings of the sun.  There 
+is a sun shaped buckler of some kind 
+hanging on the wall. Its about 12 inches 
+across with 9 points around it. It just 
+be sheer luck that the room hasn’t caught 
+fire, yet. 
+Resting on the ledge of the arrow slit 
+is a silver dagger, worth 25gp.  Droop 
+believes this a holy dagger and fits 
+the décor.  The sun shaped buckler 
+will be needed later at the “stone 
+wall” 
+ 
+10. The Real Main Entrance 
+This is the door that Droop first 
+entered into the castle, way back 
+
+[PDF_PAGE=6]
+Not for resale. Permission granted to print or photocopy this document for personal use only. 
+  TITLE 6 
+when, so he is convinced this is the 
+best way in.  
+This small stairway is adorned with 
+pretty flowers and kept immaculately 
+clean.  The narrow stairway leads up to a 
+simple wooden reinforced door. A small 
+mat lays before the door, with a simple 
+sketch of a smiling goblin painted on it. 
+The door is typically locked, but if 
+Droop is awake, he tends to forget and 
+leave it unlocked. 
+ 
+11. Secondary Store Room 
+This area is missing a couple of interior 
+walls and is more of an unfinished work.  
+There are 6 barrels of Ale here and a 
+small stone statue of a horse.  
+Droop thinks the horse is magical but 
+it is not. Every day he attempts to 
+figure out the command word to 
+activate its wondrous powers.  Droop 
+also insists on using the door to area 
+8 every time he goes through that 
+room. 
+ 
+12. Guest Chamber 
+This is where any guests to the castle 
+would stay.  There is a shelf on the west 
+wall filled with blankets and pillows. 
+Enough for a dozen or more guests.  
+Unfortunately all of the blankets are 
+goblin sized. 
+13. Study 
+Around the walls of this room on the 
+floor are various books that Droop has 
+found. They are arranged in a chaotic 
+fashion with titles and subject seemingly 
+as random as possible 
+This could be a way for the DM to 
+provide any hints that the party may 
+need to figure out what the bandits 
+are after.  For example a history of 
+Cragmaw Castle would talk about it 
+being the storage place of a key that 
+would open the tomb where the master’s 
+key is held.  Or there could be a book 
+describing the rock at which the 
+bandits are camped near… Use whatever 
+creativity is needed if they are off 
+track. 
+ 
+14. The Master Suite (of sorts) 
+This is Droop, Stoop and Poop’s bedroom.  
+There are two large pallets made out of 
+various furs and blankets in the northern 
+side of the room.  There is also a table 
+and 4 chairs with lots of food still on 
+it from the past few days.  Wooden toys 
+liter the floor haphazardly.  On the 
+arrow slit ledge is a nice looking 
+dagger.  Droops gear is also here, strewn 
+about in no particular order. 
+The closet area in the Northwest 
+corner is the treasury.  Where Droop 
+and Stoop keep their collective worth 
+as well as where Poop sleeps most of 
+the time. 
+In a pile in the center of the room 
+are: 
+1240 Gp 
+ 130 Sp 
+ 900 Cp 
+ 3 large gems worth 100gp each 
+ A collection of dried insects 
+ A small suit of leather armor 
+

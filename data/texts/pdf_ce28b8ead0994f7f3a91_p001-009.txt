@@ -1,0 +1,658 @@
+[PDF_PAGE=1]
+Not  for  resale.  Permission  granted  to  print  or  photocopy  this  document  for  personal  use  only.  
+      TITLE   1  
+HOUSE OF HORRORS  
+ 	  
+A Light Jaunt Through Terror  
+ 
+Introduction: Within the city of Waterdeep lies the House of the Ten 
+Fools. Legends say that a troupe of bards came upon a dark dungeon. 
+Only one returned, forever scarred. The remaining survivor became a 
+recluse, never to be heard from again. Until a simple invitation 
+arrives at the character’s doorsteps…  
+	  
+	  
+A Four-hour adventure for 1th-5th level characters 
+ 
+ 
+ 
+  
+ 
+by AUTHOR NAME 
+  
+  
+  	  
+	  
+DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, the dragon ampersand, Player’s Handbook, Monster Manual, Dungeon Master’s Guide, D&D Adventurers League, all other 
+Wizards of the Coast product names, and their respective logos are trademarks of Wizards of the Coast in the USA and other countries. All characters and their distinctive likenesses are property of Wizards 
+of the Coast. This material is protected under the copyright laws of the United States of America. Any reproduction or unauthorized use of the material or artwork contained herein is prohibited without the 
+express written permission of Wizards of the Coast. 
+ 
+©2016 Wizards of the Coast LLC, PO Box 707, Renton, WA 98057-0707, USA. Manufactured by Hasbro SA, Rue Emile-Boéchat 31, 2800 Delémont, CH. Represented by Hasbro Europe, 4 The Square, 
+Stockley Park, Uxbridge, Middlesex, UB11 1ET, UK. 
+     
+
+
+[PDF_PAGE=2]
+Not  for  resale.  Permission  granted  to  print  or  photocopy  this  document  for  personal  use  only.  
+      TITLE   2  
+INTRODUCTION 
+Welcome	  to	  House	  of	  Horrors.	  I	  will	  be	  your	  
+humble	  and	  humorous	  host.	  Who	  am	  I?	  A	  
+fool	  has	  many	  names,	  tonight	  mine	  shall	  be	  
+Fineas	  Floop.	  
+	  This	  tale	  of	  terror	  takes	  place	  within	  the	  
+city	  of	  Waterdeep,	  a	  bustling	  metropolis	  of	  
+adventure	  and	  daring	  do.	  Whether	  tonight’s	  
+guests	  are	  denizens	  of	  the	  city	  or	  merely	  
+passersby,	  we	  shall	  simply	  not	  care.	  
+	  I	  have	  designed	  my	  tricks	  and	  traps	  and	  
+treasures	  for…ohhh…	  lets	  say	  three	  to	  five	  
+1st-­‐‑4th	  level	  characters.	  It	  is	  optimized	  for	  
+four	  characters	  of	  level	  two.	  There	  are	  nine	  
+rooms	  to	  my	  home	  with	  several	  corridors	  of	  
+fun	  and	  delight.	  	  
+	  
+Before You Play 
+Before	  you	  start	  play,	  consider	  the	  
+following:	  	  
+	  
+•  Read	  through	  the	  adventure,	  taking	  
+notes	  of	  anything	  you’d	  like	  to	  
+highlight	  or	  remind	  yourself	  of	  while	  
+running	  the	  adventure,	  such	  as	  a	  
+way	  you’d	  like	  to	  portray	  an	  NPC	  or	  
+a	  tactic	  you’d	  like	  to	  use	  in	  a	  combat.	  
+Familiarize	  yourself	  with	  the	  
+adventure’s	  appendices	  and	  
+handouts.	  	  
+	  
+•  Gather	  any	  resources	  you’d	  like	  to	  
+use	  to	  aid	  you	  in	  running	  this	  
+adventure-­‐‑-­‐‑such	  as	  notecards,	  a	  DM	  
+screen,	  miniatures,	  and	  battlemaps.	  
+Battlemaps	  are	  highly	  
+recommended.	  
+	  
+•  Ask	  the	  players	  to	  provide	  you	  with	  
+relevant	  character	  information,	  such	  
+as	  name,	  race,	  class,	  and	  level;	  
+passive	  Wisdom	  (Perception),	  and	  
+anything	  specified	  as	  notable	  by	  the	  
+adventure	  (such	  as	  backgrounds,	  
+traits,	  flaws,	  etc.)	  
+ 
+Playing the Dungeon Master 
+You have the most important role—facilitating 
+the enjoyment of the game for the players. 
+You provide the narrative and bring the words 
+on these pages to life.  
+To facilitate this, keep in mind the 
+following:  
+You’re Empowered. Make decisions 
+about how the group interacts with the 
+adventure; adjusting or improvising is 
+encouraged, so long as you maintain the 
+adventure’s spirit. This doesn’t allow you to 
+implement house rules or change those of the 
+Adventurers League, however; they should be 
+consistent in this regard.  
+Challenge Your Players. Gauge the 
+experience level of your players (not the 
+characters), try to feel out (or ask) what they 
+like in a game, and attempt to deliver the 
+experience they’re after. Everyone should 
+have the opportunity to shine.  
+Keep the Adventure Moving. When 
+the game starts to get bogged down, feel free 
+to provide hints and clues to your players so 
+they can attempt to solve puzzles, engage in 
+combat, and roleplay interactions without 
+getting too frustrated over a lack of 
+information. This gives players “little 
+victories” for figuring out good choices from 
+clues. Watch for stalling—play loses 
+momentum when this happens. At the same 
+time, make sure that the players don’t finish 
+too early; provide them with a full play 
+experience. 
+ 
+Adjusting the Adventure 
+You	  cannot	  improve	  upon	  my	  perfection.	  
+Why	  would	  you	  ever	  try.	  HAhahaHAahah.	  
+No,	  but	  seriously,	  don’t	  mess	  with	  my	  stuff.	  
+	  
+
+[PDF_PAGE=3]
+Not  for  resale.  Permission  granted  to  print  or  photocopy  this  document  for  personal  use  only.  
+      TITLE   3  
+	  	  	  Still	  here?	  Fine,	  fine.	  There	  are	  a	  few	  
+things	  you	  can	  do	  to	  tweak	  this	  up	  and	  
+down.	  If	  your	  players	  are	  newer	  or	  lower	  in	  
+level,	  reduce	  the	  number	  of	  animated	  
+swords	  by	  one,	  and	  maybe	  make	  some	  of	  
+the	  traps	  less	  difficult.	  You	  do	  you.	  
+	  Still	  still	  here?	  Boy	  if	  you	  want	  to	  make	  
+these	  even	  more	  challenging	  on	  the	  poor	  
+newbies,	  you’re	  even	  loonier	  than	  I	  am.	  
+More	  swords.	  Also,	  at	  the	  end	  of	  the	  
+adventure	  dump	  them	  outside	  of	  the	  actual	  
+Tomb	  of	  Horrors.	  That’ll	  teach’m.	  
+	  
+Adventure Primer 
+You	  must	  unlearn	  before	  you	  can	  learn.	  
+Regress,	  before	  you	  can	  move	  forward.	  
+Question,	  before	  you	  can	  understand.	  Die,	  
+before	  you	  can	  live.	  –	  ME!	  
+	  
+Adventure Background 
+My	  merry	  band	  traveled	  the	  land,	  searching	  
+both	  far	  and	  wide.	  We	  came	  upon	  tomb,	  and	  
+soon	  found	  our	  doom	  -­‐‑	  	  now	  a	  little	  voice	  
+lives	  inside.	  
+	  I	  was	  always	  obsessed	  with	  the	  jester	  in	  
+the	  court.	  They	  were	  the	  only	  ones	  who	  
+could	  mock	  the	  king	  and	  get	  away	  with	  it.	  
+They	  challenged	  us,	  our	  boring	  loops	  and	  
+patterns.	  Their	  wit	  brought	  to	  light	  the	  
+truths	  in	  all	  of	  us.	  That	  fascination	  bloomed	  
+into	  a	  thriving	  profession.	  Until	  we	  found	  
+the	  Tomb	  of	  Horrors.	  
+	  I	  was	  the	  only	  one	  to	  survive.	  And,	  I	  guess	  
+only	  a	  part	  of	  me	  did…ANYWAY,	  maybe	  I	  
+came	  back	  with	  a	  few	  screws	  loose,	  but	  I	  
+learned	  something	  from	  my	  ordeal,	  
+Acererak	  was	  a	  chump.	  First,	  he	  designed	  
+his	  tomb	  for	  veteran	  adventurers	  –	  only	  a	  
+few	  got	  to	  play.	  Second,	  it	  was	  soooo	  long	  
+that	  it	  took	  forever	  to	  get	  to	  the	  punchline.	  
+Third,	  while	  it	  hinted	  at	  the	  poetic	  comedy	  
+in	  tragedy,	  it	  was	  far	  from	  a	  masterpiece.	  It	  
+lacked	  the	  harmony,	  regression,	  and	  
+recursion	  of	  a	  true	  master.	  
+	  Buckle	  your	  seatbelts	  boys,	  girls,	  and	  
+beholders.	  Tonight,	  for	  your	  delving	  
+delights	  I	  give	  you	  poetry.	  
+	  	  
+Adventure Overview 
+The	  House	  of	  Horrors	  is	  broken	  down	  into	  
+nine	  rooms	  and	  several	  corridors.	  Each	  
+room	  is	  designed	  to	  be	  both	  regressive	  and	  
+progressive,	  on	  many	  layers	  and	  arcs:	  
+	  
+•  Enter	  with	  preconceptions.	  
+•  Destroy	  preconceptions.	  
+•  Question	  reality.	  
+•  Dispair.	  
+•  Embrace	  the	  journey.	  
+•  Exit	  reborn.	  
+	  
+You	  see,	  this	  adventure	  is	  not	  built	  to	  kill	  
+the	  party.	  This	  is	  not	  a	  hack-­‐‑and-­‐‑slash	  
+dungeon	  delve.	  It’s	  built	  to	  be	  psychological.	  
+I	  built	  my	  little	  house	  so	  that	  the	  group	  
+would	  not	  leave	  the	  way	  they	  came	  in.	  This	  
+is	  an	  experience.	  
+	  There	  is	  a	  map	  for	  you	  at	  the	  end.	  You	  are	  
+welcome.	  
+	  
+Adventure Hooks 
+I	  like	  stationary.	  Little	  notes	  and	  simple	  
+spells	  of	  sending.	  I	  like	  little	  adventurers	  to	  
+move	  their	  little	  feeties	  through	  my	  house,	  
+and	  I	  invite	  any	  I	  learn	  of	  in	  Waterdeep	  to	  
+my	  abode.	  A	  simple	  letter	  arrives,	  poofed	  
+into	  their	  existence	  before	  their	  very	  eyes	  
+(Hopefully	  with	  comedic	  or	  inconvenient	  
+timing)!	  
+	  
+Grand	  Treasure	  Awaits,	  
+To	  those	  that	  test	  their	  fates,	  
+At	  the	  house	  on	  Ten	  Jester	  Road.	  
+	  
+
+[PDF_PAGE=4]
+Not  for  resale.  Permission  granted  to  print  or  photocopy  this  document  for  personal  use  only.  
+      TITLE   4  
+And	  out	  fall	  the	  appropriate	  number	  of	  
+admissions	  tickets.	  A	  second	  letter	  reads	  
+the	  rules.	  
+	  
+1.  You	  cannot	  advance	  to	  a	  new	  room	  
+until	  all	  your	  group	  is	  in.	  
+2.  Everything	  is	  magical,	  good	  luck	  
+detecting.	  
+3.  Don’t	  trust	  the	  talking	  statues.	  
+	  
+There	  are	  no	  talking	  statues	  by	  the	  way.	  In	  
+case	  you	  go	  looking	  for	  them	  on	  the	  map	  or	  
+in	  the	  notes.	  
+If the party asks around about me 
+or the house. Or they talk to 
+their gods or something or 
+whatever (jeesh). 
+•  A troupe of Bards came across a skull-
+shaped dungeon. 
+•  Only one emerged. Wealthy, but…mentally 
+not right… 
+•  They say the house is haunted. Kids are 
+not allowed to go by there. 
+•  They say the remaining bard, Fineas 
+Floop, is a human, and has built some 
+sort of horrifying fun house. 
+•  Adventurers who come out (for not all 
+do), refuse to talk about their 
+experience under any circumstance. 
+	  
+House of Horrors 
+Read Aloud: A normal looking house sits 
+upon a bare lawn. Two floors, maybe 100 
+square feet. Simple. Victorian. Blue 
+paint and wide windows. No ominous signs 
+appear to mar the exterior. Save for one 
+– a red skull for a knocker. The gate 
+stands open. Welcoming. Inviting. 
+As	  the	  group	  approaches	  the	  porch,	  they	  
+can	  read	  on	  a	  DC	  5	  Perception	  check,	  
+“Everybody	  in,	  the	  show	  is	  about	  to	  begin.”	  
+	  The	  door,	  and	  house,	  on	  touch,	  seem	  to	  
+thrum	  and	  vibrate	  with	  a	  warding	  magic.	  
+The	  house	  itself	  is	  a	  magic	  item	  and	  cannot	  
+be	  broken,	  damaged,	  or	  dispelled	  by	  
+characters	  of	  this	  low	  a	  level.	  
+	  
+Room One: The Chest 
+You enter into a…fairly quant chamber. A 
+chair, a desk, a fancy rug fills the 
+rooms with decorative red skulls. A 
+simple wardrobe hangs ajar, tattered 
+clothes lay inside. 
+ 
+But what catches your eye is immediate. 
+An ornately gold and silver chest lays in 
+the center of the room. It sits alone, no 
+functional reason for being there. 
+ 
+A door sits at the end of the room. 
+Any	  attempt	  to	  detect	  magic	  reveals	  that	  
+everything	  within	  the	  house	  is	  arcane	  and	  
+magical.	  So	  much	  so	  that	  the	  interference	  is	  
+overwhelming	  to	  the	  relatively	  newer	  
+arcane	  caster.	  Detect	  Magic	  spells	  lead	  to	  
+one	  point	  of	  psychic	  damage	  from	  the	  
+mental	  overload	  and	  no	  discernable	  results.	  
+	  The	  wardrobe	  and	  desk	  contain	  nothing	  
+of	  value,	  save	  two	  sheets	  of	  paper	  suitable	  
+for	  arcane	  inscription.	  	  
+	  A	  DC	  10	  Perception	  check	  reveals	  faint	  
+trickles	  of	  blood	  around	  the	  chest.	  If	  players	  
+roll	  a	  DC	  12	  or	  higher,	  they	  also	  notice	  a	  still	  
+and	  partially	  decomposed	  hand	  sitting	  
+within	  the	  box.	  
+	  On	  attempting	  to	  leave	  the	  room	  without	  
+opening	  the	  box,	  or	  attacking	  the	  box,	  the	  
+party	  is	  accosted	  by	  a	  mimic.	  Not	  the	  box	  
+however,	  the	  carpet	  springs	  to	  life	  and	  
+attempts	  to	  grapple	  anyone	  currently	  
+treading	  upon	  it	  in	  a	  surprise	  round	  by	  
+activating	  its	  adhesive	  ability	  and	  attacking.	  
+	  Within	  the	  box,	  lies	  a	  Dark	  Shard	  Amulet	  
+with	  the	  ability	  to	  capture	  and	  store	  one	  
+mimic	  instead	  of	  its	  usual	  Warlock	  cantrip	  
+ability.	  A	  player	  need	  only	  expend	  one	  spell	  
+slot	  into	  it	  to	  capture	  or	  release	  a	  mimic.	  
+
+[PDF_PAGE=5]
+Not  for  resale.  Permission  granted  to  print  or  photocopy  this  document  for  personal  use  only.  
+      TITLE   5  
+At the bottom of the chest reads the 
+lines, “You must move forward, to move 
+back. Linger too long and set off 
+attack.” 
+ 
+The door to the next room opens. 
+Any	  adventurers	  who	  linger	  in	  room	  
+with	  an	  open	  door	  suffer	  1d4	  for	  each	  
+round	  after	  the	  second	  in	  which	  they	  
+remain	  in	  the	  room	  that	  has	  been	  solved.	  
+The	  house	  has	  been	  built	  to	  not	  allow	  rest	  
+and	  reflection.	  Corridors	  are	  immune	  to	  this	  
+effect.	  
+	  
+Four Corridors 
+A narrow hallway with a door at the end 
+of it. 
+Adventurers	  with	  the	  Keen	  Mind	  feat	  or	  
+who	  roll	  a	  DC	  12	  Perception	  check	  notice	  
+that	  this	  house	  is	  not	  the	  same	  dimensions	  
+outside	  as	  inside.	  
+	  These	  four	  corridors	  are	  built	  to	  be	  
+treacherous	  traps.	  Players	  are	  on	  a	  timer	  
+but	  also	  need	  to	  travel	  carefully.	  The	  first	  
+door	  opens	  with	  great	  ease,	  too	  easy	  in	  fact.	  
+The	  opener	  must	  succeed	  on	  a	  DC	  12	  
+Dexterity	  saving	  throw	  or	  fall	  into	  a	  10	  foot	  
+hole	  (1d6	  damage).	  On	  success,	  the	  hole	  is	  
+clearly	  visible.	  A	  DC	  15	  Perception	  check	  
+will	  reveal	  a	  red	  skull	  on	  the	  ceiling	  above	  
+the	  pit.	  
+	  The	  third	  corridor’s	  door	  also	  opens	  
+quickly,	  but	  no	  immediate	  fall	  takes	  place.	  
+Another	  DC	  12	  Dexterity	  saving	  throw	  
+occurs	  on	  stepping	  onto	  the	  floor,	  which	  
+immediately	  gives	  way.	  Another	  ten	  foot	  
+fall.	  A	  DC	  15	  Perception	  check	  will	  reveal	  a	  
+red	  skull	  on	  the	  ceiling	  above	  the	  false	  
+stone.	  
+	  The	  final	  corridor’s	  door	  is	  a	  normal	  door.	  
+The	  false	  floor	  cannot	  be	  detected	  by	  any	  
+means	  and	  is	  in	  the	  middle	  of	  the	  corridor,	  
+instead	  of	  the	  beginning.	  Only	  hopping	  over	  
+the	  first	  tile	  will	  set	  it	  off,	  normal	  movement	  
+will	  not.	  A	  DC	  15	  Dexterity	  saving	  throw	  can	  
+be	  used	  to	  avoid	  the	  trap.	  A	  red	  skull	  sits	  at	  
+the	  bottom	  along	  with	  2	  gems	  word	  50gp	  
+each	  within	  its	  eyes.	  
+	  Optional:	  Etched	  on	  the	  back	  of	  the	  door	  
+on	  a	  plaque,	  if	  anyone	  checks	  or	  succeeds	  
+on	  a	  high	  perception	  roll:	  
+Oh, hello. This is nice, the time spent 
+between you and I. Maybe after this we 
+could go take a walk by the Dock Ward. 
+No? Ok. I’m not offended. You’re 
+offended. Monster. 
+ The mimic is tradition. A classic. 
+Everyone knows the mimic. Well, that’s no 
+fun. They simply must learn that not 
+everything is what it appears to be from 
+their past experiences or foreknowledge. 
+The unlearning begins. 
+	  
+	  
+Room Two: The Sword 
+Walls of bamboo line this room. Strong, 
+sturdy, unyielding. Birdcall surrounds 
+you. Ancient floors lie beneath your 
+feet...and a red carpet just ahead. In 
+front of you? A beautiful sword on a 
+rack. 
+A	  DC	  12	  Perception	  check	  reveals	  the	  sword	  
+emanates	  a	  dark	  smoke.	  A	  roll	  below	  12	  
+causes	  the	  group	  to	  notice	  the	  carpet	  is	  
+rippling	  (there	  is	  a	  mild	  gust	  of	  air	  
+generated	  from	  beneath	  the	  carpet).	  
+	  Optional:	  Etched	  on	  the	  back	  of	  the	  door	  
+on	  a	  plaque,	  if	  anyone	  checks	  or	  succeeds	  
+on	  a	  high	  perception	  roll:	  
+I loved loved LOVED the corridors in the 
+Tomb of Horrors. They were the moment I 
+realized that this was more than just a 
+dungeon, it was specifically designed to 
+test the mind. 
+ This is my homage, my regression to that 
+adventure. Hopefully I’ve added a bit of 
+
+[PDF_PAGE=6]
+Not  for  resale.  Permission  granted  to  print  or  photocopy  this  document  for  personal  use  only.  
+      TITLE   6  
+depth to that goal. It’s the first time I 
+fell in love with a dungeon. Get it? 
+	  
+The	  carpet	  is	  the	  only	  non-­‐‑magical	  thing	  
+in	  the	  house.	  The	  sword	  acts	  as	  a	  normal	  
+longsword	  if	  picked	  up,	  but	  instead	  deals	  its	  
+damage	  to	  its	  bearer.	  It	  is	  considered	  
+cursed	  and	  can	  be	  put	  down	  each	  time	  it	  
+damages	  its	  wearer	  on	  a	  DC	  14	  Wisdom	  
+saving	  throw.	  Etched	  into	  the	  metal	  of	  the	  
+blade	  is	  a	  series	  of	  vines	  and	  red	  skulls.	  
+	  Four	  Flying	  Swords	  materialize	  and	  
+attack	  the	  player	  who	  removed	  the	  sword	  
+from	  the	  rack.	  
+	  
+The	  door	  in	  the	  back	  of	  the	  room	  opens	  
+when	  tried.	   
+	  
+Corridor: Interlude 
+Optional:	  	  Etched	  on	  the	  back	  of	  the	  door	  on	  
+a	  plaque,	  if	  anyone	  checks	  or	  succeeds	  on	  a	  
+high	  perception	  roll:	  
+We do love our complexities, don’t we? 
+Having been indoctrinated by the first 
+room that the solution is to interact 
+with the items, and that the carpet may 
+be evil, hopefully this will give our 
+little crew some pause. If not? Good on 
+them. 
+ The key lesson of this story, is simple, 
+do not trust what you know. This world is 
+glorious, beautiful, and wild.  
+	  
+Room Three: Turntable 
+A throne sits atop an elevated platform 
+in the middle of the room. It is red, 
+ornate, ostentatious, and has fine black 
+cherry wood arms. 
+ At the bottom of the platform are 
+strange symbols and two pegs. 
+Etched	  on	  the	  back	  of	  the	  door	  on	  a	  plaque,	  
+if	  anyone	  checks	  or	  succeeds	  on	  a	  high	  
+perception	  roll:	  
+You didn’t really think I’d put in more 
+corridor & pits do you? That was sooooo 
+last room. I wouldn’t do that to you. 
+Pits are expensive to dig you know. 
+A	  DC10	  Perception	  check	  reveals	  three	  
+things.	  The	  pegs	  can	  rotate	  the	  throne.	  The	  
+symbols:	  a	  goblin,	  a	  dragon,	  and	  a	  beholder,	  
+match	  symbols	  on	  the	  side	  walls	  of	  the	  
+room.	  And	  the	  throne	  sits	  atop	  a	  pressure	  
+plate.	  
+	  If	  rotated	  properly,	  and	  the	  throne	  is	  sat	  
+upon,	  a	  red	  orb	  containing	  a	  skull	  rises	  from	  
+the	  floor.	  
+	  If	  the	  throne	  is	  sat	  upon	  in	  its	  default	  
+position,	  floor	  traps	  (10	  foot	  drop)	  open	  up	  
+at	  random	  points	  indicated	  on	  the	  mat.	  
+	  If	  the	  platform	  and	  throne	  are	  rotated	  
+improperly	  and	  the	  throne	  is	  sat	  upon,	  a	  
+blue	  orb	  rises	  up	  from	  the	  floor.	  
+	  The	  red	  orb	  on	  touch	  teleports	  a	  user	  to	  
+room	  4.	  The	  blue	  orb	  on	  touch	  teleports	  a	  
+user	  to	  room	  7.	  Touching	  either	  orb	  causes	  
+all	  the	  wearer’s	  magical	  items	  to	  be	  
+teleported	  to	  room	  6.	  
+	  
+Room Four: The Jester 
+“Ladies and gentlemen. Boys and girls. 
+Welcome to my endgame.” On a balcony 
+above you, you see a genderless figure in 
+a baggy, multicolored, jester suit. 
+Rounded bells dangle from his headpiece 
+and a manic glee lights his eyes.  
+ “Tonight I shall be the one to play the 
+roll of villain!” He says, covering his 
+mount with his forearm with a gesture. 
+“That is, after all, what you’re here 
+for. The villain, the treasure, the 
+trope.” 
+
+[PDF_PAGE=7]
+Not  for  resale.  Permission  granted  to  print  or  photocopy  this  document  for  personal  use  only.  
+      TITLE   7  
+On	  a	  DC12	  Perception	  check,	  the	  player	  
+notices	  several	  holes	  in	  the	  floor	  in	  the	  
+middle	  of	  the	  room.	  These,	  ironically,	  are	  
+the	  only	  safe	  spaces.	  If	  over	  the	  next	  two	  
+rounds,	  anyone	  attacks	  the	  Jester,	  he	  is	  
+revealed	  to	  be	  a	  programmed	  illusion.	  
+Spikes	  emerge	  from	  all	  other	  points	  in	  the	  
+floor,	  dealing	  1d8	  damage	  to	  any	  player	  
+caught	  upon	  them.	  
+	  After	  two	  turns,	  the	  room	  begins	  to	  fill	  
+with	  wine.	  As	  this	  is	  not	  water,	  items	  or	  
+spells	  that	  convey	  Water	  Breathing	  are	  
+ineffective.	  The	  room	  fills	  up	  rapidly	  as	  
+wine	  pours	  down	  the	  balcony	  within	  one	  
+minute	  the	  room	  is	  full.	  
+To seek adventure is beauty. But betimes 
+also futility. For it’s so easy, so 
+simple, to have ones life snuffed out. I 
+almost lost mine…twice. Once to that 
+damned place, and once to myself. So 
+please, learn from my mistake. Or. 
+Actually. Join me. 
+After	  thirty	  seconds,	  a	  pipe	  opens,	  rapidly	  
+expelling	  wine.	  Adventurers	  must	  make	  a	  
+DC15	  athletics	  check	  or	  be	  sucked	  through	  
+the	  pipe	  to	  area	  5.	  Taking	  1d4	  points	  of	  
+damage	  for	  their	  troubles.	  
+	  After,	  any	  player	  may	  traverse	  down	  the	  
+pipe.	  The	  balcony	  no	  longer	  contains	  
+anything	  of	  significance	  and	  the	  
+teleportation	  orb	  ceases	  functioning.	  
+	  
+Room Five: The Wine-y Bard 
+Wine	  is	  soaked	  into	  the	  ground.	  Players	  
+may	  take	  this	  time	  to	  rest.	  The	  door	  opens	  
+when	  approached.	  
+	  
+Four More Corridors 
+The	  last	  corridor	  contains	  a	  pit	  trap	  at	  the	  
+last	  5	  feet	  before	  the	  door.	  A	  DC	  15	  
+Dexterity	  saving	  throw	  can	  be	  used	  to	  avoid	  
+the	  trap.	  At	  the	  bottom,	  of	  the	  20	  foot	  drop	  
+(2d6	  of	  damage),	  a	  plaque	  reads,	  “One	  more	  
+for	  the	  road.”	  
+	  
+Room Six: Treasure 
+As you enter the room, you realize it is 
+an exact replica of the first room of the 
+house. A red carpet and treasure chest 
+sit in the center. The west wall contains 
+a chute with the word, “Exit” scribbled 
+in paint above it. 
+Optional:	  The	  chest	  contains	  an	  alchemy	  jug,	  
+a	  rope	  of	  climbing,	  a	  chime	  of	  opening,	  and	  
+550gp.	  A	  plaque	  inside	  reads:	  
+You did well. I’m proud of you. Thank you 
+for listening to an old fool’s tale. 
+Destroy your preconceptions to grow, to 
+move beyond. And never stop moving. Or 
+you’ll be stuck in a loop forever. 
+	  
+The	  room	  also	  contains	  any	  possessions	  lost	  
+to	  teleportation	  from	  room	  3.	  
+	  The	  chute	  dumps	  the	  players	  back	  to	  
+room	  1.	  Right	  onto	  a	  new	  carpet-­‐‑mimic.	  On	  
+a	  DC5	  Perception	  check	  the	  players	  notice	  
+the	  doors	  are	  open,	  they	  can	  leave	  any	  time	  
+the	  chest	  now	  contains	  an	  additional	  200	  
+gp.	  
+	  
+Room Seven: False Start 
+You are teleported back to the beginning 
+of the house. The doors are all shut. 
+A	  DC	  17	  Perception	  check	  reveals	  this	  is	  not	  
+the	  same	  room.	  In	  this	  room,	  the	  mimic	  is	  
+the	  chest.	  The	  door	  at	  the	  back	  of	  the	  room	  
+opens	  normally.	  The	  mimic	  only	  attack	  
+players	  who	  attempt	  to	  open	  or	  damage	  it.	  
+	  
+More Corridors 
+
+[PDF_PAGE=8]
+Not  for  resale.  Permission  granted  to  print  or  photocopy  this  document  for  personal  use  only.  
+      TITLE   8  
+No	  pits	  lie	  in	  these	  corridors.	  	  
+	  
+Optional:	  Etched	  on	  the	  back	  of	  the	  door	  on	  
+a	  plaque,	  if	  anyone	  checks	  or	  succeeds	  on	  a	  
+high	  perception	  roll:	  
+Did I getcha? I hope I gotcha. I loved 
+watching magicians when I was a child. 
+They make you look one way and just when 
+you think you know what they are up to, 
+they completely baffle your expectations. 
+ 
+Room Eight: Swords Again 
+Welcome back to the sword room… 
+This	  room	  is	  an	  exact	  duplicate	  of	  room	  
+two.	  Except	  when	  an	  adventurer	  touches	  
+the	  door	  in	  the	  back,	  they	  are	  transported	  
+back	  to	  room	  one.	  They	  are	  no	  longer	  
+hurried	  through	  with	  the	  damage	  pentalty.	  
+You are teleported back to the beginning 
+of the house. The doors are all shut. 
+Everything is reset You no longer feel 
+rushed through the house by some unknown 
+force. 
+	  
+Room Nine: The Lever 
+A lever sits in an empty chamber. 
+This	  room	  is	  only	  accessible	  from	  
+teleportation	  or	  if	  the	  door	  in	  room	  8	  was	  
+somehow	  destroyed.	  Pulling	  the	  lever	  
+opens	  up	  20	  foot	  pit	  drops	  on	  either	  side	  
+(see	  map)	  to	  room	  five.	  
+	  
+Etched	  on	  the	  back	  of	  the	  door	  on	  a	  plaque,	  
+if	  anyone	  checks	  or	  succeeds	  on	  a	  high	  
+perception	  roll:	  
+Useless room. Need to remodel this. Maybe 
+a theater? 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+[PDF_PAGE=9]
+Not  for  resale.  Permission  granted  to  print  or  photocopy  this  document  for  personal  use  only.        TITLE   9    
+

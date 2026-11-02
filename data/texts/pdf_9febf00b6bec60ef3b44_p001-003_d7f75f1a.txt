@@ -1,0 +1,176 @@
+[PDF_PAGE=1]
+1
+Fee, Fly , Foe, Fund
+Avenging the Blood of a Waterdhavian
+Two tendays ago, cloud giants attacked the town of Nightstone, slaying many of its inhabitants including Lady 
+Velrosa Nandar, a Waterdhavian noble and High Steward of the town. Word of Velrosa’s deaths has reached 
+Waterdeep, and the current Nandar patriarch, Talurth Nandar, is concerned his family’s investment in the 
+region will be compromised. He’s now looking for adventurers to investigate the area, gather information, deal 
+with any giant threats, and report back.
+A 4-hour adventure for 6th-8th level characters
+by Greg Bilsland
+DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, the dragon ampersand, Player’s Handbook, Monster Manual, Dungeon Master’s Guide, D&D Ad-
+venturers League, all other Wizards of the Coast product names, and their respective logos are trademarks of Wizards of the Coast in the USA and other countries. All characters 
+and their distinctive likenesses are property of Wizards of the Coast. This material is protected under the copyright laws of the United States of America. Any reproduction or 
+unauthorized use of the material or artwork contained herein is prohibited without the express written permission of Wizards of the Coast.
+©2016 Wizards of the Coast LLC, PO Box 707, Renton, W A 98057-0707, USA. Manufactured by Hasbro SA, Rue Emile-Boéchat 31, 2800 Delémont, CH. Represented by Hasbro 
+Europe, 4 The Square, Stockley Park, Uxbridge, Middlesex, UB11 1ET, UK.
+@gregbilsland
+
+
+[PDF_PAGE=2]
+2
+Tavern Tales 
+Roll Tavern Tale
+1 Catapult Incident.  You once fired the character of the player to your left out of a catapult to try to attack a blue dragon.
+2 Body Swap. You once swapped bodies with the character of the player to your left after discovering two cursed coins. 
+You removed the curse but each of you still has one of the coins.
+3 Inevitable Betrayal. Your character was once stabbed by a doppelganger that had replaced the character of the player to your 
+left. The truth was revealed shortly after, but you still have trust issues.
+4 Unfortunate Romance. Your character discovered that a cambion had bewitched the character of the player to your left.
+When you went to confront your companion, you discovered them in a rather intimate situation.
+5 Hangover. You once discovered the character of the player to your left after he or she got a bit tipsy. Somehow, he or she 
+had acquired a baby, and you spent the next day trying to figure out where it came from. 
+6 Turned into a Newt. Your character was once transformed into a newt by a witch, and the character to your left was forced to
+carry you around in his or her pocket for a tenday until you got better.
+Part 1. Fee
+The adventure starts as the party follows up on a job 
+posting in Waterdeep.
+A cool rain patters down on the cobblestones of Waterdeep 
+as you make your way to House Nandar’s villa in the 
+North Ward. You’re responding to a post in a local tavern 
+calling for adventurers with tact and integrity. The job 
+description didn’t go into details, but you’re confident your 
+group can handle it. After all, your party is the very picture 
+of discretion.
+If you’re playing this adventure as a one-shot, allow the 
+players to introduce themselves and their characters. 
+If the characters haven’t adventured together before, 
+give them the option of rolling on the Tavern Tales table 
+below. This table creates some relationships and stories 
+the characters share. If a player gets the same result as 
+another player, he or she should reroll.
+The front of the Nandar villa is an unassuming stone 
+façade set with a pair of dark wooden doors. Embedded 
+on the doors are iron plates embossed with a stone bridge 
+and a flying flag.
+ After a knock and an inspection of you from beyond a 
+small shutter in the door, you’re beckoned into the villa 
+by a well-dressed female halfling, who introduces herself 
+as Regina. In the foyer, she eyes your muddy boots and 
+dripping gear meaningfully, giving a side-glance to a set of 
+hooks and cubbies.
+If a character doesn’t take the hint from Regina, she 
+coughs loudly and gives a stern nod to the cubbies. 
+Ultimtely she doesn't force a character to relinquish his 
+or her weapons and dirty gear, but any character who 
+remains equipped has disadvantage on Persuasion 
+and Deception checks with any members of the 
+Nandar household.
+Introduction
+Regarding the eating habits of hill giants—Pigs 
+seem a favored delicacy of this giant kin. Oft times, the 
+heady scent of roast pork effuses these giants’ dens, briefly 
+overpowering their pungent body odor. These meals of 
+swine seem also to have the effect of drawing predators, 
+such as wolves, from nearby environs. The giants then sub-
+vert the creatures to their will—or make into meal as well.
+—Harold Glimmerswick, On Giant Eating Habits
+This adventure is intended for a 4-hour play 
+session for four to six characters, levels 6 – 8. It is 
+written to take place after the events of chapter 1 of 
+Storm King’s Thunder. With adaptation, this adventure 
+can be integrated with Storm King’s Thunder, but 
+characters shouldn’t venture to the Nandar hunting 
+lodge until they’re at least level 5. 
+ This adventure includes some silly and anachronistic 
+elements because it was designed with suggestions 
+from Extra Life donors. Hopefully these elements 
+are good for a laugh, but if you find them distracting, 
+just leave them out. For details on Extra Life and the 
+adventure designer’s fundraising efforts, visit extra-life.
+org/participant/gregbilsland.
+Adventure Background
+Two tendays ago, cloud giants attacked the town of 
+Nightstone, slaying many of its inhabitants including 
+Lady Velrosa Nandar, a Waterdhavian noble and High 
+Steward of the town. Word of Velrosa’s deaths has 
+reached Waterdeep, and the current Nandar patriarch, 
+Talurth Nandar, is concerned his family’s investment in 
+the region will be compromised. He’s now looking for 
+adventurers to investigate the area, gather information, 
+deal with any giant threats, and report back.
+ For more details on these events, see chapter 1 of 
+Storm King’s Thunder.
+
+
+[PDF_PAGE=3]
+3
+Griffon Naming
+Players love coming up with names for their mounts. If you 
+want to add some fun to the appearance of the griffons, allow 
+the players to decide what names House Belabranta gave 
+them. If you’re streaming this adventure, you could also have 
+your audience suggest names.
+The unassuming exterior of the Nandar estate gives way to 
+a interior of white marble, polished wood, and beautifully 
+wrought iron. Beyond the foyer, the villa opens up to 
+several hallways and a staircase. Regina escorts you to a 
+well-furnished parlour to the left. A pair of guards stand at 
+attention in the room, eyeing you.
+ “Lord Talurth will be with you shortly,” says Regina. 
+“Feel free to help yourselves to the pastries on the table.”
+Regina leaves the characters, who are free to enjoy the 
+cream-filled pastries on one of the tables. Any natives 
+of Waterdeep recognize the desserts as coming from 
+Hriiat’s Fine Pastries, a beloved installment of the 
+North Ward. The room is well-appointed, hosting an 
+array of art and upholstered wood furniture. Mounted 
+around the room are the preserved heads of several 
+creatures, including an owlbear, a stag, a displacer 
+beast, and a bear. Among the art are architectural 
+diagrams of famous buildings in Waterdeep. Any 
+character who succeeds on a DC 15 History check 
+recollects that House Nandar is well known for building 
+bridges and houses. With a DC 20 History check, a 
+character also recalls that like many other Waterdhavian 
+noble families, House Nandar frequents the Ardeep 
+Forest to hunt.
+ The guards keep watch on the characters but don’t 
+interfere unless the characters do anything provocative.
+Lord Talurth’s Arrival
+After about five minutes of waiting, Lord Talurth arrives 
+accompanied by Regina. Talurth is a muscled, well-built 
+human whose receding hairline and set of tiny bifocals 
+seem to contradict his apparent fitness. He prefers 
+plain speech and immediately asks the adventurers 
+to describe their qualifications. Unless the characters 
+reveal anything alarming, he accepts them at their word 
+and sets to describing the events covered in “Adventure 
+Background." He then relates the following request:
+The Ardeep elves and House Nandar have long been at 
+odds, and I worry that with Velrosa’s death, violence will 
+erupt again. Please find out what they know of the giant 
+attack, and take this embroidered crest of House Nandar as 
+a symbol of friendship. The elves live in Ardeep forest, but 
+I know not how to contact them. You’ll need to figure that 
+out for yourselves. You might start in Nightstone.
+Talurth offers 100 gp for the errand of delivering the 
+crest and adds that he'll add 250 gp per giant slain with 
+proof in the form of severed right ears. With a successful 
+DC 15 Persuasion check, Talurth is willing to raise his 
+compensation by twenty percent (120 gp / 300 gp). On 
+the topic of giants, he adds the following.
+Of late, giants have troubled the Sword Coast. I fear this 
+attack may only be the beginning. I understand Blackstaff 
+Tower has deployed Force Grey to deal with threats in the 
+North, but to the south, no one seems to pay heed. I long 
+to see my sister-in-law avenged and to set an example to 
+any brutes who think to make our land their playground. 
+Should you encounter and eliminate any giants, trust that 
+you will earn my thanks as well as future employment 
+from the Lords’ Alliance.
+When the characters agree to Talurth’s terms, 
+he declares that Regina will see to their travel 
+arrangements and then bids an abrupt farewell. 
+

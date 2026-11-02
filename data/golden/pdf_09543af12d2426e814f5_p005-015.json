@@ -1,0 +1,10 @@
+{
+  "title": "TUMBA DEL REY DE HIERRO 6",
+  "language": "other",
+  "recommended_level": "1",
+  "hook": "El montículo se eleva desde el terreno circundante, una pendiente gradual subiendo  a una gran meseta circular. En el lado occidental del montículo, dos grandes piedras megalíticas se apoyan unas contra otras, sus cimas apenas visibles por encima de la parte superior  del  montículo.",
+  "npcs": [{"name":"Bjorn Ironhand","role":"enemy ghost"}],
+  "locations": ["TUMBA"],
+  "threats": ["La trampa (CR 1/2, 100 XP) es un glifo debilitado de la wardadería  que inflige 2d6 de daño (salvo ninguno)"],
+  "rewards": ["cuatro piedras lunares y una piedra de sangre (cada gema valorada 50 gp)","una pechera ornamentada (200 gp)","un par de dados de marfil (25 gp)","un anillo de señalización de oro con un símbolo de griffon (50 gp)","dos copas de latón (cada una valora25 gp)","una Masterwork  Tool","800 cp, 450  spy 50  gp"]
+}

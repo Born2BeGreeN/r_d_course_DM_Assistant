@@ -1,0 +1,197 @@
+[PDF_PAGE=1]
+The Passage of DoomThe Passage of Doom
+An Underdark side trek for 4th-7th level characters
+by Tony Petrecca
+Cover Art by Gary Dupuis
+
+
+[PDF_PAGE=2]
+Not for resale. Permission granted to print or photocopy this document for personal use only. The Islet of Dread – a Journey 2 Sneak Peak 2
+The Passage of Doom
+A Sneak Peek Excerpt from
+Journey Through the Center of the Underdark 2
+A 1-hour Underdark side trek for 4th-7th level characters
+by Tony Petrecca
+Play tested by Shawn Brock, Gary Edwards, Brigitte Kephart, Chris Osborne, Rod Schroeder and Dennis Wilson
+Cover art by Gary Dupuis
+http://www .gdupuis.com
+DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, the dragon ampersand, and all other Wizards of the Coast product
+names, and their respective logos are trademarks of Wizards of the Coast in the USA and other countries.
+This work contains material that is copyright Wizards of the Coast and/or other authors. Such material is used with permission under the
+Community Content Agreement for Dungeon Masters Guild.
+All other original material in this work is copyright [2016] by Anthony A Petrecca and published under the Community Content Agreement for
+Dungeon Masters Guild. 
+Adventure Template For OpenOffice/LibreOffice by Dale Robbins 
+
+
+[PDF_PAGE=3]
+The Passage of Doom
+While traversing tunnels on the Darklake the party 
+encounters threats by land, sea, and air.
+Your Darklake voyage takes you into a narrow, thirty- 
+foot wide, Faerzeress lit tunnel of eerie quiet. The 
+sound of the paddles gently lapping on the water 
+echoes on the walls, while water occasionally drips 
+from unseen sources high above. The eerie purple glow
+illuminates blind cave fish that move mindlessly about 
+near the surface of the water. Some of the fish are so 
+unaware of your presence that they run into your boat.
+As you round a bend you see a diamond shaped small 
+islet of limestone and stalagmites fifty feet ahead. The 
+tunnel forks at the islet, with the Darklake flowing to 
+the left or right of the forty foot wide bit of dry rock.
+Your eyes are drawn to a wicked sight upon the islet – 
+a pyramid of bones, at least eight feet high and five 
+feet wide at its base.  Sitting atop this pile is a large 
+horned ram's skull, carefully positioned to be facing 
+your direction, its empty sockets gazing intently at you. 
+As you consider the significance of this display - 
+ZZZZAP!
+Some bizarre, violent beam of light from behind a 
+stalactite above the islet just put a hole in your keel 
+boat! You're taking on water, fast, but you don't have 
+time to think. A ten foot diameter floating sphere has 
+emerged from behind the large stalactite and is 
+floating your way.
+Roll for initiative!  
+This Faerzeress infused area is heavily tainted by 
+the influence of Orcus. As a result any creature 
+that dies in the area and is not laid to rest 
+properly is raised as a zombie or skeleton within 1
+hour. Furthermore, undead in the area have 
+advantage vs being turned. 
+The Zombie Beholder
+The Orcus tainted Faerzeress has attracted a 
+Zombie Beholder, and the taint has enhanced the
+beast somewhat. It is not entirely mindless 
+anymore - it has an intelligence score of 8 (-1), 
+rather than 3.  Additionally it can use two rays per
+round, with one always being its disintegration ray
+that it enjoys aiming at boats. 
+Only a few days ago the Zombie Beholder was 
+drawn to the taint of negative energy in the area 
+and moved in, disintegrating a home for itself in 
+the large stalactite above the islet. It now serves 
+the taint, seeking victims to slay and increasing 
+the numbers of undead in the area. Its preferred 
+method of slaughter is drowning and it uses its 
+disintegration ray to sink the boats of travelers 
+who come near. This tunnel is well traveled so it 
+has already found several victims. As a result the 
+beast is not alone.
+Zombies in the water
+The Darklake is about twenty-feet deep in these 
+passages. Shuffling about at the bottom of the 
+Darklake in this area are two boat loads of 
+victims. Two keel boats of Duegar and Derro fell 
+victim to the beholder recently, and as a result 
+eight Duergar zombies and five Derro zombies 
+(Use standard zombie stats) wander the bottom of
+the Darklake here. They shuffle mindlessly about, 
+gnawing at cave fish, waiting for other boats to 
+sink. Should any character sink to the bottom 
+they will be attacked by 1d3 per round until all 
+thirteen zombies swarm them.
+Disintegration, Sinking, Swimming and 
+Underwater Combat. 
+Keel Boats (pg 119 DMG) have 100 hit points. The Zombie 
+Beholder's disintegration ray averages 45 hit points of damage. 
+Large or smaller inanimate objects are instantly disintegrated 
+per the rules, which puts the PC's in the water on the first shot. 
+However, rather than instant destruction I suggest the first ray 
+puts a hole in the boat, giving it 10 rounds to sink. On the 
+second hit the boat starts breaking up, accelerating its sinking 
+by 5 rounds. On a third hit the boat is destroyed. This provides 
+some sinking boat suspense and gives the player's a chance to 
+attempt to scramble to repair the boat, plugging the holes 
+through physical means or a mending spell.  How well those 
+efforts work is up to the DM.
+Swimming (PHB 182) is considered difficult terrain unless a 
+creature has a swim speed. 
+Use Suffocation rules for drowning-
+Suffocating (PHB 183) A creature can hold its breath for a 
+Not for resale. Permission granted to print or photocopy this document for personal use only. The Islet of Dread – a Journey 2 Sneak Peak 3
+
+
+[PDF_PAGE=4]
+number of minutes equal to 2+ it's Constitution modifier. 
+When a creature runs out of breath, it can survive a number of 
+rounds equal to its Constitution modifier (minimum 1 round). At the
+start of its next turn, it drops to 0 hit points and is dying.
+Underwater Combat (PHB 198) When making a melee weapon 
+attack, a creature that doesn't have a swimming speed has 
+disadvantage on the attack roll unless the weapon is a dagger, 
+javelin, shortsword, spear or trident.
+A ranged weapon attack automatically misses a target beyond the
+weapon's normal range. Even against a target within normal range, 
+the attack roll has disadvantage unless the weapon is a crossbow, a
+net, or a thrown weapon like a javelin (including a spear, trident, or 
+dart).
+Creatures and objects that are fully immersed in water have 
+resistance to fire damage.
+The Islet and the Shrine
+The islet is roughly diamond shaped, forty feet 
+wide and sixty feet deep. In its center is a large 
+stalagmite, 25 feet in diameter, that reaches up 80
+feet. High above that stalagmite is a huge 60-foot 
+thick stalactite. The Zombie Beholder has carved 
+a rough cavern lair for itself in this stalactite.
+The pyramid of bones is a bizarrely spontaneous 
+creation, a shrine to Orcus that gathered itself 
+together out of nothingness. The rams head skull 
+that sits atop it does not belong to any underdark 
+species. 
+Should any intelligent living creature set foot on 
+the islet the bones burst forth and attack. They 
+immediately form ten skeletons and one rams 
+headed Minotaur Skeleton. If zombies remain in 
+the water they will be attracted to the fight on 
+land as well. 1D3 will emerge per round from 
+various directions until all thirteen are engaged.
+Treasure
+The Duergar had some valuables in their boat. At 
+the bottom of the water twenty feet off the islet to 
+the right can be found a small chest containing 
+120 silver, 30 gold, four spell scrolls (three wizard-
+Poison Spray, Burning Hands, Mirror Image and 
+one cleric – inflict wounds) and one Driftglobe. 
+If boats were lost then a functional keel boat, or 
+two, may have conveniently washed ashore on the 
+back side of the island, their owners no doubt 
+having fallen victim to some peril.
+Finally -If your player's had to lose armor to avoid 
+drowning you could provide them with 
+replacement suits on the islet, of lesser, equal, or 
+greater utility, as you see fit.
+Should the PCs manage to enter the Beholder's 
+carved lair in the huge stalactite high above, it is 
+nothing but a big disintegration carved hole.
+Changing Difficulty
+For a lower level party reduce the number of zombies and 
+skeletons and eliminate the Zombie Beholder's 
+enhancements. 
+For a higher level party change the drowned victims to ghouls 
+or ghasts, give the Beholder use of more eye rays, and perhaps 
+add another Zombie Beholder!
+The difficulty of the encounter can also be adjusted by having 
+the party attacked closer or farther from shore, and by adjusting
+the effectiveness of disintegration to instant destruction. 
+Nothing ramps up peril quite like an entire party swimming 
+through undead infested waters.
+I hope you enjoyed this early draft sample from the 
+upcoming Journey Through the Center of the 
+Underdark Part 2. I hope to have the full product out 
+soon.
+Until then, please take a look at my other DmsGuild 
+offerings  - 
+Journey Through the Center of the Underdark 
+A compilation of encounters for your Rage of Demons
+Out of the Abyss campaign.
+and
+Dragons! Volume 1 - Chromatic Dragons
+Six new age categories for all five Chromatic Dragon 
+types - Very Young, Juvenile, Young Adult, Wyrm and 
+Great Wyrm.
+ 
+Not for resale. Permission granted to print or photocopy this document for personal use only. The Islet of Dread – a Journey 2 Sneak Peak 4
+

@@ -1,0 +1,184 @@
+[PDF_PAGE=1]
+
+
+[PDF_PAGE=2]
+W
+ELCOME TO THE LONG ROAD , ONE
+of the North’s busiest trade routes.
+It begins at the gates of Mirabar
+and continues for hundreds of miles
+southward through the Dessarin Valley,
+meeting the High Road just north of
+Waterdeep.
+This free supplement is an extract from
+Veratrem’s Tribal Siege, designed to help you
+ﬂesh out travel along the Long Road a bit more.
+In the full adventure, two hill giants
+(MM p.155) have taken over an old trading
+post, which they are using to ambush traders
+that move along the road. If you’re interested
+in getting the full story (plus an ambitious
+young green dragon that has taken over a local
+tribe of kobolds), check out the full adventure.
+Readers of this product get a 25% discount!
+For more free stuff, you can sign up to my
+mailing list.
+THE LONG ROAD
+M
+ANY TOWNS AND VILLAGES LIE along
+the route of the Long Road, depending
+on its relative safety. Unfortunately,
+that safety has been disturbed by the
+two hill giants and their ambush site.
+RANDOM ENCOUNTERS
+When the party travels the Long Road, they
+could potentially encounter a lot of things, as
+the arrival of the hill giants has stirred up
+some trouble in the area. These encounters
+can happen as often as you like, though you
+should keep in mind that using too many of
+them can slow the story down signiﬁcantly.
+Consider checking for a random encounter
+twice per adventuring day, once during the day
+and once during a long rest. If you do, roll a
+d20. If the result is 18 or higher, a random
+encounter occurs.
+The encounters presented below build upon
+those presented in Chapter 3 of Storm King’s
+Thunder (SKT p.68). Feel free to mix and
+match between the encounters listed there and
+those below.
+Random Encounters on The Long Road
+d8 Encounter
+1 Bandits
+2 City patrols
+3 Cloud castle
+4 Fire giant pits
+5 Goblins
+6 Manticores
+7 Scared trader
+8 Woodland creatures
+Adjusting the Encounters
+Not all random encounters with monsters need to be
+resolved through combat. The random encounters
+presented here do not need to be adjusted for parties
+with diﬀerent average party levels.
+Of course, you are still free to do so by adjusting the
+type or number of monsters that the characters
+encounter.
+
+[PDF_PAGE=3]
+BANDITS
+The characters encounter a gang of bandits.
+The gang consists of a bandit captain
+(MM p.344) and 1d6 + 3 bandits (MM p.343),
+all at half of their maximum hit points.
+Originally, the gang had more members, but
+they were attacked by Rug and Zog (see
+“Veratrem’s Tribal Siege” for more information)
+and suffered heavy losses.
+The gang confronts the party with the
+captain promising not to attack the party in
+exchange for a toll (no less than 100 gp worth
+of treasure). A DC 10 Wisdom (Insight) check
+reveals that the captain is blufﬁng and does
+not feel conﬁdent in their chances.
+Alternatively, a DC 10 Wisdom (Perception)
+check reveals that the bandits don’t look to be
+in ﬁghting shape. If the characters pay up, the
+captain bids them a safe journey before
+departing peacefully. If they don’t and a ﬁght
+breaks out, the captain and bandits attempt to
+ﬂee after 1 round.
+If the characters capture any of the bandits
+or the captain, they will attempt to trade
+information about the hill giant settlement for
+their freedom.
+CITY PATROLS
+A city patrol is walking towards the characters
+from the direction of their destination. The City
+Patrol table shows the makeup of the patrol,
+depending on the closest town.
+City Patrol
+Closest T own Patrol makeup
+Amphail 1d4 nobles (MM p.348) on horseback
+Red Larch 2d4 - 1 scouts (MM p.349), young archers
+T riboar 1 knight (MM p.347), one of the
+T welve (SKT p.53), with 2d6 - 1 guards
+(MM p.347)
+Wealdham 1d4 commoners (MM p.345)
+Westbridge 1 guard (MM p.347) and 1d4 commoners
+(MM p.345)
+The patrol members are friendly towards the
+party and report that while they are aware that
+the road is getting more dangerous by the day,
+they have not seen anything of note on their
+patrol.
+CLOUD CASTLE
+Above in the skies, the characters spot a giant
+castle.
+If the characters have encountered Zephyros
+(SKT p.33) in Chapter 1 of Storm King’s
+Thunder, it is his castle and they can recognize
+it without effort. If the characters have some
+way to signal to Zephyros, stairs made of
+clouds begin to form underneath the castle
+and descend toward them. Zephyros is friendly
+and can offer advice, but is not traveling in the
+direction that the characters wish to go and
+does not offer to take them. He sticks to the
+warning he received from the planar entities he
+spoke with using the contact other plane spell.
+In case the characters haven’t met Zephyros,
+the castle poses no threat and ignores them as
+it slowly drifts away from them.
+FIRE GIANT PITS
+The characters come across a site near some
+low hills where ﬁre giants have recovered a
+fragment of the Vonindod. There is no trace of
+the giants, but near the two 30-foot-wide,
+20-foot-deep craters are two toppled statues of
+dwarves.
+The ﬁrst is depicted with a large shield, while
+the second is holding a warhammer.
+A DC 12 Intelligence (Investigation) check
+reveals religious symbols, indicating that this
+might have been a site of special spiritual
+importance.
+GOBLINS
+A group of 1 goblin boss (MM p.166) with 2d4
+goblins (MM p.166) attempt to surprise the
+characters.
+It has been hard for them to ﬁnd food in the
+area since the arrival of the hill giants and
+they are starving. They ﬁght till the death.
+MANTICORES
+A group of 1d3 manticores come down from
+the sky to attack the party.
+SCARED TRADER
+The party encounters a scared trader running
+their way. The trader, Kogren Visk (LG male
+Tethyrian human), is in shock and the
+characters will have to ﬁnd a way to calm him
+down before they can get some answers out of
+him.
+When they do, the Kogren tells them he was
+attacked by hill giants, who took all of his
+wares and his horse. Kogren is too shaken to
+remember much about the encounter in detail,
+but can describe the general location of the hill
+giant settlement.
+WOODLAND CREATURES
+Rounding a corner in the road, the characters
+come upon a place when a pristine forest
+stream runs closely to the path.
+Around the stream are 2d6 elk, 1d10
+badgers, 3d12 frogs, 1d4 tressym and other
+small woodland creatures. The beasts aren’t
+hostile and ﬂee if attacked.
+WHAT ’S NEXT ?
+Enjoyed the encounters here? Why not check
+out Veratrem’s Tribal Siege with a 25%
+discount to get the full story or sign up to my
+mailing list.
+2

@@ -1,0 +1,691 @@
+[PDF_PAGE=1]
+ 
+ 
+ 
+ 
+I.S.T.A.R FACILITIES 
+ 
+Dungeon Master Notes from PAX East 2016 
+ 
+ 
+ 
+The new I.S.T.A.R facilities ensure that the Zhentarim employ only the highest quality merchants 
+and mercenaries. But something’s gone wrong. As a high ranking member of the Black Network, 
+it’s up to you to travel through the training facilities and figure out what needs to be done to get 
+them up and running again. 
+ 
+ 
+A 2-hour Adventure for Woefully Unprepared 7th level Characters 
+ 
+ 
+ 
+ 
+ 
+Patrick Rothfuss 
+Adventure Designer 
+ 
+ 
+ 
+ 
+ 
+ 
+Development and Editing: Trevor Kidd 
+ 
+DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, the dragon ampersand, Player’s Handbook, Monster Manual, Dungeon Master’s Guide, D&D Adventurers League, all other 
+Wizards of the Coast product names, and their respective logos are trademarks of Wizards of the Coast in the USA and other countries. All characters and their distinctive likenesses are property of Wizards 
+of the Coast. This material is protected under the copyright laws of the United States of America. Any reproduction or unauthorized use of the material or artwork contained herein is prohibited without the 
+express written permission of Wizards of the Coast. 
+ 
+©2016 Wizards of the Coast LLC, PO Box 707, Renton, WA 98057-0707, USA. Manufactured by Hasbro SA, Rue Emile-Boéchat 31, 2800 Delémont, CH. Represented by Hasbro Europe, 4 The Square, 
+Stockley Park, Uxbridge, Middlesex, UB11 1ET, UK.. 
+ 
+ 
+ 
+Not for resale. Permission granted to print or photocopy this document for personal use only. 
+DDEX4-02 The Beast 1 
+
+[PDF_PAGE=3]
+Not for resale. Permission granted to print or photocopy this document for personal use only. 
+I.S.T.A.R. Facilities 3  
+Introduction 
+Welcome to I.S.T.A.R Facilities, a short D&D 
+experience that captures the details of Patrick 
+Rothfuss’s adventure run at the Acquisitions 
+Incorporated live game at PAX East 2016. 
+This experience is designed for four less than 
+optimal 7th level characters played for 
+entertainment purposes. Characters outside of 
+this range will likely stomp all over your carefully 
+laid plans. 
+The adventure takes place in a hidden facility that 
+could be found in any city on Faerûn. 
+ 
+Notes, Not an Adventure 
+What you’re reading is an edited version of Patrick 
+Rothfuss’s Dungeon Master notes from PAX East 
+2016. Like most DMs that create an adventure for 
+their friends, these notes cover the basics of what 
+the characters may encounter, along with some 
+challenge ratings and monsters that we hoped 
+would be a good, fun experience based on what we 
+knew of those characters. 
+We’ve taken what Patrick wrote, added a few 
+details and formatted it to be more accessible to 
+everyone. This still leaves a lot of details open for 
+you to fill in or alter to make it more fun for your 
+group. 
+On a final note, the names of those involved in this 
+adventure have been changed to protect the 
+innocent, and the not so innocent. We decided to use 
+the Zhentarim because it fit well thematically. Feel 
+free to use whatever group or guild fits best for your 
+campaign. 
+ 
+Preparing the Adventure 
+Before you show up to Dungeon Master this 
+adventure for a group of players, you should do the 
+following to prepare. 
+ Make sure to have a copy of the most current 
+version of the D&D Basic Rules or the Player’s 
+Handbook. 
+ Read through the adventure, taking notes of 
+anything you’d like to highlight or remind yourself 
+while running the adventure, such as a way you’d 
+like to portray an NPC or a tactic you’d like to use 
+in a combat. 
+ Get familiar with the monster statistics in the 
+Appendix. 
+ Gather together any resources you’d like to use to 
+aid you in running this adventure--such as 
+notecards, a DM screen, miniatures, and 
+battlemaps. 
+ If you know the composition of the group 
+beforehand, you can make adjustments as noted 
+throughout the adventure. 
+ 
+Before Play at the Table 
+Ask the players to provide you with relevant 
+character information: 
+ Character name and level 
+ Character race and class 
+ Passive Wisdom (Perception)—the most common 
+passive ability check 
+ Anything notable as specified by the adventure 
+(such as backgrounds, traits, flaws, etc.) 
+ 
+Adjusting the Adventure 
+This experience was initially designed for the live 
+D&D game at PAX East 2016. It’s likely that you’ll 
+need or want to adjust the DCs and challenge ratings 
+for your own table. Please reference the Dungeon 
+Master’s Guide for guidelines on making those 
+adjustments. 
+ 
+Background 
+Dread Lord Riavi has been on sabbatical from 
+running the local Zehantarim guild house ever since 
+that unfortunate incident with Guild Office Manager 
+Kleff. Most people don’t know the exact details, but a 
+few months back some Harper agents managed to 
+infiltrate the guild house and stole some documents. 
+In the process, Kleff was killed and Riavi was 
+injured. 
+Riavi has designated the members of the party as 
+his temporary replacements while he’s away. If the 
+party does well in Riavi’s absence, they’re all but 
+guaranteed promotions within the Black Network. 
+It’s been a few weeks and everything has gone 
+swimmingly – bossing around the underlings, 
+kicking back and raking in a percentage of the 
+spoils! Life at the top is good, and everything seems 
+to be going fine until that flashing light goes off. 
+ 
+Overview 
+While sitting in for Dread Lord Riavi, the party 
+members are alerted to a problem with something 
+called the I.S.T.A.R system. They investigate, 
+discovering that I.S.T.A.R is a training program 
+
+[PDF_PAGE=4]
+Not for resale. Permission granted to print or photocopy this document for personal use only. 
+I.S.T.A.R. Facilities 4  
+started by Dread Lord Riavi. This new system seems 
+to be completely off the books. 
+Needing to ensure that everything continues 
+running smoothly so they can get their promotions, 
+the party heads into the I.S.T.A.R facility to 
+determine what’s gone wrong and fix it before 
+Riavi’s return. The party manages their way through 
+each room in the training facility only to be 
+confronted by the final challenge – a flesh golem 
+version of Kleff. 
+ 
+The I.S.T.A.R. Facilities 
+One of the Zhentarim underlings approaches the 
+team, letting them know that there's a flashing light 
+on a control board. Apparently there's been a 
+"Budget Overrun" in the ISTAR Facility. 
+A little digging reveals that ISTAR stands for 
+Intern Selection Training and Ranking. 
+The Zhentarim have an intern testing facility? 
+Apparently so. Apparently it's something that Riavi 
+has been developing to streamline the process of 
+acquiring new interns. 
+Dread Lord Riavi has instructed that he be 
+contacted personally when this light goes off, but the 
+underlings thought they should bring it to the party 
+instead of trying to contact their vacationing leader. 
+So if the team wants to know what's going on there, 
+they have to head over and check it out 
+themselves…. 
+The facility is on the other side of town from the 
+local Zhentarim headquarters, so after a short walk 
+the party arrives. 
+Entryway 
+Following the directions given to them leads the 
+party to a dark alley in the bad part of town. A 
+bronze plaque next to a wooden door says Intern 
+Selection Training and Ranking facility. 
+Inside is a small, windowless room. There is a 
+stack of liability waivers on a table, and metal turn 
+style that blocks the entrance to the next room. 
+There is a sign that says, "Please insert Signed 
+Waiver and intern application fee (100 GP or 
+equivalent) into the slot below." 
+There is also a small speaker grille set into the 
+wall, next to it is a small flashing red light similar to 
+the one on the Zhentarim control board. 
+If the players insert 100 GP or equivalent in the 
+slot, they will get a token that allows them to move 
+through the turnstyle into the next room. As they do 
+so, a mechanical voice crackles out of a nearby metal 
+grille (read the text aloud): 
+ 
+Testing Room 1: Catchphrase Room 
+ 
+This is a large room laid out like a tavern. There is a 
+long bar, many tables, a fireplace, and a set of stairs 
+that leads to an upper floor balcony. 
+Crude training dummies are set up at various 
+points in the room: Two patron dummies at the bar. 
+Four card-playing dummies at a table. A musician 
+dummy at the fireside. An innkeeper dummy. 
+There is a chandelier here. 
+ 
+Whenever a party member attacks one of the target 
+dummies while uttering a catch phrase, a ding 
+sounds over the loudspeaker. The mechanical voice 
+may also comment on their actions. Once all party 
+members have done this at least one, the door to the 
+next room opens. 
+As the DM, give points or grades however makes 
+you happy. Have the robotic voice praise or mock 
+the players as appropriate. As Dread Lord Riavi 
+loves swinging from chandeliers, extra points should 
+be awarded for use of the chandelier. 
+"Thank you for participating in the ISTAR program. 
+You may be held liable for damage to ISTAR facilities or 
+employees. 
+Please keep in mind that your training process will be 
+monitored for quality control and training purposes. 
+We are not responsible for any lingering injuries or 
+trauma. 
+If you experience an erection lasting more than four 
+hours… " 
+A long list of legal disclaimers continues to stream from 
+the grille as the party continues on. 
+A mechanical voice comes through the speaking grille 
+overhead: 
+“Interning with the Black Network is a rare and prestigious 
+opportunity that requires more than just the ability to fight, 
+perform magic, or disarm traps. Zhentarim interns must also 
+be able to execute their duties with a certain degree of flair 
+and style. 
+In this room you will demonstrate your ability to attack an 
+enemy while using a catchphrase. 
+You will be graded on originality and delivery." 
+
+[PDF_PAGE=5]
+Not for resale. Permission granted to print or photocopy this document for personal use only. 
+I.S.T.A.R. Facilities 5  
+As you’re looking over the items of the room, the mechanical 
+voice addresses you again. 
+“Style isn't enough to pay the bills, and as an intern, you 
+are partially responsible for the financial well-being of the 
+Black Network. 
+In this room, you will demonstrate your ability to quickly 
+and efficiently gather treasure. You will have one minute to 
+bring as much treasure as possible across the finish line. 
+You will be graded based on value of materials acquired, 
+and ranked in comparison to the rest of your intern training 
+group." 
+Testing Room 2: Treasure Room 
+This is a large open room with a dotted line painted 
+across the far end. Across the line there is a large 
+hopper. Near the entrance where the characters are, 
+there are several separate areas of note: 
+ A large open chest filled with what look like 
+bars of dwarven steel (100 bars) 
+ A small table with some gold pieces 
+scattered atop it, along with several large 
+sacks 
+ A small mockup of a wizard’s lab with a 
+table full of equipment and a bookshelf 
+ A shelf full of small statues and jewelry 
+ A large banquet table with food and 
+expensive looking cutlery 
+ A jeweled crown and scepter on the wall 
+There is a chandelier here. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The players are given one minute to grab treasure 
+and get it across the finish line. For purposes of this 
+event, grabbing items from one of the different areas 
+is an action, and it requires the players full move to 
+get to the hopper and drop off the items. It’s another 
+move action to move back to any of the areas of the 
+room that hold items. Investigating or making 
+knowledge checks is an action. Each different area 
+has its own challenges, as follows. 
+Feel free to add different items, challenges and 
+skills to your treasure room based on the kinds of 
+things you know will appeal to your players and 
+their characters. 
+1. The Chest 
+The bars of dwarven steel are incredibly heavy and 
+it will require a significant feat of strength to pick up 
+and move them. The amount of bars a character can 
+pick up and move in a turn is dependent on their 
+Strength (Athletics) check: 
+ DC 10 – Pick up/move 1 bar 
+ DC 12 – Pick up/move 2 bars 
+ DC 14 – Pick up/move 3 bars 
+ DC 16 – Pick up/move 4 bars 
+ DC 18 – Pick up/move 5 bars 
+ DC 20+ – Pick up/move 6 bars 
+A DC 15 Intelligence (Investigation) reveals that 
+the bars are worth 20 gp each. Dwarves would know 
+this without making a check. If you think another 
+check would apply to appraise the bars, the DC is 15. 
+2. The Wizard’s Lab 
+Most of the gear in the workshop area is of little 
+value. There are three main areas of 
+focus/investigation: the books, the alchemical 
+equipment and the potions. For the books, 
+Intelligence (Arcana), Intelligence (History) or 
+Intelligence (Investigation) checks reveal: 
+ DC 14: A book worth 80 gp 
+ DC 16: A book worth 120 gp 
+ DC 18: Both books (200 gp total) 
+ After making a check, a character gains a +2 
+bonus if they make the check again on a 
+later turn. 
+For the alchemical equipment, a DC 18 Intelligence 
+(Investigation) or DC 15 Intelligence (Arcana) 
+reveals a few pieces that are worth 50 gp combined. 
+For the potions, there are several scattered across 
+the table. Only three of them are worth anything 
+(100 gp each) but they’re difficult for your average 
+adventurer to identify. A successful DC 16 
+Intelligence (Arcana) or Intelligence 
+(Investigation) reveals one of the potions. They can 
+search for more potions on a subsequent turn. 
+Alternately, the player may sample a bottle to 
+determine if it’s worth anything. If they do so, roll 
+percentile. There’s a 20% chance that they take a sip 
+of one of these helpful potions and are fine. If you 
+roll the other 80%, they suffer some annoying but 
+not completely debilitating effect. Examples include: 
+ Everything smells like bubble gum 
+ You don’t understand any spoken language 
+ You see faeries everywhere 
+ You become colorblind 
+ You can’t stop laughing 
+ You look like a flumph but retain all your 
+stats/abilities 
+ You grow an extra finger on each hand 
+These are all just examples, feel free to add your 
+own flavor. These effects all last for one minute, or if 
+you’re feeling like you can use them as a future 
+adventure hook, as long as you want. 
+
+[PDF_PAGE=6]
+Not for resale. Permission granted to print or photocopy this document for personal use only. 
+I.S.T.A.R. Facilities 6  
+3. The Crown and Scepter 
+These items aren’t actually mounted on the wall – 
+they are contained in a gelatinous cube. If someone 
+approaches the crown and scepter, just before they 
+touch the creature, if they have a light source and a 
+Passive Pereception of 15 or higher (no light 
+source is a Passive Perception of 18), they see the 
+gelatinous cube. Otherwise if they try to investigate 
+or otherwise inspect the crown and scepter, they 
+step into the cube and are attacked by it in a 
+surprise round. After this, the cube will not move, 
+but it will attack anybody who comes near it and its 
+treasures. Refer to the monster appendix. The crown 
+and scepter are worth 2000 gp combined. 
+4. The Banquet Table 
+Anyone looking to loot the banquet table will 
+require a DC 15 Intelligence (Investigation) to 
+identify the most valuable loot, (4 Silver candelabras 
+worth 80GP each and 4 serving platters worth 75 GP 
+each). Whoever ate here last left everything quite 
+greasy. If a character tries to take more than one of 
+these items at a time, they must make a Dexterity 
+Save DC determined by how many items they’re 
+trying to carry. If they fail, they drop half of the 
+items and must return for them. 
+ 1-2 items – Dexterity Save DC 14 
+ 3-4 items – Dexterity Save DC 16 
+ 4-5 items – Dexterity Save DC 18 
+ 6-7 items – Dexterity Save DC 20 
+ 8 items -- Dexterity Save DC 21 
+If they fail the save by 5 or more, they fall halfway to 
+the hopper, dropping everything. If they fail by 10 or 
+more, they drop everything right as the start, on or 
+near the table. 
+5. Shelves of Figurines and Jewelry 
+The shelves full of figurines and jewelry are cheap 
+imitation crap, and are worthless. This is 
+determined after a DC 12 (Investigation). 
+6. Table with Sacks and Coins 
+The sacks sitting on the table are quite hefty and 
+obviously filled with coins. Investigating a sack takes 
+an action but reveals that it is filled with copper 
+pieces and sand (total value 30 GP.) Each sack is like 
+this, but the character won’t know that unless they 
+investigate each one. 
+A DC 10 Intelligence (Investigation) or Passive 
+Perception 18 reveals that the table itself is quite a 
+nice piece of furniture, and is worth 100 gp. Anyone 
+with a strength of 10 or higher can move the table 
+to the hopper in one turn. A character with less than 
+10 strength needs to make a DC 10 Strength 
+(Athletics) check to move it. If they fail, they can drag 
+it at half speed, taking two moves to get to the hopper. 
+Tallying the Results! 
+Once time is up, an annoying tone blares throughout 
+the room. A “ka-ching ka-ching” sound comes from 
+within the hopper as it tallies the results. When 
+done, it spits out medallions with the characters’ 
+names on them based on the value of what they 
+turned in. 
+ Players turning in 1000 GP worth of goods 
+receive a gold medallion. 
+ Players turning in 500 GP worth of goods 
+receive a silver medallion. 
+ Players turning in 200 GP worth of goods 
+receive a copper medallion 
+ Players turning in 50 GP worth of goods 
+receive a steel medallion. 
+ Players turning in between 10-50 GP worth 
+of treasure receive a tin metal labeled 
+"Participant" 
+ 
+The door will not open for players if at least one of 
+them does not possess at least a "Participant" 
+medallion. 
+The player who gathers the most treasure will 
+also receive a gold construction paper star, spit out 
+from the hopper after tallying all the scores. 
+If anybody used the chandelier for any reason 
+during the test, the hopper spits out a small Dread 
+Lord Riavi action figure for that person. 
+ 
+If someone removes treasure from the room, it turns 
+into a swarm of venomous acid-infused spider-bees 
+and after attacking the party once, dissipates in a 
+foul smelling mist. Refer to the monster appendix. 
+Testing Room 3: Teambuilding 
+Room 
+ 
+In front of the door leading to this room, there is a 
+bowl with a number of stones equal to the number 
+of party members, and a placard that reads “Please 
+take one.” A magical barrier prevents anyone from 
+entering the room if they don’t have a stone 
+This room consists of two balconies facing each 
+other across a fifteen foot gap. It is a 20 foot fall to 
+the floor below. 
+There are a lot of bones here. 
+As you leave the room, you receive another message from 
+the voice behind the metal grate. 
+“Intern hopefuls are reminded that all treasure removed 
+from the testing room will be transformed into venomous 
+acid-infused spider-bees.” 
+
+[PDF_PAGE=7]
+Not for resale. Permission granted to print or photocopy this document for personal use only. 
+I.S.T.A.R. Facilities 7  
+The voice from the metal grille fills the room. Testing Room 5: The Emomel 
+Memorial Acid Pit Training Room 
+ 
+Emomel was a favored intern who showed promise 
+with the local Zhentarim. Unfortunately he had a 
+fatal encounter with an acid trap. This room is the 
+way Riavi chooses to honor Emomel’s memory. 
+ 
+ 
+ 
+ 
+The tools can be found in wood containers near the 
+door. They are: 
+• 100 feet of silk cord. 
+• 10 foot pole 
+• 50 hammers. 
+• A bedsheet. 
+• 7 six-foot planks of wood. 
+• Four 50 gallon barrels containing honey, 
+vinegar, beer, and flour. 
+• 100 eighteen inch planks of wood 
+• 12 iron spikes 
+• A silver mirror 
+ 
+Performance countermeasures include, but are not 
+limited to: 
+• Blind. 
+• Can only speak in rhyme 
+• One leg/arm turned to stone. 
+• Forced to carry a kitten. (Be warned, if at 
+any point you are not carrying the  kitten, 
+you will be lit on fire.) 
+Magic has not actually been deactivated in this 
+room. If they use magic to get across, they are 
+praised for independent thought and given bonus 
+points. 
+If the players start to take too long in the room, 
+the voice will announce that a performance 
+motivator is being activated, and in five minutes, 
+spider wolves and ghost sharks will be released into 
+the room to encourage further lateral thinking. Refer 
+to the monster appendix 
+There is an invisible chandelier in the room. If the 
+players discover it, they can easily swing to the 
+other side with a DC 8 Dexterity (Acrobatics).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This is another large open room. 
+There is a chandelier here. 
+The players enter on a ledge that falls off after ten 
+feet, dropping into a five foot deep pit filled with 
+green acid. Glowing stones at the bottom of the acid 
+pit give off the only light in the room. Jutting up from 
+the pit are several islands and columns. All of these 
+are square, ranging in size from only a couple feet 
+wide to a few that are twenty feet wide. 
+ 
+There are quite a lot of bones in the acid pit. 
+ 
+It is up to the party members to find a path across 
+the pit. Using nothing but their own abilities to move 
+and jump, this will require various Strength 
+(Athletics) or Dexterity (Acrobatics) checks 
+ranging from DC 10 to DC 16. Failure on these 
+checks mean they fall into the acid. Certain spells 
+may also prove useful, along with equipment and 
+teamwork. There are various ways the players could 
+get across, so this is another moment where the 
+team’s creativity could shine. 
+Once one of the members makes it across the pit, 
+they find a ledge on the other side, along with a large 
+gong. A DC 10 Intelligence (Investigation) reveals 
+faint elven script etched along the outer edge of the 
+gong. For those who understand elven, it reads: 
+“Whatever you do, if you value the life of your 
+companions, DO NOT HIT THIS GONG!” 
+ 
+If someone hits the gong, some of the platforms 
+lower into the acid pit. As the DM, you choose which 
+“Interns must be able to work toward a common goal. Using 
+the tools provided, work with your fellow surviving interns to 
+cross to the far side of the room. 
+Due to your performance so far, each of you will be 
+randomly assigned a performance countermeasure. This will 
+hopefully allow you to showcase your ability to overcome 
+obstacles and engage in lateral thinking. 
+Lastly, note that magic has been deactivated in this room. 
+As you enter the next room, you’re assaulted with the caustic 
+odor of strong acid. A green glow emanates from a large, 
+liquid filled pit in the center of the room, creating rippling 
+shadows that dance across the walls and ceiling. The voice 
+from the metal grille addresses you again. 
+“Due to an increase in acid related accidents and the 
+subsequent insurance claims, we now require all hopeful 
+interns to have a familiarity with acid pits and traps. This 
+one’s very simple - stay out of the acid. “ 
+Mind the Gap 
+A fifteen foot gap isn't much of an obstacle. Most of the fun 
+will come from the players having to deal with the sudden 
+handicaps. There are plenty of ways for them to get across 
+without building any sort of bridge. Reward ingenuity from 
+the players, or be an unfair and vindictive god to them. It's 
+your game. 
+
+[PDF_PAGE=8]
+Not for resale. Permission granted to print or photocopy this document for personal use only. 
+I.S.T.A.R. Facilities 8  
+of those platforms lower. Anyone on those platforms 
+can make a DC 14 Dexterity Save to jump to a 
+nearby platform. 
+If anybody falls into the acid at any point, they 
+take 7 (or 2d6) points of acid damage. If a person 
+starts their turn in the acid, they take 7 (or 2d6) 
+points of acid damage. A person can climb out onto 
+any adjacent platform with a DC 10 Strength 
+(Athletics). An adjacent ally can help them up, 
+giving them advantage on the check. A person may 
+pull an adjacent ally out of the acid by spending an 
+action and succeeding on a DC 14 Strength 
+(Athletics). 
+Once everybody is across (or at least, everybody 
+who’s alive), the door opens to the next room. 
+Trust Falls, Performance Reviews, 
+and Contract Negotiations 
+This is a large room. It contains a coffee machine, 
+several beanbags, and a large desk with a swivel 
+chair. 
+ 
+There is a chandelier here. 
+ 
+There are quite a lot of bones around here. 
+If they see that their attacks aren’t doing any 
+damage, you may need to jog their memories, or let 
+them make a wisdom check DC 10 to see that there 
+might have been more meaning to the mechanical 
+voices reminder to “remember your training.” 
+The chandelier in this room is purely decorative 
+and cannot be cut free or swung from. Kleff has 
+secured it. 
+If you think the fight is going to be too easy for the 
+players or you just need some extra monsters to 
+spice things up, skeletons wearing Zhentarim intern 
+uniforms rise from the surrounding bone pits and 
+attack alongside Kleff. 
+ 
+ 
+Risk and Reward 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Refer to Kleff’s stats in the monster appendix. Keep 
+in mind that players who do not have magical 
+weapons will not be able to damage the creature 
+without spouting off a catch-phrase or biting words 
+along with the attack, similar to what they learned in 
+the first training room. 
+The party stands amidst the remains of fallen 
+interns and the destroyed Kleff Golem. As they catch 
+their breath, a secret door hidden in the room’s back 
+wall opens, and Dread Lord Riavi saunters in, 
+whistling a carefree tune. 
+Seeing the party and the state they’re in, Riavi 
+explains that the “Budget Overrun” light just 
+indicates the bin that collects the application fees is 
+full again. He opens the compartment, revealing a 
+large sack containing coins, gems, and other 
+valuables. Among them, he finds a fancy looking new 
+cloak, which he immediately dons. Flashing the 
+party a big smile, he tosses the sack over his 
+shoulder. 
+“Keep up the good work,” Riavi says over his 
+shoulder as he flips the party a platinum piece. He 
+then saunters out of the facility. 
+After you defeat Kleff, the mechanical voice returns, 
+accompanied by a trumpet fanfare. 
+"Congratulations! You have completed the ISTAR program 
+and your score has been recorded. Your application is on file, 
+and you will be contacted with any employment 
+opportunities as soon as they become available. 
+Remember, if you would like to improve your ISTAR score 
+and rank, and therefore gain access to more lucrative 
+interning opportunities, please feel free to return to the front 
+foyer and complete the course again, honing your skills and 
+refining your performance." 
+The all-to-familiar mechanical voice greets you once again. 
+“Negotiating the fine points of your employment contract 
+are an oft-overlooked part of intern training. But we here at 
+ISTAR want you to be as prepared as possible. Please take 
+this opportunity to enter into a trial negotiation with our 
+state-of-the-art Negotiator simulacrum. Good luck and 
+remember your training.” 
+The swivel chair slowly turns, revealing a somewhat 
+familiar figure. 
+It’s Kleff! 
+Or at least it might be Kleff? 
+The figure looks a lot like Kleff, but it’s clear that patches 
+of skin from different creatures have been stitched together, 
+and this thing is much larger and more intimidating that Kleff 
+ever was. 
+Kleff, recognizing fellow Zhentarim who failed to save him, 
+stands and attacks with a vengeance. 

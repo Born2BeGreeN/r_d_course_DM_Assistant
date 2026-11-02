@@ -1,0 +1,7 @@
+{
+    "status":  "probe_denied_in_sandbox",
+    "cpu":  null,
+    "memory_bytes":  null,
+    "graphics":  null,
+    "note":  "CIM queries returned Access denied. No hardware measurements inferred."
+}

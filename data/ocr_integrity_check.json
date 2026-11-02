@@ -1,0 +1,26 @@
+{
+  "original_pdf_hashes_verified": 40,
+  "base_text_hashes_verified": 30,
+  "base_manifest_unchanged": true,
+  "shared_snapshot_count": 30,
+  "provider_local_snapshot_equal": true,
+  "review_counts": {
+    "unresolved": 19,
+    "partial_unresolved": 1
+  },
+  "changed_candidates": [
+    "pdf_f8d409ea73d3cc0d9ed4"
+  ],
+  "changed_inputs": [
+    {
+      "text_id": "pdf_f8d409ea73d3cc0d9ed4_p004-007",
+      "parent_text_sha256": "4287e0735da7280fd7510faa6129be63fd87866efccbe057911bb3cceaabf300",
+      "text_sha256": "6a1a941489e8d8b5d30664dc8a5631fc5de3a368bda14552d099a1ceebe8b641",
+      "ocr_pages": [
+        6
+      ]
+    }
+  ],
+  "reviewed_labels_present": 0,
+  "experiment_result_files_present": 0
+}

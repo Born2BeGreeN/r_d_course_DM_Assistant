@@ -1,0 +1,122 @@
+{
+  "manifest_path": "data/ocr_revisions/windows-v1/manifest.jsonl",
+  "manifest_sha256": "2deaedfd5b6fd9e13e55814c7d5a53b004f06da114a3dbf9c5d2926103bb73e1",
+  "source_manifest_sha256": "70bd188f73eec2abe118b4ea4f4a6b8ba78a2c1db6bb7388b1ec74212a37f9c8",
+  "status": "prepared_not_evaluation_frozen",
+  "changed_inputs": [
+    {
+      "text_id": "pdf_f8d409ea73d3cc0d9ed4_p004-007",
+      "parent_text_sha256": "4287e0735da7280fd7510faa6129be63fd87866efccbe057911bb3cceaabf300",
+      "text_sha256": "6a1a941489e8d8b5d30664dc8a5631fc5de3a368bda14552d099a1ceebe8b641",
+      "ocr_pages": [
+        6
+      ]
+    }
+  ],
+  "changed_candidates": [
+    "pdf_f8d409ea73d3cc0d9ed4"
+  ],
+  "unresolved_pages": [
+    {
+      "document_id": "pdf_ba9316a7014feccf4bb6",
+      "pdf_page": 1,
+      "reason": "Cover title/author readable, but subtitle drops city name and other words; no cover text imported."
+    },
+    {
+      "document_id": "pdf_ff441e92bceb59bcb0e4",
+      "pdf_page": 1,
+      "reason": "OCR output incomplete, stylized, or not verified for import; source retained unchanged."
+    },
+    {
+      "document_id": "pdf_ff441e92bceb59bcb0e4",
+      "pdf_page": 4,
+      "reason": "OCR output incomplete, stylized, or not verified for import; source retained unchanged."
+    },
+    {
+      "document_id": "pdf_090c3a438c6f390a53ad",
+      "pdf_page": 1,
+      "reason": "OCR output incomplete, stylized, or not verified for import; source retained unchanged."
+    },
+    {
+      "document_id": "pdf_ed1f6f3fe3a8590a550a",
+      "pdf_page": 1,
+      "reason": "OCR output incomplete, stylized, or not verified for import; source retained unchanged."
+    },
+    {
+      "document_id": "pdf_c3c28a791428af7f0399",
+      "pdf_page": 1,
+      "reason": "OCR output incomplete, stylized, or not verified for import; source retained unchanged."
+    },
+    {
+      "document_id": "pdf_d8ff4cbe2f96493c88cc",
+      "pdf_page": 5,
+      "reason": "OCR output incomplete, stylized, or not verified for import; source retained unchanged."
+    },
+    {
+      "document_id": "pdf_3ced5a2b5433e507a2f9",
+      "pdf_page": 1,
+      "reason": "OCR output incomplete, stylized, or not verified for import; source retained unchanged."
+    },
+    {
+      "document_id": "pdf_8b03203423fdcb8be913",
+      "pdf_page": 1,
+      "reason": "OCR output incomplete, stylized, or not verified for import; source retained unchanged."
+    },
+    {
+      "document_id": "pdf_5e5c8a49a5768666500a",
+      "pdf_page": 1,
+      "reason": "no_text_recognized"
+    },
+    {
+      "document_id": "pdf_af58a4c3bae84d680fb5",
+      "pdf_page": 1,
+      "reason": "Mostly readable cover, but D&D banner omitted. Cover outside selected pages; no automatic import."
+    },
+    {
+      "document_id": "pdf_7a2ed7e7a7d2d48c4045",
+      "pdf_page": 1,
+      "reason": "language_unavailable"
+    },
+    {
+      "document_id": "pdf_fb44e1ed23f8853082fc",
+      "pdf_page": 1,
+      "reason": "OCR output incomplete, stylized, or not verified for import; source retained unchanged."
+    },
+    {
+      "document_id": "pdf_7ca9a50d7d9a6803a1b7",
+      "pdf_page": 1,
+      "reason": "OCR output incomplete, stylized, or not verified for import; source retained unchanged."
+    },
+    {
+      "document_id": "pdf_9febf00b6bec60ef3b44",
+      "pdf_page": 8,
+      "reason": "OCR output incomplete, stylized, or not verified for import; source retained unchanged."
+    },
+    {
+      "document_id": "pdf_c8731a04ea075b101b54",
+      "pdf_page": 20,
+      "reason": "OCR output incomplete, stylized, or not verified for import; source retained unchanged."
+    },
+    {
+      "document_id": "pdf_c8731a04ea075b101b54",
+      "pdf_page": 21,
+      "reason": "OCR output incomplete, stylized, or not verified for import; source retained unchanged."
+    },
+    {
+      "document_id": "pdf_170a25a9c04ff189919a",
+      "pdf_page": 3,
+      "reason": "Handwritten sideways map: giy before rotation, illfqye after 270-degree rotation; neither usable."
+    },
+    {
+      "document_id": "pdf_f8d409ea73d3cc0d9ed4",
+      "pdf_page": 1,
+      "reason": "OCR output incomplete, stylized, or not verified for import; source retained unchanged."
+    },
+    {
+      "document_id": "pdf_f8d409ea73d3cc0d9ed4",
+      "pdf_page": 6,
+      "reason": "Visually compared Trademoot Features text box: accept exact first 20 OCR lines. Remaining rotated map labels and scale have omissions/noise and remain unresolved."
+    }
+  ],
+  "input_contract": "Both adapters must use the same locked dataset snapshot and exact text bytes; no provider-specific OCR/preprocessing."
+}

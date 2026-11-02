@@ -1,0 +1,717 @@
+[PDF_PAGE=1]
+Not for resale. Permission granted to print or photocopy this document for personal use only.  KAI DYNASTY 1 
+KAI DYNASTY 
+ 
+ 
+ 
+A Forgotten Realms Adventure in the Anauroch  
+ 
+ 
+Kai Dynasty is a D&D 5th Edition adventure designed for a DM’s use in any Forgotten Realms 
+campaign that take place in or near the Anauroch desert. This adventure includes five NPCs, the 
+background for a lich, and a number of monsters based on the monk psionicists trained by the Kai 
+Dynasty. While this was designed as a level 4 adventure module to be run in about 20 hours, you will 
+notice that the adventure focuses mainly on roleplay and puzzles, and only the NPCs will need to be 
+adjusted to suit the desired difficulty. 
+ 
+ 
+A 20-HOUR ADVENTURE FOR 4TH-5TH LEVEL CHARACTERS 
+ 
+ 
+ 
+  
+ 
+Designed by PELLE JUEL 
+Written by JUSSI R. FOLTMAR SVENDSEN 
+ 
+ 
+ 
+ 
+ 
+DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, the dragon ampersand, Player’s Handbook, Monster Manual, Dungeon Master’s Guide, D&D Adventurers League, all other 
+Wizards of the Coast product names, and their respective logos are trademarks of Wizards of the Coast in the USA and other countries. All characters and their distinctive likenesses are property of Wizards 
+of the Coast. This material is protected under the copyright laws of the United States of America. Any reproduction or unauthorized use of the material or artwork contained herein is prohibited without the 
+express written permission of Wizards of the Coast. 
+ 
+©2016 Wizards of the Coast LLC, PO Box 707, Renton, WA 98057-0707, USA. Manufactured by Hasbro SA, Rue Emile-Boéchat 31, 2800 Delémont, CH. Represented by Hasbro Europe, 4 The Square, 
+Stockley Park, Uxbridge, Middlesex, UB11 1ET, UK. 
+  
+
+
+[PDF_PAGE=2]
+Not for resale. Permission granted to print or photocopy this document for personal use only.  KAI DYNASTY 2 
+KAI DYNASTY 
+Kai’Tel’Quess means the Kai People in elvish and 
+refers to the descendants and followers of the leaders of 
+a group of psionicist monks from the city of Evereska 
+who travelled east into the Anauroch. These were 
+members of the Kaliesh’Erai, the psionic elves of 
+Evereska, who now practice special forms of martial art 
+at the Kai Monastery in the Anauroch. 
+ —Akai, the youngest of the Kai Dynasty 
+ABOUT THE ADVENTURE 
+The Kai Monastery was built in the Anauroch by the 
+elves of Evereska as a safe haven for the Kai’Tel’Quess. 
+It has remained secret until the latest matriarch, Elikai 
+started to spread its notoriety through her evil deeds. In 
+recent years, however, the Kai Monastery has fallen 
+silent again, and only a few know of its existence. 
+ADVENTURE BACKGROUND 
+Years ago, Elikai’s youngest son Akai interrupted her 
+while she was conducting a ritual to turn herself into a 
+lich. The ritual was almost completed, which meant that 
+Elikai’s spirit was put into her phylactery, but she never 
+rose as a lich. Instead, Akai fled from the Kai 
+Monastery with the phylactery, tired of his mother’s 
+actions that were giving the Kai’Tel’Quess a bad 
+reputation. Before fleeing from his home and family, he 
+learned that the light of a full moon would complete the 
+ritual and release Elikai, and only in the depths of the 
+Kai Monastery where the phylactery had been forged, 
+could it be destroyed. 
+ Recently, Akai has gotten word from the Kai 
+Monastery that his sister Likai is getting married. He is 
+going to use this opportunity to travel to the Kai 
+Monastery and attempt to destroy Elikai’s phylactery. 
+He also misses his siblings, which he knows won’t 
+harm him, even though they will most likely attempt to 
+release Elikai. 
+ As a precaution, Akai will gather a group of 
+adventurers that will serve as a backup plan in case he 
+fails, but he will keep the mission on a need-to-know 
+basis since he fears what others may do with Elikai’s 
+phylactery, or against his family and the rest of the 
+Kai’Tel’Quess. 
+ADVENTURE HOOKS 
+ The players may know Akai personally, 
+although they probably don’t know his past, 
+which is something he keeps to himself. Akai 
+will contact the party and invite them along to 
+his sister’s wedding, hoping that if anything 
+goes wrong, then the players will help him and 
+finish what he started. 
+ 
+ The players may be travelling the Anauroch, or 
+the area near Evereska, in which case they are 
+hired to escort a group of travelers going into 
+the Anauroch for a mysterious wedding. Akai 
+is hoping that hiring the party is enough for the 
+players to come to his aid and finish what he 
+started if something goes wrong. 
+ The players may travel to the edge of the 
+Anauroch near Evereska in search of a rare 
+herb that only grows in this area. This is a side 
+quest that can be introduced at the camp after 
+the adventure has started in case the players 
+have one of the other hooks, or it can be used 
+to bring the players to the region where they 
+are then introduced to Akai who gives them 
+one of the previous adventure hook. 
+IMPORTANT NPCS 
+The three ruling siblings of the Kai’Tel’Quess play a 
+major role in this adventure, and the party may end up 
+in a confrontation against them. In their journey to the 
+Kai Monastery, the party meet two other important 
+characters who serve as aids and guides to avoid a 
+situation where the players find themselves lost in the 
+Anauroch, which would most likely end in death. All 
+five of these NPCs are described in detail below. 
+AKAI, YOUNGEST OF THE KAI DYNASTY 
+Medium humanoid (moon elf), neutral good 
+Armor Class 19 
+Hit Points 26 (4d8 + 8) 
+Speed 40 ft. 
+STR DEX CON INT WIS CHA 
+13 (+1) 20 (+5) 14 (+2) 12 (+1) 18 (+4) 8 (-1) 
+Saving Throws Str +3, Dex +7 
+Skills Acrobatics +7, Deception +1, Perception +6, 
+Sleight of Hand +7, Stealth +7,  
+Senses darkvision 60 ft., passive Perception 16 
+Languages Common, Elvish 
+Challenge 3 (700 XP) 
+Unarmored Movement. While Akai is wearing no 
+armor and wielding no shield, his speed is increased by 
+10 ft. 
+Unarmored Defense. While Akai is wearing no armor 
+and wielding no shield, his AC includes his Wisdom 
+modifier. 
+Actions 
+Multiattack. Akai makes three unarmed strikes. 
+
+[PDF_PAGE=3]
+Not for resale. Permission granted to print or photocopy this document for personal use only.  KAI DYNASTY 3 
+Unarmed Strike. Melee Weapon Attack: +7 to hit, 
+reach 5 ft., one target. Hit: 7 (1d6 + 4) bludgeoning 
+damage. 
+ 
+Akai is the youngest son of Elikai and one of the 
+three ruling siblings of the Kai Monastery. He is a tall 
+thin moon elf specialized in stealth. He usually wears 
+light and bright clothing that still somehow blends 
+with his surroundings. He prefers to keep his face 
+hidden and strides with determination. He foiled his 
+mother’s plans to become a lich, trapped her in her 
+own phylactery, and fled from his home and family a 
+few years ago. Since then, he has found work as an 
+adventurer. 
+BELL, A YOUNG DESERT GUIDE 
+Medium humanoid (human), lawful neutral 
+Armor Class 12 (15 with mage armor) 
+Hit Points 33 (6d8 + 6) 
+Speed 30 ft. 
+STR DEX CON INT WIS CHA 
+9 (-1) 15 (+2) 13 (+1) 16 (+3) 11 (+0) 14 (+2) 
+Saving Throws Con +5, Cha +5 
+Skills Athletics +2, Arcana +6, Religion +6, Survival +3 
+Senses passive Perception 10 
+Languages Common, Elvish 
+Challenge 1 (200 XP) 
+Spellcasting. Bell is a 6th-level spellcaster. Her 
+spellcasting ability is Charisma (spell save DC 12, +4 to 
+hit with spell attacks). Bell knows the following 
+sorcerer spells: 
+Cantrips (at will): blade ward, chill touch, light, 
+prestidigitation, ray of frost 
+1st level (4 slots): mage armor, magic missile, shield 
+2nd level (3 slots): knock, see invisibility 
+3rd level (3 slots): counterspell, dispel magic 
+Actions 
+Dagger. Melee or Ranged Weapon Attack: +5 to hit, 
+reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 
++ 2) piercing damage. 
+ 
+Bell is attuned to an orb of the stein rune, which is 
+described in Appendix A: Magical Items or in 
+Unearthed Arcana: Prestige Class and Rune Magic. 
+ Bell is a young pale sorceress with short dark hair 
+and deep brown eyes. She has guided many in and 
+out of the Anauroch in her light and loose dark rose 
+red clothing. On her travels she has come upon a 
+magical rune. She found a rune scribe and thus 
+gained knowledge in how to use the rune she had 
+found. She has now returned to the Anauroch to 
+continue her vocation, but she is curious to find 
+more runes and rune scribes. 
+GIMP, A SVIRFNEBLIN MERCHANT 
+Small humanoid (deep gnome), chaotic good 
+Armor Class 13 
+Hit Points 33 (6d6 + 12) 
+Speed 20 ft. 
+STR DEX CON INT WIS CHA 
+14 (+2) 16 (+3) 14 (+2) 12 (+1) 10 (+0) 8 (-1) 
+Skills Investigation +3, Perception +2, Stealth +5 
+Senses darkvision 120 ft., passive Perception 12 
+Languages Common, Elvish, Gnomish, Terran, 
+Undercommon 
+Challenge 1 (200 XP) 
+Stone Camouflage. Gimp has advantage on Dexterity 
+(Stealth) checks made to hide in rocky terrain. 
+Gnome Cunning. Gimp has advantage on Intelligence, 
+Wisdom, and Charisma saving throws against magic. 
+Innate Spellcasting. Gimp’s innate spellcasting ability is 
+Intelligence (spell save DC 11). He can innately cast the 
+following spells, requiring no material components: 
+At will: nondetection (self only) 
+1/day each: blindness/deafness, blur, disguise self 
+Actions 
+Multiattack. Gimp makes two melee attacks: one 
+with his short sword and one with his dagger. 
+Shortsword: Melee Weapon Attack: +5 to hit, reach 5 
+ft., one target. Hit: 6 (1d6 + 3) piercing damage. 
+Dagger. Melee or Ranged Weapon Attack: +5 to hit, 
+reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d4 
++ 3) piercing damage. 
+ 
+Gimp is a small ugly little deep gnome that looks a 
+bit like a goblin. He wears ragged striped clothes and 
+sandals. At a young age he learned that he had a 
+talent for selling human wares on the surface and 
+now travels the Forgotten Realms. He has gathered a 
+number of human followers. In this adventure his 
+followers are referred to as henchmen and count as 
+
+[PDF_PAGE=4]
+Not for resale. Permission granted to print or photocopy this document for personal use only.  KAI DYNASTY 4 
+3 thugs. These thugs are more like bandits who have 
+ended up working on the devious plots and schemes 
+Gimp makes up to make them all rich. In this 
+adventure, this group is disguised as a band of 
+entertainers who are trying to infiltrate the Kai 
+Monastery in an attempt to steal from it during the 
+wedding. They plan to use the herb described in this 
+adventure to cause a distraction while they steal the 
+wedding gifts. 
+LIKAI, DAUGHTER OF THE KAI DYNASTY 
+Medium humanoid (moon elf), lawful evil 
+Armor Class 19 
+Hit Points 71 (13d8 + 13) 
+Speed 45 ft. 
+STR DEX CON INT WIS CHA 
+14 (+2) 20 (+5) 12 (+1) 10 (+0) 18 (+4) 8 (-1) 
+Saving Throws Str +5, Dex +8 
+Skills Acrobatics +8, Insight +7, Perception +7 
+Senses darkvision 60 ft., passive Perception 17 
+Languages Common, Elvish 
+Challenge 5 (1,800 XP) 
+Unarmored Movement. While Likai is wearing no 
+armor and wielding no shield, her speed is increased by 
+15 ft. 
+Unarmored Defense. While Likai is wearing no armor 
+and wielding no shield, her AC includes her Wisdom 
+modifier. 
+Actions 
+Multiattack. Likai makes four melee attacks with 
+her quarterstaff. 
+Quarterstaff. Melee Weapon Attack: +8 to hit, reach 
+5 ft., one target. Hit: 8 (1d6 + 5) bludgeoning 
+damage, or 9 (1d8 + 5) bludgeoning damage if 
+wielded with two hands. 
+Likai is the only daughter of Elikai and one of the 
+three ruling siblings of the Kai Monastery. She is a 
+silver haired moon elf who adores to wear gold and 
+silver clothing that waves in the wind. She wears 
+golden jewelry and sandals. Her weapon of choice is 
+her long thin black staff with brass ends. She feels 
+that she has a lot to live up to with Elikai gone, and 
+would therefore prefer to have her mother back. She 
+doesn’t feel ready to be the matriarch of the Kai 
+Dynasty. 
+ 
+ 
+ 
+TAKAI, ELDEST OF THE KAI DYNASTY 
+Medium humanoid (moon elf), lawful evil 
+Armor Class 19 
+Hit Points 71 (13d8 + 13) 
+Speed 45 ft. 
+STR DEX CON INT WIS CHA 
+14 (+2) 20 (+5) 12 (+1) 10 (+0) 18 (+4) 8 (-1) 
+Saving Throws Str +5, Dex +8 
+Skills Athletics +5, Insight +7, Perception +7 
+Senses darkvision 60 ft., passive Perception 17 
+Languages Common, Elvish 
+Challenge 5 (1,800 XP) 
+Unarmored Movement. While Takai is wearing no 
+armor and wielding no shield, his speed is increased by 
+15 ft. 
+Unarmored Defense. While Takai is wearing no armor 
+and wielding no shield, his AC includes his Wisdom 
+modifier. 
+Actions 
+Multiattack. Takai makes four unarmed strikes. 
+Unarmed Strike. Melee Weapon Attack: +8 to hit, 
+reach 5 ft., one target. Hit: 9 (1d8 + 5) bludgeoning 
+damage. 
+Takai is the eldest son of Elikai and one of the three 
+ruling siblings of the Kai Monastery. He is a tall bald 
+broad shouldered moon elf specialized in martial 
+arts. He wears grey and white clothes with a large 
+number of strips of cloth. He is confident and 
+ambitious, and always tries to pit his sister Likai 
+against his brother Akai to ensure that he has the 
+most support. 
+
+[PDF_PAGE=5]
+Not for resale. Permission granted to print or photocopy this document for personal use only.  KAI DYNASTY 5 
+PART 1: INTO THE ANAUROCH 
+The first part of the adventure introduces the players to 
+the NPCs and brings them into the Anauroch. It also 
+introduces them to the plot and eventually leads them to 
+the Kai Monastery where the second part of the 
+adventure begins. 
+THE CAMP 
+On the edge of the Anauroch, at the foot of the 
+Graycloak Hills, the players start in a camp set up by 
+travelers who are gathering to form a caravan that is 
+going to head into the Anauroch. The camp consists of 
+tents of various sizes set up mainly by moon elves. 
+There are a number of camels, the players can purchase 
+a single one if they want. If the players want other gear, 
+some of the merchants have set up tents and smithies 
+where the party can purchase any standard gear as listed 
+in the Player’s Handbook. 
+ The camp has been up for about a tenday and it has 
+been growing as people have gathered to prepare the 
+caravan into the Anauroch. In that time a large tent has 
+been set up to serve as a tavern with drinks, food, and 
+music. In other words, the camp is a tool to gather the 
+party, let them purchase gear they need, meet NPCs, 
+and introduce them to the adventure. 
+MEETING THE NPCS 
+Use the camp to introduce Akai, which in turn 
+introduces his siblings Likai and Takai. The two are 
+very friendly but not very talkative. They try to keep to 
+themselves and attempt to bring Akai away from the 
+party. The three siblings will go to the Kai Monastery, 
+which is a tenday into the Anauroch, before the caravan 
+departs. Likai still has preparations to make for the 
+wedding, and they are only at the camp to meet Akai, 
+which insists that the players should come along to the 
+monastery. When the players are ready, they will 
+depart. 
+ You may also use the camp to introduce Bell and 
+Gimp, and any other side quests you want, including the 
+retrieval of a rare herb that can be found in a nearby 
+cave out in the Anauroch. 
+AKAI’S CAPTURE 
+As the party moves into the Anauroch, not even a day 
+passes before they are separated. This can happen in 
+different ways: 
+ The party travels to the cave to retrieve the 
+herb, in which case the Kai siblings say that 
+they will meet the party at the first oasis and 
+gives them directions to it. The Kai siblings 
+aren’t present at the oasis when the party 
+arrives. If Bell isn’t with the party, then they 
+should meet Gimp and his three henchmen on 
+their way to the cave. In exchange for the 
+herbs, Gimp will then serve as a guide through 
+the desert to the Kai Monastery. 
+ The party is abandoned in the desert by Likai 
+and Takai who capture Akai. The players, now 
+lost in the Anauroch, will have three choices.  
+o They can attempt to travel towards the 
+Kai Dynasty and should run into the 
+first oasis. Since it’s magical, it 
+doesn’t really matter whether the 
+players are lost or not. If Bell isn’t 
+with the party, then at the first oasis 
+the party will meet Gimp and his 
+three henchmen. 
+o They can travel towards a nearby cave 
+they can see, which is the cave that 
+contains the rare herb as described 
+later. On their way to the cave, if Bell 
+isn’t with the party, they meet Gimp 
+and his three henchmen. 
+o They can travel towards the mirage of 
+a nearby oasis, which is actually the 
+abode of a druid. 
+ If all fails, then let a sandstorm hit the party. In 
+this case the party will be saved by the druid 
+but Likai and Takai will capture Akai and 
+hurry towards the Kai Monastery. If this 
+presents itself as a challenge, Likai and Takai 
+can always capture Akai while the party is 
+trying to solve the druid’s puzzle as described 
+later. 
+DESERT WEATHER 
+A number of rules need to be highlighted as the party 
+travels into the Anauroch. 
+ Extreme Heat: If a character doesn’t have access to 
+drinkable water, it needs to succeed a Constitution 
+saving throw at the end of each hour or gain one level 
+of exhaustion. The DC is 5 for the first hour and 
+increases by 1 for each additional hour. Creatures 
+wearing medium or heavy armor, or who are clad in 
+heavy clothing, have disadvantage on the saving throw. 
+Creatures with resistance or immunity to fire damage 
+automatically succeed on the saving throw, as do 
+creatures naturally adapted to hot climates. 
+ Sandstorm: A sandstorm is a heavily obscured area, 
+and any creature in it effectively suffers from the 
+blinded condition. It also imposes disadvantage on 
+ranged weapon attack rolls and Wisdom (Perception) 
+checks that rely on hearing. 
+
+[PDF_PAGE=6]
+Not for resale. Permission granted to print or photocopy this document for personal use only.  KAI DYNASTY 6 
+ Water: A character needs two gallons of water per 
+day in the Anauroch. A character who drinks only half 
+that much water must succeed on a DC 15 Constitution 
+saving throw or suffer one level of exhaustion at the end 
+of the day. A character with access to even less water 
+automatically suffers one level of exhaustion at the end 
+of the day. If the character already has one or more 
+levels of exhaustion, the character takes two levels in 
+either case. Furthmore, if the character doesn’t have 
+access to water, the character also suffers from extreme 
+heat as described above. 
+ Becoming Lost:  Without one of the five NPCs 
+described earlier, the party run the risk of becoming 
+lost. The party’s navigator makes a Wisdom (Survival) 
+check when you decide it’s appropriate, against DC 10. 
+If the party is moving at a slow pace, the navigator 
+gains a +5 bonus to the check, and a fast pace imposes a 
+-5 penalty. Note that the navigator has advantage on the 
+check when the character can see the sun or stars. 
+ If the Wisdom (Survival) check succeeds, the party 
+travels in the desired direction without becoming lost. If 
+the check fails, the party inadvertently travels in the 
+wrong direction and becomes lost. The party’s 
+navigator can repeat the check after the party spends 
+1d6 hours trying to get back on course. 
+ If the party gets lost before reaching the first oasis, 
+then let the druid described later save them. After 
+meeting the druid, the party will find their way to the 
+first oasis, which is magical in nature and which 
+therefore finds them even if they are lost. At this oasis 
+the party should meet Gimp and three of his henchmen, 
+who have disguised themselves as entertainers for the 
+Kai wedding in the hopes of stealing from the Kai 
+Monastery. 
+THE HERB CAVE 
+In a cave at the outskirts of the Anauroch grows a rare 
+herb. An Intelligence (History) check DC 20 lets a 
+character know the myth of the cave. Years ago, a 
+wife’s husband found an abandoned goblin cave and 
+ventured into it in search of treasure. The wife quickly 
+followed her husband down into the cave. Instead of 
+treasure he found a beautiful flower, which he was 
+picking as his wife caught up to him. He was surprised 
+when his wife startled him and mysteriously and 
+ferociously attacked her, killing her. 
+ An Intelligence (Nature) check DC 25 reveals that 
+the flower is poisonous. In its natural state it must be 
+inhaled and exudes a dose each round for 5 rounds in a 
+10-foot sphere. When the flower is dried it can be 
+combined with food or drinks to be ingested instead. 
+The character also learns the following about the herb. 
+ Rage Herb (Inhaled/Ingested). A creature subjected 
+to this poison must make a DC 17 Constitution saving 
+throw or be poisoned for 1 minute. The poisoned 
+creature suffers from a fit of rage and attacks the nearest 
+creature while under the effects of rage. 
+ The poisoned creature has advantage on 
+Strength checks and Strength saving throws. 
+ When the poisoned creature makes a melee 
+weapon attack using Strength, it gains a +2 
+bonus to the damage roll. 
+ The poisoned creature has resistance to 
+bludgeoning, piercing, and slashing damage. 
+The cave itself is guarded by 4 dryads who will defend 
+the plants and attempt to chase away the players. They 
+are also susceptible to the poison and thus keeps away 
+from it. There are large roots in the cave that belong to 
+elephant plants that grow on top of the cave. 
+THE DRUID LAIR 
+Whether the local druid saves the party from the 
+Anauroch, or the players seek out the mirage of an 
+oasis, they will end up in a large underground cavern 
+with trees, roots, and vines. At the entrance the druid 
+requires the party to leave anything made of metal here. 
+They can recover their items when they leave again. A 
+Dexterity (Sleight of Hand) check DC 15 allows a 
+character to bring metal objects into the druid’s lair. 
+ Within the lair are a number of animals as described 
+later. There is also a lake with a foot of water in it and a 
+small island in the middle, a protruding rock. Hovering 
+above the rock near the ceiling is a bright glowing star 
+that gives light to the lair. A small alcove serves as the 
+druid’s kitchen and bedroom. 
+PUZZLE 
+The players are welcome to rest and are free to leave 
+whenever they want to. The druid has a puzzle for them 
+though, but they are not forced to accept the challenge 
+of solving it or even solve it. 
+ The druid explains that the puzzle is to touch the star 
+without touching the water. 
+ As a hint, the star always moves in the opposite 
+direction of how the water moves. So if the party 
+splashes around in the water, the star will vibrate before 
+returning to its original position. If the party tries to 
+remove water from the lake, the star will move 
+upwards. Throwing water up in the air will simply have 
+it fall back down, in which case the star will move 
+downwards and then back up to its original position. 
+Climbing up to the star or shooting it doesn’t solve the 
+riddle, as the solution requires the party to bring the star 
+down to the ground. 
+ To solve the puzzle, the party needs to gather a 
+container of water and bring the water up to the ceiling 
+by climbing the trees on the outskirts of the cavern, 
+which will have the star move out to the opposite end of 
+
+[PDF_PAGE=7]
+Not for resale. Permission granted to print or photocopy this document for personal use only.  KAI DYNASTY 7 
+the cavern and down to the ground. Climbing the trees 
+requires a Strength (Athletics) check DC 10. Note that 
+if a container touches the water, the party isn’t touching 
+it. 
+ Completing the puzzles rewards the party with a 
+creature of their choice that the druid gives them. They 
+can choose from any of the creatures present in the 
+cavern. Each creature grants an additional party bonus. 
+ A hungry wolf that needs to be fed often but 
+grants advantage on saving throws against fear. 
+If it isn’t fed properly it will leave the party. 
+ A disloyal raven that stand sentry and mimics 
+an alarm if a non-party member comes within 
+50 feet of it. Shushing the raven makes it fly 
+away, never to return. 
+ A vain amur leopard (use panther stats) that 
+requires a lot of sweet talking to. Once per day 
+when a spellcaster in the party finishes a short 
+rest, that character can choose 2 expended 
+spell slots to recover. If the party doesn’t say 
+good things to the leopard at least once per 
+day, the leopard will leave the party. 
+ A bobcat (use cat stats) that likes heat. It 
+grants party members within 30 feet, blindsight 
+30 ft. It needs to be kept warm and if it is ever 
+cold (70 degrees Fahrenheit or below), then it 
+will leave the party. 
+ A photosensitive bat that lets the party see 
+through disguises without having to make a 
+check. If the bat is ever subjected to light, it 
+will fly away, never to return. 
+ A greedy pixie that gives advantage to wisdom 
+checks but requires a daily fee. If the pixie 
+isn’t paid, it will leave the party. 
+THE FIRST OASIS 
+People who travel into the Anauroch to reach the Kai 
+Monastery travel along a series of magical oases. The 
+whole journey takes a tenday, with an oasis located at 
+the end of each day’s travel. The first oasis thus lies 12 
+miles into the Anauroch, which takes a day to reach 
+since the desert counts as difficult terrain. The oases are 
+magical in a variety of ways. 
+ Caretaker: Each oasis has a caretaker, an unspecified 
+powerful magical creature that tends to the oasis and 
+ensures its magical properties. Some say that the 
+caretakers themselves aren’t magical, but that the rod 
+that they wield are powerful magical items that control 
+the oases. 
+ Find the Living: The oasis detects nearby life and 
+moves to make it easier for people to find the oasis. 
+This ensures that whether the players are going the right 
+way or not, they should be able to find the oasis. 
+ Fresh Water: The water in the oasis is endless and 
+always fresh and pure, even when others attempt to 
+poison or foul it. 
+ Food: There’s always an abundance of various fruits 
+and meat available to gather and hunt in the oasis. 
+ Protection: The oasis provides protection. Any 
+fighting or threats are taken harshly. If the party is 
+involved they will be warned. If there’s a continued 
+aggression or a second incident, the party will be 
+magically banned from all the oases, making it 
+impossible for them to find any of the oases in the 
+desert, which may lead to their eventual death. 
+CHASE THROUGH THE ANAUROCH 
+Once at the first oasis, you should mark down Takai and 
+Likai’s location. The party now needs to chase these 
+through the desert in an attempt to catch up to them 
+before they reach the Kai Monastery. Below is a map of 
+the desert including the magical oases in the way. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cross: The cross on the map represents the camp 
+where the party starts the adventure. If you want to put 
+a city, or name the camp, then call it Behal. 
+ Square: The square on the map represents the Kai 
+Monastery, where the second part of the adventure takes 
+place. 
+ Blue Circles: The blue circles are the nine magical 
+oases. There’s a day of travel between each, as marked 
+by the black lines. Note that the last stretch between the 
+ninth oasis and the Kai Monastery includes a path, 
+which counts as normal terrain instead of difficult 
+terrain. If the players go in a straight line, then there’s 
+18 miles (1½ day of travel) between the uneven oases, 
+and between oasis 6 and 8. There’s 13 miles between 
+oasis 2 and 4, and the same between 4 and 6, which 
+should take less than an hour extra than travelling the 
+usual 12 miles per day. 
+ Between Oasis 3 and 5: There’s only 6 miles 
+between these two oasis, but this path is rarely used. It 
+is meant as a tool for the DM, so that you can either 
+slow down the party or give them a chance to catch up 
+to the Kai siblings. To slow down the party, the Kai 
+
+
+[PDF_PAGE=8]
+Not for resale. Permission granted to print or photocopy this document for personal use only.  KAI DYNASTY 8 
+siblings may take this path while the party travels 
+around, or the party may take this path and end up in 
+quicksand, which is the reason why there’s a path 
+around it. Travelling from oasis 3 to 4 takes a day as 
+there’s 12 miles, and so does travelling from oasis 4 to 
+5. 
+ Quicksand: When the party reaches the quicksand 
+area, they will sink 1d4 + 1 feet into the ground and 
+become restrained. At the start of each of the party 
+member’s turns, it sinks another 1d4 feet to a maximum 
+of 10 feet. As long as the party member isn’t submerged 
+in quicksand, it can escape by using its action and 
+succeeding on a Strength check. The DC is 10 plus the 
+number of feet the party member has sunk into the 
+quicksand. A party member that is completely 
+submerged in quicksand can’t breathe and starts 
+suffocating as described in the Player’s Handbook. 
+Another party member can pull out someone in the 
+quicksand by using its action and succeeding on a 
+Strength check. The DC is 5 plus the number of feet the 
+target creature has sunk into the quicksand. The result 
+of using the quicksand should either be that the players 
+return to the previous oasis, and thus loses up to a day 
+of travel, or they travel so slowly between oasis 3 and 5 
+that it takes them 12 hours of travelling. 
+ Catching up to Takai and Likai: Remember to take 
+into account tracking, gathering food and water, force 
+marching, and fast pacing. Also remember to account 
+for Takai and Likai’s increased speed and their burden 
+of carrying Akai. The party shouldn’t catch up at this 
+point in the adventure, but if it does happen, then a fight 
+may occur. Akai doesn’t want to be rescued but will 
+ensure that if the party is defeated, they are not killed 
+and instead left at one of the magical oases.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RANDOM ENCOUNTER 
+If you want to add more fighting, or if the players don’t 
+chase the Kai siblings through the desert and you want 
+more excitement, then you can use the following 
+random encounter table. It includes both day and night 
+encounters. If you roll a night encounter during the day, 
+then let the encounter happen at night or in the evening 
+or morning, but remember that no encounters should 
+occur while the party is within one of the nine magical 
+oases. 
+Random Encounter Table 
+d10 Encounter 
+1 1d4 Giant Scorpions 
+2 1 Mind Flayer 
+3 1 Camel (non-combat encounter) 
+4 1d6 + 3 Lions 
+5 Bedine Tribe (may be a non-combat encounter) 
+6 5 Giant Spiders – Night 
+7 1 Poisonous Snake – Night  
+(may be a non-combat encounter) 
+8 1 Adult Brass Dragon – Night 
+(deadly – may be a non-combat encounter) 
+9 Bedine Tribe – Night 
+(may be a non-combat encounter) 
+10 1d8 + 6 Swarm of Insects - Night 
+ 
+For more encounters, visit Realmshelp at 
+http://www.realmshelps.net/adventuring/faerun_encoun
+ters.shtml 

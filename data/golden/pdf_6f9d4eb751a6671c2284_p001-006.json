@@ -1,0 +1,11 @@
+{
+  "title": "A Swashbuckling Adventure Beginning in Vilhon Reach of the Forgotten Realms",
+  "language": "en",
+  "recommended_level": "1-3",
+  "hook": "A group of adventurers have all chanced upon tiny bottles with lengths of cloth stuffed into them. They appear to be strips torn from a larger tapestry, or perhaps fancy bed clothes. There’s an identical, handwritten message on each that reads as follows: “Fortune & fame await! Meet me by the southern dock of Shulth before first light on the third day past fullest moon, and be ready to set sail! You’ll know me by my fine scarlet coat. - Lord Dunstuhl.",
+  "npcs": [{"name":"Octavius Overdale Merriweather Dunstuhl","role":"Lord"},{"name":"Straaz","role":"Sailor"},{"name":"Grandeur Kaine","role":"Pirate"}],
+  "locations": ["port town of Shulth","Haberdasher","Pirate Isles","Sea of Fallen Stars"],
+  "threats": ["two lizardfolk emerge from below decks",
+"There are two more standard lizardfolk left below decks, as well as their leader, Straaz","the sea encounter","fight on pirat isle"],
+  "rewards": ["12 gp", "jewelry worth roughly 10 gp", "the treasure map", "a small vial of red liquid","conch shell","40 gp","hat","green dragonhide loin cloth","magical rapier","Several bottles of vintage wine","Three wine-stained outfits","velvet pouch containing the bones of a large bird","An incomplete spell scroll","A note with a broken elven seal","A note with a broken elven seal"]
+}

@@ -1,0 +1,612 @@
+[PDF_PAGE=1]
+
+
+[PDF_PAGE=2]
+Adventures Daycare of Uncle Ordark
+by Orthrix
+DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, Ravenloft, the dragon ampersand, and all other
+Wizards of the Coast product names, and their respective logos are trademarks of Wizards of the Coast in the USA and
+other countries.
+This work contains material that is copyright Wizards of the Coast and/or other authors. Such material is used with
+permission under the Community Content Agreement for Dungeon Masters Guild.
+All other original material in this work is copyright 2022 by Orthrix and published under the Community Content Agreement
+for Dungeon Masters Guild.
+
+[PDF_PAGE=3]
+CONTENTSCONTENTSCONTENTSCONTENTSCONTENTSCONTENTSCONTENTSCONTENTSCONTENTSCONTENTSCONTENTSCONTENTSCONTENTSCONTENTSCONTENTSCONTENTSCONTENTSCONTENTSCONTENTSCONTENTSCONTENTSCONTENTSCONTENTSCONTENTSCONTENTSCONTENTSCONTENTSCONTENTSCONTENTSCONTENTSCONTENTSCONTENTSCONTENTS
+CH. 1: A DVENTURES DAYCARE .......... 1
+Introduction .................................................. 1
+Play as a kid .................................................. 1
+CH. 2: T HE HOUSE ......................... 3
+Attic .............................................................. 3
+First floor....................................................... 4
+Basement ...................................................... 6
+CH. 3: O UTSIDE THE HOUSE ............. 7
+CH. 4: A PPENDIX ........................... 8
+CONTENTS
+2
+
+[PDF_PAGE=4]
+CHAPTER 1:CHAPTER 1:CHAPTER 1:CHAPTER 1:CHAPTER 1:CHAPTER 1:CHAPTER 1:CHAPTER 1:CHAPTER 1:CHAPTER 1:CHAPTER 1:CHAPTER 1:CHAPTER 1:CHAPTER 1:CHAPTER 1:CHAPTER 1:CHAPTER 1:CHAPTER 1:CHAPTER 1:CHAPTER 1:CHAPTER 1:CHAPTER 1:CHAPTER 1:CHAPTER 1:CHAPTER 1:CHAPTER 1:CHAPTER 1:CHAPTER 1:CHAPTER 1:CHAPTER 1:CHAPTER 1:CHAPTER 1:CHAPTER 1: ADVENTURESADVENTURESADVENTURESADVENTURESADVENTURESADVENTURESADVENTURESADVENTURESADVENTURESADVENTURESADVENTURESADVENTURESADVENTURESADVENTURESADVENTURESADVENTURESADVENTURESADVENTURESADVENTURESADVENTURESADVENTURESADVENTURESADVENTURESADVENTURESADVENTURESADVENTURESADVENTURESADVENTURESADVENTURESADVENTURESADVENTURESADVENTURESADVENTURES DAYCAREDAYCAREDAYCAREDAYCAREDAYCAREDAYCAREDAYCAREDAYCAREDAYCAREDAYCAREDAYCAREDAYCAREDAYCAREDAYCAREDAYCAREDAYCAREDAYCAREDAYCAREDAYCAREDAYCAREDAYCAREDAYCAREDAYCAREDAYCAREDAYCAREDAYCAREDAYCAREDAYCAREDAYCAREDAYCAREDAYCAREDAYCAREDAYCARE
+INTRODUCTION
+Once famous champion Ordark, who slew the
+Lich King and single-handedly defeated the
+dragon conclave (he couldn’t have done it any
+other way, as he only has one arm), is now retired.
+That doesn’t stop him from new endeavours such
+as establishing “Adventures Daycare of Uncle
+Ordark”, where he takes care of his fellow
+adventurers’ children. Some just need him to
+watch over their children while they travel across
+the planes and assassinate gods. Others
+unfortunately demised and left their offspring
+alone. No matter how they got to his daycare,
+Uncle Ordark will take care of them. His idea of a
+daycare might be closer to the training camp of
+the elite Thay legion, but where else would these
+kids find a loving home and secure place to stay?
+Whether they will use their acquired skill to
+conquer the world or save it, Uncle Ordark will be
+proud of them.
+The players take the roles of Ordark’s proteges
+around age 4-5 and will embark on a quest to
+investigate Ordark’s disappearance.
+STORY SYNAPSE
+After Ordark puts the kids to bed, he is surprised
+by the sudden visit of his ex-wife Talaryl Dalach.
+They argue but realise that there is still something
+between them and reforge the heat of their love
+right there on the floor. That might have been
+a little louder than they wanted, and Ordark is
+scared they would wake the kids. So he takes a
+few bottles of his best liquor and a food basket,
+and then they head into the night.
+Ordark Blood Fist is a giant of a half-orc in his
+late 60s. His light green skin with greyish shades
+is adorned by numerous tattoos and scars. His left
+arm is missing from the elbow, but it doesn’t seem
+to slow him down in any activity. In retirement,
+Ordark is 11th-level Barbarian and 9th-level Cleric
+with access to Raise Dead.
+Taraly Dalach is a world-class assassin. She is
+a drow and was raised to be a personal bodyguard
+to the church of Spider Queen. After she met
+Ordark, she left Underdark, travelled the world,
+and built a name for herself as one of the best
+assassins. One day she met Ordark again as a
+guard to one of her marks. After she made him
+unemployed, they got married and fought side by
+side for several years.
+The Kids are a mixed bag of orphans and kids
+left in Ordark’s care as their parents headed into
+danger. They are not ordinary children but
+children of well-known adventurers and heroes,
+so they often attract the attention of assassins
+sent by revengeful foes of their parents or
+kidnapper seeking hefty ransoms. Nothing that
+Ordark cannot easily defeat without kids even
+noticing.
+ADVENTURE HOOK
+Uncle Ordark tells his children a bedtime story about his
+exploits in the Underdark: “...and I jumped into the pond
+with the Elder Brain, and I started to pummel it with my fist.
+When it realised that it could not get in my noggin as I was
+filled with ANGER and RAGE, it panicked and tried to
+strangle me with its tiny, puny tendrils. But my neck is too
+thick for that! Ha, ha, ha. So I split it into one artistic elder
+brain and one very logical, but both very much dead. Ha ha.
+I couldn’t get rid of the brainy smell for months! Now it’s
+time to sleep, my little warriors and remember Uncle
+Ordark loves you above all else” he kisses their foreheads,
+tucks them into the bed, dims the lantern, locks the door
+and slowly descends the stairs stepping gingerly to make the
+least amount of sound.
+In the middle of the night, more perceptive kids
+are woken by a sudden ruckus downstairs.
+Muffled voices can be heard arguing about
+something. Kids can try to see what is happening
+through a hole in the floor. A high perception
+check reveals that there are two figures. One is
+Ordark, and the other figure is smaller in a dark
+cloak. They shout at each other, and it seems
+they start to fight and struggle over something.
+Ordark seems to lose balance and falls to the
+ground, grappled by a smaller figure. They
+continue to “fight” and roll out of sight. Kids can
+hear furniture breaking and screams and groan
+like someone is being tortured down there. After a
+few minutes, it stops, and all they can hear is the
+sound of broken glass and the front door opening
+and closing.
+PLAY AS A KID
+Each player should create a regular 3rd-level
+character of any race and class. All characters are
+children aged 1d3+2, no taller than 40 inches;
+their movement is halved. At the start of the
+adventure, they should have no equipment, only
+simple clothes. The fact that characters are still
+small children should be considered when
+deciding on the Difficulty Classes (DC) of a
+challenge. Even simple tasks can prove to be
+difficult. For example: moving an armchair to the
+window is a strength check with DC 15.
+Kids cannot read, but they remember some
+CHAPTER 1: ADVENTURES DAYCARE
+1
+
+[PDF_PAGE=5]
+descriptions and labels Ordark showed them.
+Additionally, each player is randomly assigned
+one positive and one negative kid trait and one
+legendary item.
+Positive traits
+Sugar rush As an action you can
+consume sweets, granting
+you effects of spell Haste
+(see pg. Basic Rules).
+Bookworm Y ou cannot read per se, but
+you are pretty good with
+colours, shapes, and animal
+sounds. Advantages on
+intelligence-based checks.
+Not fully formed bones Y our body is still squishy.
+Y ou gain resistance to
+bludgeoning damage, and all
+fall damage is halved.
+No concept of death The idea of death is utterly
+foreign to you, rendering you
+immune to being frightened.
+Curious mouth Y ou spend the better part of
+the day chewing, sucking and
+licking various things you find
+on the ground, rendering you
+resistant to poison and having
+an advantage to constitution
+saves.
+Feral As a bonus action, you can
+use a bite attack (1d4 piercing
+damage)
+Each player gets one legendary item.
+TEDDY -OWLBEAR
+Wondrous item, rare
+Renderers holder immune to being frightened and
+grants +1 to AC. For effect to apply, it must be
+held offhand instead of a shield.
+HOBBY HORSE
+Wondrous item, rare
+Twice per short rest, you can use Hobby horse
+to take the Disengage or Dash Action as a bonus
+Action on your turn, and your jump distance is
+doubled for the turn.
+KALEIDOSCOPE
+Wondrous item, rare
+While in use, grants Truesight to the user, but
+everything looks like an oversaturated cubist
+painting.
+A BAG OF COLOURFUL BUTTONS
+Wondrous item, rare
+As an action, a handful of buttons can be tossed
+into the air. Any creature that sees the buttons
+has to make a Wisdom save or spend their turn
+admiring the colours. Once a creature saves, it is
+immune to the effect.
+PET ROCK
+Wondrous item, rare
+Throwing weapon 1d8 bludgeoning damage. On
+the hit, the target has to save against Constitution
+save DC 10 or be stunned till the start end of its
+turn.
+Negative traits
+Big-headed Y our head is
+disproportionately larger
+than your body . Y ou have
+a disadvantage on all
+athletic and acrobatic
+checks and saves, and
+your movement is halved
+again.
+Sleepyhead If you haven’t attacked or
+been attacked during one
+round of combat, you will
+fall asleep, and other players
+need to spend their action to
+wake you up.
+Hatred towards clothes There is nothing you hate
+more than being dressed in
+uncomfortable clothes. At
+the start of the combat, roll
+d20 to determine whether
+you managed to undress
+before combat (10 or lower
+means you start combat
+naked). Y ou can use an action
+on your turn to dress again.
+T antrum! When you fail a skill check
+or miss an enemy, you must
+save Charisma saving throw
+DC 10 or spend your next
+turn having a tantrum.
+Eloquent talker Y ou cannot form complex
+sentences, and the maximum
+number of words in a
+sentence is 5.
+Wanderer At the start of the combat,
+roll 1d6 x 5ft to determine how
+far you are from the enemy
+and 1d4 to determine in which
+direction (North, West, East,
+South).
+CHAPTER 1: ADVENTURES DAYCARE
+2
+
+[PDF_PAGE=6]
+CHAPTER 2:CHAPTER 2:CHAPTER 2:CHAPTER 2:CHAPTER 2:CHAPTER 2:CHAPTER 2:CHAPTER 2:CHAPTER 2:CHAPTER 2:CHAPTER 2:CHAPTER 2:CHAPTER 2:CHAPTER 2:CHAPTER 2:CHAPTER 2:CHAPTER 2:CHAPTER 2:CHAPTER 2:CHAPTER 2:CHAPTER 2:CHAPTER 2:CHAPTER 2:CHAPTER 2:CHAPTER 2:CHAPTER 2:CHAPTER 2:CHAPTER 2:CHAPTER 2:CHAPTER 2:CHAPTER 2:CHAPTER 2:CHAPTER 2: THETHETHETHETHETHETHETHETHETHETHETHETHETHETHETHETHETHETHETHETHETHETHETHETHETHETHETHETHETHETHETHETHE HOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSE
+Kids start the adventure in the attic and need
+to get to the basement, crawl through the window
+into the garden and follow Ordark’s steps.
+While kids stayed in Odarks care, they could
+move around the house freely. Still, these parts
+were off limits: basement, guest room, Ordarsk
+study, Ordarsk bedroom, kitchen and backyard.
+All doors in the house are heavy wooden doors
+with iron reinforcement. The house’s walls are
+stone, and the second floor and roof are made
+entirely from wood.
+The house itself has 2 floors and a basement.
+Around the house is a lush garden with a white
+gazebo and a small pond in the middle.
+ATTIC
+KIDS’ ROOM
+A simply adorned room with three bunk beds, one
+old wardrobe, chest, a small table, a couple of
+stools and plenty of toys scattered around the floor.
+The walls are decorated by poorly painted forest
+critters, small birds, flowers and an occasional
+beholder with a moustache and a hat or an aboleth
+riding a bicycle. It seems like Ordark painted it
+himself. There is one barred window with a view
+of the backyard. The door is locked.
+Searching the room:
+• In the middle of the room, among other toys
+(plush dragons, ragdoll hill giants, . . . ) is a
+wooden longsword , a helmet made out of a
+pumpkin, and a wooden axe.
+• Under one of the bunk beds is a suitcase.
+Inside is a wooden longsword, small shield,
+toy wooden bow with 15 arrows, a sling, and
+a bag of marbles .
+• The chest is not locked but needs a strength
+check DC 15 to open. Inside is a wand with a
+pink start at the end and akey to the wardrobe .
+• The wardrobe is locked. Inside are two child-
+sized leather jackets and a small hole leading
+to the Guest room.
+• On the table is a picture book about nature and
+animals, illustrating different concepts: above
+water is a mountainside, above clouds, and from
+the clouds, a smiling sun is showing. Fish live
+in the water, wolves live in the mountains, birds
+live in the clouds (someone drew Cloud giants
+next to the birds), and gods live among stars.
+WOODEN LONGSWORD
+common item
+1d8 slashing, versatile, on a critical hit, roll 1d3
+for additional splinter damage.
+TOY WOODEN BOW ,
+common item
+1d8 piercing, two-handed, range 40/80
+SMALL SHIELD
+common item
+AC + 2.
+BAG OF MARBLES
+common item
+See Ball bearings.
+WAND OF A PINK STAR
+common item
+Wand with a pink start at the end requires
+attunement, can be used as a spellcasting focus
+and once a day can be used to cast Tasha’s
+hideous laughter.
+CHAPTER 2: THE HOUSE
+3
+
+[PDF_PAGE=7]
+WOODEN AXE
+common item
+Wooden axe, 1d6 can be thrown range 20/40,
+critical hit on 19/20 and on critical hit roll 1d3
+for additional splinter damage.
+LEATHER JACKETS
+common item
+AC 14, medium armour.
+GUEST ROOM
+The guest room is very dark as the only window is
+covered with a bed sheet. The window is broken,
+and the sheet occasionally moves with the outside
+wind letting a few rays of light inside. The
+characters without darkvision can only see the
+outline of the window. A musty smell permeates
+the surroundings, and everything is covered in a
+thick layer of dust. The room is filled with random
+pieces of furniture and equipment (chairs,
+lantern, a coil of heavy rope, crates, cartwheel,
+etc), rendering the room a difficult terrain (player
+movement is halved).
+In the corner is a small armour stand with a full
+plate amour . In the middle of the chest plate is
+the Cornucopia (horn of plenty), a symbol of the
+halfling deity Yondalla.
+As the players approach the middle of the room
+or try to remove the sheet from the window, they
+are ambushed by two Spiders (use stat blocks for
+Giant Spider, Basic Rules pg. 136), which lower
+themselves from the ceiling.
+The door is unlocked and leads to the hallway.
+From the hall, there is access to the Kids’ room
+(locked with a latch), the Ordurk’s bedroom
+(locked, key required), the Guest room and a
+staircase.
+HALLWAY
+The hallway has a few paintings of different
+adventuring parties led by Ordurk through the
+years. There are short descriptions under the
+paintings:
+• “Daring Company and defeat of the Lich King
+Szass Tam” - Ordurk stands in the middle
+holding a grinning skull. Next to him stands a
+dark elf woman with a hand over his shoulder.
+• “..... “ Ordurk with an enormous battle axe on
+his shoulder, some bearded wizard with a pipe
+and big red hat, dwarven women and a bald
+human with face tattoo stand in front of a corpse
+of a beholder.
+STAIRCASE
+The staircase is trapped. The trap can be found
+with an investigation/perception check with DC
+15 and disarmed with DC 10. If a trap is triggered,
+an enormous battle axe (depicted in the painting)
+swings from the ceiling at the height of an adult
+person (good 20 inches above the players’ heads).
+At the bottom of the stairs is a Living room.
+FIRST FLOOR
+LIVING ROOM
+The living room is the largest room on the first
+floor. A front door is currently locked and cannot
+be opened. All windows on the first floor are barred
+with heavy iron bars. From the living room, a
+kitchen can be entered. Next to the kitchen is a
+door to the Ordark’s study.
+In the middle of the living room is a broken
+coffee table; next to it is a toppled armchair, torn
+Ordark’s shirt with a little bit of blood and
+Ordark’s belt can be found under the sofa. Kids
+never saw Ordark without his favourite belt, even
+though it had no effect on him. Next to the sofa, a
+dagger with a jagged obsidian blade with a silver
+spider on the handle (history check: it is related
+to drow) is sticking from the floor.
+OBSIDIAN DAGGER
+Wondrous item, rare
+Dagger + 1. If thrown, it will return to the owner’s
+hand at the start of the next round.
+ORDARK ’S BELT
+Wondrous item, rare
+While wearing this belt, your Strength score
+changes to 20. If your Strength is already equal to
+or greater than the belt’s score.
+Above the lit fireplace with iron bars, the
+Kraken’s maw is hanged. The fire is slow and
+steady. The fireplace has four symbols on it: Sun,
+Waves, Cloud and Mountain. As illustrated in the
+picture book in the Kids’ room, when someone
+presses symbols in the correct order (Waves,
+Mountain, Cloud, Sun), the bars open and Minor
+Fire Elemental is released (see Appendix for stat
+CHAPTER 2: THE HOUSE
+4
+
+[PDF_PAGE=8]
+block). After the elemental is defeated, a small
+copper key is visible on the back wall of the
+fireplace. On the fireplace mantle is a decorative
+Silver Dagger (which can be used as a “silvered
+longsword + 1”).
+KITCHEN
+The kitchen is separated from the living room by
+a half door. The bottom part of the door is locked
+and cannot be easily unlocked, but the inside of
+the kitchen is visible from the living room. Players
+can scale the bottom part and access the kitchen
+with little effort.
+Right now, pans and knives are magically flying
+around while making breakfast. With a sneak
+higher than 10, players can avoid attention when
+entering the kitchen. Otherwise, they will be
+mistaken for an intruder and attacked by a butter
+knife, a pan and a rolling pin.
+CUTLERY (KNIVES , PANS OR
+ROLLING PIN )
+Tiny creature
+Armor Class 13
+Hit Points 15
+Speed 20 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 10 (+0) 10 (+0) 10 (+0) 10 (+0) 10 (+0)
+Multiattack: Makes two melee attacks.
+Actions
+Attack. Melee Weapon Attack: +2 to hit, reach 5 ft., one target.
+Hit: 3 (1d6) slashing/bludgeoning damage.
+A locked door to the backyard is on the other
+side of the kitchen. Next to the door is a keychain
+with a key to Ordark’s study and a key to the
+basement.
+On the floor in the kitchen is a locked trapdoor
+that leads to the basement.
+While searching the kitchen: Chocolate bar , 2
+Potions of healing, Cleaver (1d6+1 and +1 to
+hit).
+ORDARK ’S STUDY
+It is a poorly lit room with nice, heavy furniture.
+In the middle is a desk with piles of paper. Most of
+them are letters starting with a name and address,
+but the rest is scribbled out. On the floor is a pile
+of crumpled letters that smell like Ordarks cologne.
+Behind the desk is a comfortable leather armchair
+and bookcase filled with various tomes. Otherwise,
+the room is filled with memorabilia: Golden Crown,
+Dragon tooth, . . .
+On the left side are two aquariums. One of them
+is broken. In the other is a grey cube with a
+golden key in the middle . If disturbed or the
+players try to reach for the key, the cube attacks
+(see Gray Ooze, Basic Rules, pg. 338.).
+On the right side of the room are two identical
+chests with golden locks. One of the chests is a
+mimic (see Basic Rules, pg. 332) that escaped
+from the aquarium.
+Next to the chests is a liquor cabinet with doors
+still open, and one bottle is broken in front of
+it. One bottle in the cabinet is different from the
+others. It is a bottle of Holy Water.
+The golden key unlocks the actual chest, and
+inside is: Bag of tricks (see Basic Rules, 154),
+Circlet of Blasting (see Basic Rules, pg, 158),
+Potion of healing .
+On the table is a small copper box (which can
+be unlocked with a copper key from the fireplace).
+There is a picture of Ordark with a Drow woman
+in a white dress inside the copper box. Next to the
+image is a ring made out of dark reddish metal.
+CHAPTER 2: THE HOUSE
+5
+
+[PDF_PAGE=9]
+BASEMENT
+The basement is cold, and the air is humid and
+stale. The basement is filled with barrels and bags
+with rations. On the other side is a barred door
+similar to a prison cell. Inside the cell are various
+crates and bags. Above them is a small, fully open
+window. The size is suitable for the players. The
+cell can be opened by pulling a chain. The chain
+is heavy, and all players must join in the effort.
+As the barred door moves slightly, arcane marks
+appear on the floor. They start to shine, crack and
+vanish with a sizzle. The door flies up on its own
+with a loud crash.
+“Finally free! It’s been a long time since we
+talked, my dear FRIEND!” Resonates in the mind
+of all players. The voice is pleasant and sweet, and
+the overall demeanour is kind until it breaks into
+a screech.
+With the flash of the light, one of the crates
+breaks open. Splinters of wood fly in all directions.
+Torches on the wall are ablaze, and the room is
+illuminated in the brightest light.
+A skull draped in pale, dry tattooed skin flies
+in the air. Its white eyes covered in yellowish
+film start frantically searching the room. The jaw
+unhinges, and maniacal cackle resonates through
+the air and minds.
+“What are YOU? Children! I have to thank thee
+from the depths of my existence! My little saviours!
+Of course, I shall be eternally magnanimous and
+grant you the greatest gift of all. I will undo your
+PITIFUL existence! ” For stat block, see Appendix.
+After defeating the head of the lich, Players can
+climb out the window and access the garden.
+CHAPTER 2: THE HOUSE
+6
+
+[PDF_PAGE=10]
+CHAPTER 3:CHAPTER 3:CHAPTER 3:CHAPTER 3:CHAPTER 3:CHAPTER 3:CHAPTER 3:CHAPTER 3:CHAPTER 3:CHAPTER 3:CHAPTER 3:CHAPTER 3:CHAPTER 3:CHAPTER 3:CHAPTER 3:CHAPTER 3:CHAPTER 3:CHAPTER 3:CHAPTER 3:CHAPTER 3:CHAPTER 3:CHAPTER 3:CHAPTER 3:CHAPTER 3:CHAPTER 3:CHAPTER 3:CHAPTER 3:CHAPTER 3:CHAPTER 3:CHAPTER 3:CHAPTER 3:CHAPTER 3:CHAPTER 3: OUTSIDEOUTSIDEOUTSIDEOUTSIDEOUTSIDEOUTSIDEOUTSIDEOUTSIDEOUTSIDEOUTSIDEOUTSIDEOUTSIDEOUTSIDEOUTSIDEOUTSIDEOUTSIDEOUTSIDEOUTSIDEOUTSIDEOUTSIDEOUTSIDEOUTSIDEOUTSIDEOUTSIDEOUTSIDEOUTSIDEOUTSIDEOUTSIDEOUTSIDEOUTSIDEOUTSIDEOUTSIDEOUTSIDE THETHETHETHETHETHETHETHETHETHETHETHETHETHETHETHETHETHETHETHETHETHETHETHETHETHETHETHETHETHETHETHETHE HOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSEHOUSE
+After players climb out of the window, they can
+feel fresh morning air and dew on the grass. The
+sun slowly rises above the skyline, flowers turn
+their heads to it, and birds start singing. Players
+can hear soft female laughter from the gazebo in
+the middle of the garden, followed by deep,
+growling chuckles.
+When they approached the gazebo, they found
+Ordark lying in the arms of Taraly. She is feeding
+him grapes and whispering in his ear. When he
+notices the kids, he springs and runs towards
+them.
+“My dear, children! What happened?!” and
+immediately starts to cast healing spells. Taraly
+quickly joins him and starts to clean wounds and
+hug the kids.
+“I am so sorry, my little. . . brave warriors!”
+Ordark says, pushing his tears back with the back
+of his hand, “I shouldn’t have left you there alone
+and kept all that dangerous garbage in the house.
+I am throwing it all away today!”.
+Ordark introduces Taraly and tells the kids they
+are back together, and she will help him take care
+of them.
+CHAPTER 3: OUTSIDE THE HOUSE
+7
+
+[PDF_PAGE=11]
+CHAPTER 4:CHAPTER 4:CHAPTER 4:CHAPTER 4:CHAPTER 4:CHAPTER 4:CHAPTER 4:CHAPTER 4:CHAPTER 4:CHAPTER 4:CHAPTER 4:CHAPTER 4:CHAPTER 4:CHAPTER 4:CHAPTER 4:CHAPTER 4:CHAPTER 4:CHAPTER 4:CHAPTER 4:CHAPTER 4:CHAPTER 4:CHAPTER 4:CHAPTER 4:CHAPTER 4:CHAPTER 4:CHAPTER 4:CHAPTER 4:CHAPTER 4:CHAPTER 4:CHAPTER 4:CHAPTER 4:CHAPTER 4:CHAPTER 4: APPENDIXAPPENDIXAPPENDIXAPPENDIXAPPENDIXAPPENDIXAPPENDIXAPPENDIXAPPENDIXAPPENDIXAPPENDIXAPPENDIXAPPENDIXAPPENDIXAPPENDIXAPPENDIXAPPENDIXAPPENDIXAPPENDIXAPPENDIXAPPENDIXAPPENDIXAPPENDIXAPPENDIXAPPENDIXAPPENDIXAPPENDIXAPPENDIXAPPENDIXAPPENDIXAPPENDIXAPPENDIXAPPENDIX
+MINOR FIRE ELEMENTAL
+Medium creature
+Armor Class 10
+Hit Points 50
+Speed 50 ft.
+STR DEX CON INT WIS CHA
+12 (+1) 10 (+0) 5 (–3) 10 (+0) 14 (+2) 12 (+1)
+Damage Resistances : Bludgeoning, Piercing, and Slashing
+from Nonmagical Attacks
+Damage Immunities Fire, Poison
+Condition Immunities : Exhaustion, Grappled, Paralyzed,
+Petrified, Poisoned, Prone, Restrained, Unconscious
+Senses Darkvision 60 ft., Passive Perception 10
+Languages: Ignan, Common
+Challenge: 3
+Illumination. The elemental sheds bright light in a 30-foot radius
+and dim light in an additional 30 feet.
+Water Susceptibility. Every gallon of water splashed, Minor Fire
+Elemental takes 3d6 cold damage. Fiery presence, any creature
+that ends its turn within 5ft of Minor Fire Elemental takes 1d4 of
+fire damage.
+Actions
+Multiattack. The elemental makes two touch attacks.
+T ouch. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+Hit: 6 (1d6 + 3) fire damage.
+HEAD OF SZASS TAM
+Tiny Undead, Lawful Evil
+Armor Class 13
+Hit Points 40 (10d4+20)
+Speed 0 ft., fly 40 ft (hover)
+STR DEX CON INT WIS CHA
+1 (–5) 17 (+3) 14 (+2) 16 (+3) 10 (+0) 11 (+0)
+Skills. Either Arcana + 4, Perception+2
+Senses Darkvision 60 ft., Passive Perception 12 Languages. All
+Proficiency Bonus +2 Damage Resistances Lightning, Necrotic,
+Piercing, Fire
+Damage Immunities Cold, Poison
+Condition Immunities Charmed , Frightened, Paralyzed,
+Poisoned, Prone
+Challenge 4
+Legendary resistance : Once per combat Szass T am can
+use its Legendary resistance to automatical succeed in a saving
+throw.
+Rejuvenation. If the Skull of Szass T am is destroyed but not
+sprinkled with holy water, it regains all its hit points in 1 hour.
+Spellcasting. The Skull of Szass T am is a 5th-level spellcaster. Its
+spellcasting ability is Intelligence (spell save DC 13, +5 to hit with
+spell attacks). It requires no somatic or material components to
+cast its spells. The Skull of Szass T am has the following spells
+prepared:
+Cantrips (at will): firebolt, message
+1st level (3 slots): magic missile, shield
+2nd level (2 slots): shatter, flaming sphere
+3rd level (1 slot): fear
+Actions
+Multiattack. The Skull of Szass T am makes two ranged spell
+attacks.
+Firebolt.. Ranged Spell Attack: +5 to hit, range 30 ft., one target.
+Hit: 5 (1d10) fire damage.
+CHAPTER 4: APPENDIX
+8

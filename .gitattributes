@@ -1,0 +1,5 @@
+﻿# Frozen experiment artifacts must retain EXACT bytes (some prompts use CRLF).
+# Do not renormalize after hashes/review stamps have been frozen.
+* -text
+*.pdf binary
+*.sqlite3 binary

@@ -1,0 +1,358 @@
+[PDF_PAGE=5]
+No para la reventa. Permiso concedido para imprimir o fotocopiar este documento para uso personal solamente.  
+ 
+TUMBA DEL REY DE HIERRO 5 
+TOMB OF THE IRON KING es una miniaventura introductoria para tres a cinco personajes de 1o nivel, 
+para su uso con DUNGEONS & DRAGONS™ 5a edición. Para utilizar el contenido de este libro, 
+necesitarás copias del Manual del Jugador  y de la Guía del Maestro de Mazmorras. Aunque no es 
+necesario, una copia del Manual del Monstruo también resultará útil. 
+La fiesta mínima recomendada para esta aventura es un clérigo o paladín, un  luchador y un  pícaro. 
+Todos los personajes deben ser de 1er nivel; sin embargo, es posible ejecutar la aventura con personajes 
+tan altos como 3er nivel aumentando la dificultad de los encuentros. 
+La tumba debe ser colocada en cualquier lugar convenientemente remoto, como un bosque o pantano, 
+lo suficientemente lejos de la civilización como para no atraer visitantes frecuentes, pero no tan lejos 
+como para que nunca se haya oído hablar de él. 
+En el entorno DE REINOS OLVIDADOS™, lugares adecuados para la tumba incluyen las Dalelands, la 
+Sword Coast North (particularmente Neverwinter Wood o el Mere of Dead Men), o las Marchas de 
+Plata. 
+La aventura comienza en la entrada de la tumba. Aquí hay algunos ganchos para conseguir los 
+personajes allí: 
+Encuentro deoportunidades . Mientras viajan, los personajes se enfrentan a una terrible tormenta, 
+obligándolos a buscar refugio dentro de una hendidura  entre dos grandes piedras megalíticas en el lado 
+de una gran colina a poca distancia de la carretera. Refugiados bajo las  piedras, los personajes pronto 
+descubren la entrada de la tumba en la parte posterior de la hendidura. 
+Alternativamente, los personajes se atravesan en el montículo mientras cazan. Un examen del 
+montículo pronto revela una hendidura en las rocas y la entrada a la tumba. 
+Tomb Raiders. Uno de los personajes ha descubierto un mapa que muestra el diseño de un túmulo 
+funerario. Notas garabateadas sobre el mapa de peligros y tesoros que se pueden encontrar. 
+Después de varios días de investigación, el personaje está convencido de que el mapa es de un infame 
+túmulo funerario cercano ampliamente temido y evitado por la gente común. Reuniendo a un grupo de 
+amigos, el personaje se dirige a explorar el montículo. 
+Dale a los jugadores el volante del mapa. 
+  
+
+[PDF_PAGE=6]
+No para la reventa. Permiso concedido para imprimir o fotocopiar este documento para uso personal solamente.  
+ 
+TUMBA DEL REY DE HIERRO 6 
+Lee el siguiente texto en caja  en voz alta a los jugadores  cuando miran por primera vez el montículo. 
+El montículo se eleva desde el terreno circundante, una pendiente gradual subiendo  a una gran 
+meseta circular. En el lado occidental del montículo, dos grandes piedras megalíticas se apoyan unas 
+contra otras, sus cimas apenas visibles por encima de la parte superior  del  montículo. 
+ 
+La pendiente del montículo es fácil de ascender, raíces retorcidas y grupos de hierba que proporcionan 
+numerosas manos y pies. El suelo en la parte superior del montículo es muy estable; sin embargo, 
+ver"Deadfall" a continuación.  
+Hendidura. Las dos piedras megalíticas forman una cueva natural, cuyo suelo es una tercera piedra 
+megalítica, parcialmente enterrada bajo el suelo. Cada una de las piedras está cubierta con parches de  
+musgo grueso. 
+Dos espacios estrechos en la parte posterior de la hendidura se ocultan por la maleza. Una 
+comprobación exitosa de DC 10 Wisdom (Survival) revela que el pincel fue cortado y colocado 
+intencionalmente sobre los huecos. 
+Runas. Un exitoso chequeo de Inteligencia DC 15 (Investigar) revela runas antiguas talladas en la 
+superficie de las piedras. Cualquiera que lea Draconic puede descifrar las runas con una comprobación 
+de inteligencia de DC 20. Las runas son una advertencia para no perturbar el lugar de descanso de Bjorn  
+Ironhand, primero de los Reyes de Hierro. 
+Muerte. En lo alto del montículo, cerca de las cimas de las piedras megalíticas inclinadas,  el suelo ha 
+cedido parcialmente. Por cada personaje a menos de 5 pies de las piedras, hay un 10% de  probabilidad 
+acumulativa de que el suelo se derrumbe, dejándolos  caer en la hendidura de abajo a menos que hagan 
+un lanzamiento de destreza DE DC 20 para saltar a un lugar seguro. Los personajes que fallan  su 
+salvación lanzan caer por el suelo, cayendo 10 pies y sufrendaño de golpe ogolpe 1d6. 
+ 
+ 
+
+[PDF_PAGE=7]
+No para la reventa. Permiso concedido para imprimir o fotocopiar este documento para uso personal solamente.  
+ 
+TUMBA DEL REY DE HIERRO 7 
+La tumba está construida a partir de piedras de campo mortero junto con la ondulación y el 
+daub,reforzado conmagia,y luego apilado con más de 10 pies de tierra, formando un montículo 
+suavemente inclinado.  El suelo de la tumba está cubierto de piedras, muchos agrietados y rotos, y los 
+escombros se encuentran esparcidos por todas las áreas, bloqueando parcialmente el acceso a algunas 
+áreas. 
+A menos que se indique lo contrario, todas las áreas de la tumba comparten las siguientes 
+características: 
+Techo. Los techos son de 15 pies de altura. 
+Puertas. Las puertas son de piedra, hechas de gruesas losas de granito que se deslizan en la pared. Cada 
+puerta es la clase de armadura 17 y tiene 27 puntos de impacto. 
+Luz. La tumba está iluminada con una suave luz verde que emana de las antorchas colocadas  en los 
+escondites a lo largo de las paredes. Detectar la magia  lanzada en las antorchas revela un débil aura de 
+evocación. Las antorchas no irradian calor, no pueden prender fuego a los objetos y, si se retiran de su  
+escote, siguen funcionando normalmente. Sin embargo, si se retiran de la tumba, las antorchas se 
+queman después de una hora - la energía mágica que los sostenía agotado. 
+Toda la tumba cuenta como ligeramente oscurecida:lascriaturas tienen  desventaja en los controles de 
+Sabiduría (Percepción) que dependen de la vista. 
+Escombros. El suelo de la tumba está lleno de trozos de mortero, piedra y otros escombros. En su mayor 
+parte, este escombro no ofrece ningún obstáculo; sin embargo, hay pilas más grandes (indicadas en el 
+mapa) que obstruyen el movimiento o bloquean la línea de visión.  
+Ventilación. La tumba está bien ventilada, un suministro constante de aire fresco desde el exterior que 
+entra por la entrada y entra en la galería, así como el pasaje que conduce a la zona 3. 
+Lee el siguiente texto en caja  en voz alta a los jugadores. 
+Dos estrechos huecos en la parte posterior de la hendidura se abren en un pasillo de 15 pies de ancho 
+iluminado débilmente por una  luz verde parpadeante que emana de las antorchas a lo largo de cada 
+pared. El pasillo se extiende 30 pies antes de abrirse a una cámara más grande. Aproximadamente a 
+25 pies de la entrada, un segundo corredor más pequeño se ramifica a la derecha. 
+ 
+La hendidura, y las aberturas en su parte trasera, se formaron cuando el arco megalítico que enmarcaba 
+la entrada se derrumbó, desalojando la gran roca que ahora divide la entrada de la tumba. Cada 
+abertura es lo suficientemente ancha como para que una criatura de tamaño medio pase a través. 
+ 
+
+[PDF_PAGE=8]
+No para la reventa. Permiso concedido para imprimir o fotocopiar este documento para uso personal solamente.  
+ 
+TUMBA DEL REY DE HIERRO 8 
+Justo dentro de la entrada están los restos óseos de un aventurero, su armadura de cuero y su ropa 
+hace mucho tiempo podrida. Oculto entre los restos hay una caja de pergamino de marfil (2 gp). 
+Si se utilizó el gancho de Encuentro de Oportunidad (ver "Ganchos" arriba), el estuche de 
+desplazamiento contendrá un mapa de la tumba (dar a los jugadores el volante del mapa). De lo 
+contrario, el caso estará vacío. 
+Lee el siguiente texto en caja  en voz alta a los jugadores. 
+El pasillo de entrada se abre en una gran sala de 25 pies de ancho y se extiende hacia atrás 55 pies. 
+Tres pilares derrumbados soportan un techo abovedado alto de unos 25 pies de altura. 
+Ocho nichos están espaciados uniformemente a lo largo de las paredes: tres llenos de escombros y 
+cinco que cada uno sostiene un esqueleto revisto de armadura de cadena oxidada y sosteniendo una 
+lanza y un escudo. Los tapices de rotación cuelgan entre los nichos, cualquier heráldica o escenas que 
+alguna vez representaron se desvaneció hace mucho tiempo. 
+Los últimos 10 pies de piso se elevan en tres amplios escalones a una margarita que se extiende a lo 
+largo de todo el ancho de la sala. Dos enormes calaveras de piedra se encuentran sobre los 
+pedestales en las esquinas traseras de la margarita. Los ojos de las estatuas brillan débilmente con 
+una luz de color verde rojizo. 
+ 
+Esta gran sala se utilizó para realizar los últimos ritos sobre los muertos antes de poner sus cuerpos a 
+descansar en la Criptas (área5). 
+Techo. 25 pies. 
+Puerta. Uno de los nichos es un pasaje corto que termina en una puerta de piedra que se abre en las 
+criptas (área5). La puerta es plana, a excepción de un gran disco elevado en sucentro. El disco lleva una 
+extraña runa. La puerta está  cerrada  y  atrapada. Una comprobación de DC 20 Intelligence (Investigate) 
+revela que la runa es una trampa mágica  (ver más abajo). Una comprobación de DC 15 Intelligence 
+(Arcana) revela que la runa es un  glifo de warding. 
+Estatuas. Las dos estatuas del cráneo representan  al dios de la muerte. Tallados a partir de un solo 
+bloque de granito, son tres veces más grandes que un cráneo humano y cada uno pesa 
+aproximadamente 2,600 libras. Los pedestales sobre los que  se asisten las estatuas, también hechas de 
+granito, tienen 2 pies de diámetro,3 pies dealtura,  y cada weigh 1,700 libras. 
+Hay cinco esqueléticosal guards  (ver Apéndice A) en los nichos a lo largo de las paredes (marcados en el 
+mapa). Cada guardia llevarestos de armadura y carries un escudo (AC 15), y cada uno está armado con  
+una lanza. Cada  guardia comienza con 13 puntos de impacto. 
+
+[PDF_PAGE=9]
+No para la reventa. Permiso concedido para imprimir o fotocopiar este documento para uso personal solamente.  
+ 
+TUMBA DEL REY DE HIERRO 9 
+Los protectores esqueléticos solo se animan si una de las gemasse retira de la cavidad ocular de una de 
+las estatuas del cráneo (ver  "Estatuas" arriba). Al comprobar si hay sorpresa en el primer turno, trate a 
+cada guardia como si estuviera  oculto. 
+Cerradura. El disco es un mecanismo de bloqueo mágico que desconecta la cerradura y la trampa 
+cuando se habla la frase de contraseña "Padres de Hierro". Una comprobación de destreza DC 15 
+(Herramientas de ladrones) desactiva el bloqueo, pero no deshabilita la trampa. 
+Trampa. La trampa (CR 1/2, 100 XP) es un glifo debilitado de la wardadería  que inflige 2d6 de daño 
+(salvo ninguno). La trampa sólo puede ser desarmada diciendo la frase de contraseña. Si se activa la 
+trampa, se reinicia automáticamente, el glifo que ataca a la siguiente criatura para tocar la puerta  sin 
+pronunciar la frase de contraseña. 
+La detección de detección de magia en la puerta revela un aura de abjuración. Lanzar  magia disipada  
+en la puerta destruye la trampa. 
+Cuando la puerta está cerrada, la cerradura  y la trampa  se reinician automáticamente (incluso si se han 
+desactivado correctamente). 
+Cada uno de los "ojos" de las estatuases un granate rojo (100 gp). Las gemas se pueden quitar 
+fácilmente de sus zócalos con la punta de una daga o algún otro objeto similarmente afilado. 
+Las gemas no son mágicas. la luz descrita como que emana de ellos no es más que el reflejo de la luz de 
+la antorcha verde de las facetas de las gemas. 
+Lee el siguiente texto en caja  en voz alta a los jugadores. 
+Esta cámara de 15 pies por 20 pies está dominada por una gran mesa rectangular de piedra en el 
+centro de la habitación. La mesa está cubierta de grandes manchas que parecen más oscuras cerca de 
+una estrecha ranura grabada a lo largo del borde de la mesa. La mesa está inclinada en un ligero 
+ángulo. 
+La cerámica rota estaba esparcida por la habitación, gran parte de ella se reunió en un montículo 
+oblongo cubierto de trozos de tela y paja. Cerca de los escombros, una piedra de la bandera ha sido 
+arrancada del suelo y una garganta cruda engullida de la tierra de abajo. 
+En una alcoba situada en la pared lejana, una puerta conduce a otra cámara. 
+ 
+Esta cámara fue utilizada para preparar cuerpos para el entierro. 
+Túnel de escape. Escondido detrás de una piedra suelta en la base de la pared sur, el  ermitajo  (ver más 
+abajo) ha excavado un corto túnel de escape apenas lo suficientemente grande como para que una 
+
+[PDF_PAGE=10]
+No para la reventa. Permiso concedido para imprimir o fotocopiar este documento para uso personal solamente.  
+ 
+TUMBA DEL REY DE HIERRO 10 
+criatura mediana se arrastre. El túnel emerge en la base del montículo, la salida inteligentemente oculta 
+por la maleza. 
+Garabatos. Gran parte de la información que el ermitaña ha reunido sobre la tumba ha sido rayada en 
+las paredes que rodean su "cama". Aunque es difícil de ver en la luz tenue, un cheque de DC 15 
+Intelligence (Investigate) revela los garabatos. Los garabatos, escritos en una mezcla de común y 
+draconiano, no requieren ninguna habilidad o comprobación de habilidad para leer.  
+Un viejo ermitaso  (utilice las estadísticas para un  plebeyo)vive aquí con su rata gigantemascota.  
+Ambos se ocultan   cuando los personajes entran en la habitación (sus ubicaciones están marcadas en el 
+mapa). No atacarán, intentando permanecer ocultos hasta que los personajes se vayan. Si son 
+descubiertos, el ermitaro y la rata intentan huir a través del túnel de escape  (ver arriba). 
+Si es atacado, el ermitajo pelea con un palo óseo. Comienza con 4 puntos de golpe, la rata gigante con 7. 
+Si el ermitadio sufre algún daño, inmediatamente se rinde, rogando a los personajes misericordia. A 
+cambio de su vida, el ermitaña ofrece contar a los personajes lo que sabe sobre la tumba, incluyendo la 
+frase de contraseña que desactiva la cerradura y la trampa protegiendo la puerta a las Criptas (área 
+5),asícomo la advertencia del espectro que acecha esa zona. 
+Si se le pide que acompañe a los personajes, el ermitaña declina. Está demasiado aterrorizado del 
+espectro para arriesgarse a enojarlo aventurándose más profundamente en la tumba. 
+El ermitao tiene algunos objetos personales mundanos por valor de un total de 5 gp. 
+Lee el siguiente texto en caja  en voz alta a los jugadores. 
+Esta pequeña cámara inacabada está llena deescombros:  los restos de dos estantes de madera en 
+descomposición, su contenido esparcido entre  los  fragmentos destrozados de varios frascos de 
+arcilla. 
+ 
+Esta pequeña cámara fue utilizada como almacén para las herramientas utilizadas para el 
+mantenimiento de la tumba, así como para la preparación de cuerpos para el entierro. Una 
+comprobación de DC 15  Intelligence (Religion) revela el propósito de las  herramientas,  así como el tipo 
+de proceso de embalsamamiento utilizado en los restos. 
+Los aceites de embalsamamiento se han secado hace mucho tiempo, y las hierbas se marchitan al polvo; 
+sin embargo, esparcidos entre los escombros es una  Oción Pde  Healing  - lanzado aquí hace mucho 
+tiempo por otro aventurero mientras exploraba la tumba. 
+ 
+
+[PDF_PAGE=11]
+No para la reventa. Permiso concedido para imprimir o fotocopiar este documento para uso personal solamente.  
+ 
+TUMBA DEL REY DE HIERRO 11 
+Lea el siguiente texto en caja  en voz alta a los jugadores: 
+La puerta se desliza hacia adentro sobre bisagras lamentando, el olor a descomposición 
+momentáneamente abrumando tus sentidos. Recuperándose rápidamente de un ataque de retching, 
+se ve una pared de oscuridad delante de usted. El aire es increíblemente frío, tu aliento exhalado 
+empañando tu visión. 
+ 
+Una vez que los personajes pasan por la puerta y establecen una fuente de luz (ya sea mágica u 
+oscuravisión), lea lo siguiente: 
+Un estrecho pasillo, que se extiende hacia atrás a unos 60 pies de la entrada, se encuentra delante de 
+usted. Cinco alcobas alinean cada pared, probablemente conteniendo las pertenencias y los restos de 
+los sepultados dentro de ellas.  Los tapices moldeadores, sus escenas se desvanecieron durante 
+mucho tiempo, cuelgan de las paredes. En el otro extremo del pasillo se encuentra una puerta. 
+ 
+Bóvedas de entierro. Las bóvedas funerarias albergan los restos óseos de los diez guardaespaldas de 
+Bjorn Ironhand, cada uno enterrado en un sarcófago de piedra lisa. Cada conjunto de restos es una   
+guardia de madejas (ver Apéndice A), a la espera de ser animado por el poder oscuro de Bjorn.  
+Techo. 20 pies. 
+Puerta. Esta pesada puerta de piedra conduce a la Bóveda del Rey de Hierro (área 6). La puerta no está 
+cerrada, aunque está atascada, lo que requiere una fuerza combinada de 20 para forzar la apertura. Sólo 
+dos personajes pueden empujar la puerta al mismo tiempo. 
+Las runas que narran la vida y los hechos de Bjorn Ironhand han sido inscritos en la piedra. Cualquiera 
+que pueda leer Draconic puede leer la inscripción. 
+Iluminación. La cripta está envuelta en una oscuridad antinatural que drena la luz. El área cuenta como 
+muy oscurecida: las criaturas dentro de la zona sufren de la condición cegadora. 
+Las fuentes de luz no mágicas se apagan inmediatamente y las fuentes de luz mágicas sólo arrojan luz 
+tenue. Las fuentes de luz mágicas permanentes que queden dentro de la oscuridad se drenarán de toda 
+la energía mágica en una hora. 
+La cripta (y la bóveda más allá) está atormentada por el espíritu de  Bjorn  Ironhand  (véase el Apéndice 
+A). Bjorn es un astuto oponente, permaneciendo  oculto dentro de su  bóveda (ver  unrea 6 abajo) hasta 
+que uno de los personajes se acerca al centro de la cripta, momento en el que salta  de  su bóveda para 
+atacar,pasando por la puerta. Bjorn comienza con 22 puntos de golpe. 
+Los guardias esqueléticos llevan restos de armadura  (AC 13)y estánarmados con grandes armas. Cada 
+uno comienzas con 13 puntos de impacto. Los  protectores esqueléticos pueden moverse y actuar en el 
+mismo giroqueestán  animados,  moviéndose  y  tomando su acción en la misma iniciativa que Bjorn. Si  
+
+[PDF_PAGE=12]
+No para la reventa. Permiso concedido para imprimir o fotocopiar este documento para uso personal solamente.  
+ 
+TUMBA DEL REY DE HIERRO 12 
+Bjorn es asesinado, los guardias esqueléticoscontinúan luchando hasta que ellos también son 
+destruidos. 
+Lea el siguiente texto en caja  en voz alta a los jugadores: 
+Dentro, un sarcófago ornamentado descansa en el centro de una cámara pequeña. Las urnas rotas 
+bordean las paredes, las monedas de plata y cobre y otras finas esparcidas entre los fragmentos de 
+cerámica 
+ 
+Este sarcófago alberga los restos momificados de Bjorn Ironhand. 
+Techo. 20 pies. 
+Iluminación. La bóveda está envuelta en la misma oscuridad sobrenatural que la Cripta (área 5). 
+Si Bjorn  es herido, se reforma aquí. Bjorn lucha furiosamente para evitar que  sus restos sean 
+destruidos, centrando todos sus ataques sobre cualquier persona a menos de 5 pies del  sarcófago. 
+La bóveda alberga varios frascos canope rotos, así como varios objetos personales que una vez 
+pertenecieron a Bjorn. Aunque la edad ha deteriorado muchos de los artículos, quedan algunas piezas 
+de elección: cuatro piedras lunares y una piedra de sangre (cada gema valorada 50 gp), una pechera 
+ornamentada (200 gp), un par de dados de marfil (25 gp), un anillo de señalización de oro con un 
+símbolo de griffon (50 gp), dos copas de latón (cada una valora25 gp), y una Masterwork  Tool. 
+Además, entre las urnas rotas hay 800 cp, 450  spy 50  gp. 
+ 
+
+[PDF_PAGE=13]
+No para la reventa. Permiso concedido para imprimir o fotocopiar este documento para uso personal solamente.  
+ 
+TUMBA DEL REY DE HIERRO 13 
+Medio no-muerto, mal caótico 
+Armadura Clase 12 
+Puntos de golpe 22 (5d8) 
+Velocidad 0 pies, volar 50 pies (hover) 
+ 
+Str Dex CON Int Wis Cha 
+1 (-5) 14 (+2) 11 (+0) 10 (+0) 10 (+0) 11 (+0) 
+ 
+Daño Resistencia uncid, frío, fuego, relámpago, trueno; golpes, piercing,  unnd slashing  from armasno 
+mágicas 
+Daño Inmunidades necróticas, veneno 
+Condición Inmunidades encantadas, agotamiento, luchado, paralizado, petrificado, envenenado, 
+propenso, restringido, inconsciente 
+Siente la visión verdadera 60 pies, Percepción pasiva 10 
+Los idiomas entienden todos los idiomas que conocía en la vida pero no pueden hablar 
+Desafío 1  (200 XP) 
+Maldito. Bjorn está maldito para perseguir la tumba para siempre, reformándose en 2d6 días si es 
+herido. Bjorn sólo puede ser completamente destruido quemando sus restos, que son completamente 
+consumidos al final del siguiente turno después de ser incendiados, o al lanzarlos  bendecidos.   
+Movimiento Incorpóreo. Bjorn puede moverse a través de otras criaturas y objetos como si fueran  
+terrenos difíciles. Recibe  5 (1d10) de daño   de fuerza si termina  su turno dentro de un objeto. 
+Sensibilidad a la luz solar. Mientras está bajo la luz del sol,  Bjorn  tiene  desventajas en los rollos de 
+ataque, así como en los controles de Sabiduría (Percepción) que dependen de la vista. 
+Naturaleza de muertos vivientes. Bjorn  no requiere aire, comida, bebida ni sueño. 
+Acciones
+Drenaje de vida. Ataque con hechizos cuerpo a cuerpo:  +4 para golpear, alcanzar 5 pies, una criatura. 
+Golpe:  (3d6) daño necrótico. El objetivo debe tener éxito en un lanzamiento de ahorro de constitución 
+DC 10 o su máximo de punto de impacto se reduce en una cantidad igual al daño recibido. Esta 
+reducción dura hasta que la criatura termina un largo descanso. El objetivo muere si este efecto reduce 
+su punto de golpe máximo a 0. 
+Acciones de lair
+En el recuento de iniciativas 20 (perder lazos de iniciativa), Bjorn toma una Acción de Lair, causando el 
+siguiente efecto; Bjorn puede usar esta acción de guarida al principio de cada uno de sus turnos hasta 
+que todos los guardias esqueléticos se hayan animado. 
+
+[PDF_PAGE=14]
+No para la reventa. Permiso concedido para imprimir o fotocopiar este documento para uso personal solamente.  
+ 
+TUMBA DEL REY DE HIERRO 14 
+Bjorn anima los restos de 1d4 guardias esqueléticos. Cada guardia esquelético puede moverse y actuar 
+en el mismo turno en que está animado, tomando su movimiento y acción en la misma iniciativa cuenta 
+que Bjorn. 
+Medio no-muerto, mal caótico 
+Armadura Clase 13 (desechos de armadura) o 15 (restos de armadura y escudo) 
+Puntos de golpe 13 (2d8  +4) 
+Velocidad 30 pies. 
+ 
+Str Dex CON Int Wis Cha 
+10 (+0) 14 (+2) 15 (+2) 6 (-2) 8 (-1) 5 (-3) 
+ 
+Vulnerabilidades bludgeoning 
+Daño Inmismio veneno 
+Condición Inmunidades agotamiento, envenenado 
+Siente darkvision 60 Ft., Percepción pasiva  9 
+Idiomas entiende todos los idiomas que hablaba en la vida, pero no puede hablar 
+Desafío 1/4 (50 XP) 
+Tácticas de paquete. La  guardia esquelética  tiene  ventaja en un rollo de ataque contra una criatura si 
+al menos uno de los aliados del guardia está a menos de 5 pies de la criatura y el aliado no está 
+incapacitado. 
+Naturaleza de muertos vivientes. Los protectores esqueléticos  no requieren aire, comida, bebida ni 
+sueño. 
+Armas. Los guardias esqueléticos de la zona 3 están armados con lanzas. Los guardias de la zona 5 están 
+armados con grandes armas. 
+Acciones
+Gran arma. Ataque de arma cuerpo a cuerpo:  +2 para golpear, alcanzar 5 pies, un objetivo. Golpe: 
+7(2d6)  daño de golpeo o corte.   Pesado, a dos manos. 
+Lanza. Ataque de arma cuerpo a cuerpo o a  distancia:  +2 para golpear, alcanzar 5 pies o lanzar (alcance 
+20/60 pies), un objetivo.   Golpe:  3 (1d6) daño de perforación. Lanzamiento, a dos manos, versátil (1d8) 
+ 
+
+[PDF_PAGE=15]
+No para la reventa. Permiso concedido para imprimir o fotocopiar este documento para uso personal solamente.  
+ 
+TUMBA DEL REY DE HIERRO 15 
+Las herramientas de obra maestra son versiones de fabricación superior de herramientas artesanales, 
+kits e instrumentos musicales. 
+Cada vez que haces una comprobación de habilidad o habilidad usando una herramienta de obra 
+maestra, agregas el doble de tu bonificación de competencia, como si tuvieras experiencia. Si ya tiene 
+experiencia con la herramienta, en su lugar obtendrá  ventaja en el cheque. 
+Las herramientas de obra maestra cuestan 150 gpadicionales. 
+ 
+  

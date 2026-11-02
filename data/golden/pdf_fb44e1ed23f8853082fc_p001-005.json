@@ -1,0 +1,10 @@
+{
+  "title": "Kill the Bride",
+  "language": "en",
+  "recommended_level": null,
+  "hook": "In the North Ward of Waterdeep is a park, a green and pleasant place, o en rented by couples wishing to wed. This morning it’s the turn of Mabon Pritchard and Owena Parcells to tie the knot. They’ve hired the park’s central gazebo as the focus of their ceremony, and invited at least 200 people to share their joy.",
+  "npcs": [{"name":"Mabon Pritchard","role":null},{"name":"Owena Parcells","role":null},{"name":"Eshud Clawdew","role":"jealous ex"}],
+  "locations": ["Waterdeep park"],
+  "threats": ["dread gazebo"],
+  "rewards": ["500 gp each"]
+}

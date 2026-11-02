@@ -1,0 +1,10 @@
+{
+  "title": "Hero Maker School",
+  "language": "en",
+  "recommended_level": "1",
+  "hook": "With the accention of Nim-Aer, Lord Neverember has desided to make a training school to train stronger soliders in a short amount of time or atleast the basics. In return they serve the neverwinter guard for so much time. But one Younger member has been rash and now the party must go after them.",
+  "npcs": [{"name":"Lord Neverember","role":null},{"name":"Nim-Aer","role":null},{"name":"Damaian","role":null}],
+  "locations": ["Neverwinter","The Goblin Den"],
+  "threats": [],
+  "rewards": ["25 gold to each","50 CP","15 SP"]
+}

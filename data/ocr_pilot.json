@@ -1,0 +1,16 @@
+{
+  "target_count": 1,
+  "pages": [
+    {
+      "document_id": "pdf_170a25a9c04ff189919a",
+      "pdf_page": 3,
+      "record_path": "data/ocr/windows-v1/pdf_170a25a9c04ff189919a_p003/ocr.json",
+      "record_sha256": "380bfa49a6ea22f04d93d7d8fc9463267decdd2743702c89a21e052de6b62fea",
+      "status": "needs_review",
+      "reason": "visual_review_required"
+    }
+  ],
+  "counts": {
+    "needs_review": 1
+  }
+}

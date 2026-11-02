@@ -1,0 +1,347 @@
+{
+  "kind": "local_smoke_not_benchmark",
+  "status": "passed",
+  "smoke_attempted": true,
+  "generation_calls": 1,
+  "external_provider_calls": 0,
+  "configuration": {
+    "model": "qwen2.5:3b",
+    "base_url": "http://localhost:11434",
+    "context_size": 8192,
+    "timeout_s": 120.0,
+    "sampling": {
+      "temperature": 0.2,
+      "top_p": 0.9,
+      "max_output_tokens": 2048
+    }
+  },
+  "cli_path": "C:\\Users\\Roman\\AppData\\Local\\Programs\\Ollama\\ollama.exe",
+  "host": {
+    "platform": "Windows-10-10.0.19045-SP0",
+    "processor": "Intel64 Family 6 Model 154 Stepping 3, GenuineIntel",
+    "python": "3.12.15",
+    "httpx": "0.28.1",
+    "gpu": null,
+    "gpu_note": "Not measured; do not infer GPU usage."
+  },
+  "model_response": {
+    "provider": "ollama",
+    "requested_model": "qwen2.5:3b",
+    "returned_model": "qwen2.5:3b",
+    "raw_text": "{\n \"hook\": \"Il pesce è a pancia in su. Il grifone ha i postumi. E qualcuno di voi ha un tatuaggio sul sedere.\",\n \"language\": \"en\",\n \"locations\": [\n \"Camera della locanda\",\n \"Fontana accanto alla statua di Ahghairon\",\n \"Taverna\",\n \"Statua di Ahghairon\",\n \"Gilda di Xanathar\"\n ],\n \"npcs\": [\n {\n \"name\": \"Xanathar\",\n \"role\": \"Beholder signore del crimine\"\n },\n {\n \"name\": \"Sylgar\",\n \"role\": \"Pesce rosso adorato da Xanathar\"\n },\n {\n \"name\": \"Nihiloor\",\n \"role\": \"Mind flayer\"\n },\n {\n \"name\": \"Borasco\",\n \"role\": \"Grifone della Guardia Cittadina\"\n }\n ],\n \"recommended_level\": \"3° livello\",\n \"rewards\": [\n \"La boccia di Sylgar\",\n \"Il pesce rosso adorato da Xanathar\",\n \"Il pesce nella boccia\",\n \"Il pesce giusto nella boccia giusta\"\n ],\n \"threats\": [\n \"Il pesce nella boccia\",\n \"Il grifone della Guardia Cittadina\",\n \"Xanathar\",\n \"Il mind flayer Nihiloor\",\n \"Il beholder Xanathar (vedi Atto III)\"\n ],\n \"title\": \"Una Notte da Grifoni\"\n}",
+    "finish_status": "stop",
+    "usage": {
+      "input_tokens": 1493,
+      "output_tokens": 331,
+      "total_tokens": 1824,
+      "cached_input_tokens": 0,
+      "reasoning_tokens": null,
+      "raw": {
+        "prompt_eval_count": 1493,
+        "eval_count": 331,
+        "prompt_eval_cached_count": 0
+      }
+    },
+    "started_at_utc": "2026-11-01T14:59:42.677787+00:00",
+    "duration_s": 12.098365599988028,
+    "response_id": null,
+    "request_id": null,
+    "raw_response": {
+      "model": "qwen2.5:3b",
+      "created_at": "2026-11-01T14:59:54.7753487Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n \"hook\": \"Il pesce è a pancia in su. Il grifone ha i postumi. E qualcuno di voi ha un tatuaggio sul sedere.\",\n \"language\": \"en\",\n \"locations\": [\n \"Camera della locanda\",\n \"Fontana accanto alla statua di Ahghairon\",\n \"Taverna\",\n \"Statua di Ahghairon\",\n \"Gilda di Xanathar\"\n ],\n \"npcs\": [\n {\n \"name\": \"Xanathar\",\n \"role\": \"Beholder signore del crimine\"\n },\n {\n \"name\": \"Sylgar\",\n \"role\": \"Pesce rosso adorato da Xanathar\"\n },\n {\n \"name\": \"Nihiloor\",\n \"role\": \"Mind flayer\"\n },\n {\n \"name\": \"Borasco\",\n \"role\": \"Grifone della Guardia Cittadina\"\n }\n ],\n \"recommended_level\": \"3° livello\",\n \"rewards\": [\n \"La boccia di Sylgar\",\n \"Il pesce rosso adorato da Xanathar\",\n \"Il pesce nella boccia\",\n \"Il pesce giusto nella boccia giusta\"\n ],\n \"threats\": [\n \"Il pesce nella boccia\",\n \"Il grifone della Guardia Cittadina\",\n \"Xanathar\",\n \"Il mind flayer Nihiloor\",\n \"Il beholder Xanathar (vedi Atto III)\"\n ],\n \"title\": \"Una Notte da Grifoni\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 12097561000,
+      "load_duration": 5572474100,
+      "prompt_eval_count": 1493,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 620523000,
+      "eval_count": 331,
+      "eval_duration": 5885943000
+    },
+    "error": null,
+    "metadata": {
+      "http_retries": 0,
+      "http_attempts": 1,
+      "context_size_requested": 8192,
+      "temperature": 0.2,
+      "top_p": 0.9,
+      "max_output_tokens": 2048,
+      "timeout_s": 120.0,
+      "context_detection": "Best effort: explicit flags/errors and reported token/context limits only; silent server-side input truncation cannot be ruled out without tokenizer/server telemetry.",
+      "retry_after": null,
+      "created_at": "2026-11-01T14:59:54.7753487Z",
+      "server_durations_ns": {
+        "total_duration": 12097561000,
+        "load_duration": 5572474100,
+        "prompt_eval_duration": 620523000,
+        "eval_duration": 5885943000
+      },
+      "server_warnings": null
+    }
+  },
+  "schema_valid": true,
+  "runtime_before": {
+    "base_url": "http://localhost:11434",
+    "requested_model": "qwen2.5:3b",
+    "ready": true,
+    "blocker": null,
+    "version": {
+      "version": "0.40.13"
+    },
+    "model": {
+      "name": "qwen2.5:3b",
+      "model": "qwen2.5:3b",
+      "modified_at": "2026-11-01T16:01:42.179723+02:00",
+      "size": 1929912432,
+      "digest": "357c53fb659c5076de1d65ccb0b397446227b71a42be9d1603d46168015c9e4b",
+      "details": {
+        "parent_model": "",
+        "format": "gguf",
+        "family": "qwen2",
+        "families": [
+          "qwen2"
+        ],
+        "parameter_size": "3.1B",
+        "quantization_level": "Q4_K_M",
+        "context_length": 32768,
+        "embedding_length": 2048,
+        "runner": "ggml"
+      },
+      "capabilities": [
+        "completion",
+        "tools"
+      ]
+    },
+    "show": {
+      "license": "Qwen RESEARCH LICENSE AGREEMENT\n\nQwen RESEARCH LICENSE AGREEMENT Release Date: September 19, 2024\n\nBy clicking to agree or by using or distributing any portion or element of the Qwen Materials, you will be deemed to have recognized and accepted the content of this Agreement, which is effective immediately.\n\n1. Definitions\n    a. This Qwen RESEARCH LICENSE AGREEMENT (this \"Agreement\") shall mean the terms and conditions for use, reproduction, distribution and modification of the Materials as defined by this Agreement.\n    b. \"We\" (or \"Us\") shall mean Alibaba Cloud.\n    c. \"You\" (or \"Your\") shall mean a natural person or legal entity exercising the rights granted by this Agreement and/or using the Materials for any purpose and in any field of use.\n    d. \"Third Parties\" shall mean individuals or legal entities that are not under common control with us or you.\n    e. \"Qwen\" shall mean the large language models, and software and algorithms, consisting of trained model weights, parameters (including optimizer states), machine-learning model code, inference-enabling code, training-enabling code, fine-tuning enabling code and other elements of the foregoing distributed by us.\n    f. \"Materials\" shall mean, collectively, Alibaba Cloud's proprietary Qwen and Documentation (and any portion thereof) made available under this Agreement.\n    g. \"Source\" form shall mean the preferred form for making modifications, including but not limited to model source code, documentation source, and configuration files.\n    h. \"Object\" form shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types.\n    i. \"Non-Commercial\" shall mean for research or evaluation purposes only.\n\n2. Grant of Rights\n    a. You are granted a non-exclusive, worldwide, non-transferable and royalty-free limited license under Alibaba Cloud's intellectual property or other rights owned by us embodied in the Materials to use, reproduce, distribute, copy, create derivative works of, and make modifications to the Materials FOR NON-COMMERCIAL PURPOSES ONLY. \n    b. If you are commercially using the Materials, you shall request a license from us.\n\n3. Redistribution\nYou may distribute copies or make the Materials, or derivative works thereof, available as part of a product or service that contains any of them, with or without modifications, and in Source or Object form, provided that you meet the following conditions:\n    a. You shall give any other recipients of the Materials or derivative works a copy of this Agreement;\n    b. You shall cause any modified files to carry prominent notices stating that you changed the files;\n    c. You shall retain in all copies of the Materials that you distribute the following attribution notices within a \"Notice\" text file distributed as a part of such copies: \"Qwen is licensed under the Qwen RESEARCH LICENSE AGREEMENT, Copyright (c) Alibaba Cloud. All Rights Reserved.\"; and\n    d. You may add your own copyright statement to your modifications and may provide additional or different license terms and conditions for use, reproduction, or distribution of your modifications, or for any such derivative works as a whole, provided your use, reproduction, and distribution of the work otherwise complies with the terms and conditions of this Agreement.\n\n4. Rules of use\n    a. The Materials may be subject to export controls or restrictions in China, the United States or other countries or regions. You shall comply with applicable laws and regulations in your use of the Materials.\n    b. If you use the Materials or any outputs or results therefrom to create, train, fine-tune, or improve an AI model that is distributed or made available, you shall prominently display “Built with Qwen” or “Improved using Qwen” in the related product documentation.\n\n5. Intellectual Property\n    a. We retain ownership of all intellectual property rights in and to the Materials and derivatives made by or for us. Conditioned upon compliance with the terms and conditions of this Agreement, with respect to any derivative works and modifications of the Materials that are made by you, you are and will be the owner of such derivative works and modifications.\n    b. No trademark license is granted to use the trade names, trademarks, service marks, or product names of us, except as required to fulfill notice requirements under this Agreement or as required for reasonable and customary use in describing and redistributing the Materials.\n    c. If you commence a lawsuit or other proceedings (including a cross-claim or counterclaim in a lawsuit) against us or any entity alleging that the Materials or any output therefrom, or any part of the foregoing, infringe any intellectual property or other right owned or licensable by you, then all licenses granted to you under this Agreement shall terminate as of the date such lawsuit or other proceeding is commenced or brought.\n\n6. Disclaimer of Warranty and Limitation of Liability\n    a. We are not obligated to support, update, provide training for, or develop any further version of the Qwen Materials or to grant any license thereto.\n    b. THE MATERIALS ARE PROVIDED \"AS IS\" WITHOUT ANY EXPRESS OR IMPLIED WARRANTY OF ANY KIND INCLUDING WARRANTIES OF MERCHANTABILITY, NONINFRINGEMENT, OR FITNESS FOR A PARTICULAR PURPOSE. WE MAKE NO WARRANTY AND ASSUME NO RESPONSIBILITY FOR THE SAFETY OR STABILITY OF THE MATERIALS AND ANY OUTPUT THEREFROM.\n    c. IN NO EVENT SHALL WE BE LIABLE TO YOU FOR ANY DAMAGES, INCLUDING, BUT NOT LIMITED TO ANY DIRECT, OR INDIRECT, SPECIAL OR CONSEQUENTIAL DAMAGES ARISING FROM YOUR USE OR INABILITY TO USE THE MATERIALS OR ANY OUTPUT OF IT, NO MATTER HOW IT’S CAUSED.\n    d. You will defend, indemnify and hold harmless us from and against any claim by any third party arising out of or related to your use or distribution of the Materials.\n\n7. Survival and Termination.\n    a. The term of this Agreement shall commence upon your acceptance of this Agreement or access to the Materials and will continue in full force and effect until terminated in accordance with the terms and conditions herein.\n    b. We may terminate this Agreement if you breach any of the terms or conditions of this Agreement. Upon termination of this Agreement, you must delete and cease use of the Materials. Sections 6 and 8 shall survive the termination of this Agreement.\n\n8. Governing Law and Jurisdiction.\n    a. This Agreement and any dispute arising out of or relating to it will be governed by the laws of China, without regard to conflict of law principles, and the UN Convention on Contracts for the International Sale of Goods does not apply to this Agreement.\n    b. The People's Courts in Hangzhou City shall have exclusive jurisdiction over any dispute arising out of this Agreement.\n\n9. Other Terms and Conditions.\n    a. Any arrangements, understandings, or agreements regarding the Material not stated herein are separate from and independent of the terms and conditions of this Agreement. You shall request a separate license from us, if you use the Materials in ways not expressly agreed to in this Agreement. \n    b. We shall not be bound by any additional or different terms or conditions communicated by you unless expressly agreed.",
+      "modelfile": "# Modelfile generated by \"ollama show\"\n# To build a new Modelfile based on this, replace FROM with:\n# FROM qwen2.5:3b\n\nFROM C:\\Users\\Roman\\.ollama\\models\\blobs\\sha256-5ee4f07cdb9beadbbb293e85803c569b01bd37ed059d2715faa7bb405f31caa6\nTEMPLATE \"\"\"{{- if .Messages }}\n{{- if or .System .Tools }}<|im_start|>system\n{{- if .System }}\n{{ .System }}\n{{- end }}\n{{- if .Tools }}\n\n# Tools\n\nYou may call one or more functions to assist with the user query.\n\nYou are provided with function signatures within <tools></tools> XML tags:\n<tools>\n{{- range .Tools }}\n{\"type\": \"function\", \"function\": {{ .Function }}}\n{{- end }}\n</tools>\n\nFor each function call, return a json object with function name and arguments within <tool_call></tool_call> XML tags:\n<tool_call>\n{\"name\": <function-name>, \"arguments\": <args-json-object>}\n</tool_call>\n{{- end }}<|im_end|>\n{{ end }}\n{{- range $i, $_ := .Messages }}\n{{- $last := eq (len (slice $.Messages $i)) 1 -}}\n{{- if eq .Role \"user\" }}<|im_start|>user\n{{ .Content }}<|im_end|>\n{{ else if eq .Role \"assistant\" }}<|im_start|>assistant\n{{ if .Content }}{{ .Content }}\n{{- else if .ToolCalls }}<tool_call>\n{{ range .ToolCalls }}{\"name\": \"{{ .Function.Name }}\", \"arguments\": {{ .Function.Arguments }}}\n{{ end }}</tool_call>\n{{- end }}{{ if not $last }}<|im_end|>\n{{ end }}\n{{- else if eq .Role \"tool\" }}<|im_start|>user\n<tool_response>\n{{ .Content }}\n</tool_response><|im_end|>\n{{ end }}\n{{- if and (ne .Role \"assistant\") $last }}<|im_start|>assistant\n{{ end }}\n{{- end }}\n{{- else }}\n{{- if .System }}<|im_start|>system\n{{ .System }}<|im_end|>\n{{ end }}{{ if .Prompt }}<|im_start|>user\n{{ .Prompt }}<|im_end|>\n{{ end }}<|im_start|>assistant\n{{ end }}{{ .Response }}{{ if .Response }}<|im_end|>{{ end }}\"\"\"\nSYSTEM You are Qwen, created by Alibaba Cloud. You are a helpful assistant.\nLICENSE \"\"\"Qwen RESEARCH LICENSE AGREEMENT\n\nQwen RESEARCH LICENSE AGREEMENT Release Date: September 19, 2024\n\nBy clicking to agree or by using or distributing any portion or element of the Qwen Materials, you will be deemed to have recognized and accepted the content of this Agreement, which is effective immediately.\n\n1. Definitions\n    a. This Qwen RESEARCH LICENSE AGREEMENT (this \"Agreement\") shall mean the terms and conditions for use, reproduction, distribution and modification of the Materials as defined by this Agreement.\n    b. \"We\" (or \"Us\") shall mean Alibaba Cloud.\n    c. \"You\" (or \"Your\") shall mean a natural person or legal entity exercising the rights granted by this Agreement and/or using the Materials for any purpose and in any field of use.\n    d. \"Third Parties\" shall mean individuals or legal entities that are not under common control with us or you.\n    e. \"Qwen\" shall mean the large language models, and software and algorithms, consisting of trained model weights, parameters (including optimizer states), machine-learning model code, inference-enabling code, training-enabling code, fine-tuning enabling code and other elements of the foregoing distributed by us.\n    f. \"Materials\" shall mean, collectively, Alibaba Cloud's proprietary Qwen and Documentation (and any portion thereof) made available under this Agreement.\n    g. \"Source\" form shall mean the preferred form for making modifications, including but not limited to model source code, documentation source, and configuration files.\n    h. \"Object\" form shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types.\n    i. \"Non-Commercial\" shall mean for research or evaluation purposes only.\n\n2. Grant of Rights\n    a. You are granted a non-exclusive, worldwide, non-transferable and royalty-free limited license under Alibaba Cloud's intellectual property or other rights owned by us embodied in the Materials to use, reproduce, distribute, copy, create derivative works of, and make modifications to the Materials FOR NON-COMMERCIAL PURPOSES ONLY. \n    b. If you are commercially using the Materials, you shall request a license from us.\n\n3. Redistribution\nYou may distribute copies or make the Materials, or derivative works thereof, available as part of a product or service that contains any of them, with or without modifications, and in Source or Object form, provided that you meet the following conditions:\n    a. You shall give any other recipients of the Materials or derivative works a copy of this Agreement;\n    b. You shall cause any modified files to carry prominent notices stating that you changed the files;\n    c. You shall retain in all copies of the Materials that you distribute the following attribution notices within a \"Notice\" text file distributed as a part of such copies: \"Qwen is licensed under the Qwen RESEARCH LICENSE AGREEMENT, Copyright (c) Alibaba Cloud. All Rights Reserved.\"; and\n    d. You may add your own copyright statement to your modifications and may provide additional or different license terms and conditions for use, reproduction, or distribution of your modifications, or for any such derivative works as a whole, provided your use, reproduction, and distribution of the work otherwise complies with the terms and conditions of this Agreement.\n\n4. Rules of use\n    a. The Materials may be subject to export controls or restrictions in China, the United States or other countries or regions. You shall comply with applicable laws and regulations in your use of the Materials.\n    b. If you use the Materials or any outputs or results therefrom to create, train, fine-tune, or improve an AI model that is distributed or made available, you shall prominently display “Built with Qwen” or “Improved using Qwen” in the related product documentation.\n\n5. Intellectual Property\n    a. We retain ownership of all intellectual property rights in and to the Materials and derivatives made by or for us. Conditioned upon compliance with the terms and conditions of this Agreement, with respect to any derivative works and modifications of the Materials that are made by you, you are and will be the owner of such derivative works and modifications.\n    b. No trademark license is granted to use the trade names, trademarks, service marks, or product names of us, except as required to fulfill notice requirements under this Agreement or as required for reasonable and customary use in describing and redistributing the Materials.\n    c. If you commence a lawsuit or other proceedings (including a cross-claim or counterclaim in a lawsuit) against us or any entity alleging that the Materials or any output therefrom, or any part of the foregoing, infringe any intellectual property or other right owned or licensable by you, then all licenses granted to you under this Agreement shall terminate as of the date such lawsuit or other proceeding is commenced or brought.\n\n6. Disclaimer of Warranty and Limitation of Liability\n    a. We are not obligated to support, update, provide training for, or develop any further version of the Qwen Materials or to grant any license thereto.\n    b. THE MATERIALS ARE PROVIDED \"AS IS\" WITHOUT ANY EXPRESS OR IMPLIED WARRANTY OF ANY KIND INCLUDING WARRANTIES OF MERCHANTABILITY, NONINFRINGEMENT, OR FITNESS FOR A PARTICULAR PURPOSE. WE MAKE NO WARRANTY AND ASSUME NO RESPONSIBILITY FOR THE SAFETY OR STABILITY OF THE MATERIALS AND ANY OUTPUT THEREFROM.\n    c. IN NO EVENT SHALL WE BE LIABLE TO YOU FOR ANY DAMAGES, INCLUDING, BUT NOT LIMITED TO ANY DIRECT, OR INDIRECT, SPECIAL OR CONSEQUENTIAL DAMAGES ARISING FROM YOUR USE OR INABILITY TO USE THE MATERIALS OR ANY OUTPUT OF IT, NO MATTER HOW IT’S CAUSED.\n    d. You will defend, indemnify and hold harmless us from and against any claim by any third party arising out of or related to your use or distribution of the Materials.\n\n7. Survival and Termination.\n    a. The term of this Agreement shall commence upon your acceptance of this Agreement or access to the Materials and will continue in full force and effect until terminated in accordance with the terms and conditions herein.\n    b. We may terminate this Agreement if you breach any of the terms or conditions of this Agreement. Upon termination of this Agreement, you must delete and cease use of the Materials. Sections 6 and 8 shall survive the termination of this Agreement.\n\n8. Governing Law and Jurisdiction.\n    a. This Agreement and any dispute arising out of or relating to it will be governed by the laws of China, without regard to conflict of law principles, and the UN Convention on Contracts for the International Sale of Goods does not apply to this Agreement.\n    b. The People's Courts in Hangzhou City shall have exclusive jurisdiction over any dispute arising out of this Agreement.\n\n9. Other Terms and Conditions.\n    a. Any arrangements, understandings, or agreements regarding the Material not stated herein are separate from and independent of the terms and conditions of this Agreement. You shall request a separate license from us, if you use the Materials in ways not expressly agreed to in this Agreement. \n    b. We shall not be bound by any additional or different terms or conditions communicated by you unless expressly agreed.\"\"\"\n",
+      "template": "{{- if .Messages }}\n{{- if or .System .Tools }}<|im_start|>system\n{{- if .System }}\n{{ .System }}\n{{- end }}\n{{- if .Tools }}\n\n# Tools\n\nYou may call one or more functions to assist with the user query.\n\nYou are provided with function signatures within <tools></tools> XML tags:\n<tools>\n{{- range .Tools }}\n{\"type\": \"function\", \"function\": {{ .Function }}}\n{{- end }}\n</tools>\n\nFor each function call, return a json object with function name and arguments within <tool_call></tool_call> XML tags:\n<tool_call>\n{\"name\": <function-name>, \"arguments\": <args-json-object>}\n</tool_call>\n{{- end }}<|im_end|>\n{{ end }}\n{{- range $i, $_ := .Messages }}\n{{- $last := eq (len (slice $.Messages $i)) 1 -}}\n{{- if eq .Role \"user\" }}<|im_start|>user\n{{ .Content }}<|im_end|>\n{{ else if eq .Role \"assistant\" }}<|im_start|>assistant\n{{ if .Content }}{{ .Content }}\n{{- else if .ToolCalls }}<tool_call>\n{{ range .ToolCalls }}{\"name\": \"{{ .Function.Name }}\", \"arguments\": {{ .Function.Arguments }}}\n{{ end }}</tool_call>\n{{- end }}{{ if not $last }}<|im_end|>\n{{ end }}\n{{- else if eq .Role \"tool\" }}<|im_start|>user\n<tool_response>\n{{ .Content }}\n</tool_response><|im_end|>\n{{ end }}\n{{- if and (ne .Role \"assistant\") $last }}<|im_start|>assistant\n{{ end }}\n{{- end }}\n{{- else }}\n{{- if .System }}<|im_start|>system\n{{ .System }}<|im_end|>\n{{ end }}{{ if .Prompt }}<|im_start|>user\n{{ .Prompt }}<|im_end|>\n{{ end }}<|im_start|>assistant\n{{ end }}{{ .Response }}{{ if .Response }}<|im_end|>{{ end }}",
+      "system": "You are Qwen, created by Alibaba Cloud. You are a helpful assistant.",
+      "template_source": "go_template",
+      "details": {
+        "parent_model": "",
+        "format": "gguf",
+        "family": "qwen2",
+        "families": [
+          "qwen2"
+        ],
+        "parameter_size": "3.1B",
+        "quantization_level": "Q4_K_M"
+      },
+      "model_info": {
+        "general.architecture": "qwen2",
+        "general.base_model.0.name": "Qwen2.5 3B",
+        "general.base_model.0.organization": "Qwen",
+        "general.base_model.0.repo_url": "https://huggingface.co/Qwen/Qwen2.5-3B",
+        "general.base_model.count": 1,
+        "general.basename": "Qwen2.5",
+        "general.file_type": 15,
+        "general.finetune": "Instruct",
+        "general.languages": [
+          "en"
+        ],
+        "general.license": "other",
+        "general.license.link": "https://huggingface.co/Qwen/Qwen2.5-3B-Instruct/blob/main/LICENSE",
+        "general.license.name": "qwen-research",
+        "general.parameter_count": 3085938688,
+        "general.quantization_version": 2,
+        "general.size_label": "3B",
+        "general.tags": [
+          "chat",
+          "text-generation"
+        ],
+        "general.type": "model",
+        "qwen2.attention.head_count": 16,
+        "qwen2.attention.head_count_kv": 2,
+        "qwen2.attention.layer_norm_rms_epsilon": 1e-06,
+        "qwen2.block_count": 36,
+        "qwen2.context_length": 32768,
+        "qwen2.embedding_length": 2048,
+        "qwen2.feed_forward_length": 11008,
+        "qwen2.rope.freq_base": 1000000,
+        "tokenizer.ggml.add_bos_token": false,
+        "tokenizer.ggml.bos_token_id": 151643,
+        "tokenizer.ggml.eos_token_id": 151645,
+        "tokenizer.ggml.merges": [],
+        "tokenizer.ggml.model": "gpt2",
+        "tokenizer.ggml.padding_token_id": 151643,
+        "tokenizer.ggml.pre": "qwen2",
+        "tokenizer.ggml.token_type": [],
+        "tokenizer.ggml.tokens": []
+      },
+      "capabilities": [
+        "completion",
+        "tools"
+      ],
+      "modified_at": "2026-11-01T16:01:42.179723+02:00"
+    },
+    "running_models": {
+      "models": []
+    },
+    "available_model_names": [
+      "qwen2.5:3b"
+    ]
+  },
+  "input": {
+    "text_id": "pdf_7a2ed7e7a7d2d48c4045_p002-008",
+    "split": "development",
+    "parent_text_sha256": "21f8349e41056aef91cf9345d8ac8d81da4d8941c09155eaf3bb9e4aba688326",
+    "scope": "First complete nonempty PDF page of development input; smoke excerpt only, not a benchmark corpus input.",
+    "pdf_page": 2,
+    "character_start": 0,
+    "character_end": 2516,
+    "text_sha256": "df039d81bf99431d340be8be7646af18e8ba5db201a43111aa8117dfeb67ba1b",
+    "text": "[PDF_PAGE=2]\nUNA NOTTE DA GRIFONI\n«Il pesce è a pancia in su. Il grifone ha i postumi. E qualcuno di voi ha un tatuaggio\nsul sedere.»\nUn'avventura oneshot per D&D 5ª Edizione • 4–5 personaggi di 3° livello  \nAmbientata a Waterdeep, la Città degli Splendori\nPanoramica\nUna Notte da Grifoni  è un giallo comico alla rovescia: i personaggi non devono scoprire cosa farà il\ncattivo, ma cosa hanno combinato  loro stessi la notte precedente. Si svegliano dopo la Festa del\nRaccolto con un vuoto totale di memoria, un compagno scomparso, un grifone della Guardia Cittadina\nin camera e la boccia di Sylgar — il pesce rosso adorato da Xanathar, il beholder signore del crimine —\ncon dentro un pesce apparentemente morto.\nIl tono è da commedia (l'ispirazione dichiarata è Una notte da leoni, in salsa Forgotten Realms), ma con\nuna tensione reale: Xanathar rivuole il suo pesce, e il tempo stringe. L'avventura è pensata per essere\ngiocata in una sessione unica di 3–4 ore.\nIl segreto dell'avventura (solo per Il dM)\nIl druido non è scomparso: è il pesce nella boccia. La notte scorsa, tornato in taverna ubriaco, ha\ntrovato  la  boccia  «invitante»,  si  è  trasformato  in  pesce  rosso  con  Forma  Selvatica  e  si  è\naddormentato dentro — a pancia in su, perché è così che dorme. Il vero Sylgar è finito nella fontana\naccanto alla statua di Ahghairon durante lo schianto col grifone, e nuota ancora lì, ignaro di tutto.\nLa  rivelazione  avviene  solo  nel  finale,  durante  l'udienza  con  la  gilda  di  Xanathar.\nL'avventura è costruita perché nessuna prova, magia o incidente possa svelarla prima: vedi il\nriquadro «Blindare il twist» nell'Atto I. Fino ad allora, per tutti, quel pesce è Sylgar. E un'altra\nregola ferrea: Xanathar non compare mai in scena  — troppo letale, troppo instabile quando si\ntocca il suo pesce. La sua presenza è delegata a un occhio magico e a un emissario ben più\ninquietante: il mind flayer Nihiloor (vedi Atto III).\nIn breve: la struttura\nAtto I — Il Risveglio: la camera della locanda, i primi indizi, il grifone Borasco.\nAtto II — Ricostruire la notte: quattro piste da seguire in qualsiasi ordine, mentre l'Orologio di\nXanathar avanza.\nAtto III — Il pesce giusto nella boccia giusta: i finali possibili, inclusa un'udienza con la gilda\nsotto lo sguardo remoto del beholder — che non compare mai di persona.\nAntefatto: cosa è successo davvero\nDa leggere bene prima della sessione. I giocatori lo scopriranno a pezzi, tramite indizi e flashback.\n• \n• \n• \nUna Notte da Grifoni — pag. 1\n\n"
+  },
+  "prompt_path": "prompts/v1.txt",
+  "prompt_sha256": "3212d1c064bdb49f8eac9c29c2fd5899d8c2164491729e7119e753623701c541",
+  "schema_sha256": "9c85b12a81bf44c9ac62bbc14652f94ac7be5fce6e11cebcd76f9d2647328e15",
+  "runtime_after": {
+    "base_url": "http://localhost:11434",
+    "requested_model": "qwen2.5:3b",
+    "ready": true,
+    "blocker": null,
+    "version": {
+      "version": "0.40.13"
+    },
+    "model": {
+      "name": "qwen2.5:3b",
+      "model": "qwen2.5:3b",
+      "modified_at": "2026-11-01T16:01:42.179723+02:00",
+      "size": 1929912432,
+      "digest": "357c53fb659c5076de1d65ccb0b397446227b71a42be9d1603d46168015c9e4b",
+      "details": {
+        "parent_model": "",
+        "format": "gguf",
+        "family": "qwen2",
+        "families": [
+          "qwen2"
+        ],
+        "parameter_size": "3.1B",
+        "quantization_level": "Q4_K_M",
+        "context_length": 32768,
+        "embedding_length": 2048,
+        "runner": "ggml"
+      },
+      "capabilities": [
+        "completion",
+        "tools"
+      ]
+    },
+    "show": {
+      "license": "Qwen RESEARCH LICENSE AGREEMENT\n\nQwen RESEARCH LICENSE AGREEMENT Release Date: September 19, 2024\n\nBy clicking to agree or by using or distributing any portion or element of the Qwen Materials, you will be deemed to have recognized and accepted the content of this Agreement, which is effective immediately.\n\n1. Definitions\n    a. This Qwen RESEARCH LICENSE AGREEMENT (this \"Agreement\") shall mean the terms and conditions for use, reproduction, distribution and modification of the Materials as defined by this Agreement.\n    b. \"We\" (or \"Us\") shall mean Alibaba Cloud.\n    c. \"You\" (or \"Your\") shall mean a natural person or legal entity exercising the rights granted by this Agreement and/or using the Materials for any purpose and in any field of use.\n    d. \"Third Parties\" shall mean individuals or legal entities that are not under common control with us or you.\n    e. \"Qwen\" shall mean the large language models, and software and algorithms, consisting of trained model weights, parameters (including optimizer states), machine-learning model code, inference-enabling code, training-enabling code, fine-tuning enabling code and other elements of the foregoing distributed by us.\n    f. \"Materials\" shall mean, collectively, Alibaba Cloud's proprietary Qwen and Documentation (and any portion thereof) made available under this Agreement.\n    g. \"Source\" form shall mean the preferred form for making modifications, including but not limited to model source code, documentation source, and configuration files.\n    h. \"Object\" form shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types.\n    i. \"Non-Commercial\" shall mean for research or evaluation purposes only.\n\n2. Grant of Rights\n    a. You are granted a non-exclusive, worldwide, non-transferable and royalty-free limited license under Alibaba Cloud's intellectual property or other rights owned by us embodied in the Materials to use, reproduce, distribute, copy, create derivative works of, and make modifications to the Materials FOR NON-COMMERCIAL PURPOSES ONLY. \n    b. If you are commercially using the Materials, you shall request a license from us.\n\n3. Redistribution\nYou may distribute copies or make the Materials, or derivative works thereof, available as part of a product or service that contains any of them, with or without modifications, and in Source or Object form, provided that you meet the following conditions:\n    a. You shall give any other recipients of the Materials or derivative works a copy of this Agreement;\n    b. You shall cause any modified files to carry prominent notices stating that you changed the files;\n    c. You shall retain in all copies of the Materials that you distribute the following attribution notices within a \"Notice\" text file distributed as a part of such copies: \"Qwen is licensed under the Qwen RESEARCH LICENSE AGREEMENT, Copyright (c) Alibaba Cloud. All Rights Reserved.\"; and\n    d. You may add your own copyright statement to your modifications and may provide additional or different license terms and conditions for use, reproduction, or distribution of your modifications, or for any such derivative works as a whole, provided your use, reproduction, and distribution of the work otherwise complies with the terms and conditions of this Agreement.\n\n4. Rules of use\n    a. The Materials may be subject to export controls or restrictions in China, the United States or other countries or regions. You shall comply with applicable laws and regulations in your use of the Materials.\n    b. If you use the Materials or any outputs or results therefrom to create, train, fine-tune, or improve an AI model that is distributed or made available, you shall prominently display “Built with Qwen” or “Improved using Qwen” in the related product documentation.\n\n5. Intellectual Property\n    a. We retain ownership of all intellectual property rights in and to the Materials and derivatives made by or for us. Conditioned upon compliance with the terms and conditions of this Agreement, with respect to any derivative works and modifications of the Materials that are made by you, you are and will be the owner of such derivative works and modifications.\n    b. No trademark license is granted to use the trade names, trademarks, service marks, or product names of us, except as required to fulfill notice requirements under this Agreement or as required for reasonable and customary use in describing and redistributing the Materials.\n    c. If you commence a lawsuit or other proceedings (including a cross-claim or counterclaim in a lawsuit) against us or any entity alleging that the Materials or any output therefrom, or any part of the foregoing, infringe any intellectual property or other right owned or licensable by you, then all licenses granted to you under this Agreement shall terminate as of the date such lawsuit or other proceeding is commenced or brought.\n\n6. Disclaimer of Warranty and Limitation of Liability\n    a. We are not obligated to support, update, provide training for, or develop any further version of the Qwen Materials or to grant any license thereto.\n    b. THE MATERIALS ARE PROVIDED \"AS IS\" WITHOUT ANY EXPRESS OR IMPLIED WARRANTY OF ANY KIND INCLUDING WARRANTIES OF MERCHANTABILITY, NONINFRINGEMENT, OR FITNESS FOR A PARTICULAR PURPOSE. WE MAKE NO WARRANTY AND ASSUME NO RESPONSIBILITY FOR THE SAFETY OR STABILITY OF THE MATERIALS AND ANY OUTPUT THEREFROM.\n    c. IN NO EVENT SHALL WE BE LIABLE TO YOU FOR ANY DAMAGES, INCLUDING, BUT NOT LIMITED TO ANY DIRECT, OR INDIRECT, SPECIAL OR CONSEQUENTIAL DAMAGES ARISING FROM YOUR USE OR INABILITY TO USE THE MATERIALS OR ANY OUTPUT OF IT, NO MATTER HOW IT’S CAUSED.\n    d. You will defend, indemnify and hold harmless us from and against any claim by any third party arising out of or related to your use or distribution of the Materials.\n\n7. Survival and Termination.\n    a. The term of this Agreement shall commence upon your acceptance of this Agreement or access to the Materials and will continue in full force and effect until terminated in accordance with the terms and conditions herein.\n    b. We may terminate this Agreement if you breach any of the terms or conditions of this Agreement. Upon termination of this Agreement, you must delete and cease use of the Materials. Sections 6 and 8 shall survive the termination of this Agreement.\n\n8. Governing Law and Jurisdiction.\n    a. This Agreement and any dispute arising out of or relating to it will be governed by the laws of China, without regard to conflict of law principles, and the UN Convention on Contracts for the International Sale of Goods does not apply to this Agreement.\n    b. The People's Courts in Hangzhou City shall have exclusive jurisdiction over any dispute arising out of this Agreement.\n\n9. Other Terms and Conditions.\n    a. Any arrangements, understandings, or agreements regarding the Material not stated herein are separate from and independent of the terms and conditions of this Agreement. You shall request a separate license from us, if you use the Materials in ways not expressly agreed to in this Agreement. \n    b. We shall not be bound by any additional or different terms or conditions communicated by you unless expressly agreed.",
+      "modelfile": "# Modelfile generated by \"ollama show\"\n# To build a new Modelfile based on this, replace FROM with:\n# FROM qwen2.5:3b\n\nFROM C:\\Users\\Roman\\.ollama\\models\\blobs\\sha256-5ee4f07cdb9beadbbb293e85803c569b01bd37ed059d2715faa7bb405f31caa6\nTEMPLATE \"\"\"{{- if .Messages }}\n{{- if or .System .Tools }}<|im_start|>system\n{{- if .System }}\n{{ .System }}\n{{- end }}\n{{- if .Tools }}\n\n# Tools\n\nYou may call one or more functions to assist with the user query.\n\nYou are provided with function signatures within <tools></tools> XML tags:\n<tools>\n{{- range .Tools }}\n{\"type\": \"function\", \"function\": {{ .Function }}}\n{{- end }}\n</tools>\n\nFor each function call, return a json object with function name and arguments within <tool_call></tool_call> XML tags:\n<tool_call>\n{\"name\": <function-name>, \"arguments\": <args-json-object>}\n</tool_call>\n{{- end }}<|im_end|>\n{{ end }}\n{{- range $i, $_ := .Messages }}\n{{- $last := eq (len (slice $.Messages $i)) 1 -}}\n{{- if eq .Role \"user\" }}<|im_start|>user\n{{ .Content }}<|im_end|>\n{{ else if eq .Role \"assistant\" }}<|im_start|>assistant\n{{ if .Content }}{{ .Content }}\n{{- else if .ToolCalls }}<tool_call>\n{{ range .ToolCalls }}{\"name\": \"{{ .Function.Name }}\", \"arguments\": {{ .Function.Arguments }}}\n{{ end }}</tool_call>\n{{- end }}{{ if not $last }}<|im_end|>\n{{ end }}\n{{- else if eq .Role \"tool\" }}<|im_start|>user\n<tool_response>\n{{ .Content }}\n</tool_response><|im_end|>\n{{ end }}\n{{- if and (ne .Role \"assistant\") $last }}<|im_start|>assistant\n{{ end }}\n{{- end }}\n{{- else }}\n{{- if .System }}<|im_start|>system\n{{ .System }}<|im_end|>\n{{ end }}{{ if .Prompt }}<|im_start|>user\n{{ .Prompt }}<|im_end|>\n{{ end }}<|im_start|>assistant\n{{ end }}{{ .Response }}{{ if .Response }}<|im_end|>{{ end }}\"\"\"\nSYSTEM You are Qwen, created by Alibaba Cloud. You are a helpful assistant.\nLICENSE \"\"\"Qwen RESEARCH LICENSE AGREEMENT\n\nQwen RESEARCH LICENSE AGREEMENT Release Date: September 19, 2024\n\nBy clicking to agree or by using or distributing any portion or element of the Qwen Materials, you will be deemed to have recognized and accepted the content of this Agreement, which is effective immediately.\n\n1. Definitions\n    a. This Qwen RESEARCH LICENSE AGREEMENT (this \"Agreement\") shall mean the terms and conditions for use, reproduction, distribution and modification of the Materials as defined by this Agreement.\n    b. \"We\" (or \"Us\") shall mean Alibaba Cloud.\n    c. \"You\" (or \"Your\") shall mean a natural person or legal entity exercising the rights granted by this Agreement and/or using the Materials for any purpose and in any field of use.\n    d. \"Third Parties\" shall mean individuals or legal entities that are not under common control with us or you.\n    e. \"Qwen\" shall mean the large language models, and software and algorithms, consisting of trained model weights, parameters (including optimizer states), machine-learning model code, inference-enabling code, training-enabling code, fine-tuning enabling code and other elements of the foregoing distributed by us.\n    f. \"Materials\" shall mean, collectively, Alibaba Cloud's proprietary Qwen and Documentation (and any portion thereof) made available under this Agreement.\n    g. \"Source\" form shall mean the preferred form for making modifications, including but not limited to model source code, documentation source, and configuration files.\n    h. \"Object\" form shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types.\n    i. \"Non-Commercial\" shall mean for research or evaluation purposes only.\n\n2. Grant of Rights\n    a. You are granted a non-exclusive, worldwide, non-transferable and royalty-free limited license under Alibaba Cloud's intellectual property or other rights owned by us embodied in the Materials to use, reproduce, distribute, copy, create derivative works of, and make modifications to the Materials FOR NON-COMMERCIAL PURPOSES ONLY. \n    b. If you are commercially using the Materials, you shall request a license from us.\n\n3. Redistribution\nYou may distribute copies or make the Materials, or derivative works thereof, available as part of a product or service that contains any of them, with or without modifications, and in Source or Object form, provided that you meet the following conditions:\n    a. You shall give any other recipients of the Materials or derivative works a copy of this Agreement;\n    b. You shall cause any modified files to carry prominent notices stating that you changed the files;\n    c. You shall retain in all copies of the Materials that you distribute the following attribution notices within a \"Notice\" text file distributed as a part of such copies: \"Qwen is licensed under the Qwen RESEARCH LICENSE AGREEMENT, Copyright (c) Alibaba Cloud. All Rights Reserved.\"; and\n    d. You may add your own copyright statement to your modifications and may provide additional or different license terms and conditions for use, reproduction, or distribution of your modifications, or for any such derivative works as a whole, provided your use, reproduction, and distribution of the work otherwise complies with the terms and conditions of this Agreement.\n\n4. Rules of use\n    a. The Materials may be subject to export controls or restrictions in China, the United States or other countries or regions. You shall comply with applicable laws and regulations in your use of the Materials.\n    b. If you use the Materials or any outputs or results therefrom to create, train, fine-tune, or improve an AI model that is distributed or made available, you shall prominently display “Built with Qwen” or “Improved using Qwen” in the related product documentation.\n\n5. Intellectual Property\n    a. We retain ownership of all intellectual property rights in and to the Materials and derivatives made by or for us. Conditioned upon compliance with the terms and conditions of this Agreement, with respect to any derivative works and modifications of the Materials that are made by you, you are and will be the owner of such derivative works and modifications.\n    b. No trademark license is granted to use the trade names, trademarks, service marks, or product names of us, except as required to fulfill notice requirements under this Agreement or as required for reasonable and customary use in describing and redistributing the Materials.\n    c. If you commence a lawsuit or other proceedings (including a cross-claim or counterclaim in a lawsuit) against us or any entity alleging that the Materials or any output therefrom, or any part of the foregoing, infringe any intellectual property or other right owned or licensable by you, then all licenses granted to you under this Agreement shall terminate as of the date such lawsuit or other proceeding is commenced or brought.\n\n6. Disclaimer of Warranty and Limitation of Liability\n    a. We are not obligated to support, update, provide training for, or develop any further version of the Qwen Materials or to grant any license thereto.\n    b. THE MATERIALS ARE PROVIDED \"AS IS\" WITHOUT ANY EXPRESS OR IMPLIED WARRANTY OF ANY KIND INCLUDING WARRANTIES OF MERCHANTABILITY, NONINFRINGEMENT, OR FITNESS FOR A PARTICULAR PURPOSE. WE MAKE NO WARRANTY AND ASSUME NO RESPONSIBILITY FOR THE SAFETY OR STABILITY OF THE MATERIALS AND ANY OUTPUT THEREFROM.\n    c. IN NO EVENT SHALL WE BE LIABLE TO YOU FOR ANY DAMAGES, INCLUDING, BUT NOT LIMITED TO ANY DIRECT, OR INDIRECT, SPECIAL OR CONSEQUENTIAL DAMAGES ARISING FROM YOUR USE OR INABILITY TO USE THE MATERIALS OR ANY OUTPUT OF IT, NO MATTER HOW IT’S CAUSED.\n    d. You will defend, indemnify and hold harmless us from and against any claim by any third party arising out of or related to your use or distribution of the Materials.\n\n7. Survival and Termination.\n    a. The term of this Agreement shall commence upon your acceptance of this Agreement or access to the Materials and will continue in full force and effect until terminated in accordance with the terms and conditions herein.\n    b. We may terminate this Agreement if you breach any of the terms or conditions of this Agreement. Upon termination of this Agreement, you must delete and cease use of the Materials. Sections 6 and 8 shall survive the termination of this Agreement.\n\n8. Governing Law and Jurisdiction.\n    a. This Agreement and any dispute arising out of or relating to it will be governed by the laws of China, without regard to conflict of law principles, and the UN Convention on Contracts for the International Sale of Goods does not apply to this Agreement.\n    b. The People's Courts in Hangzhou City shall have exclusive jurisdiction over any dispute arising out of this Agreement.\n\n9. Other Terms and Conditions.\n    a. Any arrangements, understandings, or agreements regarding the Material not stated herein are separate from and independent of the terms and conditions of this Agreement. You shall request a separate license from us, if you use the Materials in ways not expressly agreed to in this Agreement. \n    b. We shall not be bound by any additional or different terms or conditions communicated by you unless expressly agreed.\"\"\"\n",
+      "template": "{{- if .Messages }}\n{{- if or .System .Tools }}<|im_start|>system\n{{- if .System }}\n{{ .System }}\n{{- end }}\n{{- if .Tools }}\n\n# Tools\n\nYou may call one or more functions to assist with the user query.\n\nYou are provided with function signatures within <tools></tools> XML tags:\n<tools>\n{{- range .Tools }}\n{\"type\": \"function\", \"function\": {{ .Function }}}\n{{- end }}\n</tools>\n\nFor each function call, return a json object with function name and arguments within <tool_call></tool_call> XML tags:\n<tool_call>\n{\"name\": <function-name>, \"arguments\": <args-json-object>}\n</tool_call>\n{{- end }}<|im_end|>\n{{ end }}\n{{- range $i, $_ := .Messages }}\n{{- $last := eq (len (slice $.Messages $i)) 1 -}}\n{{- if eq .Role \"user\" }}<|im_start|>user\n{{ .Content }}<|im_end|>\n{{ else if eq .Role \"assistant\" }}<|im_start|>assistant\n{{ if .Content }}{{ .Content }}\n{{- else if .ToolCalls }}<tool_call>\n{{ range .ToolCalls }}{\"name\": \"{{ .Function.Name }}\", \"arguments\": {{ .Function.Arguments }}}\n{{ end }}</tool_call>\n{{- end }}{{ if not $last }}<|im_end|>\n{{ end }}\n{{- else if eq .Role \"tool\" }}<|im_start|>user\n<tool_response>\n{{ .Content }}\n</tool_response><|im_end|>\n{{ end }}\n{{- if and (ne .Role \"assistant\") $last }}<|im_start|>assistant\n{{ end }}\n{{- end }}\n{{- else }}\n{{- if .System }}<|im_start|>system\n{{ .System }}<|im_end|>\n{{ end }}{{ if .Prompt }}<|im_start|>user\n{{ .Prompt }}<|im_end|>\n{{ end }}<|im_start|>assistant\n{{ end }}{{ .Response }}{{ if .Response }}<|im_end|>{{ end }}",
+      "system": "You are Qwen, created by Alibaba Cloud. You are a helpful assistant.",
+      "template_source": "go_template",
+      "details": {
+        "parent_model": "",
+        "format": "gguf",
+        "family": "qwen2",
+        "families": [
+          "qwen2"
+        ],
+        "parameter_size": "3.1B",
+        "quantization_level": "Q4_K_M"
+      },
+      "model_info": {
+        "general.architecture": "qwen2",
+        "general.base_model.0.name": "Qwen2.5 3B",
+        "general.base_model.0.organization": "Qwen",
+        "general.base_model.0.repo_url": "https://huggingface.co/Qwen/Qwen2.5-3B",
+        "general.base_model.count": 1,
+        "general.basename": "Qwen2.5",
+        "general.file_type": 15,
+        "general.finetune": "Instruct",
+        "general.languages": [
+          "en"
+        ],
+        "general.license": "other",
+        "general.license.link": "https://huggingface.co/Qwen/Qwen2.5-3B-Instruct/blob/main/LICENSE",
+        "general.license.name": "qwen-research",
+        "general.parameter_count": 3085938688,
+        "general.quantization_version": 2,
+        "general.size_label": "3B",
+        "general.tags": [
+          "chat",
+          "text-generation"
+        ],
+        "general.type": "model",
+        "qwen2.attention.head_count": 16,
+        "qwen2.attention.head_count_kv": 2,
+        "qwen2.attention.layer_norm_rms_epsilon": 1e-06,
+        "qwen2.block_count": 36,
+        "qwen2.context_length": 32768,
+        "qwen2.embedding_length": 2048,
+        "qwen2.feed_forward_length": 11008,
+        "qwen2.rope.freq_base": 1000000,
+        "tokenizer.ggml.add_bos_token": false,
+        "tokenizer.ggml.bos_token_id": 151643,
+        "tokenizer.ggml.eos_token_id": 151645,
+        "tokenizer.ggml.merges": [],
+        "tokenizer.ggml.model": "gpt2",
+        "tokenizer.ggml.padding_token_id": 151643,
+        "tokenizer.ggml.pre": "qwen2",
+        "tokenizer.ggml.token_type": [],
+        "tokenizer.ggml.tokens": []
+      },
+      "capabilities": [
+        "completion",
+        "tools"
+      ],
+      "modified_at": "2026-11-01T16:01:42.179723+02:00"
+    },
+    "running_models": {
+      "models": [
+        {
+          "name": "qwen2.5:3b",
+          "model": "qwen2.5:3b",
+          "size": 2318758051,
+          "digest": "357c53fb659c5076de1d65ccb0b397446227b71a42be9d1603d46168015c9e4b",
+          "details": {
+            "parent_model": "",
+            "format": "gguf",
+            "family": "qwen2",
+            "families": [
+              "qwen2"
+            ],
+            "parameter_size": "3.1B",
+            "quantization_level": "Q4_K_M"
+          },
+          "expires_at": "2026-11-01T17:04:54.7758625+02:00",
+          "size_vram": 2318758051,
+          "context_length": 8192,
+          "runner": "llamacpp"
+        }
+      ]
+    },
+    "available_model_names": [
+      "qwen2.5:3b"
+    ]
+  },
+  "loaded_model_after": {
+    "name": "qwen2.5:3b",
+    "model": "qwen2.5:3b",
+    "size": 2318758051,
+    "digest": "357c53fb659c5076de1d65ccb0b397446227b71a42be9d1603d46168015c9e4b",
+    "details": {
+      "parent_model": "",
+      "format": "gguf",
+      "family": "qwen2",
+      "families": [
+        "qwen2"
+      ],
+      "parameter_size": "3.1B",
+      "quantization_level": "Q4_K_M"
+    },
+    "expires_at": "2026-11-01T17:04:54.7758625+02:00",
+    "size_vram": 2318758051,
+    "context_length": 8192,
+    "runner": "llamacpp"
+  }
+}

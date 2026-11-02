@@ -1,0 +1,10 @@
+{
+  "title": "Murder in Redwater",
+  "language": "en",
+  "recommended_level": null,
+  "hook": "The small town of Redwater is in shock after a prominent citizen, the wealthy merchant Marcus Redwood, is found dead in his home. The local authorities are overwhelmed, and the town mayor asks the adventurers to help investigate the murder.",
+  "npcs": [{"name":"Marcus Redwood","role":"merchant"},{"name":"Tomlin","role":"Town Mayor"},{"name":"Grady","role":"Sheriff"},{"name":"Dr. Eliza Peters","role":"Coroner"},{"name":"Marlene Redwood","role":"wife"},{"name":"Henry Redwood","role":"son"},{"name":"Emily Redwood","role":"doughter"},{"name":"Jack Kessler","role":"Smuggler"},{"name":"Sarah Lowell","role":"Merchant"},{"name":"Captain Valerian","role":"Captain of the Guard"},{"name":"Frank","role":"Drug Dealer"}],
+  "locations": [],
+  "threats": [],
+  "rewards": ["Amulet of Proof against Detection and Location","Ring of Protection","Wand of Magic Missiles","Potion of Healing"]
+}

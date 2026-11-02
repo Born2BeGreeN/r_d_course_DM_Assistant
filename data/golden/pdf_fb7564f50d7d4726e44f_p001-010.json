@@ -1,0 +1,10 @@
+{
+  "title": null,
+  "language": "en",
+  "recommended_level": null,
+  "hook": "Our story is to begin in the small resolute  village of Jalanthar. This small village of some 300 souls features a number of humans, elves halflings and 3 or 4 half-orcs.",
+  "npcs": [{"name":"Grilop","role":null},{"name":"Punket Ironheart","role":"smith"},{"name":"Quina Aedwin","role":"alchemist"},{"name":"Dendlin Ferbid","role":"shopkeeper"},{"name":"Lilt Greenwreath","role":"innkeeper"},{"name":"Junda","role":null},{"name":"Fraid Kinglig","role":"ranger"}],
+  "locations": ["Waterdeep park"],
+  "threats": ["The character with the highest roll, will notice in the distance to the north, moving through the field towards the wagon, three orc’s","4 wolves hunt the wagon","1 ogre strolling through the world","2 orcs roaming around for food","4 kobolds tunnelling near the road","4 wolves attack the last character in the woods","1 owlbear attacks from some small brush","2 orcs roaming around for food","1 brown bear attacks from the mouth of its cave","Four arrows stand driven partially on the road in a diamond shape. Atop each arrow is the head of a large rat"],
+  "rewards": ["amethyst crystal the size of a man’s thumb","10gp","34gp and 23sp in coins"]
+}

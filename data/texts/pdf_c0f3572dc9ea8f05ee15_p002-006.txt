@@ -1,0 +1,330 @@
+[PDF_PAGE=2]
+Not for resale. Permission granted to print or photocopy this document for personal use only.  
+Mistaken Identify and a Banquet 2 
+Mistaken Identify and a 
+Banquet 
+ 
+ 
+Winds of Betrayal: Shadows in the Citadel of Ice and Steel 
+ 
+Introduction: Prepare to embark on a journey into the elemental city, the Citadel of Ice and Steel. 
+Your players will unravel deceit, treachery, and an elemental cult as they navigate the floating 
+metropolis. With an enigmatic heist in the background, hidden secrets near a Djinn noble, and 
+the menacing presence of the Howling Hatred cult. As they untangle the threads of the narrative, 
+they'll delve into a world rich with elemental lore, enigmatic NPCs, and unique challenges, all set 
+against the backdrop of a city suspended in perpetual freefall. Are your players ready to uncover 
+the mysteries lurking in the skies and bring evil cultists to justice? 
+ 
+A Four-hour adventure for 1st-4th level characters 
+by Aaron Smith 
+Images from DMs Guild Creator Resource - Adventure Template, DMs Guild Creator 
+Resource - Humanoid Art, DMs Guild Creator Resource - Adventurers Art, DMs Guild 
+Creator Resource - Creatures Art 4, DMs Guild Creator Resource - Locations Art, DMs 
+Guild Creator Resource - Allies & Enemies Art 
+Cover art by Vestesta etsy.com shop  
+ 
+ 
+ 
+DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, the dragon ampersand, Player’s Handbook, Monster Manual, Dungeon Master’s Guide, D&D Adventurers League, all other Wizards 
+of the Coast product names, and their respective logos are trademarks of Wizards of the Coast in the USA and other countries. All characters and their distinctive likenesses are property of Wizards of the 
+Coast. This material is protected under the copyright laws of the United States of America. Any reproduction or unauthorized use of the material or artwork contained herein is prohibited without the 
+express written permission of Wizards of the Coast. 
+ 
+©2016 Wizards of the Coast LLC, PO Box 707, Renton, WA 98057-0707, USA. Manufactured by Hasbro SA, Rue Emile-Boéchat 31, 2800 Delémont, CH. Represented by Hasbro Europe, 4 The Square, 
+Stockley Park, Uxbridge, Middlesex, UB11 1ET, UK. 
+
+
+[PDF_PAGE=3]
+Not for resale. Permission granted to print or photocopy this document for personal use only.  
+Mistaken Identify and a Banquet 3 
+The Invitation 
+ 
+ 
+ 
+Suddenly, a hushed whisper of arcane magic ripples near the 
+group, followed by the subtle chime of a tuning fork. You turn 
+to see a flicking white and blue magical gate materialize 
+before you. 
+ 
+Emerging gracefully from the shimmering portal is an 
+aarakocra, resembling a vibrant cardinal in both appearance 
+and stature. He extends a polite wing in greeting, his beady 
+eyes glittering with intelligence. 
+ 
+At first the aarakocra speaks to the players in Auran. 
+If no one responds, he switches to Common. 
+ 
+"Greetings, travelers," he chirps in a melodic voice. "I am 
+Zephyrus, a humble servant of a Djinn noble Azurith of the 
+enigmatic Citadel of Ice and Steel. My master extends a 
+gracious invitation to you, esteemed guests, for a 
+forthcoming celebratory banquet." 
+ 
+Zephyrus delicately unfurls a small, intricately patterned 
+envelope and offers it to your group. The envelope is 
+adorned with intricate designs that seem to dance and shift, 
+capturing your attention. He continues, "Please, accept this 
+invitation, and you shall find yourselves transported to the 
+main portal gate of the Citadel in one tenday. Do wear formal 
+attire, for the occasion calls for it." 
+ 
+He pauses for a moment, a glimmer of concern flashing in his 
+avian eyes. "One thing, however," Zephyrus adds cautiously, 
+"the magic within the envelope is a one-time use. I implore 
+you not to open it prematurely, as it will only activate when 
+our gracious host welcomes his esteemed guests." 
+ 
+Zephyrus, dressed in the regal attire befitting a servant of a 
+noble, awaits your response. 
+ 
+A DC 15 Insight (Wisdom) check may reveal that the 
+aarakocra is not entirely truthful about the nature of the 
+envelope. Opening it early or after the banquet's conclusion 
+will not activate the magic but will reveal an invitation to 
+another group of adventurers. 
+ 
+A casting of detect magic on the envelope reveals an 
+aura of conjuration magic. 
+ 
+Reading the Invitation Early 
+ 
+If the characters open the envelope early, the text 
+within the invitation reads: 
+ 
+To the Esteemed Heroes Lady Grimora Stonefist, Mistress 
+Sylva Mischiefwhistle, Sir Thrain Ironbeard, Master Aiden 
+Shadowblade, and Lord Elaris Thornebow, 
+ 
+
+
+[PDF_PAGE=4]
+Not for resale. Permission granted to print or photocopy this document for personal use only.  
+Mistaken Identify and a Banquet 4 
+In the esteemed presence of Djinn noble Azurith the 
+Magnificent, you are cordially invited to partake in a grand 
+celebration near the Citadel of Ice and Steel. Your exceptional 
+valor in recovering The Scepter of Zephyrion has earned 
+participation in the annual celebratory banquet. 
+ 
+This gathering will take place one tenday from now. During 
+the party, this envelope will take you to the main portal gate 
+of the citadel. A coach will take you from the gate to the 
+palace. 
+ 
+The attire of the utmost formality is requested, as befitting 
+the splendor of this occasion. Please present this invitation 
+upon your arrival, for it is the key to your passage. The 
+envelope shall activate its magic only when guests are 
+welcome to arrive. 
+ 
+We eagerly anticipate your presence and in recognition of 
+your bravery. You shall be delighted in this splendid evening. 
+ 
+With great anticipation, 
+Azurith the Magnificent 
+ 
+If the players wait until the appointed time to open 
+the envelope. The invitation shines with blue and 
+white light and the players will be unable to read it. 
+Getting Ready 
+ 
+The characters have a tenday to prepare for the 
+grand banquet, which includes various tasks to 
+ensure they are ready for the festivities. One of the 
+key preparations is acquiring formal attire, as they 
+must adhere to the dress code for the occasion. 
+ 
+As you accept the invitation from Zephyrus, you 
+realize that you have precisely a tenday to prepare 
+for the upcoming grand banquet at the Citadel of Ice 
+and Steel. The tasks ahead are twofold, and the clock 
+is ticking. 
+ 
+1. Formal Attire: The invitation clearly states that 
+formal attire is expected at the celebration. If you 
+already possess suitable garments, you're one step 
+ahead. However, if you lack the appropriate clothing, 
+you'll need to find or acquire it within the tenday. 
+The palace will be opulent, so your attire should 
+match the grandeur of the event. 
+ 
+2. Banquet Preparations: Aside from attire, you 
+should also consider any other preparations you 
+might need for travelling on another plane. Perhaps 
+there are items or spells you wish to acquire, or 
+information you want to gather about the Citadel, its 
+inhabitants, or the Djinn noble himself. It would be a 
+good idea to be able to speak or at least understand 
+Auran. 
+ 
+What is Going On 
+ 
+Eleven months ago, Howling Hatred cultist stole the 
+Scepter of Zephyrion from Azurith's palace. They did 
+this by bribing Zephyrus to steal the scepter and 
+deliver it to them in the Citadel of Ice and Steel. 
+Azurith hired a group of adventurers to recover the 
+scepter. The heroes followed the cultist to a 
+windswept mountain near the Dessarin Valley and 
+defeated the Howling Hatred Priest in charge of a 
+clandestine safe house. The heroes triumphantly 
+returned the scepter to Azurith and took a short 
+vacation in the Citadel of Ice and Steel. The cultists 
+blackmailed Zephyrus. Under the cultists' coercion, 
+Zephyrus lured the heroes into a trap, where the 
+cultists murdered the adventurers. 
+ 
+Not knowing the fate of the heroes, Azurith instructs 
+Zephyrus to invite them to his annual celebratory 
+banquet. Desperate not to get caught, Zephyrus 
+invited the first group of adventurers on the Material 
+Plane he could find. Zephyrus, however, knows well 
+that Azurith's eyes cannot discern the true heroes 
+from the newcomers, for in his eyes, "All 
+mudwalkers look the same." Zephyrus will try to 
+keep the players away from Azurith, and usher them 
+out of the palace as early as possible. If the party 
+misbehaves or if he gets desperate, Zephyrus will 
+accuse the players of some crime and have security 
+escort the players to a coach or subdue the players. 
+ 
+Guests assume that the players are the heroes.  
+ 
+Heroes of Zephyrion 
+ 
+Match the players to the heroes as best as you can. 
+ 
+
+[PDF_PAGE=5]
+Not for resale. Permission granted to print or photocopy this document for personal use only.  
+Mistaken Identify and a Banquet 5 
+• Grimora Stonefist, Female Half-Orc Champion 
+Fighter 
+• Sylva Mischiefwhistle, Female Gnome Illusion Wizard 
+• Thrain Ironbeard, Male Dwarf Cleric of Light 
+• Aiden Shadowblade, Male Human Rogue Thief 
+• Elaris Thornebow, Male Wood Half-Elf Horizon-
+Walker Ranger 
+Traveling to the 
+palace 
+ 
+ 
+ 
+As the appointed time arrives and the players open 
+the patterned invitation. 
+ 
+A sudden and enchanting sensation washes over you. The air 
+fills with the harmonious hum of a tuning fork, and before 
+your eyes, a flickering, mesmerizing blue and white light 
+emerges, swirling and expanding to form a ten-foot diameter 
+circular portal. 
+ 
+Stepping through the portal, you find yourselves standing just 
+outside the massive gate of the Citadel of Ice and Steel. The 
+grand citadel looms before them, its towering walls glistening 
+with icy elegance, while steel structures rise like sentinels 
+against the azure sky. 
+ 
+But their attention is quickly drawn as a voice calls 
+out in Auran, from behind and to the right. 
+Characters who cannot understand Auran do not 
+understand the coach driver. 
+ 
+"You must be the esteemed mudwalkers from the Material 
+Planes," says a female air genasi. She motions for you to step 
+onto a magnificent coach that hovers above the icy ground. 
+The carriage has no wheels but floats gracefully, pulled by a 
+pair of majestic, white-winged griffons. 
+ 
+Outside the citadel's walls, a line of similar coaches awaits, all 
+poised to transport guests to Azurith's majestic palace. 
+ 
+As your journey to the palace begins, you are treated to 
+breathtaking aerial views of the Citadel of Ice and Steel. 
+However, the serenity is short-lived as a dark and foreboding 
+storm cloud materializes with alarming speed. Lightning arcs 
+through the skies, followed by thunderous claps that 
+reverberate through the very marrow of your bones. 
+ 
+The blinding flashes of lightning and deafening roars 
+of thunder surround the carriage, and all players 
+need to roll two saving throws. 
+ 
+• DC 10 Constitution saving throw or be deafened by the 
+storm.  
+• DC 10 Constitution saving throw to avoid being 
+temporarily blinded by the lightning. 
+ 
+These effects persist for two minutes. 
+ 
+
+
+[PDF_PAGE=6]
+Not for resale. Permission granted to print or photocopy this document for personal use only.  
+Mistaken Identify and a Banquet 6 
+The tumultuous weather spooks the griffons, causing 
+them to buck the carriage. The players must now roll 
+to stay within the coach. 
+ 
+DC 15 Athletics (Strength) or DC 15 Acrobatics (Dexterity) 
+check to stay within the coach.  
+ 
+Failure results in being thrown from the carriage. 
+ 
+The coach driver, now both blind and deaf, struggles 
+to regain control of the situation. The players can 
+attempt to take control of the coach. 
+ 
+DC 15 Animal Handling (Wisdom) check to calm the griffons 
+and steer the coach back on course.  
+ 
+If control is not reestablished, the griffons will 
+eventually settle down after two additional checks 
+made by all players. Players who fall from the 
+carriage, fall for 100 feet and then begin to hover. 
+The coach driver easily brings the carriage around to 
+retrieve the fallen players. The coach driver is visibly 
+embarrassed if any players fall out. 
+ 
+Players may take a short rest while riding to 
+Azurith’s palace. 
+Azurith’s Palace 
+ 
+ 
+ 
+The players' journey through the tempestuous skies 
+eventually leads them to a sight that takes their 
+breath away. Perched majestically upon a hovering 
+island is the resplendent palace of Azurith, 
+surrounded by a sprawling ranch devoted to the 
+training and care of griffons. 
+ 
+As you prepare to disembark from your magnificent coach, 
+your eyes take in the sprawling ranch. It's a bustling hub of 
+activity, where stables, pens, and soaring perches are 
+scattered across the fertile terrain. Griffons of various sizes 
+and colors roam, train, and take flight, showcasing a 
+remarkable display of grace and power. The air is filled with 
+the resonant calls and melodic cries of these majestic 
+creatures. 
+ 
+The significance of this ranch becomes apparent—the source 
+of Azurith's wealth lies in the breeding, raising, and training 
+of griffons, which serve both as steeds and essential beasts of 
+burden in the skies. 
+ 
+As the coach lands on the floating earth mote, an aarakocra 
+clad in impeccable formal attire approaches. His attire exudes 
+an air of regality, befitting a servant of Azurith.  
+ 
+With a graceful bow of his avian head, he greets the 
+party in Auran. 
+ 
+"Welcome, honored guests," with a mixture of 
+reverence and warmth. He motions for the players to 
+follow him, inviting them to enter the palace and 
+partake in the grandeur that awaits within. 
+ 
+Enter Azurith’s Palace 
+ 
+

@@ -1,0 +1,328 @@
+[PDF_PAGE=1]
+
+
+[PDF_PAGE=2]
+Murder in Redwater
+A Tok’s World Adventure for 5e       © 2023 Rich Condon
+Summary
+The small town of Redwater is in shock after a prominent
+citizen, the wealthy merchant Marcus Redwood, is found
+dead in his home. The local authorities are overwhelmed,
+and the town mayor asks the adventurers to help
+investigate the murder.
+Stat Blocks for all characters will be found at the end.
+Chapter 1  -  Investigation
+The adventurers arrive in Redwater and meet with the
+town mayor, who briefs them on the murder and introduces
+them to the local authorities (a sheriff and a coroner).
+The party investigates the crime scene and interviews
+witnesses, including Redwood's family members (his wife,
+son, and daughter), his business associates, and his
+servants.
+The party discovers several clues that point to different
+suspects, but they must find more evidence to confirm their
+suspicions.
+The party learns that Redwood was involved in some
+shady business dealings and had several enemies who
+had motives to kill him.   The party should level to 2 before
+moving on to chapter 2.
+NPCs
+● Town Mayor - Mayor Tomlin is a portly man with
+a friendly demeanor. He is grateful for the party's
+help and eager to see justice served.
+Personality traits: Kind-hearted, honest, but
+somewhat bumbling.
+Role: Provides information and tasks for the party,
+represents the town's leadership.
+● Sheriff - Sheriff Grady is a middle-aged man with
+a no-nonsense attitude. He is overwhelmed by the
+murder investigation and welcomes the party's
+assistance.
+Personality traits: Stern, focused, but secretly
+worried about his job.
+Role: Provides law enforcement expertise and
+access to resources, helps with the investigation.
+● Coroner - Dr. Eliza Peters is a forensic specialist
+who examines the body of Marcus Redwood and
+provides the party with medical details.
+Personality traits: Professional, stoic, but secretly
+fascinated by the macabre.
+Role: Provides medical expertise and insights into
+the cause of death, helps with the investigation.
+NPCs - Redwood Family
+Marcus Redwood's family members are all potential
+suspects in his murder.
+● Wife - Marlene Redwood is a charming and
+flirtatious woman who may have been having an
+affair.
+Personality traits: Seductive, manipulative, but
+also grieving.
+● Son - Henry Redwood is a young man who has
+fallen into debt and may have had a motive to kill
+his father for his inheritance.
+Personality traits: Impulsive, reckless, but also
+ashamed.
+● Daughter - Emily Redwood is a teenage girl who
+is addicted to drugs and may have been trying to
+get money from her father to support her habit.
+Personality traits: Anxious, rebellious, but also
+remorseful.
+Encounters
+Crime Scene Investigation - The party must investigate
+the crime scene at Marcus Redwood's mansion to find
+clues about the murder. The scene includes a
+blood-stained study with overturned furniture, broken
+windows, and signs of a struggle. The party can make
+Intelligence (Investigation) checks to find evidence such as
+footprints, blood samples, broken glass, and torn clothing.
+Witness Interviews - The party must interview witnesses
+such as Redwood's family members, business associates,
+and servants to gather more information about the murder.
+Each interview is a role-playing encounter where the party
+can use Charisma (Persuasion) or Charisma (Intimidation)
+checks to get the witness to reveal information. The party
+can also use Wisdom (Insight) checks to determine if the
+witness is lying or hiding something.
+Hidden Cultists - While investigating the town, the party
+may encounter a group of cultists who seem to be
+interested in the murder. The cultists are a red herring, but
+the encounter can provide some foreshadowing of later
+events. The cultists have AC 12 and 15 HP, and are armed
+with daggers and crossbows.
+Mayor Tomlin
+
+
+[PDF_PAGE=3]
+Chapter 2 -  Suspects
+The party follows up on their leads and gathers more
+evidence. They discover that Redwood's wife had a secret
+lover, his son was heavily in debt, his daughter was
+struggling with addiction, and his business associates were
+involved in a smuggling operation.
+The party also encounters a strange group of cultists who
+seem to be interested in the murder and may be connected
+to the crime.
+The party should level to 3 before moving on to chapter 3.
+NPCs
+● Business Associates - Marcus Redwood had
+several business associates who may have been
+involved in his murder.
+● Smuggler - Jack Kessler is a burly man who
+owns a shipping company that is suspected of
+smuggling illegal goods. He may have had a
+motive to kill Redwood to prevent him from
+revealing the smuggling operation.
+Personality traits: Aggressive, greedy, patriotic.
+● Rival Merchant - Sarah Lowell is a shrewd
+businesswoman who owns a competing trading
+company. She may have had a motive to
+eliminate Redwood as a rival.
+Personality traits: Ambitious, calculating, but also
+envious.
+● Captain of the Guard - Captain Valerian is a
+seasoned warrior who leads the town guard. He is
+suspicious of the party at first, but eventually
+becomes an ally when he sees their skills in
+action.
+Personality traits: Distrustful, vigilant, but also
+loyal.
+Role: Provides combat expertise and can assist
+the party in fights against the cultists or other
+enemies.
+● Drug Dealer - Frank is a shady dealer who
+supplies drugs to Emily Redwood and other
+addicts in the town. He is a potential source of
+information about the drug trade and may have
+been involved in the murder.
+Personality traits: Sleazy, manipulative, but also
+cowardly.
+Role: Provides information about the drug trade
+and may offer the party a deal to help him escape
+justice.
+Encounters
+● Follow the Money - The party can investigate
+Redwood's financial records to find out more about
+his business dealings and potential motives for his
+murder. The records can be found in his study or in
+his office at the trading company. The party can
+make Intelligence (Investigation) or Intelligence
+(History) checks to decipher the records and find
+clues.
+● Family Secrets - The party can investigate the
+Redwood family members and their relationships to
+find out more about their potential motives for the
+murder. Each family member has a secret that the
+party can uncover through role-playing and
+investigation. For example, the party may find a love
+letter from Marlene's secret lover, or discover that
+Emily was seen buying drugs from a suspicious
+dealer.
+● Cultist Ambush - The party may encounter the
+cultists again, this time in a more dangerous
+situation. The cultists are actually working for one of
+the suspects (either the smuggler or the rival
+merchant) and will attack the party if they get too
+close to the truth. The cultists have AC 12 and 15
+HP, and are armed with daggers and crossbows.
+● Redwood Trading Company - The party can
+investigate the trading company where Marcus
+Redwood worked and find clues about his business
+dealings. The company is run by a tough but fair
+manager named Jonas, who is suspicious of the
+party at first but eventually shares some information.
+The party may also encounter some smugglers or
+thieves who are trying to steal from the company or
+disrupt its operations.
+● Cultist Ritual - The party can investigate a hidden
+location where the cultists are holding a ritual. The
+location can be a deserted temple, a dark forest
+clearing, or a ruined building. The party may need to
+sneak or fight their way past the cultists to avoid
+being detected. The cultists are led by a charismatic
+but fanatical high priest, who may be a potential
+source of information or a dangerous enemy. The
+cultists have AC 12 and 15 HP, and are armed with
+daggers and crossbows. The high priest has AC 13,
+40 HP, and is armed with a sacrificial knife that
+deals 1d6+2 slashing damage and requires a
+Wisdom saving throw (DC 15) or the target is
+paralyzed for 1 minute.
+Jack Kessler
+
+
+[PDF_PAGE=4]
+Chapter 3 - Confrontation
+The party confronts each of the suspects and presents
+their evidence. They must use their persuasion and
+intimidation skills to get the suspects to confess.
+The party discovers that the real murderer was a hired
+assassin who was paid by one of the suspects to kill
+Redwood. The party must track down the assassin and
+capture them.
+The party brings the assassin and the mastermind
+behind the murder to justice, and the town of Redwater can
+finally begin to heal.
+The party can level to 4 at the end of the campaign.
+NPCS
+● Assassin - The assassin is a skilled and
+dangerous killer who was hired to murder
+Redwood. The assassin can be encountered in a
+final confrontation at a secret location, such as a
+hidden lair or a deserted warehouse.
+Personality traits: Professional, emotionless, but
+also arrogant.
+● Role: Provides a challenging combat encounter
+and a chance for the party to get a confession
+from the mastermind behind the murder.
+● Mastermind - The mastermind is the person who
+hired the assassin to kill Redwood. The
+mastermind can be any of the suspects,
+depending on the party's investigation and the
+DM's choice.
+Personality traits: Cunning, manipulative, but also
+desperate.
+Role: Provides a chance for the party to make a
+moral choice and decide whether to let the
+mastermind go free or bring them to justice.
+Encounters
+● Assassin Showdown - The party must fight the
+assassin and their henchmen in a challenging
+combat encounter. The assassin has AC 15, 60
+HP, and is armed with a poisoned short sword that
+deals 1d6+3 piercing damage and requires a
+Constitution saving throw (DC 15) or the target
+takes an additional 2d6 poison damage. The
+henchmen are armed with crossbows and
+daggers and have AC 12 and 15 HP each.
+● Mastermind Confrontation - The party must
+confront the mastermind and present their
+evidence to get a confession. The mastermind
+may try to escape or bribe the party, or even
+attack them if they feel threatened. The DM
+should adjust the encounter depending on which
+suspect is the mastermind and what their
+personality and motives are.
+Rewards
+At the conclusion of the campaign, the Mayor out of
+gratitude may award the party with some or all of the
+following:
+● Amulet of Proof against Detection and
+Location - This amulet gives the wearer
+advantage on Stealth checks and cannot be
+detected by divination magic.
+Rarity: Uncommon
+● Ring of Protection - This ring gives the wearer
++1 bonus to AC and saving throws.
+Rarity: Rare
+● Wand of Magic Missiles - This wand has 7
+charges and can be used to cast the magic
+missile spell. The wand regains 1d6+1 charges at
+dawn.
+Rarity: Uncommon
+● Potion of Healing - This potion can be used to
+heal 2d4
+Assassin
+Conclusion
+As the dust settles on the murder investigation in
+Redwater, the party can look back on their
+accomplishments with a mix of satisfaction and caution.
+They have solved a complex and challenging mystery,
+uncovered some secrets and dark truths about the town
+and its people, and achieved their goals. The town of
+Redwater is grateful for their help, but some of the party's
+actions may have left behind some bitterness and
+resentment. As they rest and recover from their efforts, the
+party can look forward to new opportunities and challenges
+in the future, knowing that they have proven themselves as
+skilled and resourceful adventurers, but also mindful of the
+risks and consequences of their choices.
+
+
+[PDF_PAGE=5]
+NPC and Encounter Stat Blocks
+Town Mayor (Level 1) Sheriff (Level 1) Coroner (Level 1)
+AC 10 AC 12 AC 10
+HP 5 (1d8) HP 16 (3d8) HP 10 (2d8)
+Speed 30 ft. Speed 30 ft. Speed 30 ft.
+STR 8 (-1) STR 12 (+1) STR 8 (-1)
+DEX 10 (+0) DEX 10 (+0) DEX 12 (+1)
+CON 10 (+0) CON 12 (+1) CON 10 (+0)
+INT 12 (+1) INT 10 (+0) INT 14 (+2)
+WIS 14 (+2) WIS 14 (+2) WIS 14 (+2)
+CHA 14 (+2) CHA 8 (-1) CHA 8 (-1)
+Redwood Family (Level 2) Business Associates (Level 2)
+Marlene Henry Emily Jack Kessler
+Sarah
+Lowell
+AC 10 11 9 AC 12 11
+HP 14 22 12 HP 26 20
+Speed 30 ft. 30 ft. 30 ft. Speed 30 ft. 30 ft.
+STR 8 (-1) 12 (+1) 10 (+0) STR 14 (+2) 10 (+0)
+DEX 14 (+2) 10 (+0) 12 (+1) DEX 10 (+0) 12 (+1)
+CON 12 (+1) 14 (+2) 8 (-1) CON 14 (+2) 12 (+1)
+INT 10 (+0) 8 (-1) 10 (+0) INT 12 (+1) 14 (+2)
+WIS 12 (+1) 10 (+0) 14 (+2) WIS 10 (+0) 10 (+0)
+CHA 16 (+3) 8 (-1) 8 (-1) CHA 8 (-1) 16 (+3)
+Captain of the Guard
+(Level 3) Cultists (Level 1) Smugglers (Level 1)
+AC 16 AC 12 AC 11
+HP 45 (7d8+14) HP 9 (2d6+2) HP 13 (3d8)
+Speed 30 ft. Speed 30 ft. Speed 30 ft.
+STR 16 (+3) STR 10 (+0) STR 10 (+0)
+DEX 12 (+1) DEX 12 (+1) DEX 12 (+1)
+CON 14 (+2) CON 12 (+1) CON 10 (+0)
+INT 10 (+0) INT 8 (-1) INT 8 (-1)
+WIS 14 (+2) WIS 10 (+0) WIS 10 (+0)
+CHA 10 (+0) CHA 8 (-1) CHA 8 (-1)
+
+[PDF_PAGE=6]
+Town Center, Redwater
+Legal Stuff
+DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, Ravenloft, Eberron, the dragon ampersand,
+Ravnica and all other Wizards of the Coast product names, and their respective logos are trademarks of Wizards of the
+Coast in the USA and other countries.
+This work contains material that is copyright Wizards of the Coast and/or other authors. Such material is used with
+permission under the Community Content Agreement for Dungeon Masters Guild.
+All other original material in this work is copyright 2023 by Rich Condon and published under the Community Content
+Agreement for Dungeon Masters Guild.
+

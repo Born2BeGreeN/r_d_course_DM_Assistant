@@ -1,0 +1,244 @@
+[PDF_PAGE=4]
+3 
+INTRODUCTION 
+The Avarsal is a short adventure that can be completed in 
+one 4-hour session. It is designed for 1 st level characters. 
+ The adventure is written for any mountainous region in 
+the Forgotten Realms  setting, but is easily transferable to 
+other worlds.  
+For encounters, refer to the Monster’s Manual for 
+monster stat blocks unless otherwise indicated.  
+ 
+Aelwyn Avarsal , martyr of  Helm
+ 
+HISTORY 
+wo centuries ago a contingent of dwarves from 
+the Rune clan was assigned to mine copper. 
+Unhappy with their lot ( as much as dwarves  
+love their fine copper kettles and pots, they 
+would have rather been mining iron ore for 
+arms and armor), they started a settlement at the base of 
+the mountains near the mine and called it the Ruined 
+Rune. An unexpected discovery of palladium may have 
+changed their fortu nes, but it was not even a year before 
+they were driven away by mountain orcs known as the 
+Stonekin. 
+A century later Aelwyn Avarsal, an elven high priest of 
+Helm, founded the temple of Dawn’s Renewal at the site of 
+the Ruined Rune. As with the dwarves, the Stonekin orcs 
+spilled from the highest reaches of the mountains to 
+destroy the guardians, smashing the temple to ruins. 
+Aelwyn, the lone survivor, called upon Helm in her 
+moment of need and  was heard. A searing light burst from 
+her twin hammers, blinding much of the enemy force. 
+Overcome with fur or, Aelwyn waded into the fray , 
+defeating the orc leader and countless other enemies 
+before finally being overwhelmed. When Aelwyn died Helm 
+sent her spirit into the hammers and the light remained, 
+permanently blinding and stunning  the Stonekin orcs and 
+causing them to flee. The victory, witnessed by nomads 
+and shared over the years, is  now chronicled as The Battle 
+of Helm’s Light. 
+Some fifty years later the ruins of Dawn’s Renewal were 
+settled by gnome artificers  (glass specialists)  seeking the 
+rumored palladium in the old dwarven mine  to toughen 
+their glass products . The artificers discovered Aelwyn’s 
+twin hammers buried in the temple ruins and built a 
+contraption that magnified the holy light. Aware of the 
+light’s benefit from local tales , the gnomes secured the 
+contraption atop an old dwarven watchtower in the 
+mountains, and with Helm’s light burning bright into the 
+sky the Stonekin orcs stayed hidden in the mountains . The 
+sentinel beacon atop the tower is now  known as the 
+Avarsal.  
+Despite their new innovation, the gnomes soon gathered 
+the palladium they needed and moved on from the 
+settlement. Under the protection of the Avarsal, new 
+arrivals expanded the settlement into the town of 
+Trademoot which became renowned for horse trading and 
+wool production. As long as the light burned from the  
+Avarsal, Trademoot w ould continue in peace and 
+prosperity.  
+SYNOPSIS 
+The town of Trademoot is in danger. For fifty years , the 
+Avarsal’s light has shone from the mountains , protecting 
+the town from attack by the Stonekin orcs .  
+But recently and without warning  the light has 
+extinguished, leaving the inhabitants of Trademoot 
+confused and fearful. And with good reason, for the 
+Stonekin orcs have noticed the light’s absence . With its 
+presence gone from the sky, the orcs  are no longer fearful 
+of Avarsal’s Bane (detailed in the Magic Items section 
+under Hammers of Helm) and have begun preparations for 
+an assault. 
+Unbeknownst to the inhabitants of Trademoot, the 
+Avarsal has failed because a gnome artificer, Erwen Erwell, 
+begrudged at being spurned by Blue-Eyed Sandy, traveled 
+to the Avarsal with revenge in mind. There he ordered 
+T 
+
+
+[PDF_PAGE=5]
+4 
+Palladium, his Glass Construct, to remove the glowing 
+hammers from the Avarsal, dousing the magic light . 
+Not all went to plan for Erwen, however . When 
+Palladium touched the hammers, Aelwyn Avarsal’s spirit 
+transferred from the hammers to the construct , taking 
+control. When she refused to give up the hammers, Erwen 
+resorted to force, and she quickly dispatche d him. 
+The Trademoot council prioritized the need for an  
+investigation into the circumstances of the Avarsal’s light 
+being dowsed, but the sighting of orcs along Stonekin Pass 
+and the well-known treacherous conditions of Deepwound 
+Pass left the volunteer queue empty . This left only one 
+option for the Trademoot Council: hire adventurers.  
+CHAPTER 1 - 
+TRADEMOOT 
+READ-ALOUD TEXT  
+Huddled under the shadow of ominous mountains, the 
+village of Trademoot faces its perils from behind wind-
+battered palisades and stone -hunched edifices.  
+It is a tenuous and lonely existence  here between the edge 
+of the tundra and the mountains, but it is lucrative for the 
+frontier folk who call it ‘home.’  Noteworthy among them are 
+the town’s famous horse -breeders and wool -textilers, whose 
+herds and flocks dot the landscape . 
+T1-SHEPHERD’S RUN 
+A long stretch of uncultivated ryegrass and dried mud 
+along the bank of Cold River, trampled and matted by the 
+many flocks of sheep that spend twilight to morning 
+curled up in rest here. The pair of buildings adjacent are a 
+poor-weather barn and a  family residence.  
+Shepherd’s Run has the distinct scent of fresh -cut grass 
+and loamy soil-after-a-storm. During the day, blea ting 
+can be heard across the river in the fields of orchard grass 
+and white clover where the sheep are herded. The wool 
+produced by the sheep of Trademoot is highly sought after.  
+T2-OLD TOWN 
+Nestled behind the palisade walls, Old Town is a cluster of 
+small-inhabitant stone homes dating back to some of the 
+early residents, artificer gnomes. Fashioned from striated -
+limestone, these buildings have a brighter sheen than the 
+more prevalent gray slate structures in the rest of town.  
+T3-RUINED RUNE INN 
+Cheap and bawdy, the Ruined Rune draws a hardened, 
+fire-bellied crowd looking for hearth and drink after a long 
+day’s labor. The inn is most fam ous for its excellent river 
+trout dinner, homebrewed Avarsal Ale, and music.   
+The Inn is the oldest establishment in Trademoot, 
+dating back to the Ruined Rune dwarves , somehow 
+surviving both orc invasions. Some think it is due to the  
+Ruined Rune sigil in the basement. In fact, unbeknownst to 
+anyone in Trademoot, the sigil is a Teleportation Circle 
+(see Trademoot Features for more information)  
+The inn is owned and operated  by Blue-Eyed Sandy, a 3rd 
+level female human bard. Many residents are or were 
+besotted with her , including the late Erwen Erwell. 
+T4-MARKET SQUARE 
+The market is a spacious cobblestone area where, once a 
+ten-day, visiting tundra nomads, mountain barbarians 
+and foresters set up their wares from tents and wagons.  
+The imported goods i nclude wild game, dried fish, pipe 
+weed, firewood, and furs.  
+T5-CHANCERY 
+A one-story, somewhat disheveled office, t he Chancery 
+acts as the administration center and  council chamber for 
+Trademoot. It is where all town deeds and manners of 
+business are signed and settled , including the meeting 
+with Lylwyn Shine and the council to discuss the Avarsal 
+opportunity (see the Notable NPCs sidebar  on page six for 
+more details).  
+T6-WOOL MILLS 
+The span of Wool Mills includes both watermills and 
+windmills, the ma jority of which support the production of 
+Trademoot’s most lucrative product by preparing, 
+spinning, and weaving wool.  
+Wool Mills also includes a gristmill and a stone oven.  
+T7-HORSE TRADERS 
+The raising grounds for the flourishing horse market, the 
+Horse Traders expanse accommodates Muglundy Farms 
+and Sasha’s, two competing interests that breed and sell 
+horses and gear.  
+Each outfit also has an operating blacksmith. Muglundy 
+Farms has a wider variety of breeds, but Sasha’s are 
+considered higher quality, a s reflected in the cost.  
+WHAT TO DO IN TRADEMOOT 
+The characters can explore the various areas of town both 
+before and/or after meeting with Lylwyn Shine and the 
+council to discuss the Avarsal business.  
+Goods can be purchased in town for the going rates 
+stipulated in Chapter 5 of the Player’s Handbook , with the 
+exception of woolen fare and horses. Both are of 
+exceptional quality, and cost 15 -25% more than normal . 
+The Old Town Glassworks is a remnant of th e gnome 
+artificers’ settlement prior to Trademoot, and may provide 
+some areas of interest for the adventurers.  
+
+
+[PDF_PAGE=6]
+5   
+
+
+[PDF_PAGE=7]
+6 
+THE COUNCIL MEETING 
+Not long after the adventurers arrive in town, they will be 
+summoned to meet with the council . The council members 
+present are Lylwyn Shine, Blue -Eyed Sandy, and 
+Yellowknife (see Notable NPCs sidebar  for more details).  
+Lylwyn Shine will be welcoming but also direct with the 
+adventurers. Her first concern is the safety of Trademoot, 
+and she will do whatever it takes to ensure that. She will 
+offer the adventurers 100 gold pieces to investigate the 
+Avarsal and return with news, and 400 additional gold 
+pieces to relight it, 50 gp of that paid up-front. Due to the 
+seriousness of the situation, she can be persuaded by the 
+adventurers on a successfu l DC 13 Charisma (Persuasion) 
+check to sweeten the offer by 100 -200 gp, at the discretion 
+of the DM. 
+Yellowknife will off er her services as a guide through  
+Deepwound Pass to the old copper mine. If the adventurers 
+refuse her offer, she will instead warn them of wild 
+weather, recent wolf sightings, and ‘ deadfalls’ (a thin layer 
+of snow or weak slate that  hides deep crevices) in the 
+mountain pass. She will also tell the adventurers that 
+Stonekin Pass is currently impenetrable due to orc 
+sightings and cannot b e taken. 
+If the adventurers ask about the Avarsal, Lylwyn Shine 
+will share Aelwyn’s legend as described in the second 
+paragraph of the History section . She is not familiar with 
+the artificers’ role or how the Avarsal works. 
+ 
+Lylwyn Shine, Council Head  
+  
+ 
+ 
+ 
+CHAPTER 2 – INTO THE 
+MOUNTAINS 
+READ-ALOUD TEXT (WINTER  SEASON ) 
+The rock-strewn pass thrusts and jolts up the mountains like 
+a deity’s thunderbolt, creating a capricious maze of ice -
+walled dead ends, snow covered dead falls, and other yet 
+unknown dangers.  
+STONEKIN PASS 
+The Stonekin Pass is a steep, winding route up the 
+mountains that leads into the distant Stonekin orc 
+territory. Orcs have been sighted in the pass of late in 
+frightening numbers. 
+Currently the pass is impenetrable due to its reclamation  
+by the Stonekin orcs. The orcs are positioned with ranged 
+weapons, cover, and high ground. This pass is not intended 
+to be used by the adventurers , but provides a route for the 
+threatening orc invasion .  
+DEEPWOUND PASS 
+The way to the Avarsal starts with  Deepwound Pass. The 
+pass is considered Difficult Terrain and is too narrow at 
+certain points for mounts.  
+If Yellowknife is with the adventurers, t he travel time 
+through the pass is two days, otherwise it is three . To 
+determine encounters, r oll once from the t able during the 
+first day and roll twice from the table during the second 
+and third days of travel.  
+

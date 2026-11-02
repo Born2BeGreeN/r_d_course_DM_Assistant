@@ -1,0 +1,71 @@
+{
+  "complete": true,
+  "selected_count": 10,
+  "completed_count": 10,
+  "counts": {
+    "complete": 10
+  },
+  "errors": [],
+  "annotations": [
+    {
+      "text_id": "pdf_090c3a438c6f390a53ad_p001-007",
+      "state": "complete",
+      "annotation_path": "data/golden/pdf_090c3a438c6f390a53ad_p001-007.json",
+      "errors": []
+    },
+    {
+      "text_id": "pdf_ed1f6f3fe3a8590a550a_p001-006",
+      "state": "complete",
+      "annotation_path": "data/golden/pdf_ed1f6f3fe3a8590a550a_p001-006.json",
+      "errors": []
+    },
+    {
+      "text_id": "pdf_f72f9d30936a1f7366c8_p001-004",
+      "state": "complete",
+      "annotation_path": "data/golden/pdf_f72f9d30936a1f7366c8_p001-004.json",
+      "errors": []
+    },
+    {
+      "text_id": "pdf_fb44e1ed23f8853082fc_p001-005",
+      "state": "complete",
+      "annotation_path": "data/golden/pdf_fb44e1ed23f8853082fc_p001-005.json",
+      "errors": []
+    },
+    {
+      "text_id": "pdf_c6ba72f7dd1477ae00a7_p001-008",
+      "state": "complete",
+      "annotation_path": "data/golden/pdf_c6ba72f7dd1477ae00a7_p001-008.json",
+      "errors": []
+    },
+    {
+      "text_id": "pdf_6424be4ab81c5a9615a1_p001-004",
+      "state": "complete",
+      "annotation_path": "data/golden/pdf_6424be4ab81c5a9615a1_p001-004.json",
+      "errors": []
+    },
+    {
+      "text_id": "pdf_db3eece6ee5c97256707_p001-007",
+      "state": "complete",
+      "annotation_path": "data/golden/pdf_db3eece6ee5c97256707_p001-007.json",
+      "errors": []
+    },
+    {
+      "text_id": "pdf_fb7564f50d7d4726e44f_p001-010",
+      "state": "complete",
+      "annotation_path": "data/golden/pdf_fb7564f50d7d4726e44f_p001-010.json",
+      "errors": []
+    },
+    {
+      "text_id": "pdf_6f9d4eb751a6671c2284_p001-006",
+      "state": "complete",
+      "annotation_path": "data/golden/pdf_6f9d4eb751a6671c2284_p001-006.json",
+      "errors": []
+    },
+    {
+      "text_id": "pdf_09543af12d2426e814f5_p005-015",
+      "state": "complete",
+      "annotation_path": "data/golden/pdf_09543af12d2426e814f5_p005-015.json",
+      "errors": []
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+[PDF_PAGE=2]
+UNA NOTTE DA GRIFONI
+«Il pesce è a pancia in su. Il grifone ha i postumi. E qualcuno di voi ha un tatuaggio
+sul sedere.»
+Un'avventura oneshot per D&D 5ª Edizione • 4–5 personaggi di 3° livello  
+Ambientata a Waterdeep, la Città degli Splendori
+Panoramica
+Una Notte da Grifoni  è un giallo comico alla rovescia: i personaggi non devono scoprire cosa farà il
+cattivo, ma cosa hanno combinato  loro stessi la notte precedente. Si svegliano dopo la Festa del
+Raccolto con un vuoto totale di memoria, un compagno scomparso, un grifone della Guardia Cittadina
+in camera e la boccia di Sylgar — il pesce rosso adorato da Xanathar, il beholder signore del crimine —
+con dentro un pesce apparentemente morto.
+Il tono è da commedia (l'ispirazione dichiarata è Una notte da leoni, in salsa Forgotten Realms), ma con
+una tensione reale: Xanathar rivuole il suo pesce, e il tempo stringe. L'avventura è pensata per essere
+giocata in una sessione unica di 3–4 ore.
+Il segreto dell'avventura (solo per Il dM)
+Il druido non è scomparso: è il pesce nella boccia. La notte scorsa, tornato in taverna ubriaco, ha
+trovato  la  boccia  «invitante»,  si  è  trasformato  in  pesce  rosso  con  Forma  Selvatica  e  si  è
+addormentato dentro — a pancia in su, perché è così che dorme. Il vero Sylgar è finito nella fontana
+accanto alla statua di Ahghairon durante lo schianto col grifone, e nuota ancora lì, ignaro di tutto.
+La  rivelazione  avviene  solo  nel  finale,  durante  l'udienza  con  la  gilda  di  Xanathar.
+L'avventura è costruita perché nessuna prova, magia o incidente possa svelarla prima: vedi il
+riquadro «Blindare il twist» nell'Atto I. Fino ad allora, per tutti, quel pesce è Sylgar. E un'altra
+regola ferrea: Xanathar non compare mai in scena  — troppo letale, troppo instabile quando si
+tocca il suo pesce. La sua presenza è delegata a un occhio magico e a un emissario ben più
+inquietante: il mind flayer Nihiloor (vedi Atto III).
+In breve: la struttura
+Atto I — Il Risveglio: la camera della locanda, i primi indizi, il grifone Borasco.
+Atto II — Ricostruire la notte: quattro piste da seguire in qualsiasi ordine, mentre l'Orologio di
+Xanathar avanza.
+Atto III — Il pesce giusto nella boccia giusta: i finali possibili, inclusa un'udienza con la gilda
+sotto lo sguardo remoto del beholder — che non compare mai di persona.
+Antefatto: cosa è successo davvero
+Da leggere bene prima della sessione. I giocatori lo scopriranno a pezzi, tramite indizi e flashback.
+• 
+• 
+• 
+Una Notte da Grifoni — pag. 1
+
+[PDF_PAGE=3]
+Ora Evento
+Sera Il party vince la competizione di quartiere alla Festa del Raccolto. Vino, birra ed eccessi
+alla locanda La Chiglia Storta, nel Quartiere del Porto.
+Notte fonda Incontrano Rix Unghia Storta, tabaxi ubriaco marcio e nuova recluta degli Zhentarim. 
+Con un discorso solenne li convince a «diventare fratelli d'inchiostro»: li tatua tutti nel 
+suo studiolo al porto (uno sul sedere, uno sul collo e dove volete voi) e li arruola per una
+«prima missione» della gilda: rubare Sylgar, il pesce rosso di Xanathar, in 
+trasferimento quella notte tra due covi della sua gilda. (L'inchiostro rituale contiene un 
+filtro dell'oblio: ecco spiegato il vuoto totale di memoria.)
+In ordine ignoto Tra un evento e l'altro: la vincita «contando le carte» alla Sirena Gentile, il
+matrimonio-lampo di un PG con Giada al Tempietto delle Unioni Fulminee, la
+scommessa del dente, lo gnomo Zhou il Furetto chiuso nel baule «per sicurezza
+operativa», e la gallina. La gallina non verrà mai spiegata.
+Più tardi Il druido nota un grifone della Cavalleria della Guardia, Borasco, legato e intristito. Ci
+parla (con una pergamena di parlare con gli animali) e scopre che odia la vita militare e
+vorrebbe «divertirsi». Lo recluta seduta stante.
+Il colpo L'assalto al convoglio Xanathar riesce: la boccia di Sylgar è loro. Fuga in groppa a
+Borasco — a cui, per festeggiare, fanno bere un barile di birra scura.
+Lo schianto Borasco, sbronzo, si schianta contro la statua di Ahghairon, fondatore di Waterdeep.
+La statua perde la testa; la boccia si rovescia nella fontana sottostante. Sylgar finisce in
+fontana. Nessuno se ne accorge: raccolgono la boccia (con l'acqua ma senza pesce) e
+barcollano verso la locanda.
+All'alba In camera, il druido trova la boccia «invitante»: Forma Selvatica, forma di pesce rosso,
+buonanotte. Dorme a pancia in su. Il resto del party crolla dove capita. Borasco si
+addormenta sul tappeto.
+lore dI Waterdeep (aggancI daI ManualI)
+•
+•
+• 
+•
+ Ahghairon: il leggendario mago fondatore del governo dei Lord di Waterdeep. La sua torre, nel 
+Quartiere del Castello, è sigillata da barriere magiche da secoli. Vandalizzare la sua statua non è
+solo un reato: per i waterdaviani è quasi un sacrilegio
+.
+ La Cavalleria dei Grifoni: la Guardia Cittadina alleva grifoni da guerra nelle caverne del Monte 
+Waterdeep, con trespoli e nidi in cima alle scogliere. Un grifone «smarrito» è un'onta che la
+Cavalleria vuole risolvere in fretta e in silenzio.
+Xanathar: il beholder signore del crimine, che governa la sua gilda da un covo sotterraneo 
+tramite prestanome insospettabili sparsi per la città. Ama una sola creatura al mondo: Sylgar, il 
+suo pesce rosso. Chi lo tocca, sparisce.
+ La Sirena Gentile: elegante casa da gioco del Quartiere Nord. Quasi nessuno in città sa che è 
+affiliata con la gilda di Xanathar — il party lo scoprirà nel modo più diretto.
+Gli Zhentarim: la Rete Nera, mercenari e contrabbandieri in espansione a Waterdeep, sempre a 
+caccia di nuove reclute promettenti… o almeno reclutabili da ubriache.
+• 
+Una Notte da Grifoni — pag. 2
+
+[PDF_PAGE=4]
+Regole speciali della oneshot
+I Postumi
+condIzIone: postuMI della Festa
+Tutti i personaggi iniziano con 1 livello di indebolimento (svantaggio alle prove di caratteristica). 
+Si  rimuove  nel  primo  dei  seguenti  modi:  un  riposo  lungo, oppure  il  «Rimedio  della  Nonna»
+di Thessa, la locandiera (una sbobba grigia, 2  ma, prova di Costituzione  CD 10 per mandarla 
+giù senza conati — ma funziona comunque).
+Anche Borasco il grifone ha i postumi: conta come indebolito finché qualcuno non gli procura  
+almeno un secchio d'acqua e una colazione a base di carne.
+I Flashback (d10)
+Il  modo  principale  in  cui  i  giocatori  ricostruiscono  la  notte.  Quando  un  personaggio  incontra  un
+«innesco» (vedi tabella indizi) o quando il ritmo cala, chiedi al giocatore di tirare 1d10: un frammento di
+memoria lo travolge. Ogni flashback può essere ottenuto una sola volta; se esce un risultato già usato,
+scegli tu il successivo non ancora rivelato. Leggi il flashback ad alta voce solo a quel giocatore, o a tutti,
+a tua scelta.
+d10 Frammento di memoria
+1 Un brindisi con un tabaxi dal pelo arruffato che giura, con le lacrime agli occhi: «Fratelli
+d'inchiostro! FRATELLI PER SEMPRE!»
+2 Il ronzio di un ago da tatuaggio, l'odore di inchiostro e pesce secco, e una voce felpata: «Fermo,
+fermo… non sentirai nulla.»
+3 Un carro coperto da un telo viola con ricamato un occhio enorme. Qualcuno del party urla: «IL
+PESCE! PRENDETE IL PESCE!»
+4 Vento gelido tra i capelli, i tetti di Waterdeep che scorrono sotto di voi, e qualcuno che strilla:
+«VIRA A SINISTRAAA—»
+5 Un grifone che tracanna un intero barile di birra scura tra gli applausi del party. Qualcuno gli
+gratta la testa: «Bravo Borasco! Chi è il grifone bravo?»
+6 Un CRASH di pietra assordante. Una testa di statua, barbuta e severa, che rotola sul selciato e
+vi fissa con riprovazione.
+7 Il druido, serissimo, che annuisce mentre «parla» fitto fitto con il grifone. Poi si volta: «Dice che
+viene con noi. Ha dato le dimissioni.»
+8 Acqua di fontana gelida fino alle ginocchia, risate isteriche, e una voce impastata: «Tranquilli…
+il pesce sa nuotare, no?»
+9 Candele rosa, petali dappertutto, un halfling assonnato che legge una formula: «…finché l'alba
+non vi separi. O anche prima, il modulo per l'annullamento costa due monete.» Qualcuno
+singhiozza di commozione. È il grifone.
+10 Un tavolo verde alla Sirena Gentile, una montagna di gettoni d'avorio, e voi che sussurrate
+numeri a occhi chiusi mentre Rix, dietro di voi, finge disperatamente di non conoscervi.
+L'Orologio di Xanathar
+La pressione narrativa dell'avventura. Segna tre caselle ben visibili e spuntale man mano: dà urgenza
+senza bisogno di tracciare le ore esatte.
+Una Notte da Grifoni — pag. 3
+
+[PDF_PAGE=5]
+Momento Cosa succede
+Mezzogiorno Gli scagnozzi di Xanathar riconoscono il party per strada: scatta l'Incontro: i
+creditori di Xanathar (Atto II, Pista D), se non è già avvenuto.
+Tramonto Una taglia non ufficiale circola nel Quartiere del Porto: 100 mo a chi indica dove
+alloggia il party. PNG ostili o reticenti, sguardi che seguono, porte che si chiudono.
+Mezzanotte Un occhio magico disincarnato si materializza davanti al party, li fissa a lungo, poi
+si allontana fluttuando: è un invito. Seguirlo porta all'udienza con Nihiloor,
+l'emissario del capo (Atto III). Ignorarlo significa che la gilda verrà a prenderli con
+le cattive.
+Una Notte da Grifoni — pag. 4
+
+[PDF_PAGE=6]
+Atto I — Il Risveglio
+Vi svegliate con la lingua che sa di sabbia e vergogna. La luce del mattino filtra dalle persiane
+della vostra camera alla Chiglia Storta e vi trapana il cranio. La stanza è un campo di battaglia:
+bottiglie ovunque, una ghirlanda della Festa del Raccolto appesa a una spada piantata nel
+comodino, piume — tante, troppe piume. Una gallina razzola tra i cocci con l'aria di chi ne ha viste
+di peggio. Uno dei letti non ha più il materasso .
+Poi il cumulo di coperte in fondo alla stanza si solleva, sospira, e vi guarda con due occhi gialli da
+rapace. C'è un grifone nella vostra camera. Ha il pelo appiccicoso di birra e l'espressione di chi ha
+smesso di farsi domande.
+Del vostro amico druido Flan, nessuna traccia. Sul tavolo, una boccia di vetro: dentro, un pesce
+rosso 
+galleggia immobile, a pancia in su. 
+Indagare la stanza
+Lascia che i giocatori esplorino liberamente. Ogni scoperta può innescare un flashback (d10).
+• 
+•
+• 
+•
+• 
+•
+Il pesce nella boccia. Sembra morto. Con Saggezza (Medicina) CD 13: non è morto — è vivo, 
+quasi... in un torpore profondissimo. Con Intelligenza (Natura) CD 13: l'acqua della boccia puzza di
+birra. Diagnosi naturale e perfettamente credibile: il pesce è ubriaco fradicio ed in coma etilico. Ogni
+tanto emette una bollicina che somiglia a un russare — colore comico, niente di più. Nessuna prova 
+rivela altro (vedi il riquadro «Blindare il twist»). Il party ha tutto l'interesse a tenerlo vivo e al sicuro: 
+quel pesce è la loro unica merce di scambio con Xanathar.
+ La boccia. Vetro pregiato, decorata con occhi stilizzati. Intelligenza (Indagare) CD 12: inciso sul 
+fondo, «SYLGAR — proprietà di X.». Chiunque abbia contatti con la malavita, con Intelligenza (Storia) 
+CD 12, sa esattamente chi è «X.» — e inizia a sudare freddo.
+I tatuaggi. Prima o poi qualcuno se ne accorge (prude). Un PG ha un serpente alato nero — il simbolo 
+degli Zhentarim — tatuato su una natica; un altro ce l'ha sul collo, ben visibile, gli altri invece a tua 
+scelta. Chiedi ai giocatori chi ha quale tatuaggio, o assegnali tu.
+ Il biglietto da visita. In una tasca (o incollato alla fronte di un PG con la ceralacca): un cartoncino 
+elegante con un artiglio dorato in rilievo. «RIX UNGHIA STORTA — Tatuatore, Imprenditore,
+Visionario — Studio al Porto, terza porta dopo il magazzino del pesce — Soddisfatti o Graffiati». Sul
+retro, in grafia ubriaca: «fratelli x sempre. R.» — è la pista più diretta verso l'Atto II (Pista B).
+Borasco il grifone. Ha la sella della Guardia Cittadina (numero di matricola 117) e un barile vuoto 
+stretto sotto una zampa. Non è aggressivo, ma è affezionato al party. Li segue ovunque, come un
+enorme cane con i postumi. Con Saggezza (Addestrare Animali) CD 10 si capisce che considera il 
+party «il
+ suo nuovo stormo».
+ Gli effetti personali del druido. La sua borsa è in un angolo: dentro, due pergamene di parlare
+con gli animali (di un mazzetto da tre: la terza è stata usata stanotte — vedi flashback 7), foglie di tè, 
+e un volantino della Festa con scritto sul retro, in grafia ubriaca: «piano infallibile: 1) grifone 2) pesce
+3) ??? 4) gloria».
+Piume e detriti. 
+Sul davanzale, graffi profondi e polvere di pietra bianca. Intelligenza (Indagare)
+CD 10: la polvere non è della locanda — è marmo. Marmo da statua.
+• 
+Una Notte da Grifoni — pag. 5
+
+[PDF_PAGE=7]
+Altri souvenir della notte
+Distribuiscili nei primi minuti di gioco, uno per PG dove possibile: ognuno è un mistero in miniatura che
+troverà risposta durante la giornata.
+BlIndare Il tWIst (regola d'oro)
+Il pesce nella boccia non può essere smascherato prima del finale. Mai. Il druido è protetto 
+da una tempesta perfetta: sbronza epica, Forma Selvatica e coma etilico. Dorme come un sasso —
+anzi, come un pesce.
+Al piano di sotto: Thessa
+Thessa «Mezzoboccale», la locandiera, accoglie il party con un applauso lento e carico di sarcasmo.
+Cosa sa (gratis, con affetto e giudizio):
+•
+•
+•
+•
+•
+ 
+ 
+ 
+Il dente. A un PG manca un incisivo. Non fa male, la gengiva è pulita: è stato rimosso con cura. 
+Nessun ricordo. (Risposta da Rix, Pista B: se l'è cavato da solo per vincere una scommessa da 5 mo. 
+Rix conserva il dente nel suo borsello, come «pegno di fratellanza».)
+ Il certificato di matrimonio. In una tasca, una pergamena profumata del Tempietto delle Unioni 
+Fulminee (santuario di Sune, aperto tutta la notte): un PG a scelta risulta sposato da questa notte 
+con una certa «Giada», firma del celebrante illeggibile e macchiata di vino. (Sviluppo: l'intermezzo 
+«Giada e Carlino», Atto II.)
+I gettoni d'avorio. Una borsa con gettoni da gioco della Sirena Gentile per un valore di 300 mo. 
+Qualcuno, stanotte, ha vinto troppo. Chi va a riscuotere scopre che il croupier li ricorda benissimo 
+(«contavate le carte, e il tabaxi fingeva di non conoscervi») — e non nota il ragazzino che, dal retro, 
+parte di corsa verso il porto: la Sirena Gentile è una copertura per riciclaggio di denaro della gilda di 
+Xanathar. Riscuotere lì è il modo più rapido per innescare la Pista D.
+ Il baule che bussa. Dal baule in fondo alla stanza, colpi ritmici. Dentro c'è Zhou il Furetto, gnomo 
+ricettatore, completamente nudo: appena aperto il baule salta fuori, colpisce il PG più vicino con un 
+piede di porco (1 danno contundente), urla «I MIEI PANTALONI!» e si lancia dalla finestra. Se 
+inseguito e calmato (o corrotto con pantaloni), è un testimone prezioso: li ha seguiti mezza notte 
+sperando di comprare la refurtiva, finché non l'hanno chiuso nel baule «per sicurezza operativa». Sa 
+del colpo al convoglio e dello schianto, ma non del druido.
+La gallina. Nessuno sa da dove venga. Nessuna prova, indizio o testimone lo chiarirà mai. Non 
+spiegarla. Mai.
+•
+•
+•
+ Nessuna prova lo rivela: Medicina, Natura, Arcano dicono solo «pesce vivo, in torpore, acqua 
+alcolica». Individuazione del magico non rileva nulla: la Forma Selvatica di un druido che dorme
+non irradia aure apprezzabili (parola di DM).
+• Non si sveglia: scossoni, urla, cambi d'acqua, perfino lasciarlo fuori dall'acqua — niente lo
+smuove. Se lo tirano fuori dall'acqua, boccheggia pigramente finché non lo rimettono dentro: il
+party non ha alcun motivo di rischiare la vita del «pesce di Xanathar».
+Se qualcuno vuole fargli del male (perché mai?), gli altri hanno tutti gli incentivi a impedirlo.
+Se proprio insistono, il pesce guizza, scivola, finisce sotto un mobile: la scena diventa slapstick, non
+una rivelazione.
+• Se i giocatori formulano la teoria giusta, non confermare e non negare: sorridi e cambia
+argomento. Il dubbio è carburante; la certezza arriva solo all'udienza con la gilda.
+ Il giocatore del druido: l'ideale è che il druido sia un PNG aggregatosi al party per la oneshot.
+Se invece è un PG con il suo giocatore al tavolo, istruiscilo a parte prima della sessione e affidagli
+per la giornata un personaggio di supporto (Rix è perfetto): la sua interpretazione a sorpresa nel
+finale sarà il momento più bello della serata.
+• Siete rientrati «a cavallo di quell'affare piumato», poco prima dell'alba, cantando un inno alla
+vittoria con parole... molto volgari.
+Una Notte da Grifoni — pag. 6
+
+[PDF_PAGE=8]
+Il Rimedio della Nonna (2 ma) rimuove i Postumi. Thessa non fa domande, ma tiene il conto dei danni
+alla camera — materasso disperso incluso: 5 mo, «e vi conviene pagarli prima che lo faccia dire alla
+Guardia». Sarete irrimediabilmente banditi dal locale.
+• Eravate in compagnia di «quel gatto chiacchierone del porto, Rix» — ve lo siete persi per strada. 
+• Il druido reggeva la boccia come una reliquia e ripeteva «lo custodirò io». È salito per ultimo.
+«Ah, e la Guardia è già passata due volte stamattina. Cercano un grifone. Non so proprio perché mi 
+sia venuto in mente di coprirvi.»
+• 
+Una Notte da Grifoni — pag. 7

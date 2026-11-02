@@ -1,0 +1,638 @@
+[
+  {
+    "document_id": "pdf_090c3a438c6f390a53ad",
+    "pdf_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "split": "golden",
+    "adventure_group": "pdf_090c3a438c6f390a53ad",
+    "segmentation": {
+      "scope": "whole_document_text_layer",
+      "rationale": "Complete short encounter PDF, including stat blocks and map labels.",
+      "page_slices": {}
+    },
+    "variant_of": null
+  },
+  {
+    "document_id": "pdf_ed1f6f3fe3a8590a550a",
+    "pdf_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "split": "golden",
+    "adventure_group": "pdf_ed1f6f3fe3a8590a550a",
+    "segmentation": {
+      "scope": "whole_document_text_layer",
+      "rationale": "Complete short murder-mystery PDF.",
+      "page_slices": {}
+    },
+    "variant_of": null,
+    "author": "Rich Condon",
+    "author_evidence": "PDF page 2: A Tok’s World Adventure for 5e; copyright 2023 Rich Condon",
+    "license": "Community Content Agreement for Dungeon Masters Guild (publication notice; redistribution permission not established)",
+    "license_evidence": "PDF page 6: publication/copyright notice"
+  },
+  {
+    "document_id": "pdf_f72f9d30936a1f7366c8",
+    "pdf_pages": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "split": "golden",
+    "adventure_group": "pdf_f72f9d30936a1f7366c8",
+    "segmentation": {
+      "scope": "whole_document_text_layer",
+      "rationale": "Complete short birthday encounter PDF; one-word-per-line extraction retained.",
+      "page_slices": {}
+    },
+    "variant_of": null,
+    "author": "Al Stover",
+    "author_evidence": "PDF page 1: By Al Stover"
+  },
+  {
+    "document_id": "pdf_fb44e1ed23f8853082fc",
+    "pdf_pages": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "split": "golden",
+    "adventure_group": "pdf_fb44e1ed23f8853082fc",
+    "segmentation": {
+      "scope": "whole_document_text_layer",
+      "rationale": "Complete short wedding encounter PDF; original glyph defects retained.",
+      "page_slices": {}
+    },
+    "variant_of": null,
+    "author": "R P Davis",
+    "author_evidence": "PDF page 5: About the Author: R P Davis",
+    "license": "Community Content Agreement for Dungeon Masters Guild (publication notice; redistribution permission not established)",
+    "license_evidence": "PDF page 5: publication/copyright notice"
+  },
+  {
+    "document_id": "pdf_c6ba72f7dd1477ae00a7",
+    "pdf_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "split": "golden",
+    "adventure_group": "pdf_c6ba72f7dd1477ae00a7",
+    "segmentation": {
+      "scope": "whole_document_text_layer",
+      "rationale": "Complete short rescue adventure PDF, including sparse map/sheet pages.",
+      "page_slices": {}
+    },
+    "variant_of": null
+  },
+  {
+    "document_id": "pdf_6424be4ab81c5a9615a1",
+    "pdf_pages": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "split": "golden",
+    "adventure_group": "pdf_6424be4ab81c5a9615a1",
+    "segmentation": {
+      "scope": "whole_document_text_layer",
+      "rationale": "Complete supplied side-trek PDF; source itself is a published excerpt, not a whole campaign.",
+      "page_slices": {}
+    },
+    "variant_of": null,
+    "author": "Tony Petrecca",
+    "author_evidence": "PDF page 1: by Tony Petrecca",
+    "license": "Community Content Agreement for Dungeon Masters Guild (publication notice; redistribution permission not established)",
+    "license_evidence": "PDF page 2: publication/copyright notice"
+  },
+  {
+    "document_id": "pdf_db3eece6ee5c97256707",
+    "pdf_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "split": "golden",
+    "adventure_group": "pdf_db3eece6ee5c97256707",
+    "segmentation": {
+      "scope": "whole_document_text_layer",
+      "rationale": "Complete short adventure PDF; duplicated headings and private-use glyphs retained.",
+      "page_slices": {}
+    },
+    "variant_of": null,
+    "author": "Dale Critchley",
+    "author_evidence": "PDF page 7: Lead writer, editor & developer: Dale Critchley",
+    "license": "Community Content Agreement for Dungeon Masters Guild (publication notice; redistribution permission not established)",
+    "license_evidence": "PDF page 7: publication/copyright notice"
+  },
+  {
+    "document_id": "pdf_fb7564f50d7d4726e44f",
+    "pdf_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "split": "golden",
+    "adventure_group": "pdf_fb7564f50d7d4726e44f",
+    "segmentation": {
+      "scope": "whole_document_text_layer",
+      "rationale": "Complete supplied introductory adventure PDF, not its wider adventure series.",
+      "page_slices": {}
+    },
+    "variant_of": null
+  },
+  {
+    "document_id": "pdf_6f9d4eb751a6671c2284",
+    "pdf_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "split": "golden",
+    "adventure_group": "pdf_6f9d4eb751a6671c2284",
+    "segmentation": {
+      "scope": "complete_narrative_section",
+      "rationale": "Introduction and complete main adventure through resolution; appendices on PDF pages 7-11 omitted.",
+      "page_slices": {}
+    },
+    "variant_of": null,
+    "author": "Bryan T. Livengood",
+    "author_evidence": "PDF page 1: by Bryan T. Livengood",
+    "license": "Community Content Agreement for Dungeon Masters Guild (publication notice; redistribution permission not established)",
+    "license_evidence": "PDF page 1: publication/copyright notice"
+  },
+  {
+    "document_id": "pdf_09543af12d2426e814f5",
+    "pdf_pages": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "split": "golden",
+    "adventure_group": "pdf_09543af12d2426e814f5",
+    "segmentation": {
+      "scope": "complete_narrative_section",
+      "rationale": "Spanish introductory dungeon through resolution, statistics and treasure; credits, contents, change log and map pages omitted.",
+      "page_slices": {}
+    },
+    "variant_of": null
+  },
+  {
+    "document_id": "pdf_7a2ed7e7a7d2d48c4045",
+    "pdf_pages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "split": "development",
+    "adventure_group": "pdf_7a2ed7e7a7d2d48c4045",
+    "segmentation": {
+      "scope": "opening_act",
+      "rationale": "Italian synopsis, timeline, rules and complete Act I. Acts II/III and appendices intentionally omitted.",
+      "page_slices": {}
+    },
+    "variant_of": null
+  },
+  {
+    "document_id": "pdf_5dcfc61ef86267e75e59",
+    "pdf_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "split": "development",
+    "adventure_group": "pdf_5dcfc61ef86267e75e59",
+    "segmentation": {
+      "scope": "complete_narrative_section",
+      "rationale": "Festival setup, stalls, incident and NPC descriptions; author/thanks pages 8-9 omitted.",
+      "page_slices": {}
+    },
+    "variant_of": null
+  },
+  {
+    "document_id": "pdf_5e5c8a49a5768666500a",
+    "pdf_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "split": "development",
+    "adventure_group": "pdf_5e5c8a49a5768666500a",
+    "segmentation": {
+      "scope": "whole_document_text_layer",
+      "rationale": "Complete supplied daycare adventure PDF; naturally repeated headings retained.",
+      "page_slices": {}
+    },
+    "variant_of": null,
+    "author": "Orthrix",
+    "author_evidence": "PDF page 2: by Orthrix",
+    "license": "Community Content Agreement for Dungeon Masters Guild (publication notice; redistribution permission not established)",
+    "license_evidence": "PDF page 2: publication/copyright notice"
+  },
+  {
+    "document_id": "pdf_0f55303559ab9bae4eac",
+    "pdf_pages": [
+      1,
+      4,
+      5,
+      6,
+      7
+    ],
+    "split": "corpus",
+    "adventure_group": "pdf_0f55303559ab9bae4eac",
+    "segmentation": {
+      "scope": "opening_scene",
+      "rationale": "Title synopsis plus introduction, market NPCs/events and shop entrance/reception. Investigation and solution later in PDF omitted.",
+      "page_slices": {}
+    },
+    "variant_of": null,
+    "license": "Community Content Agreement for Dungeon Masters Guild (publication notice; redistribution permission not established)",
+    "license_evidence": "PDF page 2: publication/copyright notice"
+  },
+  {
+    "document_id": "pdf_4c6bbd209fa587d9fff1",
+    "pdf_pages": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "split": "corpus",
+    "adventure_group": "longsaddle-scrog-family",
+    "segmentation": {
+      "scope": "complete_narrative_section",
+      "rationale": "Adventure primer, call to action, hunters encounter, conclusion and rewards; statistics and appendices omitted.",
+      "page_slices": {}
+    },
+    "variant_of": null
+  },
+  {
+    "document_id": "pdf_4f7699c93215cda2e74b",
+    "pdf_pages": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "split": "corpus",
+    "adventure_group": "longsaddle-scrog-family",
+    "segmentation": {
+      "scope": "complete_narrative_section",
+      "rationale": "Adventure primer, call to action, wranglers encounter, conclusion and rewards; statistics and appendices omitted.",
+      "page_slices": {}
+    },
+    "variant_of": null
+  },
+  {
+    "document_id": "pdf_e50e6208c03d753451e6",
+    "pdf_pages": [
+      4,
+      7,
+      8,
+      9,
+      10
+    ],
+    "split": "corpus",
+    "adventure_group": "longsaddle-scrog-family",
+    "segmentation": {
+      "scope": "pursuit_scene",
+      "rationale": "Adventure primer plus pursuit rules and complete moving-outlaw encounter A. Call-to-action detail, alternative camp encounter B and conclusion omitted; source primer supplies objective/context.",
+      "page_slices": {}
+    },
+    "variant_of": null
+  },
+  {
+    "document_id": "pdf_55a5bcfd7b4f8061db48",
+    "pdf_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "split": "corpus",
+    "adventure_group": "pdf_55a5bcfd7b4f8061db48",
+    "segmentation": {
+      "scope": "castle_section",
+      "rationale": "Introduction, assumptions, bandit plan, hooks and complete castle key. Stop before trail-encounter heading on PDF page 6; trail and tomb omitted.",
+      "page_slices": {
+        "6": [
+          0,
+          2524
+        ]
+      }
+    },
+    "variant_of": null
+  },
+  {
+    "document_id": "pdf_af58a4c3bae84d680fb5",
+    "pdf_pages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "split": "corpus",
+    "adventure_group": "pdf_af58a4c3bae84d680fb5",
+    "segmentation": {
+      "scope": "tavern_scene",
+      "rationale": "Amphail introduction and tavern investigation/social branches. Stop before Leaving the Tavern on PDF page 9; later transformation/escape omitted.",
+      "page_slices": {}
+    },
+    "variant_of": null
+  },
+  {
+    "document_id": "pdf_6902809a1488b922e1d6",
+    "pdf_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "split": "corpus",
+    "adventure_group": "pdf_6902809a1488b922e1d6",
+    "segmentation": {
+      "scope": "first_part",
+      "rationale": "Introduction and NPC context plus complete Part 1: Into the Anauroch. Part 2: Kai Monastery and monster appendix omitted.",
+      "page_slices": {}
+    },
+    "variant_of": null
+  },
+  {
+    "document_id": "pdf_ba9316a7014feccf4bb6",
+    "pdf_pages": [
+      2,
+      4,
+      5,
+      6
+    ],
+    "split": "corpus",
+    "adventure_group": "pdf_ba9316a7014feccf4bb6",
+    "segmentation": {
+      "scope": "opening_act",
+      "rationale": "Title synopsis, adventure summary and Part 1: Arrival in Ibrido. Castle party and finale omitted.",
+      "page_slices": {}
+    },
+    "variant_of": null
+  },
+  {
+    "document_id": "pdf_c0f3572dc9ea8f05ee15",
+    "pdf_pages": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "split": "corpus",
+    "adventure_group": "pdf_c0f3572dc9ea8f05ee15",
+    "segmentation": {
+      "scope": "invitation_and_journey",
+      "rationale": "Introduction, invitation, travel and arrival at the palace. Banquet, murder and investigation omitted.",
+      "page_slices": {}
+    },
+    "variant_of": null
+  },
+  {
+    "document_id": "pdf_ce28b8ead0994f7f3a91",
+    "pdf_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "split": "corpus",
+    "adventure_group": "pdf_ce28b8ead0994f7f3a91",
+    "segmentation": {
+      "scope": "whole_document_text_layer",
+      "rationale": "Complete supplied haunted-house adventure PDF.",
+      "page_slices": {}
+    },
+    "variant_of": null
+  },
+  {
+    "document_id": "pdf_d2a37afd0cdb7c2445e1",
+    "pdf_pages": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "split": "corpus",
+    "adventure_group": "pdf_d2a37afd0cdb7c2445e1",
+    "segmentation": {
+      "scope": "complete_narrative_section",
+      "rationale": "Title synopsis plus introduction and all testing rooms through conclusion; statistics appendix omitted.",
+      "page_slices": {}
+    },
+    "variant_of": null,
+    "author": "Patrick Rothfuss",
+    "author_evidence": "PDF page 1: Patrick Rothfuss; Adventure Designer; development and editing Trevor Kidd"
+  },
+  {
+    "document_id": "pdf_dcd357a09c0575d24c11",
+    "pdf_pages": [
+      1,
+      3,
+      4,
+      5
+    ],
+    "split": "corpus",
+    "adventure_group": "pdf_dcd357a09c0575d24c11",
+    "segmentation": {
+      "scope": "opening_act",
+      "rationale": "Title synopsis, adventure background/overview and complete Part 1: Welcome to Skjaarl. Investigation, resolution and statistics omitted.",
+      "page_slices": {}
+    },
+    "variant_of": null,
+    "license": "Community Content Agreement for Dungeon Masters Guild (publication notice; redistribution permission not established)",
+    "license_evidence": "PDF page 2: publication/copyright notice"
+  },
+  {
+    "document_id": "pdf_f8d409ea73d3cc0d9ed4",
+    "pdf_pages": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "split": "corpus",
+    "adventure_group": "pdf_f8d409ea73d3cc0d9ed4",
+    "segmentation": {
+      "scope": "opening_scene",
+      "rationale": "Adventure introduction/backstory and complete council meeting, including intervening sparse/map page. Travel table, copper mine and tower omitted.",
+      "page_slices": {}
+    },
+    "variant_of": null,
+    "license": "Community Content Agreement for Dungeon Masters Guild (publication notice; redistribution permission not established)",
+    "license_evidence": "PDF page 2: publication/copyright notice"
+  },
+  {
+    "document_id": "pdf_9febf00b6bec60ef3b44",
+    "pdf_pages": [
+      1,
+      2,
+      3
+    ],
+    "split": "corpus",
+    "adventure_group": "pdf_9febf00b6bec60ef3b44",
+    "segmentation": {
+      "scope": "opening_scene",
+      "rationale": "Adventure background and complete Part 1: Fee negotiation. Stop before Part 2: Fly on PDF page 3; journey and giant encounters omitted.",
+      "page_slices": {
+        "3": [
+          0,
+          3551
+        ]
+      }
+    },
+    "variant_of": null
+  },
+  {
+    "document_id": "pdf_170a25a9c04ff189919a",
+    "pdf_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "split": "corpus",
+    "adventure_group": "pdf_170a25a9c04ff189919a",
+    "segmentation": {
+      "scope": "whole_document_text_layer",
+      "rationale": "Complete supplied festive one-shot PDF, including pre-generated characters; empty image page retained as a marker.",
+      "page_slices": {}
+    },
+    "variant_of": null,
+    "author": "Sean Goodison",
+    "author_evidence": "PDF page 2: copyright 2017 by Sean Goodison",
+    "license": "Community Content Agreement for Dungeon Masters Guild (publication notice; redistribution permission not established)",
+    "license_evidence": "PDF page 2: publication/copyright notice"
+  },
+  {
+    "document_id": "pdf_38f8a8e94e7ea6950c47",
+    "pdf_pages": [
+      1,
+      3,
+      23,
+      24,
+      25
+    ],
+    "split": "corpus",
+    "adventure_group": "pdf_38f8a8e94e7ea6950c47",
+    "segmentation": {
+      "scope": "introductory_adventures_section",
+      "rationale": "Title, setting introduction and complete How to Get Started introductory-adventures section. Campaign arc, faction reference and appendices omitted.",
+      "page_slices": {}
+    },
+    "variant_of": null,
+    "author": "Björn Karsten Wendisch",
+    "author_evidence": "PDF page 1: Written by Björn Karsten Wendisch",
+    "license": "Community Content Agreement for Dungeon Masters Guild (publication notice; redistribution permission not established)",
+    "license_evidence": "PDF page 28: publication/copyright notice"
+  },
+  {
+    "document_id": "pdf_3ced5a2b5433e507a2f9",
+    "pdf_pages": [
+      1,
+      2,
+      3
+    ],
+    "split": "corpus",
+    "adventure_group": "longsaddle-scrog-family",
+    "segmentation": {
+      "scope": "whole_document_text_layer",
+      "rationale": "Complete supplied Long Road travel encounter toolkit PDF; this is an encounter collection, not an independent plotted adventure.",
+      "page_slices": {}
+    },
+    "variant_of": null
+  }
+]

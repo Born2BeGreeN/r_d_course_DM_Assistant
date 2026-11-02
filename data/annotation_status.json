@@ -1,0 +1,88 @@
+{
+  "manifest_path": "data/manifest.jsonl",
+  "dataset_descriptor_path": "data/active_dataset.json",
+  "schema_sha256": "8327cb962cc54ac2c2edd6e0b2407f983464e75ca2e85c0efcec5a963a8f8047",
+  "annotation_guide_sha256": "37107de593fc3b7608d883f688f2abc30a2ec033eeb0155b3d5a5a70d8ecb1cb",
+  "annotations": [
+    {
+      "text_id": "pdf_090c3a438c6f390a53ad_p001-007",
+      "input_text_sha256": "4ed1a28922816e919cfe5b3ff15be2352bd31605ed5a4d2f7e9c0ea8ca602d45",
+      "annotation_path": "data/golden/pdf_090c3a438c6f390a53ad_p001-007.json",
+      "status": "reviewed",
+      "reviewed_by": "Roman",
+      "annotation_sha256": "5139065555c6a37161d2231dfd1e889f84da47a07735ff6c050d01db7c03ac34"
+    },
+    {
+      "text_id": "pdf_ed1f6f3fe3a8590a550a_p001-006",
+      "input_text_sha256": "de2b59075cdddd11480734727be99c6cb0ebd771c327784f64642bfc1324908f",
+      "annotation_path": "data/golden/pdf_ed1f6f3fe3a8590a550a_p001-006.json",
+      "status": "reviewed",
+      "reviewed_by": "Roman",
+      "annotation_sha256": "0a87251293e14bed2484a43219dc0280e072e738d6bf229b726bd8cd93971e18"
+    },
+    {
+      "text_id": "pdf_f72f9d30936a1f7366c8_p001-004",
+      "input_text_sha256": "cae61402136a4baadde4f9c8d18b4462b1550b835fdc7f346eaf6096edccb1fe",
+      "annotation_path": "data/golden/pdf_f72f9d30936a1f7366c8_p001-004.json",
+      "status": "reviewed",
+      "reviewed_by": "Roman",
+      "annotation_sha256": "1c69c8b773d9a76015ca4a5e2873559d1629fa14ead33df65a1555024e182581"
+    },
+    {
+      "text_id": "pdf_fb44e1ed23f8853082fc_p001-005",
+      "input_text_sha256": "5eb8405601c0dc9a6a77aa17a98c5dafe1605ced9132b55e94aa1a220d13fc89",
+      "annotation_path": "data/golden/pdf_fb44e1ed23f8853082fc_p001-005.json",
+      "status": "reviewed",
+      "reviewed_by": "Roman",
+      "annotation_sha256": "f090f4efa3281599855062568cb0bd9b120d6bea32153ce5d37f34effdf6eed7"
+    },
+    {
+      "text_id": "pdf_c6ba72f7dd1477ae00a7_p001-008",
+      "input_text_sha256": "a43520809d349ed51270c2b303eab232eb88e622057c21d3509667564bdeb378",
+      "annotation_path": "data/golden/pdf_c6ba72f7dd1477ae00a7_p001-008.json",
+      "status": "reviewed",
+      "reviewed_by": "Roman",
+      "annotation_sha256": "5a3811751e3a7ddf3025b208762b045c00bc5392a2a87717ef8705106ce59c75"
+    },
+    {
+      "text_id": "pdf_6424be4ab81c5a9615a1_p001-004",
+      "input_text_sha256": "f92c6233c3d485e894b5a63433a2c20984de144a4f108020c4f6d98baf9b4922",
+      "annotation_path": "data/golden/pdf_6424be4ab81c5a9615a1_p001-004.json",
+      "status": "reviewed",
+      "reviewed_by": "Roman",
+      "annotation_sha256": "2176aa5c13c7a16f8ee9e3305d0b725094c0fa89ddf9781793db990df892be80"
+    },
+    {
+      "text_id": "pdf_db3eece6ee5c97256707_p001-007",
+      "input_text_sha256": "27580c3d04b009e4d22fec30aef16f0aeaa0b2f2b6c2e366f6b2fde5f4a464bf",
+      "annotation_path": "data/golden/pdf_db3eece6ee5c97256707_p001-007.json",
+      "status": "reviewed",
+      "reviewed_by": "Roman",
+      "annotation_sha256": "bdf873becce970b96c323c5a8d5d8c5ee94f7ea355e277a5e7aa155d29efd347"
+    },
+    {
+      "text_id": "pdf_fb7564f50d7d4726e44f_p001-010",
+      "input_text_sha256": "57c02a2227f01c0460e2af719ecd52ba72092efbbabf2c1b6da2828239be0c55",
+      "annotation_path": "data/golden/pdf_fb7564f50d7d4726e44f_p001-010.json",
+      "status": "reviewed",
+      "reviewed_by": "Roman",
+      "annotation_sha256": "0c42f580eb08bcfb1959b418e4f9ac4356c91071fc6ba9485054146a77c80e2f"
+    },
+    {
+      "text_id": "pdf_6f9d4eb751a6671c2284_p001-006",
+      "input_text_sha256": "c24efc700de8b82df91737399d1da7312a5bcaad3417f4d19995b17e751fb15a",
+      "annotation_path": "data/golden/pdf_6f9d4eb751a6671c2284_p001-006.json",
+      "status": "reviewed",
+      "reviewed_by": "Roman",
+      "annotation_sha256": "ec871be56df55e5fb19929b18b44028b73d57fb1ae4f64be1ad772a5c938a601"
+    },
+    {
+      "text_id": "pdf_09543af12d2426e814f5_p005-015",
+      "input_text_sha256": "b896a34bc9432f1eb04c5f9b065af714a4f1b2ba008ff4ea36a2f9bc01cf143a",
+      "annotation_path": "data/golden/pdf_09543af12d2426e814f5_p005-015.json",
+      "status": "reviewed",
+      "reviewed_by": "Roman",
+      "annotation_sha256": "27ee9fe978f2c889a9a113e638a52fb0140b18e2305d3f7a6da81a8c50930575"
+    }
+  ]
+}

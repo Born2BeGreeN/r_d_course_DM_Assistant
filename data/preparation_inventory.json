@@ -1,0 +1,5543 @@
+{
+  "extraction_method": "pypdf_text_layer",
+  "ocr_performed": false,
+  "diagnostics_policy": "Heuristic review flags, not verified OCR need or reading-order defects. Image-only maps/covers may need no OCR for this task.",
+  "document_count": 40,
+  "documents": [
+    {
+      "document_id": "pdf_09543af12d2426e814f5",
+      "pdf_filename": "1009230-TombIronKings_v2.2_SP.pdf",
+      "pdf_sha256": "09543af12d2426e814f50785ac72a8ac88e78367adc5262c3bf2665612ea8b27",
+      "extraction_method": "pypdf_text_layer",
+      "author": "Paul Ste. Marie",
+      "source_url": null,
+      "license": null,
+      "errors": [],
+      "warnings": [],
+      "metadata": {
+        "/Author": "Paul Ste. Marie",
+        "/Creator": "Microsoft® Word for Office 365",
+        "/CreationDate": "D:20200206093058-05'00'",
+        "/ModDate": "D:20200206093058-05'00'",
+        "/Producer": "Microsoft® Word for Office 365"
+      },
+      "candidate_sha256": "5c382c69dd8ba2eb8cbf72970232a37e49f6a3575999b6fb0e5afee8254dea0f",
+      "candidate_path": "data/extracted/pdf_09543af12d2426e814f5.txt",
+      "page_count": 18,
+      "characters": 35468,
+      "page_diagnostics": [
+        {
+          "pdf_page": 1,
+          "characters": 147,
+          "flags": []
+        },
+        {
+          "pdf_page": 2,
+          "characters": 576,
+          "flags": []
+        },
+        {
+          "pdf_page": 3,
+          "characters": 1944,
+          "flags": []
+        },
+        {
+          "pdf_page": 4,
+          "characters": 6613,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 5,
+          "characters": 2377,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 6,
+          "characters": 2059,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 7,
+          "characters": 2711,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 8,
+          "characters": 2760,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 9,
+          "characters": 2614,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 10,
+          "characters": 2649,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 11,
+          "characters": 2886,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 12,
+          "characters": 1443,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 13,
+          "characters": 2281,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 14,
+          "characters": 1679,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 15,
+          "characters": 613,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 16,
+          "characters": 1829,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 17,
+          "characters": 145,
+          "flags": []
+        },
+        {
+          "pdf_page": 18,
+          "characters": 142,
+          "flags": []
+        }
+      ]
+    },
+    {
+      "document_id": "pdf_fb7564f50d7d4726e44f",
+      "pdf_filename": "1110403-Silver_March_Sentinels.pdf",
+      "pdf_sha256": "fb7564f50d7d4726e44f0ccca4be1c5a8f1176f0ad2b8768d3b34aadf34e0a64",
+      "extraction_method": "pypdf_text_layer",
+      "author": "Exsisto",
+      "source_url": null,
+      "license": null,
+      "errors": [],
+      "warnings": [],
+      "metadata": {
+        "/Title": "Neverwinter’s Keeper’s",
+        "/Author": "Exsisto",
+        "/Creator": "Microsoft® Word 2013",
+        "/CreationDate": "D:20170412073008+10'00'",
+        "/ModDate": "D:20170412073008+10'00'",
+        "/Producer": "Microsoft® Word 2013"
+      },
+      "candidate_sha256": "57c02a2227f01c0460e2af719ecd52ba72092efbbabf2c1b6da2828239be0c55",
+      "candidate_path": "data/extracted/pdf_fb7564f50d7d4726e44f.txt",
+      "page_count": 10,
+      "characters": 24829,
+      "page_diagnostics": [
+        {
+          "pdf_page": 1,
+          "characters": 108,
+          "flags": []
+        },
+        {
+          "pdf_page": 2,
+          "characters": 1819,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 3,
+          "characters": 739,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 4,
+          "characters": 2853,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 5,
+          "characters": 4047,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 6,
+          "characters": 3914,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 7,
+          "characters": 4047,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 8,
+          "characters": 3888,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 9,
+          "characters": 3309,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 10,
+          "characters": 105,
+          "flags": []
+        }
+      ]
+    },
+    {
+      "document_id": "pdf_0f55303559ab9bae4eac",
+      "pdf_filename": "1293868-Kettlepots_Shop_of_Oddities.pdf",
+      "pdf_sha256": "0f55303559ab9bae4eacb58e63eaa2f2392b700d6dd27e596742e3b5d23e7fef",
+      "extraction_method": "pypdf_text_layer",
+      "author": "Ned Farley",
+      "source_url": null,
+      "license": null,
+      "errors": [],
+      "warnings": [
+        "Ignoring wrong pointing object 10 0 (offset 0)",
+        "Ignoring wrong pointing object 12 0 (offset 0)",
+        "Ignoring wrong pointing object 14 0 (offset 0)",
+        "Ignoring wrong pointing object 58 0 (offset 0)",
+        "Ignoring wrong pointing object 60 0 (offset 0)",
+        "Ignoring wrong pointing object 62 0 (offset 0)"
+      ],
+      "metadata": {
+        "/Title": "Kettlepot's Shop of Oddities",
+        "/Producer": "macOS Version 10.15.6 (Build 19G2021) Quartz PDFContext",
+        "/Author": "Ned Farley",
+        "/Creator": "Word",
+        "/CreationDate": "D:20200910140351Z00'00'",
+        "/ModDate": "D:20200910140351Z00'00'"
+      },
+      "candidate_sha256": "be3b5e0ce769016d881b90003cecdd07f51b7199378a2f04245751f2b3242cce",
+      "candidate_path": "data/extracted/pdf_0f55303559ab9bae4eac.txt",
+      "page_count": 14,
+      "characters": 40686,
+      "page_diagnostics": [
+        {
+          "pdf_page": 1,
+          "characters": 1584,
+          "flags": []
+        },
+        {
+          "pdf_page": 2,
+          "characters": 1218,
+          "flags": []
+        },
+        {
+          "pdf_page": 3,
+          "characters": 1186,
+          "flags": []
+        },
+        {
+          "pdf_page": 4,
+          "characters": 5537,
+          "flags": []
+        },
+        {
+          "pdf_page": 5,
+          "characters": 3826,
+          "flags": []
+        },
+        {
+          "pdf_page": 6,
+          "characters": 2760,
+          "flags": []
+        },
+        {
+          "pdf_page": 7,
+          "characters": 5179,
+          "flags": [
+            "line_break_hyphenation"
+          ]
+        },
+        {
+          "pdf_page": 8,
+          "characters": 5521,
+          "flags": [
+            "line_break_hyphenation"
+          ]
+        },
+        {
+          "pdf_page": 9,
+          "characters": 4691,
+          "flags": []
+        },
+        {
+          "pdf_page": 10,
+          "characters": 4414,
+          "flags": []
+        },
+        {
+          "pdf_page": 11,
+          "characters": 2343,
+          "flags": []
+        },
+        {
+          "pdf_page": 12,
+          "characters": 2285,
+          "flags": []
+        },
+        {
+          "pdf_page": 13,
+          "characters": 80,
+          "flags": []
+        },
+        {
+          "pdf_page": 14,
+          "characters": 62,
+          "flags": []
+        }
+      ]
+    },
+    {
+      "document_id": "pdf_6f9d4eb751a6671c2284",
+      "pdf_filename": "1418924-All_Aboard_the_Golden_Mast_-_DnD_5e_Adventure.pdf",
+      "pdf_sha256": "6f9d4eb751a6671c2284f4dea5d5c0ee08b3132f55712a23a1bdc9b6d0fefe01",
+      "extraction_method": "pypdf_text_layer",
+      "author": "bryan",
+      "source_url": null,
+      "license": null,
+      "errors": [],
+      "warnings": [],
+      "metadata": {
+        "/Author": "bryan",
+        "/CreationDate": "D:20200414134304-05'00'",
+        "/ModDate": "D:20200414134304-05'00'",
+        "/Producer": "Microsoft: Print To PDF",
+        "/Title": "Microsoft Word - All Aboard the Golden Mast"
+      },
+      "candidate_sha256": "fbea911eb1113efdb214e497f358c18d47abd4bcd22d2cb9f67ffce75ed01dda",
+      "candidate_path": "data/extracted/pdf_6f9d4eb751a6671c2284.txt",
+      "page_count": 11,
+      "characters": 35946,
+      "page_diagnostics": [
+        {
+          "pdf_page": 1,
+          "characters": 2055,
+          "flags": []
+        },
+        {
+          "pdf_page": 2,
+          "characters": 3650,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 3,
+          "characters": 4957,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 4,
+          "characters": 4755,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 5,
+          "characters": 4302,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 6,
+          "characters": 4655,
+          "flags": []
+        },
+        {
+          "pdf_page": 7,
+          "characters": 3002,
+          "flags": [
+            "suspicious_reading_order_short_lines"
+          ]
+        },
+        {
+          "pdf_page": 8,
+          "characters": 2177,
+          "flags": []
+        },
+        {
+          "pdf_page": 9,
+          "characters": 2306,
+          "flags": []
+        },
+        {
+          "pdf_page": 10,
+          "characters": 3929,
+          "flags": []
+        },
+        {
+          "pdf_page": 11,
+          "characters": 158,
+          "flags": []
+        }
+      ]
+    },
+    {
+      "document_id": "pdf_ba9316a7014feccf4bb6",
+      "pdf_filename": "1466794-ANightOfMasksAndMonsters_Full.pdf",
+      "pdf_sha256": "ba9316a7014feccf4bb66e2b703417fb9478e285a63bec51e79116145a42066a",
+      "extraction_method": "pypdf_text_layer",
+      "author": null,
+      "source_url": null,
+      "license": null,
+      "errors": [],
+      "warnings": [],
+      "metadata": {
+        "/ModDate": "D:20180907181051Z",
+        "/Producer": "3-Heights(TM) PDF Optimization Shell 4.8.25.2 (http://www.pdf-tools.com)"
+      },
+      "candidate_sha256": "842ecbc2f72328fd8e62d31bbb3a9224b42ff95175ea30b43e8c14dc7a2d67cb",
+      "candidate_path": "data/extracted/pdf_ba9316a7014feccf4bb6.txt",
+      "page_count": 25,
+      "characters": 52147,
+      "page_diagnostics": [
+        {
+          "pdf_page": 1,
+          "characters": 0,
+          "flags": [
+            "empty_text_layer",
+            "ocr_review_needed_image_with_little_text"
+          ]
+        },
+        {
+          "pdf_page": 2,
+          "characters": 775,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 3,
+          "characters": 510,
+          "flags": []
+        },
+        {
+          "pdf_page": 4,
+          "characters": 4242,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 5,
+          "characters": 2441,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 6,
+          "characters": 1481,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 7,
+          "characters": 2082,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 8,
+          "characters": 3877,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 9,
+          "characters": 2117,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 10,
+          "characters": 4370,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 11,
+          "characters": 2888,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 12,
+          "characters": 3403,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 13,
+          "characters": 3427,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 14,
+          "characters": 1572,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 15,
+          "characters": 3735,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 16,
+          "characters": 3000,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 17,
+          "characters": 2119,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 18,
+          "characters": 2057,
+          "flags": []
+        },
+        {
+          "pdf_page": 19,
+          "characters": 3185,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 20,
+          "characters": 264,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 21,
+          "characters": 217,
+          "flags": []
+        },
+        {
+          "pdf_page": 22,
+          "characters": 547,
+          "flags": []
+        },
+        {
+          "pdf_page": 23,
+          "characters": 2001,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 24,
+          "characters": 1579,
+          "flags": [
+            "line_break_hyphenation"
+          ]
+        },
+        {
+          "pdf_page": 25,
+          "characters": 258,
+          "flags": []
+        }
+      ]
+    },
+    {
+      "document_id": "pdf_ff441e92bceb59bcb0e4",
+      "pdf_filename": "154014-JttHC.pdf",
+      "pdf_sha256": "ff441e92bceb59bcb0e4241c7d770f9416adbfd1617ba6be84738ac645d0bc9e",
+      "extraction_method": "pypdf_text_layer",
+      "author": "Dave Zajac",
+      "source_url": null,
+      "license": null,
+      "errors": [],
+      "warnings": [],
+      "metadata": {
+        "/Author": "Dave Zajac",
+        "/CreationDate": "D:20160407135625-05'00'",
+        "/Creator": "Adobe Acrobat Pro 9.0.0",
+        "/ModDate": "D:20160407140340-05'00'",
+        "/Producer": "Adobe Acrobat Pro 9.0.0",
+        "/Title": "Journey to the Buried Vale"
+      },
+      "candidate_sha256": "d9becb9e89cee87a5ffb171e3bc88eff8f9b058de4c61d7b3648825905783a48",
+      "candidate_path": "data/extracted/pdf_ff441e92bceb59bcb0e4.txt",
+      "page_count": 28,
+      "characters": 97066,
+      "page_diagnostics": [
+        {
+          "pdf_page": 1,
+          "characters": 0,
+          "flags": [
+            "empty_text_layer",
+            "ocr_review_needed_image_with_little_text"
+          ]
+        },
+        {
+          "pdf_page": 2,
+          "characters": 1681,
+          "flags": []
+        },
+        {
+          "pdf_page": 3,
+          "characters": 5550,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 4,
+          "characters": 4,
+          "flags": [
+            "ocr_review_needed_image_with_little_text"
+          ]
+        },
+        {
+          "pdf_page": 5,
+          "characters": 1056,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 6,
+          "characters": 2689,
+          "flags": [
+            "suspicious_reading_order_short_lines",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 7,
+          "characters": 4152,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 8,
+          "characters": 6782,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 9,
+          "characters": 4557,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 10,
+          "characters": 3737,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 11,
+          "characters": 3432,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 12,
+          "characters": 2375,
+          "flags": [
+            "suspicious_reading_order_short_lines",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 13,
+          "characters": 6028,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 14,
+          "characters": 2014,
+          "flags": [
+            "suspicious_reading_order_short_lines",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 15,
+          "characters": 4151,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 16,
+          "characters": 6398,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 17,
+          "characters": 3700,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 18,
+          "characters": 3038,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 19,
+          "characters": 3209,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 20,
+          "characters": 2798,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 21,
+          "characters": 2404,
+          "flags": [
+            "suspicious_reading_order_short_lines",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 22,
+          "characters": 6994,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 23,
+          "characters": 2161,
+          "flags": [
+            "suspicious_reading_order_short_lines",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 24,
+          "characters": 4142,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 25,
+          "characters": 5946,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 26,
+          "characters": 3698,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 27,
+          "characters": 3618,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 28,
+          "characters": 752,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        }
+      ]
+    },
+    {
+      "document_id": "pdf_090c3a438c6f390a53ad",
+      "pdf_filename": "162520-Great_Pumpkin_PDF.pdf",
+      "pdf_sha256": "090c3a438c6f390a53adeae9d38a0e589dc953c38dbd5f68ba084212b287316e",
+      "extraction_method": "pypdf_text_layer",
+      "author": null,
+      "source_url": null,
+      "license": null,
+      "errors": [],
+      "warnings": [],
+      "metadata": {
+        "/Title": "The Great Pumpkin",
+        "/Producer": "Mac OS X 10.12.4 Quartz PDFContext",
+        "/Creator": "Pages",
+        "/CreationDate": "D:20171009232319Z00'00'",
+        "/ModDate": "D:20171009232319Z00'00'"
+      },
+      "candidate_sha256": "4ed1a28922816e919cfe5b3ff15be2352bd31605ed5a4d2f7e9c0ea8ca602d45",
+      "candidate_path": "data/extracted/pdf_090c3a438c6f390a53ad.txt",
+      "page_count": 7,
+      "characters": 8924,
+      "page_diagnostics": [
+        {
+          "pdf_page": 1,
+          "characters": 0,
+          "flags": [
+            "empty_text_layer",
+            "ocr_review_needed_image_with_little_text"
+          ]
+        },
+        {
+          "pdf_page": 2,
+          "characters": 2724,
+          "flags": []
+        },
+        {
+          "pdf_page": 3,
+          "characters": 1981,
+          "flags": []
+        },
+        {
+          "pdf_page": 4,
+          "characters": 2275,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 5,
+          "characters": 1520,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 6,
+          "characters": 107,
+          "flags": []
+        },
+        {
+          "pdf_page": 7,
+          "characters": 317,
+          "flags": []
+        }
+      ]
+    },
+    {
+      "document_id": "pdf_ce28b8ead0994f7f3a91",
+      "pdf_filename": "1660574-HouseofHorrors.pdf",
+      "pdf_sha256": "ce28b8ead0994f7f3a91be8ec9c17e4d789cbc4d1adecbf5998bf7b58b349355",
+      "extraction_method": "pypdf_text_layer",
+      "author": null,
+      "source_url": null,
+      "license": null,
+      "errors": [],
+      "warnings": [
+        "Ignoring wrong pointing object 10 0 (offset 0)",
+        "Ignoring wrong pointing object 14 0 (offset 0)",
+        "Ignoring wrong pointing object 31 0 (offset 0)",
+        "Ignoring wrong pointing object 33 0 (offset 0)",
+        "Ignoring wrong pointing object 35 0 (offset 0)",
+        "Ignoring wrong pointing object 8 0 (offset 0)"
+      ],
+      "metadata": {
+        "/Title": "Microsoft Word - DungeonofHorrors.docx",
+        "/Producer": "Mac OS X 10.10.5 Quartz PDFContext",
+        "/Creator": "Word",
+        "/CreationDate": "D:20180708234251Z00'00'",
+        "/ModDate": "D:20180708234251Z00'00'",
+        "/Keywords": "",
+        "/AAPL:Keywords": "[]"
+      },
+      "candidate_sha256": "d7947079a8aa5063332723ad917f31a3ef47b16db4b4a916e8bb7eb0a7cdbb75",
+      "candidate_path": "data/extracted/pdf_ce28b8ead0994f7f3a91.txt",
+      "page_count": 9,
+      "characters": 27749,
+      "page_diagnostics": [
+        {
+          "pdf_page": 1,
+          "characters": 1499,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 2,
+          "characters": 3775,
+          "flags": [
+            "suspicious_reading_order_short_lines"
+          ]
+        },
+        {
+          "pdf_page": 3,
+          "characters": 4422,
+          "flags": [
+            "suspicious_reading_order_short_lines"
+          ]
+        },
+        {
+          "pdf_page": 4,
+          "characters": 4103,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_short_lines"
+          ]
+        },
+        {
+          "pdf_page": 5,
+          "characters": 4235,
+          "flags": [
+            "suspicious_reading_order_short_lines"
+          ]
+        },
+        {
+          "pdf_page": 6,
+          "characters": 3781,
+          "flags": [
+            "suspicious_reading_order_short_lines"
+          ]
+        },
+        {
+          "pdf_page": 7,
+          "characters": 3965,
+          "flags": [
+            "suspicious_reading_order_short_lines"
+          ]
+        },
+        {
+          "pdf_page": 8,
+          "characters": 1840,
+          "flags": [
+            "suspicious_reading_order_short_lines"
+          ]
+        },
+        {
+          "pdf_page": 9,
+          "characters": 129,
+          "flags": []
+        }
+      ]
+    },
+    {
+      "document_id": "pdf_ed1f6f3fe3a8590a550a",
+      "pdf_filename": "1699260-Murder_in_Redwater.pdf",
+      "pdf_sha256": "ed1f6f3fe3a8590a550a5d6cc92e3ed7d6a8b2111aeecc78bc01598e148ae1f0",
+      "extraction_method": "pypdf_text_layer",
+      "author": null,
+      "source_url": null,
+      "license": null,
+      "errors": [],
+      "warnings": [],
+      "metadata": {
+        "/CreationDate": "D:20230216040431Z",
+        "/ModDate": "D:20230216040431Z",
+        "/Producer": "Skia/PDF m112 Google Docs Renderer",
+        "/Title": "Murder in Redwater"
+      },
+      "candidate_sha256": "de2b59075cdddd11480734727be99c6cb0ebd771c327784f64642bfc1324908f",
+      "candidate_path": "data/extracted/pdf_ed1f6f3fe3a8590a550a.txt",
+      "page_count": 6,
+      "characters": 13145,
+      "page_diagnostics": [
+        {
+          "pdf_page": 1,
+          "characters": 0,
+          "flags": [
+            "empty_text_layer",
+            "ocr_review_needed_image_with_little_text"
+          ]
+        },
+        {
+          "pdf_page": 2,
+          "characters": 3815,
+          "flags": []
+        },
+        {
+          "pdf_page": 3,
+          "characters": 4023,
+          "flags": []
+        },
+        {
+          "pdf_page": 4,
+          "characters": 3425,
+          "flags": []
+        },
+        {
+          "pdf_page": 5,
+          "characters": 1240,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 6,
+          "characters": 642,
+          "flags": []
+        }
+      ]
+    },
+    {
+      "document_id": "pdf_4c6bbd209fa587d9fff1",
+      "pdf_filename": "176508-FR-DC-SCROG-01-1_2.pdf",
+      "pdf_sha256": "4c6bbd209fa587d9fff10afe0a6f3df7fd39b99a6c85e7fff88c44e440b4be6e",
+      "extraction_method": "pypdf_text_layer",
+      "author": "jonathan bennett",
+      "source_url": null,
+      "license": null,
+      "errors": [],
+      "warnings": [],
+      "metadata": {
+        "/Author": "jonathan bennett",
+        "/Creator": "Microsoft® Word for Microsoft 365",
+        "/CreationDate": "D:20250817031202-10'00'",
+        "/ModDate": "D:20250817031202-10'00'",
+        "/Producer": "Microsoft® Word for Microsoft 365"
+      },
+      "candidate_sha256": "8712004932739d38c0d0edbc8f1f0c89569f6063c1f1be91b52299d2b8a10ad2",
+      "candidate_path": "data/extracted/pdf_4c6bbd209fa587d9fff1.txt",
+      "page_count": 19,
+      "characters": 43153,
+      "page_diagnostics": [
+        {
+          "pdf_page": 1,
+          "characters": 96,
+          "flags": []
+        },
+        {
+          "pdf_page": 2,
+          "characters": 468,
+          "flags": []
+        },
+        {
+          "pdf_page": 3,
+          "characters": 1765,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 4,
+          "characters": 3835,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 5,
+          "characters": 5531,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 6,
+          "characters": 1522,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 7,
+          "characters": 4742,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 8,
+          "characters": 5529,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 9,
+          "characters": 3666,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 10,
+          "characters": 1263,
+          "flags": [
+            "suspicious_reading_order_short_lines"
+          ]
+        },
+        {
+          "pdf_page": 11,
+          "characters": 2778,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 12,
+          "characters": 3029,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 13,
+          "characters": 1197,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 14,
+          "characters": 279,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 15,
+          "characters": 213,
+          "flags": []
+        },
+        {
+          "pdf_page": 16,
+          "characters": 332,
+          "flags": []
+        },
+        {
+          "pdf_page": 17,
+          "characters": 2231,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 18,
+          "characters": 4183,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 19,
+          "characters": 494,
+          "flags": []
+        }
+      ]
+    },
+    {
+      "document_id": "pdf_4f7699c93215cda2e74b",
+      "pdf_filename": "176508-FR-DC-SCROG-02-1_4.pdf",
+      "pdf_sha256": "4f7699c93215cda2e74bcc6616d67fa0318edcbf67c334dc824ee81db4bf0110",
+      "extraction_method": "pypdf_text_layer",
+      "author": "jonathan bennett",
+      "source_url": null,
+      "license": null,
+      "errors": [],
+      "warnings": [],
+      "metadata": {
+        "/Author": "jonathan bennett",
+        "/Creator": "Microsoft® Word for Microsoft 365",
+        "/CreationDate": "D:20250816210510-10'00'",
+        "/ModDate": "D:20250816210510-10'00'",
+        "/Producer": "Microsoft® Word for Microsoft 365"
+      },
+      "candidate_sha256": "119d1021ad349ef791b8e639deb3bc04e23d96d3d5275e6ce022645677406104",
+      "candidate_path": "data/extracted/pdf_4f7699c93215cda2e74b.txt",
+      "page_count": 18,
+      "characters": 46683,
+      "page_diagnostics": [
+        {
+          "pdf_page": 1,
+          "characters": 100,
+          "flags": []
+        },
+        {
+          "pdf_page": 2,
+          "characters": 531,
+          "flags": []
+        },
+        {
+          "pdf_page": 3,
+          "characters": 1793,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 4,
+          "characters": 3447,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 5,
+          "characters": 5716,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 6,
+          "characters": 2661,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 7,
+          "characters": 4970,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 8,
+          "characters": 5378,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 9,
+          "characters": 5550,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 10,
+          "characters": 1601,
+          "flags": []
+        },
+        {
+          "pdf_page": 11,
+          "characters": 2911,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 12,
+          "characters": 2791,
+          "flags": [
+            "suspicious_reading_order_short_lines",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 13,
+          "characters": 1903,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 14,
+          "characters": 212,
+          "flags": []
+        },
+        {
+          "pdf_page": 15,
+          "characters": 214,
+          "flags": []
+        },
+        {
+          "pdf_page": 16,
+          "characters": 220,
+          "flags": []
+        },
+        {
+          "pdf_page": 17,
+          "characters": 2481,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 18,
+          "characters": 4204,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        }
+      ]
+    },
+    {
+      "document_id": "pdf_e50e6208c03d753451e6",
+      "pdf_filename": "176508-FR-DC-SCROG-03.pdf",
+      "pdf_sha256": "e50e6208c03d753451e673df26bb61b50e7978a3de64f9c0fec2e0356f852d40",
+      "extraction_method": "pypdf_text_layer",
+      "author": "jonathan bennett",
+      "source_url": null,
+      "license": null,
+      "errors": [],
+      "warnings": [],
+      "metadata": {
+        "/Author": "jonathan bennett",
+        "/Creator": "Microsoft® Word for Microsoft 365",
+        "/CreationDate": "D:20250816030347-10'00'",
+        "/ModDate": "D:20250816030347-10'00'",
+        "/Producer": "Microsoft® Word for Microsoft 365"
+      },
+      "candidate_sha256": "e59a10648e81c81e546d40be29ea303abc65e00385a9ce4f7430767da6e0a0af",
+      "candidate_path": "data/extracted/pdf_e50e6208c03d753451e6.txt",
+      "page_count": 22,
+      "characters": 65617,
+      "page_diagnostics": [
+        {
+          "pdf_page": 1,
+          "characters": 99,
+          "flags": []
+        },
+        {
+          "pdf_page": 2,
+          "characters": 616,
+          "flags": []
+        },
+        {
+          "pdf_page": 3,
+          "characters": 1914,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 4,
+          "characters": 3978,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 5,
+          "characters": 5044,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 6,
+          "characters": 3872,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 7,
+          "characters": 5541,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 8,
+          "characters": 5815,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 9,
+          "characters": 4798,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 10,
+          "characters": 2390,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 11,
+          "characters": 5124,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 12,
+          "characters": 2583,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 13,
+          "characters": 3893,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 14,
+          "characters": 1447,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 15,
+          "characters": 3006,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 16,
+          "characters": 2961,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 17,
+          "characters": 2626,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 18,
+          "characters": 2848,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 19,
+          "characters": 242,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 20,
+          "characters": 218,
+          "flags": []
+        },
+        {
+          "pdf_page": 21,
+          "characters": 2394,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 22,
+          "characters": 4208,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        }
+      ]
+    },
+    {
+      "document_id": "pdf_c3c28a791428af7f0399",
+      "pdf_filename": "176508-FR-DC-SCROG-GHH_Gilded_Hog_Heresy_1_1.pdf",
+      "pdf_sha256": "c3c28a791428af7f039932700989d32ce6018331a1ea6f1590892f4ac5a79942",
+      "extraction_method": "pypdf_text_layer",
+      "author": "Claire Hoffman",
+      "source_url": null,
+      "license": null,
+      "errors": [],
+      "warnings": [],
+      "metadata": {
+        "/Author": "Claire Hoffman",
+        "/Creator": "Microsoft® Word for Microsoft 365",
+        "/CreationDate": "D:20260321080153-10'00'",
+        "/ModDate": "D:20260321080153-10'00'",
+        "/Producer": "Microsoft® Word for Microsoft 365"
+      },
+      "candidate_sha256": "e2a04cac6534d3577fc67977f9308cc54f9c979e9606e848baf87786ee301783",
+      "candidate_path": "data/extracted/pdf_c3c28a791428af7f0399.txt",
+      "page_count": 32,
+      "characters": 99551,
+      "page_diagnostics": [
+        {
+          "pdf_page": 1,
+          "characters": 43,
+          "flags": [
+            "ocr_review_needed_image_with_little_text"
+          ]
+        },
+        {
+          "pdf_page": 2,
+          "characters": 435,
+          "flags": []
+        },
+        {
+          "pdf_page": 3,
+          "characters": 1478,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 4,
+          "characters": 4668,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 5,
+          "characters": 4376,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 6,
+          "characters": 4661,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 7,
+          "characters": 4539,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 8,
+          "characters": 5338,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 9,
+          "characters": 4099,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 10,
+          "characters": 4180,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 11,
+          "characters": 5290,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 12,
+          "characters": 4347,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 13,
+          "characters": 5520,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 14,
+          "characters": 4790,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 15,
+          "characters": 6225,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 16,
+          "characters": 3057,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 17,
+          "characters": 4647,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 18,
+          "characters": 2567,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 19,
+          "characters": 2498,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 20,
+          "characters": 3836,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 21,
+          "characters": 3153,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 22,
+          "characters": 2971,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 23,
+          "characters": 2075,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 24,
+          "characters": 192,
+          "flags": []
+        },
+        {
+          "pdf_page": 25,
+          "characters": 178,
+          "flags": []
+        },
+        {
+          "pdf_page": 26,
+          "characters": 174,
+          "flags": []
+        },
+        {
+          "pdf_page": 27,
+          "characters": 171,
+          "flags": []
+        },
+        {
+          "pdf_page": 28,
+          "characters": 943,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 29,
+          "characters": 3144,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 30,
+          "characters": 3966,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 31,
+          "characters": 1834,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 32,
+          "characters": 4156,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        }
+      ]
+    },
+    {
+      "document_id": "pdf_d8ff4cbe2f96493c88cc",
+      "pdf_filename": "1777973-acwpub-TroubleinTenTowns_v1_encounters.pdf",
+      "pdf_sha256": "d8ff4cbe2f96493c88cc065f3c8f7406676c68f16effb13c6b017e48e8e00ef3",
+      "extraction_method": "pypdf_text_layer",
+      "author": null,
+      "source_url": null,
+      "license": null,
+      "errors": [],
+      "warnings": [],
+      "metadata": {
+        "/CreationDate": "D:20201004185107+01'00'",
+        "/Creator": "Adobe InDesign 15.1 (Windows)",
+        "/ModDate": "D:20201004185118+01'00'",
+        "/Producer": "Adobe PDF Library 15.0",
+        "/Trapped": "/False"
+      },
+      "candidate_sha256": "a1b205e3b0e5ba863f8541502646187502830f17844a1b0fa98c7c648015f282",
+      "candidate_path": "data/extracted/pdf_d8ff4cbe2f96493c88cc.txt",
+      "page_count": 5,
+      "characters": 8006,
+      "page_diagnostics": [
+        {
+          "pdf_page": 1,
+          "characters": 117,
+          "flags": []
+        },
+        {
+          "pdf_page": 2,
+          "characters": 2612,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 3,
+          "characters": 2149,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 4,
+          "characters": 3121,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 5,
+          "characters": 7,
+          "flags": [
+            "ocr_review_needed_image_with_little_text"
+          ]
+        }
+      ]
+    },
+    {
+      "document_id": "pdf_f72f9d30936a1f7366c8",
+      "pdf_filename": "1790283-AWA_-_Encounter_-_Book_Wyrms_Birthday_(1).pdf",
+      "pdf_sha256": "f72f9d30936a1f7366c83d6a707ead1b0bcc2dc9406f99eb9494975ab67bf135",
+      "extraction_method": "pypdf_text_layer",
+      "author": null,
+      "source_url": null,
+      "license": null,
+      "errors": [],
+      "warnings": [],
+      "metadata": {
+        "/Title": "AWA - Encounter - Book Wyrm's Birthday",
+        "/Producer": "Skia/PDF m124 Google Docs Renderer"
+      },
+      "candidate_sha256": "cae61402136a4baadde4f9c8d18b4462b1550b835fdc7f346eaf6096edccb1fe",
+      "candidate_path": "data/extracted/pdf_f72f9d30936a1f7366c8.txt",
+      "page_count": 4,
+      "characters": 7786,
+      "page_diagnostics": [
+        {
+          "pdf_page": 1,
+          "characters": 58,
+          "flags": []
+        },
+        {
+          "pdf_page": 2,
+          "characters": 2696,
+          "flags": [
+            "suspicious_reading_order_short_lines",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 3,
+          "characters": 2529,
+          "flags": [
+            "suspicious_reading_order_short_lines",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 4,
+          "characters": 2503,
+          "flags": [
+            "suspicious_reading_order_short_lines",
+            "suspicious_reading_order_column_resets"
+          ]
+        }
+      ]
+    },
+    {
+      "document_id": "pdf_3ced5a2b5433e507a2f9",
+      "pdf_filename": "1819187-adventure.pdf",
+      "pdf_sha256": "3ced5a2b5433e507a2f90bf27380493c251cf26c63a92072fb210b4d7213298f",
+      "extraction_method": "pypdf_text_layer",
+      "author": null,
+      "source_url": null,
+      "license": null,
+      "errors": [],
+      "warnings": [
+        "fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/HRLJSW+GilliusADFNo2-Bold', '/FontDescriptor': IndirectObject(39, 0, <reader>), '/Type': '/Font', '/FirstChar': 56, '/LastChar': 119, '/Widths': [578, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 679, 0, 582, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 569, 0, 0, 0, 662, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 550, 564, 482, 562, 540, 0, 477, 558, 246, 0, 548, 246, 861, 558, 557, 563, 0, 405, 417, 388, 561, 0, 721], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.",
+        "fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/OUPPBA+URWBookmanL-LighItal', '/FontDescriptor': IndirectObject(35, 0, <reader>), '/Type': '/Font', '/FirstChar': 39, '/LastChar': 118, '/Widths': [280, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 720, 0, 0, 0, 0, 0, 0, 0, 640, 600, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 620, 0, 480, 640, 540, 0, 560, 620, 280, 0, 0, 280, 880, 620, 540, 600, 0, 400, 540, 340, 620, 540], '/Encoding': IndirectObject(75, 0, <reader>), '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.",
+        "fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/PMDIFR+Sf-Kp-Sc-Medium', '/FontDescriptor': IndirectObject(37, 0, <reader>), '/Type': '/Font', '/FirstChar': 65, '/LastChar': 121, '/Widths': [623, 0, 648, 0, 540, 0, 0, 0, 0, 0, 0, 516, 0, 0, 0, 565, 0, 591, 0, 588, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 508, 0, 535, 547, 459, 0, 555, 604, 234, 432, 0, 455, 669, 605, 625, 0, 0, 522, 483, 493, 626, 0, 0, 0, 502], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.",
+        "fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/VWAKMK+RoyalInitialen', '/FontDescriptor': IndirectObject(27, 0, <reader>), '/Type': '/Font', '/FirstChar': 77, '/LastChar': 87, '/Widths': [751, 0, 0, 0, 0, 0, 0, 0, 0, 0, 818], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems.",
+        "fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/XZXZNE+URWBookmanL-DemiBold', '/FontDescriptor': IndirectObject(31, 0, <reader>), '/Type': '/Font', '/FirstChar': 97, '/LastChar': 121, '/Widths': [580, 600, 580, 640, 580, 380, 580, 680, 360, 0, 660, 340, 1000, 680, 620, 640, 0, 460, 520, 460, 0, 0, 0, 0, 620], '/Encoding': '/WinAnsiEncoding', '/Subtype': '/Type1'}, but is not installed. Consider installing fontTools if you encounter encoding problems."
+      ],
+      "metadata": {
+        "/Producer": "GPL Ghostscript 9.54.0",
+        "/CreationDate": "D:20210816152418+02'00'",
+        "/ModDate": "D:20210816152418+02'00'",
+        "/Author": "",
+        "/Creator": "LaTeX with hyperref",
+        "/Title": "",
+        "/Subject": "",
+        "/Keywords": ""
+      },
+      "candidate_sha256": "1cf870cc5ee62990b237a6d9068116d439fabde9f67d1212b5c08f2eb30e9b76",
+      "candidate_path": "data/extracted/pdf_3ced5a2b5433e507a2f9.txt",
+      "page_count": 3,
+      "characters": 6392,
+      "page_diagnostics": [
+        {
+          "pdf_page": 1,
+          "characters": 0,
+          "flags": [
+            "empty_text_layer",
+            "ocr_review_needed_image_with_little_text"
+          ]
+        },
+        {
+          "pdf_page": 2,
+          "characters": 2182,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 3,
+          "characters": 4210,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        }
+      ]
+    },
+    {
+      "document_id": "pdf_8b03203423fdcb8be913",
+      "pdf_filename": "1819187-Kobold_Traps.pdf",
+      "pdf_sha256": "8b03203423fdcb8be913c304a700bcfda0927324e5b1d9cc83c099b1b4862c36",
+      "extraction_method": "pypdf_text_layer",
+      "author": null,
+      "source_url": null,
+      "license": null,
+      "errors": [],
+      "warnings": [],
+      "metadata": {
+        "/Producer": "GPL Ghostscript 9.54.0",
+        "/CreationDate": "D:20210816145752+02'00'",
+        "/ModDate": "D:20210816145752+02'00'",
+        "/Author": "",
+        "/Creator": "LaTeX with hyperref",
+        "/Title": "",
+        "/Subject": "",
+        "/Keywords": ""
+      },
+      "candidate_sha256": "4890961017b24c66220aa7370a72ac4931649daf8afd2b199371f5d5e46e2bff",
+      "candidate_path": "data/extracted/pdf_8b03203423fdcb8be913.txt",
+      "page_count": 4,
+      "characters": 8234,
+      "page_diagnostics": [
+        {
+          "pdf_page": 1,
+          "characters": 0,
+          "flags": [
+            "empty_text_layer",
+            "ocr_review_needed_image_with_little_text"
+          ]
+        },
+        {
+          "pdf_page": 2,
+          "characters": 2455,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 3,
+          "characters": 2405,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 4,
+          "characters": 3374,
+          "flags": []
+        }
+      ]
+    },
+    {
+      "document_id": "pdf_5e5c8a49a5768666500a",
+      "pdf_filename": "2324173-adventures_daycare.pdf",
+      "pdf_sha256": "5e5c8a49a5768666500a66ec30449ae5f88b152afb3a2751e5c89b99815cb2f9",
+      "extraction_method": "pypdf_text_layer",
+      "author": null,
+      "source_url": null,
+      "license": null,
+      "errors": [],
+      "warnings": [],
+      "metadata": {
+        "/Producer": "PyPDF2"
+      },
+      "candidate_sha256": "86611ca2cfcf7025fd06616e190041da6d91b8f3aba907b0c7b4cb9d91a270f4",
+      "candidate_path": "data/extracted/pdf_5e5c8a49a5768666500a.txt",
+      "page_count": 11,
+      "characters": 25937,
+      "page_diagnostics": [
+        {
+          "pdf_page": 1,
+          "characters": 0,
+          "flags": [
+            "empty_text_layer",
+            "ocr_review_needed_image_with_little_text"
+          ]
+        },
+        {
+          "pdf_page": 2,
+          "characters": 632,
+          "flags": []
+        },
+        {
+          "pdf_page": 3,
+          "characters": 789,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 4,
+          "characters": 5631,
+          "flags": []
+        },
+        {
+          "pdf_page": 5,
+          "characters": 2991,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 6,
+          "characters": 3058,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 7,
+          "characters": 3670,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 8,
+          "characters": 2871,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 9,
+          "characters": 1556,
+          "flags": []
+        },
+        {
+          "pdf_page": 10,
+          "characters": 1860,
+          "flags": []
+        },
+        {
+          "pdf_page": 11,
+          "characters": 2879,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        }
+      ]
+    },
+    {
+      "document_id": "pdf_db3eece6ee5c97256707",
+      "pdf_filename": "2455077-Accessible_Adventure_of_the_Week__The_Weight_of_Glory.pdf",
+      "pdf_sha256": "db3eece6ee5c9725670762c73e4eb6e6531b10e635d77e1ec007019c25262791",
+      "extraction_method": "pypdf_text_layer",
+      "author": null,
+      "source_url": null,
+      "license": null,
+      "errors": [],
+      "warnings": [],
+      "metadata": {
+        "/Creator": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36",
+        "/Producer": "Skia/PDF m94",
+        "/CreationDate": "D:20211007174919+00'00'",
+        "/ModDate": "D:20211007174919+00'00'"
+      },
+      "candidate_sha256": "27580c3d04b009e4d22fec30aef16f0aeaa0b2f2b6c2e366f6b2fde5f4a464bf",
+      "candidate_path": "data/extracted/pdf_db3eece6ee5c97256707.txt",
+      "page_count": 7,
+      "characters": 19521,
+      "page_diagnostics": [
+        {
+          "pdf_page": 1,
+          "characters": 96,
+          "flags": []
+        },
+        {
+          "pdf_page": 2,
+          "characters": 1530,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 3,
+          "characters": 5132,
+          "flags": [
+            "line_break_hyphenation"
+          ]
+        },
+        {
+          "pdf_page": 4,
+          "characters": 4063,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 5,
+          "characters": 2687,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 6,
+          "characters": 4409,
+          "flags": []
+        },
+        {
+          "pdf_page": 7,
+          "characters": 1604,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        }
+      ]
+    },
+    {
+      "document_id": "pdf_af58a4c3bae84d680fb5",
+      "pdf_filename": "2694254-The_Silver_Bane_Campaign.pdf",
+      "pdf_sha256": "af58a4c3bae84d680fb524029766c2a0702860b9ea44375611189e4ba217e6c9",
+      "extraction_method": "pypdf_text_layer",
+      "author": null,
+      "source_url": null,
+      "license": null,
+      "errors": [],
+      "warnings": [],
+      "metadata": {
+        "/Creator": "Writer",
+        "/Producer": "LibreOffice 26.2.1.2 (X86_64)",
+        "/CreationDate": "D:20260313232944Z'"
+      },
+      "candidate_sha256": "43e2c837f639b64c140497cd96ad1b6b959e50a153a18bf4197061593f9df5ae",
+      "candidate_path": "data/extracted/pdf_af58a4c3bae84d680fb5.txt",
+      "page_count": 23,
+      "characters": 70506,
+      "page_diagnostics": [
+        {
+          "pdf_page": 1,
+          "characters": 0,
+          "flags": [
+            "empty_text_layer",
+            "ocr_review_needed_image_with_little_text"
+          ]
+        },
+        {
+          "pdf_page": 2,
+          "characters": 1313,
+          "flags": []
+        },
+        {
+          "pdf_page": 3,
+          "characters": 3615,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 4,
+          "characters": 2172,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 5,
+          "characters": 3560,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 6,
+          "characters": 2841,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 7,
+          "characters": 3955,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 8,
+          "characters": 3309,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 9,
+          "characters": 4585,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 10,
+          "characters": 3573,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 11,
+          "characters": 4448,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 12,
+          "characters": 4188,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 13,
+          "characters": 3813,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 14,
+          "characters": 1982,
+          "flags": []
+        },
+        {
+          "pdf_page": 15,
+          "characters": 3463,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 16,
+          "characters": 2205,
+          "flags": []
+        },
+        {
+          "pdf_page": 17,
+          "characters": 3424,
+          "flags": []
+        },
+        {
+          "pdf_page": 18,
+          "characters": 3484,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 19,
+          "characters": 3159,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 20,
+          "characters": 2767,
+          "flags": []
+        },
+        {
+          "pdf_page": 21,
+          "characters": 2626,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_short_lines",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 22,
+          "characters": 4565,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 23,
+          "characters": 1459,
+          "flags": []
+        }
+      ]
+    },
+    {
+      "document_id": "pdf_7a2ed7e7a7d2d48c4045",
+      "pdf_filename": "3069515-Una_Notte_da_Grifoni.pdf",
+      "pdf_sha256": "7a2ed7e7a7d2d48c4045fd944d9e89a2f904383a03a77d5e818e22e65fee7ddf",
+      "extraction_method": "pypdf_text_layer",
+      "author": null,
+      "source_url": null,
+      "license": null,
+      "errors": [],
+      "warnings": [],
+      "metadata": {
+        "/CreationDate": "D:20260817155741+02'00'",
+        "/ModDate": "D:20260817155741+02'00'",
+        "/Producer": "iLovePDF"
+      },
+      "candidate_sha256": "0ef1fe9178cc02462381e6291b4c5642202c3602e397d3bdf7c6beb2f7c9ad31",
+      "candidate_path": "data/extracted/pdf_7a2ed7e7a7d2d48c4045.txt",
+      "page_count": 18,
+      "characters": 45179,
+      "page_diagnostics": [
+        {
+          "pdf_page": 1,
+          "characters": 0,
+          "flags": [
+            "empty_text_layer",
+            "ocr_review_needed_image_with_little_text"
+          ]
+        },
+        {
+          "pdf_page": 2,
+          "characters": 2501,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 3,
+          "characters": 3058,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 4,
+          "characters": 2720,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 5,
+          "characters": 662,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 6,
+          "characters": 3325,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 7,
+          "characters": 3771,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 8,
+          "characters": 622,
+          "flags": []
+        },
+        {
+          "pdf_page": 9,
+          "characters": 3505,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 10,
+          "characters": 3746,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 11,
+          "characters": 2818,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 12,
+          "characters": 3665,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 13,
+          "characters": 4315,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 14,
+          "characters": 684,
+          "flags": []
+        },
+        {
+          "pdf_page": 15,
+          "characters": 1714,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 16,
+          "characters": 2761,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 17,
+          "characters": 2958,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 18,
+          "characters": 2354,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        }
+      ]
+    },
+    {
+      "document_id": "pdf_fb44e1ed23f8853082fc",
+      "pdf_filename": "326194-Kill_the_Bride.pdf",
+      "pdf_sha256": "fb44e1ed23f8853082fcdd6487d2220ed94d5d4ab4416f34b8f44d493e93ee36",
+      "extraction_method": "pypdf_text_layer",
+      "author": null,
+      "source_url": null,
+      "license": null,
+      "errors": [],
+      "warnings": [],
+      "metadata": {
+        "/CreationDate": "D:20211028162338+02'00'",
+        "/ModDate": "D:20211028162338+02'00'",
+        "/Producer": "Skia/PDF m97 Google Docs Renderer",
+        "/Title": "Kill the Bride"
+      },
+      "candidate_sha256": "5eb8405601c0dc9a6a77aa17a98c5dafe1605ced9132b55e94aa1a220d13fc89",
+      "candidate_path": "data/extracted/pdf_fb44e1ed23f8853082fc.txt",
+      "page_count": 5,
+      "characters": 7457,
+      "page_diagnostics": [
+        {
+          "pdf_page": 1,
+          "characters": 0,
+          "flags": [
+            "empty_text_layer",
+            "ocr_review_needed_image_with_little_text"
+          ]
+        },
+        {
+          "pdf_page": 2,
+          "characters": 2580,
+          "flags": [
+            "suspicious_glyph_encoding",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 3,
+          "characters": 2376,
+          "flags": [
+            "suspicious_glyph_encoding",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 4,
+          "characters": 1310,
+          "flags": []
+        },
+        {
+          "pdf_page": 5,
+          "characters": 1191,
+          "flags": [
+            "suspicious_glyph_encoding",
+            "suspicious_reading_order_column_resets"
+          ]
+        }
+      ]
+    },
+    {
+      "document_id": "pdf_7ca9a50d7d9a6803a1b7",
+      "pdf_filename": "408945-Heartburn_v1.pdf",
+      "pdf_sha256": "7ca9a50d7d9a6803a1b7b97d481ef6d5749b08adc6a5549b1b7f072a5ae9d9d7",
+      "extraction_method": "pypdf_text_layer",
+      "author": null,
+      "source_url": null,
+      "license": null,
+      "errors": [],
+      "warnings": [
+        "Ignoring wrong pointing object 17 0 (offset 0)",
+        "Ignoring wrong pointing object 171 0 (offset 0)",
+        "Ignoring wrong pointing object 62 0 (offset 0)"
+      ],
+      "metadata": {
+        "/Title": "Heartburn",
+        "/Author": "Author ",
+        "/Producer": "macOS Version 10.14.6 (Build 18G1012) Quartz PDFContext",
+        "/Creator": "Writer",
+        "/CreationDate": "D:20191214142211Z00'00'",
+        "/ModDate": "D:20191214142211Z00'00'"
+      },
+      "candidate_sha256": "5e8b10bff29255d988d2e804ee30163ba25cd104fa9946ce280a6138123d1a9e",
+      "candidate_path": "data/extracted/pdf_7ca9a50d7d9a6803a1b7.txt",
+      "page_count": 23,
+      "characters": 100717,
+      "page_diagnostics": [
+        {
+          "pdf_page": 1,
+          "characters": 0,
+          "flags": [
+            "empty_text_layer",
+            "ocr_review_needed_image_with_little_text"
+          ]
+        },
+        {
+          "pdf_page": 2,
+          "characters": 1675,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 3,
+          "characters": 2645,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 4,
+          "characters": 6828,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 5,
+          "characters": 5570,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 6,
+          "characters": 4220,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 7,
+          "characters": 4439,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 8,
+          "characters": 2285,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 9,
+          "characters": 4637,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 10,
+          "characters": 4590,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 11,
+          "characters": 6507,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 12,
+          "characters": 2553,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 13,
+          "characters": 5357,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 14,
+          "characters": 4128,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 15,
+          "characters": 4319,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 16,
+          "characters": 4416,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 17,
+          "characters": 5402,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 18,
+          "characters": 4354,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 19,
+          "characters": 4350,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 20,
+          "characters": 5664,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 21,
+          "characters": 5621,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 22,
+          "characters": 6184,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 23,
+          "characters": 4973,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        }
+      ]
+    },
+    {
+      "document_id": "pdf_9febf00b6bec60ef3b44",
+      "pdf_filename": "446954-Fee_Fly_Foe_Fund_-_A_DnD_Adventure_for_6-8_Level_Characters.pdf",
+      "pdf_sha256": "9febf00b6bec60ef3b44ac1b55b0bbb12289ddd1f81431455fd6f164388554e5",
+      "extraction_method": "pypdf_text_layer",
+      "author": null,
+      "source_url": null,
+      "license": null,
+      "errors": [],
+      "warnings": [],
+      "metadata": {
+        "/CreationDate": "D:20160915173139-07'00'",
+        "/Creator": "Adobe InDesign CC 2015 (Macintosh)",
+        "/ModDate": "D:20160915173144-07'00'",
+        "/Producer": "Adobe PDF Library 15.0",
+        "/Trapped": "/False"
+      },
+      "candidate_sha256": "5d1f3bad7eb82bd53548b1dca0b18cb85949ccc7f4cbdbe5362804f229248ca4",
+      "candidate_path": "data/extracted/pdf_9febf00b6bec60ef3b44.txt",
+      "page_count": 11,
+      "characters": 37443,
+      "page_diagnostics": [
+        {
+          "pdf_page": 1,
+          "characters": 1498,
+          "flags": [
+            "line_break_hyphenation"
+          ]
+        },
+        {
+          "pdf_page": 2,
+          "characters": 4608,
+          "flags": [
+            "line_break_hyphenation"
+          ]
+        },
+        {
+          "pdf_page": 3,
+          "characters": 4989,
+          "flags": []
+        },
+        {
+          "pdf_page": 4,
+          "characters": 3821,
+          "flags": []
+        },
+        {
+          "pdf_page": 5,
+          "characters": 2648,
+          "flags": []
+        },
+        {
+          "pdf_page": 6,
+          "characters": 3144,
+          "flags": []
+        },
+        {
+          "pdf_page": 7,
+          "characters": 4124,
+          "flags": []
+        },
+        {
+          "pdf_page": 8,
+          "characters": 2,
+          "flags": [
+            "ocr_review_needed_image_with_little_text"
+          ]
+        },
+        {
+          "pdf_page": 9,
+          "characters": 4312,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 10,
+          "characters": 4287,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 11,
+          "characters": 4010,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        }
+      ]
+    },
+    {
+      "document_id": "pdf_c8731a04ea075b101b54",
+      "pdf_filename": "446954-Haunting_of_House_Hargrave_-_No_Pictures_Printer_Friendly.pdf",
+      "pdf_sha256": "c8731a04ea075b101b54dfc3babda846e44d7bad296bddc9094a07ff111d7ad9",
+      "extraction_method": "pypdf_text_layer",
+      "author": null,
+      "source_url": null,
+      "license": null,
+      "errors": [],
+      "warnings": [],
+      "metadata": {
+        "/CreationDate": "D:20230217061302-08'00'",
+        "/Creator": "Adobe InDesign 16.0 (Windows)",
+        "/GTS_PDFXVersion": "PDF/X-4",
+        "/ModDate": "D:20230217061513-08'00'",
+        "/Producer": "Adobe PDF Library 15.0",
+        "/Title": "Haunting of House Hargrave V2.indd",
+        "/Trapped": "/False"
+      },
+      "candidate_sha256": "eca9da64d4e2d984b46ba70d6a8d07b06a39f8ccf671d4889de546869f8fae17",
+      "candidate_path": "data/extracted/pdf_c8731a04ea075b101b54.txt",
+      "page_count": 21,
+      "characters": 90971,
+      "page_diagnostics": [
+        {
+          "pdf_page": 1,
+          "characters": 4978,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 2,
+          "characters": 5528,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 3,
+          "characters": 4816,
+          "flags": []
+        },
+        {
+          "pdf_page": 4,
+          "characters": 4908,
+          "flags": [
+            "line_break_hyphenation"
+          ]
+        },
+        {
+          "pdf_page": 5,
+          "characters": 4137,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 6,
+          "characters": 5800,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 7,
+          "characters": 5089,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 8,
+          "characters": 4855,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 9,
+          "characters": 3931,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 10,
+          "characters": 4089,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 11,
+          "characters": 5430,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 12,
+          "characters": 5621,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 13,
+          "characters": 3303,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 14,
+          "characters": 5503,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 15,
+          "characters": 5531,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 16,
+          "characters": 3791,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 17,
+          "characters": 5481,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 18,
+          "characters": 5160,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 19,
+          "characters": 3020,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 20,
+          "characters": 0,
+          "flags": [
+            "empty_text_layer",
+            "ocr_review_needed_image_with_little_text"
+          ]
+        },
+        {
+          "pdf_page": 21,
+          "characters": 0,
+          "flags": [
+            "empty_text_layer",
+            "ocr_review_needed_image_with_little_text"
+          ]
+        }
+      ]
+    },
+    {
+      "document_id": "pdf_dcd357a09c0575d24c11",
+      "pdf_filename": "4881422-The_Curse_of_Skjaarl_(V1_9_-_Publication).pdf",
+      "pdf_sha256": "dcd357a09c0575d24c11d88d195387370abd6456b467198af66eeeaccaedb145",
+      "extraction_method": "pypdf_text_layer",
+      "author": null,
+      "source_url": null,
+      "license": null,
+      "errors": [],
+      "warnings": [],
+      "metadata": {
+        "/Title": "The curse of Skjaarl - The Homebrewery",
+        "/Creator": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36",
+        "/Producer": "Skia/PDF m145",
+        "/CreationDate": "D:20260311181045+00'00'",
+        "/ModDate": "D:20260311181045+00'00'"
+      },
+      "candidate_sha256": "99e89eac276d1319aa9c29f1bc6706a4945fd6a6902a14f8a558156cafc71a5d",
+      "candidate_path": "data/extracted/pdf_dcd357a09c0575d24c11.txt",
+      "page_count": 15,
+      "characters": 45603,
+      "page_diagnostics": [
+        {
+          "pdf_page": 1,
+          "characters": 311,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 2,
+          "characters": 934,
+          "flags": [
+            "line_break_hyphenation"
+          ]
+        },
+        {
+          "pdf_page": 3,
+          "characters": 5032,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 4,
+          "characters": 1093,
+          "flags": []
+        },
+        {
+          "pdf_page": 5,
+          "characters": 3657,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 6,
+          "characters": 1746,
+          "flags": []
+        },
+        {
+          "pdf_page": 7,
+          "characters": 5585,
+          "flags": []
+        },
+        {
+          "pdf_page": 8,
+          "characters": 5328,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 9,
+          "characters": 5503,
+          "flags": []
+        },
+        {
+          "pdf_page": 10,
+          "characters": 4636,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 11,
+          "characters": 2701,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 12,
+          "characters": 2581,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 13,
+          "characters": 2356,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 14,
+          "characters": 2471,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 15,
+          "characters": 1669,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        }
+      ]
+    },
+    {
+      "document_id": "pdf_c0f3572dc9ea8f05ee15",
+      "pdf_filename": "509526-Mistaken_Identity_and_a_Banquet.pdf",
+      "pdf_sha256": "c0f3572dc9ea8f05ee150d55ee6ec2fe54d3a02ea92ac8956ae96e35f6f287ee",
+      "extraction_method": "pypdf_text_layer",
+      "author": "Shauna Wolf Narciso",
+      "source_url": null,
+      "license": null,
+      "errors": [],
+      "warnings": [],
+      "metadata": {
+        "/Author": "Shauna Wolf Narciso",
+        "/Creator": "Microsoft® Word for Microsoft 365",
+        "/CreationDate": "D:20240116080231-05'00'",
+        "/ModDate": "D:20240116080231-05'00'",
+        "/Producer": "Microsoft® Word for Microsoft 365"
+      },
+      "candidate_sha256": "3d13f7dd76f2931cf8b86685043479c91e42e32d8e665f59235a6f2a63c91511",
+      "candidate_path": "data/extracted/pdf_c0f3572dc9ea8f05ee15.txt",
+      "page_count": 24,
+      "characters": 71512,
+      "page_diagnostics": [
+        {
+          "pdf_page": 1,
+          "characters": 168,
+          "flags": []
+        },
+        {
+          "pdf_page": 2,
+          "characters": 2189,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 3,
+          "characters": 2367,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 4,
+          "characters": 3976,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 5,
+          "characters": 2336,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 6,
+          "characters": 2516,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 7,
+          "characters": 2041,
+          "flags": []
+        },
+        {
+          "pdf_page": 8,
+          "characters": 3257,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 9,
+          "characters": 3022,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 10,
+          "characters": 3335,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 11,
+          "characters": 4126,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 12,
+          "characters": 3694,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 13,
+          "characters": 2294,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 14,
+          "characters": 3732,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 15,
+          "characters": 4097,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 16,
+          "characters": 3086,
+          "flags": []
+        },
+        {
+          "pdf_page": 17,
+          "characters": 3437,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 18,
+          "characters": 3759,
+          "flags": []
+        },
+        {
+          "pdf_page": 19,
+          "characters": 4312,
+          "flags": []
+        },
+        {
+          "pdf_page": 20,
+          "characters": 3618,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 21,
+          "characters": 3622,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 22,
+          "characters": 3455,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 23,
+          "characters": 2760,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 24,
+          "characters": 313,
+          "flags": []
+        }
+      ]
+    },
+    {
+      "document_id": "pdf_170a25a9c04ff189919a",
+      "pdf_filename": "660780-1225-GoblinXmas.pdf",
+      "pdf_sha256": "170a25a9c04ff189919adb2c949780e2e9ec28232ac4db6aed2560a59f21cb69",
+      "extraction_method": "pypdf_text_layer",
+      "author": null,
+      "source_url": null,
+      "license": null,
+      "errors": [],
+      "warnings": [],
+      "metadata": {
+        "/CreationDate": "D:20191221001659+13'00'",
+        "/Creator": "Adobe InDesign CC 14.0 (Windows)",
+        "/ModDate": "D:20191221001706+13'00'",
+        "/Producer": "Adobe PDF Library 15.0",
+        "/Trapped": "/False"
+      },
+      "candidate_sha256": "8a12456471bb7e6cc6bbf4992240c3a8ce79afd815ad30fac022c709bae4aa0c",
+      "candidate_path": "data/extracted/pdf_170a25a9c04ff189919a.txt",
+      "page_count": 12,
+      "characters": 23170,
+      "page_diagnostics": [
+        {
+          "pdf_page": 1,
+          "characters": 244,
+          "flags": []
+        },
+        {
+          "pdf_page": 2,
+          "characters": 3730,
+          "flags": [
+            "line_break_hyphenation"
+          ]
+        },
+        {
+          "pdf_page": 3,
+          "characters": 0,
+          "flags": [
+            "empty_text_layer",
+            "ocr_review_needed_image_with_little_text"
+          ]
+        },
+        {
+          "pdf_page": 4,
+          "characters": 4274,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 5,
+          "characters": 2129,
+          "flags": []
+        },
+        {
+          "pdf_page": 6,
+          "characters": 2161,
+          "flags": [
+            "suspicious_reading_order_short_lines"
+          ]
+        },
+        {
+          "pdf_page": 7,
+          "characters": 2320,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 8,
+          "characters": 2081,
+          "flags": []
+        },
+        {
+          "pdf_page": 9,
+          "characters": 2107,
+          "flags": [
+            "suspicious_reading_order_short_lines",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 10,
+          "characters": 2031,
+          "flags": [
+            "suspicious_reading_order_short_lines",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 11,
+          "characters": 2013,
+          "flags": [
+            "suspicious_reading_order_short_lines",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 12,
+          "characters": 80,
+          "flags": []
+        }
+      ]
+    },
+    {
+      "document_id": "pdf_c6ba72f7dd1477ae00a7",
+      "pdf_filename": "713916-HeroMakerSchool.pdf",
+      "pdf_sha256": "c6ba72f7dd1477ae00a7fb23cf7059c3434413acfc202a6f363a908d2e8e49be",
+      "extraction_method": "pypdf_text_layer",
+      "author": "Dale Robbins",
+      "source_url": null,
+      "license": null,
+      "errors": [],
+      "warnings": [],
+      "metadata": {
+        "/Author": "Dale Robbins",
+        "/Creator": "Writer",
+        "/Producer": "OpenOffice 4.1.3",
+        "/CreationDate": "D:20161029104111-04'00'"
+      },
+      "candidate_sha256": "a43520809d349ed51270c2b303eab232eb88e622057c21d3509667564bdeb378",
+      "candidate_path": "data/extracted/pdf_c6ba72f7dd1477ae00a7.txt",
+      "page_count": 8,
+      "characters": 10117,
+      "page_diagnostics": [
+        {
+          "pdf_page": 1,
+          "characters": 1595,
+          "flags": []
+        },
+        {
+          "pdf_page": 2,
+          "characters": 4638,
+          "flags": []
+        },
+        {
+          "pdf_page": 3,
+          "characters": 3284,
+          "flags": []
+        },
+        {
+          "pdf_page": 4,
+          "characters": 120,
+          "flags": []
+        },
+        {
+          "pdf_page": 5,
+          "characters": 120,
+          "flags": []
+        },
+        {
+          "pdf_page": 6,
+          "characters": 120,
+          "flags": []
+        },
+        {
+          "pdf_page": 7,
+          "characters": 120,
+          "flags": []
+        },
+        {
+          "pdf_page": 8,
+          "characters": 120,
+          "flags": []
+        }
+      ]
+    },
+    {
+      "document_id": "pdf_6902809a1488b922e1d6",
+      "pdf_filename": "741666-Kai_Dynasty.pdf",
+      "pdf_sha256": "6902809a1488b922e1d61132500679761c62d9d8cb1743787eab0088e2a99a69",
+      "extraction_method": "pypdf_text_layer",
+      "author": "Jay",
+      "source_url": null,
+      "license": null,
+      "errors": [],
+      "warnings": [],
+      "metadata": {
+        "/Author": "Jay",
+        "/CreationDate": "D:20160516001205+02'00'",
+        "/ModDate": "D:20160516001205+02'00'",
+        "/Producer": "Microsoft: Print To PDF",
+        "/Title": "Microsoft Word - Kai Dynasty.docx"
+      },
+      "candidate_sha256": "3688c55cfef98dc1e8aecee60c08f9d2fac0a31b2498072b40b1c622bbc07353",
+      "candidate_path": "data/extracted/pdf_6902809a1488b922e1d6.txt",
+      "page_count": 15,
+      "characters": 54723,
+      "page_diagnostics": [
+        {
+          "pdf_page": 1,
+          "characters": 1738,
+          "flags": []
+        },
+        {
+          "pdf_page": 2,
+          "characters": 4360,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 3,
+          "characters": 3798,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 4,
+          "characters": 3055,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 5,
+          "characters": 4579,
+          "flags": []
+        },
+        {
+          "pdf_page": 6,
+          "characters": 5443,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 7,
+          "characters": 4605,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 8,
+          "characters": 2946,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 9,
+          "characters": 4969,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 10,
+          "characters": 3339,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 11,
+          "characters": 5232,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 12,
+          "characters": 2393,
+          "flags": []
+        },
+        {
+          "pdf_page": 13,
+          "characters": 3210,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 14,
+          "characters": 2843,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 15,
+          "characters": 2213,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        }
+      ]
+    },
+    {
+      "document_id": "pdf_38f8a8e94e7ea6950c47",
+      "pdf_filename": "794101-Rise_of_the_Zhentarim.pdf",
+      "pdf_sha256": "38f8a8e94e7ea6950c47444c891a343a2d4e4a3bd0dc277c1775271245d3e16d",
+      "extraction_method": "pypdf_text_layer",
+      "author": null,
+      "source_url": null,
+      "license": null,
+      "errors": [],
+      "warnings": [],
+      "metadata": {},
+      "candidate_sha256": "8eef00bc534d76d94bf5d5dfe209039be42dcab848a14a2dabd18f1e07683df0",
+      "candidate_path": "data/extracted/pdf_38f8a8e94e7ea6950c47.txt",
+      "page_count": 28,
+      "characters": 68040,
+      "page_diagnostics": [
+        {
+          "pdf_page": 1,
+          "characters": 202,
+          "flags": []
+        },
+        {
+          "pdf_page": 2,
+          "characters": 2345,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 3,
+          "characters": 2370,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 4,
+          "characters": 2579,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 5,
+          "characters": 2767,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 6,
+          "characters": 2388,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 7,
+          "characters": 3362,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 8,
+          "characters": 3158,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 9,
+          "characters": 2680,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 10,
+          "characters": 2902,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 11,
+          "characters": 2849,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 12,
+          "characters": 2492,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 13,
+          "characters": 2420,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 14,
+          "characters": 2472,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 15,
+          "characters": 3005,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 16,
+          "characters": 2662,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 17,
+          "characters": 2572,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 18,
+          "characters": 2471,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 19,
+          "characters": 3013,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 20,
+          "characters": 1682,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 21,
+          "characters": 2440,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 22,
+          "characters": 1820,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 23,
+          "characters": 3272,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 24,
+          "characters": 3156,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 25,
+          "characters": 2187,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 26,
+          "characters": 1362,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 27,
+          "characters": 2100,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 28,
+          "characters": 1312,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        }
+      ]
+    },
+    {
+      "document_id": "pdf_6b73651f67288beefeef",
+      "pdf_filename": "855800-halflinghardbros-above-the-mines-v1.pdf",
+      "pdf_sha256": "6b73651f67288beefeefd3aa1035525b6b5d3b259c219f475301d3266ebfb78a",
+      "extraction_method": "pypdf_text_layer",
+      "author": "Halfling Bard Brothers",
+      "source_url": null,
+      "license": null,
+      "errors": [],
+      "warnings": [],
+      "metadata": {
+        "/Author": "Halfling Bard Brothers",
+        "/CreationDate": "D:20170908130358-04'00'",
+        "/Creator": "Adobe InDesign CC 2017 (Macintosh)",
+        "/Keywords": "adventure, bard, mirabar, lich, phylactery, north, spine of the word, sword coast, forgotten realms, storm king's thunder, storm kings thunder, third-party, third party, original, dungeons and dragons, dungeons & dragons, dnd, d&d, second tier, level 6, level 7, level 8, module, dungeon, ice, cavern, ice cavern, mountain, mountains, level six, level seven, level eight, lv 6, lv 7, lv 8, mines, mines of mirabar",
+        "/ModDate": "D:20170908132649-04'00'",
+        "/Producer": "Adobe PDF Library 15.0",
+        "/Title": "Above the Mines of Mirabar",
+        "/Trapped": "/False"
+      },
+      "candidate_sha256": "d49d01fa2cce26e3ae7c30c3f08bf05763e4479c51be9a23c45dcfd4c9a2c128",
+      "candidate_path": "data/extracted/pdf_6b73651f67288beefeef.txt",
+      "page_count": 38,
+      "characters": 120568,
+      "page_diagnostics": [
+        {
+          "pdf_page": 1,
+          "characters": 1391,
+          "flags": [
+            "line_break_hyphenation"
+          ]
+        },
+        {
+          "pdf_page": 2,
+          "characters": 2081,
+          "flags": []
+        },
+        {
+          "pdf_page": 3,
+          "characters": 3529,
+          "flags": [
+            "line_break_hyphenation"
+          ]
+        },
+        {
+          "pdf_page": 4,
+          "characters": 1906,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 5,
+          "characters": 4454,
+          "flags": [
+            "line_break_hyphenation"
+          ]
+        },
+        {
+          "pdf_page": 6,
+          "characters": 4459,
+          "flags": []
+        },
+        {
+          "pdf_page": 7,
+          "characters": 1386,
+          "flags": []
+        },
+        {
+          "pdf_page": 8,
+          "characters": 4285,
+          "flags": [
+            "line_break_hyphenation"
+          ]
+        },
+        {
+          "pdf_page": 9,
+          "characters": 4154,
+          "flags": []
+        },
+        {
+          "pdf_page": 10,
+          "characters": 4214,
+          "flags": [
+            "line_break_hyphenation"
+          ]
+        },
+        {
+          "pdf_page": 11,
+          "characters": 212,
+          "flags": []
+        },
+        {
+          "pdf_page": 12,
+          "characters": 4085,
+          "flags": []
+        },
+        {
+          "pdf_page": 13,
+          "characters": 2620,
+          "flags": []
+        },
+        {
+          "pdf_page": 14,
+          "characters": 3393,
+          "flags": [
+            "line_break_hyphenation"
+          ]
+        },
+        {
+          "pdf_page": 15,
+          "characters": 1630,
+          "flags": []
+        },
+        {
+          "pdf_page": 16,
+          "characters": 4200,
+          "flags": []
+        },
+        {
+          "pdf_page": 17,
+          "characters": 963,
+          "flags": []
+        },
+        {
+          "pdf_page": 18,
+          "characters": 197,
+          "flags": []
+        },
+        {
+          "pdf_page": 19,
+          "characters": 4876,
+          "flags": []
+        },
+        {
+          "pdf_page": 20,
+          "characters": 3003,
+          "flags": []
+        },
+        {
+          "pdf_page": 21,
+          "characters": 1510,
+          "flags": [
+            "line_break_hyphenation"
+          ]
+        },
+        {
+          "pdf_page": 22,
+          "characters": 515,
+          "flags": []
+        },
+        {
+          "pdf_page": 23,
+          "characters": 4814,
+          "flags": [
+            "line_break_hyphenation"
+          ]
+        },
+        {
+          "pdf_page": 24,
+          "characters": 5024,
+          "flags": []
+        },
+        {
+          "pdf_page": 25,
+          "characters": 4509,
+          "flags": []
+        },
+        {
+          "pdf_page": 26,
+          "characters": 1860,
+          "flags": []
+        },
+        {
+          "pdf_page": 27,
+          "characters": 4080,
+          "flags": []
+        },
+        {
+          "pdf_page": 28,
+          "characters": 4843,
+          "flags": []
+        },
+        {
+          "pdf_page": 29,
+          "characters": 4780,
+          "flags": []
+        },
+        {
+          "pdf_page": 30,
+          "characters": 2744,
+          "flags": []
+        },
+        {
+          "pdf_page": 31,
+          "characters": 3873,
+          "flags": [
+            "suspicious_reading_order_short_lines",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 32,
+          "characters": 4086,
+          "flags": [
+            "suspicious_reading_order_short_lines",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 33,
+          "characters": 3656,
+          "flags": [
+            "suspicious_reading_order_short_lines",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 34,
+          "characters": 1842,
+          "flags": [
+            "suspicious_reading_order_short_lines",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 35,
+          "characters": 2183,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_short_lines",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 36,
+          "characters": 4245,
+          "flags": [
+            "suspicious_reading_order_short_lines",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 37,
+          "characters": 4779,
+          "flags": [
+            "suspicious_reading_order_short_lines"
+          ]
+        },
+        {
+          "pdf_page": 38,
+          "characters": 4187,
+          "flags": [
+            "suspicious_reading_order_short_lines"
+          ]
+        }
+      ]
+    },
+    {
+      "document_id": "pdf_68060ab812c30b307351",
+      "pdf_filename": "86379-CCC-CIC-03_The_Desolate_Undercroft___v2.pdf",
+      "pdf_sha256": "68060ab812c30b307351debf86f82b5e9673ec92f15c95854fdad8474c86c64a",
+      "extraction_method": "pypdf_text_layer",
+      "author": "Greg",
+      "source_url": null,
+      "license": null,
+      "errors": [],
+      "warnings": [],
+      "metadata": {
+        "/Author": "Greg",
+        "/CreationDate": "D:20170320202527-05'00'",
+        "/ModDate": "D:20170320202527-05'00'",
+        "/Producer": "Microsoft: Print To PDF",
+        "/Title": "Microsoft Word - CIC-03 The Desolate Undercroft v2.docx"
+      },
+      "candidate_sha256": "d1e7c853b127bc5a544e781289658bb39c99f1a7d7c5ac288394e1a5ffb6a1d5",
+      "candidate_path": "data/extracted/pdf_68060ab812c30b307351.txt",
+      "page_count": 43,
+      "characters": 119825,
+      "page_diagnostics": [
+        {
+          "pdf_page": 1,
+          "characters": 1760,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 2,
+          "characters": 3239,
+          "flags": []
+        },
+        {
+          "pdf_page": 3,
+          "characters": 3816,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 4,
+          "characters": 3435,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 5,
+          "characters": 3303,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 6,
+          "characters": 3793,
+          "flags": []
+        },
+        {
+          "pdf_page": 7,
+          "characters": 4385,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 8,
+          "characters": 2930,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 9,
+          "characters": 3253,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 10,
+          "characters": 1472,
+          "flags": []
+        },
+        {
+          "pdf_page": 11,
+          "characters": 3741,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 12,
+          "characters": 3346,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 13,
+          "characters": 3389,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 14,
+          "characters": 3675,
+          "flags": []
+        },
+        {
+          "pdf_page": 15,
+          "characters": 2381,
+          "flags": []
+        },
+        {
+          "pdf_page": 16,
+          "characters": 2947,
+          "flags": []
+        },
+        {
+          "pdf_page": 17,
+          "characters": 3568,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 18,
+          "characters": 2904,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 19,
+          "characters": 3402,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 20,
+          "characters": 3520,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 21,
+          "characters": 3065,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 22,
+          "characters": 3204,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 23,
+          "characters": 3583,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 24,
+          "characters": 3089,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 25,
+          "characters": 2664,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 26,
+          "characters": 3226,
+          "flags": []
+        },
+        {
+          "pdf_page": 27,
+          "characters": 1606,
+          "flags": []
+        },
+        {
+          "pdf_page": 28,
+          "characters": 3438,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 29,
+          "characters": 575,
+          "flags": []
+        },
+        {
+          "pdf_page": 30,
+          "characters": 2961,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 31,
+          "characters": 1446,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 32,
+          "characters": 3102,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 33,
+          "characters": 3039,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 34,
+          "characters": 3244,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 35,
+          "characters": 3422,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 36,
+          "characters": 3579,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 37,
+          "characters": 3205,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 38,
+          "characters": 3161,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 39,
+          "characters": 1774,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 40,
+          "characters": 126,
+          "flags": []
+        },
+        {
+          "pdf_page": 41,
+          "characters": 115,
+          "flags": []
+        },
+        {
+          "pdf_page": 42,
+          "characters": 1843,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 43,
+          "characters": 99,
+          "flags": []
+        }
+      ]
+    },
+    {
+      "document_id": "pdf_f8d409ea73d3cc0d9ed4",
+      "pdf_filename": "892968-Storm_of_Stonekin.pdf",
+      "pdf_sha256": "f8d409ea73d3cc0d9ed45f6aff2d499b64e8fdfa180eff0d10cc06deb08f0498",
+      "extraction_method": "pypdf_text_layer",
+      "author": "Kayne Milhomme",
+      "source_url": null,
+      "license": null,
+      "errors": [],
+      "warnings": [],
+      "metadata": {
+        "/Author": "Kayne Milhomme",
+        "/Comments": "",
+        "/Company": "",
+        "/CreationDate": "D:20210806234306-04'00'",
+        "/Creator": "Acrobat PDFMaker 20 for Word",
+        "/Keywords": "",
+        "/ModDate": "D:20210806234400-04'00'",
+        "/Producer": "Adobe PDF Library 20.4.54",
+        "/SourceModified": "D:20210807033325",
+        "/Subject": "",
+        "/Title": ""
+      },
+      "candidate_sha256": "cfddb7885a135946f3a36a5b6b2866d73b8808840ee18f8276e8b172e45fb650",
+      "candidate_path": "data/extracted/pdf_f8d409ea73d3cc0d9ed4.txt",
+      "page_count": 16,
+      "characters": 44065,
+      "page_diagnostics": [
+        {
+          "pdf_page": 1,
+          "characters": 6,
+          "flags": [
+            "empty_text_layer",
+            "ocr_review_needed_image_with_little_text"
+          ]
+        },
+        {
+          "pdf_page": 2,
+          "characters": 1131,
+          "flags": []
+        },
+        {
+          "pdf_page": 3,
+          "characters": 3390,
+          "flags": []
+        },
+        {
+          "pdf_page": 4,
+          "characters": 3617,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 5,
+          "characters": 4689,
+          "flags": [
+            "line_break_hyphenation"
+          ]
+        },
+        {
+          "pdf_page": 6,
+          "characters": 5,
+          "flags": [
+            "ocr_review_needed_image_with_little_text"
+          ]
+        },
+        {
+          "pdf_page": 7,
+          "characters": 2648,
+          "flags": []
+        },
+        {
+          "pdf_page": 8,
+          "characters": 4715,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 9,
+          "characters": 77,
+          "flags": []
+        },
+        {
+          "pdf_page": 10,
+          "characters": 4788,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 11,
+          "characters": 4247,
+          "flags": []
+        },
+        {
+          "pdf_page": 12,
+          "characters": 1332,
+          "flags": []
+        },
+        {
+          "pdf_page": 13,
+          "characters": 3598,
+          "flags": []
+        },
+        {
+          "pdf_page": 14,
+          "characters": 3207,
+          "flags": []
+        },
+        {
+          "pdf_page": 15,
+          "characters": 3979,
+          "flags": []
+        },
+        {
+          "pdf_page": 16,
+          "characters": 2636,
+          "flags": []
+        }
+      ]
+    },
+    {
+      "document_id": "pdf_784d81ce64251b912de2",
+      "pdf_filename": "898811-A_Goblins_Tale_Dungeon_Masters_Guide.pdf",
+      "pdf_sha256": "784d81ce64251b912de2fe9795ce5059174727c9e1fa5b157d30cfad60b9d0cb",
+      "extraction_method": "pypdf_text_layer",
+      "author": "Shauna Wolf Narciso",
+      "source_url": null,
+      "license": null,
+      "errors": [],
+      "warnings": [],
+      "metadata": {
+        "/Author": "Shauna Wolf Narciso",
+        "/Creator": "Microsoft® Office Word 2007",
+        "/CreationDate": "D:20160312083230+10'00'",
+        "/ModDate": "D:20160312083230+10'00'",
+        "/Producer": "Microsoft® Office Word 2007"
+      },
+      "candidate_sha256": "b08b0143937b09106a714af8d8e07c48da3bc4c32089b6ddd39143cc5e131328",
+      "candidate_path": "data/extracted/pdf_784d81ce64251b912de2.txt",
+      "page_count": 80,
+      "characters": 295236,
+      "page_diagnostics": [
+        {
+          "pdf_page": 1,
+          "characters": 1428,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 2,
+          "characters": 1714,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 3,
+          "characters": 4575,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 4,
+          "characters": 5433,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 5,
+          "characters": 424,
+          "flags": []
+        },
+        {
+          "pdf_page": 6,
+          "characters": 4480,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 7,
+          "characters": 3528,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 8,
+          "characters": 1165,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 9,
+          "characters": 6020,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 10,
+          "characters": 1557,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 11,
+          "characters": 4976,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 12,
+          "characters": 5249,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 13,
+          "characters": 4523,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 14,
+          "characters": 4833,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 15,
+          "characters": 4899,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 16,
+          "characters": 4871,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 17,
+          "characters": 4728,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 18,
+          "characters": 4837,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 19,
+          "characters": 4757,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 20,
+          "characters": 4540,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 21,
+          "characters": 5179,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 22,
+          "characters": 3721,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 23,
+          "characters": 4140,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 24,
+          "characters": 5226,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 25,
+          "characters": 5831,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 26,
+          "characters": 5077,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 27,
+          "characters": 5358,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 28,
+          "characters": 4409,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 29,
+          "characters": 5311,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 30,
+          "characters": 1585,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 31,
+          "characters": 5315,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 32,
+          "characters": 5842,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 33,
+          "characters": 5415,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 34,
+          "characters": 6028,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 35,
+          "characters": 5647,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 36,
+          "characters": 5411,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 37,
+          "characters": 5550,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 38,
+          "characters": 3750,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 39,
+          "characters": 1181,
+          "flags": [
+            "suspicious_reading_order_short_lines",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 40,
+          "characters": 5668,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 41,
+          "characters": 5642,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 42,
+          "characters": 5279,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 43,
+          "characters": 4937,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 44,
+          "characters": 5276,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 45,
+          "characters": 5642,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 46,
+          "characters": 2118,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 47,
+          "characters": 4787,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 48,
+          "characters": 3437,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 49,
+          "characters": 1315,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 50,
+          "characters": 5217,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 51,
+          "characters": 2027,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 52,
+          "characters": 1377,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 53,
+          "characters": 4617,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 54,
+          "characters": 4274,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 55,
+          "characters": 4999,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 56,
+          "characters": 5174,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 57,
+          "characters": 5099,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 58,
+          "characters": 4244,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 59,
+          "characters": 2534,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 60,
+          "characters": 167,
+          "flags": []
+        },
+        {
+          "pdf_page": 61,
+          "characters": 167,
+          "flags": []
+        },
+        {
+          "pdf_page": 62,
+          "characters": 147,
+          "flags": []
+        },
+        {
+          "pdf_page": 63,
+          "characters": 152,
+          "flags": []
+        },
+        {
+          "pdf_page": 64,
+          "characters": 139,
+          "flags": []
+        },
+        {
+          "pdf_page": 65,
+          "characters": 157,
+          "flags": []
+        },
+        {
+          "pdf_page": 66,
+          "characters": 127,
+          "flags": []
+        },
+        {
+          "pdf_page": 67,
+          "characters": 3745,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 68,
+          "characters": 3573,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 69,
+          "characters": 2808,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 70,
+          "characters": 3774,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 71,
+          "characters": 2613,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 72,
+          "characters": 2885,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 73,
+          "characters": 2237,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 74,
+          "characters": 2846,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 75,
+          "characters": 2779,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 76,
+          "characters": 2557,
+          "flags": [
+            "suspicious_reading_order_short_lines",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 77,
+          "characters": 3429,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 78,
+          "characters": 1901,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 79,
+          "characters": 1798,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 80,
+          "characters": 5059,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        }
+      ]
+    },
+    {
+      "document_id": "pdf_5dcfc61ef86267e75e59",
+      "pdf_filename": "914584-Witchlight_Beer_Festival.pdf",
+      "pdf_sha256": "5dcfc61ef86267e75e593ead37076392ea193f5da865ac0cdf9eb1923d0202e7",
+      "extraction_method": "pypdf_text_layer",
+      "author": "Nathanael Roux",
+      "source_url": null,
+      "license": null,
+      "errors": [],
+      "warnings": [],
+      "metadata": {
+        "/Author": "Nathanael Roux",
+        "/CreationDate": "D:20231127205221-05'00'",
+        "/Creator": "Adobe InDesign 19.0 (Windows)",
+        "/ModDate": "D:20231127205227-05'00'",
+        "/Producer": "Adobe PDF Library 17.0",
+        "/Trapped": "/False"
+      },
+      "candidate_sha256": "fa83453c40dea9aab0a657fac0c6b1fdd9d2748115a60a469aec9c4abafe4a09",
+      "candidate_path": "data/extracted/pdf_5dcfc61ef86267e75e59.txt",
+      "page_count": 9,
+      "characters": 33950,
+      "page_diagnostics": [
+        {
+          "pdf_page": 1,
+          "characters": 4355,
+          "flags": [
+            "line_break_hyphenation"
+          ]
+        },
+        {
+          "pdf_page": 2,
+          "characters": 4662,
+          "flags": [
+            "line_break_hyphenation"
+          ]
+        },
+        {
+          "pdf_page": 3,
+          "characters": 4386,
+          "flags": [
+            "line_break_hyphenation"
+          ]
+        },
+        {
+          "pdf_page": 4,
+          "characters": 5450,
+          "flags": [
+            "line_break_hyphenation"
+          ]
+        },
+        {
+          "pdf_page": 5,
+          "characters": 5054,
+          "flags": [
+            "line_break_hyphenation"
+          ]
+        },
+        {
+          "pdf_page": 6,
+          "characters": 6251,
+          "flags": []
+        },
+        {
+          "pdf_page": 7,
+          "characters": 1071,
+          "flags": []
+        },
+        {
+          "pdf_page": 8,
+          "characters": 2419,
+          "flags": []
+        },
+        {
+          "pdf_page": 9,
+          "characters": 302,
+          "flags": []
+        }
+      ]
+    },
+    {
+      "document_id": "pdf_d2a37afd0cdb7c2445e1",
+      "pdf_filename": "954792-ISTAR_Facilities.pdf",
+      "pdf_sha256": "d2a37afd0cdb7c2445e1cd39afb503ede9e5cde3978b6dad1a66a3c57420fb99",
+      "extraction_method": "pypdf_text_layer",
+      "author": "Shauna Wolf Narciso",
+      "source_url": null,
+      "license": null,
+      "errors": [],
+      "warnings": [],
+      "metadata": {
+        "/Author": "Shauna Wolf Narciso",
+        "/Creator": "Microsoft® Word 2010",
+        "/CreationDate": "D:20160421180130-05'00'",
+        "/ModDate": "D:20160421180130-05'00'",
+        "/Producer": "Microsoft® Word 2010"
+      },
+      "candidate_sha256": "caabc84332488d611bc129c79d11917f756584bcf2e59143465033962c8e3fb6",
+      "candidate_path": "data/extracted/pdf_d2a37afd0cdb7c2445e1.txt",
+      "page_count": 12,
+      "characters": 37604,
+      "page_diagnostics": [
+        {
+          "pdf_page": 1,
+          "characters": 1578,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 2,
+          "characters": 122,
+          "flags": []
+        },
+        {
+          "pdf_page": 3,
+          "characters": 3959,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 4,
+          "characters": 4229,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 5,
+          "characters": 4417,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 6,
+          "characters": 4602,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 7,
+          "characters": 4303,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 8,
+          "characters": 4125,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 9,
+          "characters": 3352,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 10,
+          "characters": 2988,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 11,
+          "characters": 3806,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 12,
+          "characters": 123,
+          "flags": []
+        }
+      ]
+    },
+    {
+      "document_id": "pdf_55a5bcfd7b4f8061db48",
+      "pdf_filename": "Droops_dilemma.pdf",
+      "pdf_sha256": "55a5bcfd7b4f8061db488f926edc0f345f4e87f0ff4ab6d0f7b69da275ddcb37",
+      "extraction_method": "pypdf_text_layer",
+      "author": "Shauna Wolf Narciso",
+      "source_url": null,
+      "license": null,
+      "errors": [],
+      "warnings": [],
+      "metadata": {
+        "/Author": "Shauna Wolf Narciso",
+        "/Creator": "Microsoft® Word 2013",
+        "/CreationDate": "D:20160212234418-05'00'",
+        "/ModDate": "D:20160212234418-05'00'",
+        "/Producer": "Microsoft® Word 2013"
+      },
+      "candidate_sha256": "0409f5cf74f2de39c50a77ca4ad016be08929ee89d274f985231bc9c42128a57",
+      "candidate_path": "data/extracted/pdf_55a5bcfd7b4f8061db48.txt",
+      "page_count": 20,
+      "characters": 50179,
+      "page_diagnostics": [
+        {
+          "pdf_page": 1,
+          "characters": 1672,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 2,
+          "characters": 3375,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 3,
+          "characters": 2585,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 4,
+          "characters": 2936,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 5,
+          "characters": 2959,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 6,
+          "characters": 2724,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 7,
+          "characters": 2912,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 8,
+          "characters": 2720,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 9,
+          "characters": 3069,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 10,
+          "characters": 3257,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 11,
+          "characters": 3270,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 12,
+          "characters": 2371,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 13,
+          "characters": 3120,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 14,
+          "characters": 2244,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 15,
+          "characters": 3824,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 16,
+          "characters": 3913,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 17,
+          "characters": 2745,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 18,
+          "characters": 143,
+          "flags": []
+        },
+        {
+          "pdf_page": 19,
+          "characters": 178,
+          "flags": []
+        },
+        {
+          "pdf_page": 20,
+          "characters": 162,
+          "flags": []
+        }
+      ]
+    },
+    {
+      "document_id": "pdf_e981f307cded8933a1a3",
+      "pdf_filename": "The_Gift_of_Grazzt_v2.1.pdf",
+      "pdf_sha256": "e981f307cded8933a1a3616bc470995d65c74d2b3bc9bb345532b3727ece456e",
+      "extraction_method": "pypdf_text_layer",
+      "author": "Dale Robbins",
+      "source_url": null,
+      "license": null,
+      "errors": [],
+      "warnings": [],
+      "metadata": {
+        "/Author": "Dale Robbins",
+        "/Creator": "Writer",
+        "/Producer": "LibreOffice 5.0",
+        "/CreationDate": "D:20160210205814-05'00'"
+      },
+      "candidate_sha256": "6b278e2fa4bd9721da735a1d452f7c7e4eed99132cf9406d85f676072965a712",
+      "candidate_path": "data/extracted/pdf_e981f307cded8933a1a3.txt",
+      "page_count": 2,
+      "characters": 4266,
+      "page_diagnostics": [
+        {
+          "pdf_page": 1,
+          "characters": 1118,
+          "flags": []
+        },
+        {
+          "pdf_page": 2,
+          "characters": 3148,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        }
+      ]
+    },
+    {
+      "document_id": "pdf_6424be4ab81c5a9615a1",
+      "pdf_filename": "The_Passage_of_Doom.pdf",
+      "pdf_sha256": "6424be4ab81c5a9615a1ffaea24f075d5351e9d298ed358847325566e04a95b4",
+      "extraction_method": "pypdf_text_layer",
+      "author": null,
+      "source_url": null,
+      "license": null,
+      "errors": [],
+      "warnings": [],
+      "metadata": {
+        "/Creator": "Writer",
+        "/Producer": "LibreOffice 5.0",
+        "/CreationDate": "D:20160228024427-05'00'"
+      },
+      "candidate_sha256": "f92c6233c3d485e894b5a63433a2c20984de144a4f108020c4f6d98baf9b4922",
+      "candidate_path": "data/extracted/pdf_6424be4ab81c5a9615a1.txt",
+      "page_count": 4,
+      "characters": 9295,
+      "page_diagnostics": [
+        {
+          "pdf_page": 1,
+          "characters": 133,
+          "flags": []
+        },
+        {
+          "pdf_page": 2,
+          "characters": 1116,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 3,
+          "characters": 4268,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 4,
+          "characters": 3778,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        }
+      ]
+    }
+  ]
+}

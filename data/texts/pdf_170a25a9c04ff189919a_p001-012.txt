@@ -1,0 +1,739 @@
+[PDF_PAGE=1]
+A VERY GOBLIN GIFTSMAS
+A Festive introductory Adventure By seAn Goodison
+In this one-shot adventure, the player’s are a band of 
+goblin misfits taking part in a midnight raid on a sleepy 
+elven village.
+A 3-4 hour adventure for 4-7 new players
+
+
+[PDF_PAGE=2]
+Introduction
+This adventure is designed to be played as a one-off 
+session. It could be used as a break from your regular 
+campaign, giving your experienced players a chance 
+to  play around with some simpler, more expendable 
+characters; or as an introduction to the basic gameplay 
+of Dungeons & Dragons, perhaps for curious family 
+members and friends.
+The goal of the adventure (steal elven gifts) as well as 
+the obstacle (sleeping residents and watchful guards) 
+are set up very quickly before players are dropped into 
+an open-ended phase of the game. As the DM, it will be 
+up to you to roll with whatever schemes your goblin-
+minded players concoct. Don’t be afraid to go big with 
+any consequences that might arise; this is a one-shot 
+after all, so no-one’s going to mind if half the village 
+burns down.
+The main measure of success for your players will 
+be knowing just how much treasure they were able 
+to steal. To this end, try awarding them something 
+physical (chocolate coins are perfect) that they can 
+hold onto. This has the added benefit of avoiding any 
+downtime during play while players add treasure to 
+their inventories.
+When your session’s alloted time draws near, the final 
+phase of the session will disrupt whatever schemes are 
+still running as an obvious ‘boss-battle’ opportunity 
+presents itself. This is a great chance for the fractious 
+goblins to come together and cooperate against a final 
+challenge.
+Once the final battle is over, the players will have 
+a chance to recount some of their great deeds in 
+character. Make sure everyone gets a say before 
+announcing that the game has ended and thanking 
+them for playing. Having this moment to reflect on 
+highlights from the session will encourage players to 
+continue talking about and sharing the experience 
+even after it has formally ended.
+Thank you for trying out A Very Goblin Giftsmas. I 
+would love to hear how your sessions play out, and 
+what schemes your PCs come up with. You can find me 
+on Twitter @HighScoreKid
+One Page Adventure
+One of the goals of this adventure’s design was to fit 
+all the DM’s information onto a single page in order 
+to cut down on page-flipping and to keep focus on the 
+action at the table. Naturally, this means that much of 
+the adventure isn’t as fleshed out as you might be used 
+to seeing. DMs, being the infinitely creative souls that 
+they are, will no doubt be able to fill in the blanks.
+The Condensed Stat Block
+Several of the basic enemies in the game have their 
+combat statistics condensed down to save space. The 
+elements of this stat block are as follows:
+(1) Creature Name, (2) Armor Class, (3) Hit Points, 
+(4) Speed, (5) Passive Perception, (6) Brief description, 
+(7) Attack Name, (8) Bonus to hit, (9)Amount of damage, 
+(10) Type of damage where b=bludgeoning, p=piercing, 
+and s=slashing.
+Elf Villager 
+AC 12 HP 11 Spd 30ft  PP 11
+Pyjama wearing elf.
+Fist (+3/3b).
+(1)
+(2)
+(3) (4) (5)
+(6)
+(7)
+(8) (9) (10)
+DUNGEONS & DRAGONS, D&D, Wizards of the Coast, Forgotten Realms, Ravenloft, the dragon ampersand, and all other Wizards of the Coast 
+product names, and their respective logos are trademarks of Wizards of the Coast in the USA and other countries.
+This work contains material that is copyright Wizards of the Coast and/or other authors. Such material is used with permission under the 
+Community Content Agreement for Dungeon Masters Guild.
+All other original material in this work is copyright 2017 by Sean Goodison and published under the Community Content Agreement for 
+Dungeon Masters Guild.
+If you need to roll any ability checks for these 
+creatures, either determine an appropriate DC or 
+simply have them roll a D20, with a result of 13 or more 
+being a success.
+
+[PDF_PAGE=3]
+
+
+[PDF_PAGE=4]
+Elf Militia 
+Elf Guard 
+Flying Elk
+Elf Villager 
+AC 14 HP 11 Spd 30ft  PP 11
+Villager with leather armour, spear and shield.
+Spear (+3/5p).
+AC 16 HP 11 Spd 30ft  PP 12
+Trained villager with leather armour, sword and shield.
+Longsword (+3/6s) or longbow (+3/6p).
+AC 10 HP 13 Spd fly 40ft  PP 10
+Klaus’ pet flying elk. Flyby Attack.
+Ram (+5/6b) or Hooves (+5/8b).
+AC 12 HP 11 Spd 30ft  PP 11
+Pyjama wearing elf.
+Fist (+3/3b).
+Armor Class 11 (hide armour)
+Hit Points 59 (7d10 + 21)
+Speed 40 ft.
+Klaus, the Spirit of Winter
+Large giant, lawful evil
+STR
+19 (+4)
+DEX
+8 (-1)
+CON
+16 (+3)
+INT
+5 (-3)
+WIS
+7 (-2)
+CHA
+7 (-2)
+Senses passive Perception 8
+Languages Common, Elf, Sylvan
+Klaus is surrounded by a wintery wind. At the 
+start of his turn all goblins must pass a DC 14 
+Constitution saving throw or have their speed 
+halved for one round. Any goblin wearing cold-
+weather clothes has advantage on this save.
+Actions
+Fist. Melee Weapon Attack: +6 to hit, reach 5 ft., one 
+target. Hit: 9 (1d8+4) bludgeoning damage and 
+the target is grappled (escape DC 14).
+Into the Sack. One creature Klaus is grappling regains 
+1 hit point and is deposited in his magical sack 
+where it is transported to an extra-dimensional 
+sweatshop. The creature is chained to a desk and 
+given a long list of toys they must make in order 
+to atone for their misdeeds. 
+As an action the creature can attempt to escape. 
+Plausible escape plans require a DC 15 ability 
+check to succeed. Any creature that escapes the 
+sweatshop appears in an empty space next to 
+Klaus.
+A Very Goblin Giftsmas
+• Players choose a character sheet each.
+• Randomly assign goblin names and keep them hidden 
+for now.
+It is the shortest day of the year and the forest is blanketed 
+in thick white snow. As the sun sets, the Oozing Wound 
+tribe gathers before its chief.
+“My friends, it has come to my attention that the village 
+of the Duskvale Elves lies ripe for raiding. Our scouts have 
+informed me that the fey-folk have spent the entire day 
+feasting and drinking and have fallen into a deep slumber. 
+What’s more, the scouts observed the elves exchanging a 
+hoard of tiny chests, crates and boxes. No doubt full of 
+elvish trinkets!”
+The chief gestures towards the growing crowd, “Who 
+among you is brave enough to join the raid?
+“Tell us of a great deed you have performed and you shall 
+earn your place.”
+• Players take turns introducing their character and 
+creating a quick story of a great deed they have 
+performed in the past.
+• The Chief then sends them off to the raid.
+PLAY IT OUT
+Ignore initiative, cycle play around the table.
+The village consists of three guard towers, 9 small 
+houses and one large house. There are two Elf Guards 
+in the large house and one in each tower. Each 
+house hosts 2 Elf Villagers and 2 Elf Children (non-
+combatants) and has a pile of 1d8 gifts in the main 
+room. The large house has a feasting hall still laid out 
+with food, any goblin can scoff some food as an action 
+and gain a one-time bonus of 10 temporary hit points.
+Any elf who spots a lone goblin will move to engage, 
+shouting to wake anyone nearby. An elf who sees more 
+than one goblin will try to run to the large house and 
+ring an alarm bell.
+Once the alarm bell is rung, Elf Villagers will become 
+Elf Militia and appear at a rate of 1d4-2 per round, 
+moving towards the alarm.
+A huge pine tree stands in the centre of the village 
+and has 3d6 gifts beneath it.
+On the outskirts of the village is a Dryad named 
+Mistletoe who is deathly bored and wants to see some 
+romance in exchange for a gift. If two goblins agree and 
+kiss in front of her, Mistletoe says, “The greatest gift 
+of all is love, may it warm your hearts for evermore.” 
+She then disappears with no further word. While the 
+gift seems like a trick, the two participating goblins will 
+automatically save against Klaus’ slowing wind when 
+he shows up later, as love keeps them warm.
+• With one hour left, the Spirit of Winter, Klaus, arrives 
+wherever the goblins are concentrated, alongside his 
+two flying elk. He seeks to kidnap a number of them 
+for his workshop but will flee if reduced below 20 hp.
+• Any remaining goblins return to the village where 
+the chief asks each player to recount something 
+incredible they did during the raid.
+
+[PDF_PAGE=5]
+Armor 14 (Unarmoured)
+Health 14
+Speed 30 ft.
+The Cleaver
+Goblin Barbarian
+STR
+16 (+3)
+DEX
+14 (+2)
+CON
+14 (+2)
+INT
+8 (-1)
+WIS
+12 (+1)
+CHA
+10 (-)
+Skills Athletics +5, Nature +3, Perception +3, 
+Survival +3
+Languages Common, Goblin
+Actions
+Battleaxe. Melee Weapon Attack: +5 to hit. 
+1d8+3 slashing damage in one hand. 
+1d10+3 slashing damage in two-hands.
+Bonus Actions
+Nimble. You can either Disengage or Dash.
+Rage (2 uses). You enter a rage that lasts until the end 
+of the fight. It grants you a number of bonuses. 
+- Advantage on Strength checks and saving throws 
+- Add 2 damage to any melee attack 
+- Take half damage from bludgeoning, piercing 
+and slashing attacks.
+Equipment
+Battleaxe
+2x Beartraps
+2x Torches
+General Actions
+Dash. You gain an extra 30ft. of movement this turn.
+Disengage. Your movement doesn’t provoke 
+opportunity attacks for the rest of the turn.
+Dodge. Until your next turn, all attacks against you 
+are made at disadvantage and you have advantage on 
+Dexterity saving throws.
+Help. One ally gets advantage on their next attack 
+roll, saving throw or ability check.
+Hide. If you are out of sight, make a Dexterity 
+(Stealth) check to become hidden.
+Ready. State a triggering event and an action that 
+you’d like to take when that event occurs. Eg. Ready an 
+attack on the first enemy that steps through a doorway.
+Search. Attempt to spot someone who is hidden.
+Special Attacks
+Grapple. Make a Strength (Athletics) check, opposed 
+by the target’s Athletics or Acrobatics. If you succeed, 
+the target cannot move until they break free. 
+While you have a creature grappled, you can drag them 
+with you by moving at half speed.
+Shove. Make a Strength (Athletics) check, opposed 
+by the target’s Athletics or Acrobatics. If you succeed, 
+you can knock the target prone, or push them 5ft away 
+from you.
+Called Shots. Your DM will offer a bonus effect. 
+You can either attack as normal, applying that effect 
+instead of damage on a hit, or you can make the attack 
+at disadvantage to get both.
+Critical Hits
+If you roll a 20 when making an attack, you deal an 
+extra 10 damage.
+Write your 
+goblin name 
+here
+
+[PDF_PAGE=6]
+Armor 15 (Unarmoured)
+Health 15
+Speed 30 ft.
+The Scarred
+Goblin Barbarian
+STR
+14 (+2)
+DEX
+14 (+2)
+CON
+16 (+3)
+INT
+8 (-1)
+WIS
+12 (+1)
+CHA
+10 (-)
+Skills Athletics +4, Nature +3, Perception +3, 
+Stealth +4
+Languages Common, Goblin
+Actions
+Scimitar. Melee Weapon Attack: +4 to hit. 
+1d6+2 slashing damage.
+Bonus Actions
+Nimble. You can either Disengage or Dash.
+Rage (2 uses). You enter a rage that lasts until the end 
+of the fight. It grants you a number of bonuses. 
+- Advantage on Strength checks and saving throws 
+- Add 2 damage to any melee attack 
+- Take half damage from bludgeoning, piercing 
+and slashing attacks.
+Scimitar. Melee Weapon Attack: +4 to hit. 
+1d6 slashing damage.
+Equipment
+2x Scimitars
+60ft. rope
+1x Alchemists Fire
+2x Torches
+General Actions
+Dash. You gain an extra 30ft. of movement this turn.
+Disengage. Your movement doesn’t provoke 
+opportunity attacks for the rest of the turn.
+Dodge. Until your next turn, all attacks against you 
+are made at disadvantage and you have advantage on 
+Dexterity saving throws.
+Help. One ally gets advantage on their next attack 
+roll, saving throw or ability check.
+Hide. If you are out of sight, make a Dexterity 
+(Stealth) check to become hidden.
+Ready. State a triggering event and an action that 
+you’d like to take when that event occurs. Eg. Ready an 
+attack on the first enemy that steps through a doorway.
+Search. Attempt to spot someone who is hidden.
+Special Attacks
+Grapple. Make a Strength (Athletics) check, opposed 
+by the target’s Athletics or Acrobatics. If you succeed, 
+the target cannot move until they break free. 
+While you have a creature grappled, you can drag them 
+with you by moving at half speed.
+Shove. Make a Strength (Athletics) check, opposed 
+by the target’s Athletics or Acrobatics. If you succeed, 
+you can knock the target prone, or push them 5ft away 
+from you.
+Called Shots. Your DM will offer a bonus effect. 
+You can either attack as normal, applying that effect 
+instead of damage on a hit, or you can make the attack 
+at disadvantage to get both.
+Critical Hits
+If you roll a 20 when making an attack, you deal an 
+extra 10 damage.
+Write your 
+goblin name 
+here
+
+[PDF_PAGE=7]
+Armor 13 (leather armour)
+Health 10
+Speed 30 ft.
+The Mystic
+Goblin Druid
+STR
+10 (-)
+DEX
+14 (+2)
+CON
+14 (+2)
+INT
+12 (+1)
+WIS
+16 (+3)
+CHA
+8 (-1)
+Skills Animal Handling +5, Insight +5, Medicine +5, 
+Nature +4
+Languages Common, Goblin, Elf
+Actions
+Quarterstaff. Melee Weapon Attack: +2 to hit. 
+1d6 bludgeoning damage in one hand. 
+1d8 bludgeoning damage in two hands.
+Cast a Spell (2 uses).
+Druidcraft. Manipulate nature in a small way.
+Guidance. Touch an ally to grant them +1d4 to their 
+next ability check.
+Bonus Actions
+Nimble. You can either Disengage or Dash.
+Spells
+Cure Wounds. Touch a creature, they regain 1d8+3 of 
+their lost hit points.
+Entangle. Summon a patch of grasping vines.
+Fog Cloud. Create a concealing cloud of fog.
+Speak with Animals. Gain the ability to speak with 
+animals for the next 10 minutes.
+Equipment
+Leather armour
+Quarterstaff
+2x Healing Potions (restores 2d4+2 hp)
+2x Torches
+General Actions
+Dash. You gain an extra 30ft. of movement this turn.
+Disengage. Your movement doesn’t provoke 
+opportunity attacks for the rest of the turn.
+Dodge. Until your next turn, all attacks against you 
+are made at disadvantage and you have advantage on 
+Dexterity saving throws.
+Help. One ally gets advantage on their next attack 
+roll, saving throw or ability check.
+Hide. If you are out of sight, make a Dexterity 
+(Stealth) check to become hidden.
+Ready. State a triggering event and an action that 
+you’d like to take when that event occurs. Eg. Ready an 
+attack on the first enemy that steps through a doorway.
+Search. Attempt to spot someone who is hidden.
+Special Attacks
+Grapple. Make a Strength (Athletics) check, opposed 
+by the target’s Athletics or Acrobatics. If you succeed, 
+the target cannot move until they break free. 
+While you have a creature grappled, you can drag them 
+with you by moving at half speed.
+Shove. Make a Strength (Athletics) check, opposed 
+by the target’s Athletics or Acrobatics. If you succeed, 
+you can knock the target prone, or push them 5ft away 
+from you.
+Called Shots. Your DM will offer a bonus effect. 
+You can either attack as normal, applying that effect 
+instead of damage on a hit, or you can make the attack 
+at disadvantage to get both.
+Critical Hits
+If you roll a 20 when making an attack, you deal an 
+extra 10 damage.
+Write your 
+goblin name 
+here
+
+[PDF_PAGE=8]
+Armor 15 (studded leather)
+Health 9
+Speed 30 ft.
+The Shadow
+Goblin Rogue
+STR
+8 (-1)
+DEX
+16 (+3)
+CON
+12 (+1)
+INT
+14 (+2)
+WIS
+14 (+2)
+CHA
+10 (-)
+Skills Acrobatics +5, Investigation +4, Perception +4, 
+Sleight of Hand +7, Stealth +7
+Languages Common, Goblin
+Actions
+Dagger. Melee Weapon Attack: +5 to hit. 
+1d4+3 piercing damage. Can be thrown 20ft. 
+Once per turn, if flanking or attacking with 
+advantage, add 1d6 damage.
+Bonus Actions
+Nimble. You can either Disengage or Dash.
+Dagger. Melee Weapon Attack: +5 to hit. 
+1d4+3 piercing damage. Can be thrown 20ft.
+Equipment
+Studded leather armour
+10x Daggers
+Climber’s Kit (grappling hook, 60ft. rope, harness)
+2x Torches
+General Actions
+Dash. You gain an extra 30ft. of movement this turn.
+Disengage. Your movement doesn’t provoke 
+opportunity attacks for the rest of the turn.
+Dodge. Until your next turn, all attacks against you 
+are made at disadvantage and you have advantage on 
+Dexterity saving throws.
+Help. One ally gets advantage on their next attack 
+roll, saving throw or ability check.
+Hide. If you are out of sight, make a Dexterity 
+(Stealth) check to become hidden.
+Ready. State a triggering event and an action that 
+you’d like to take when that event occurs. Eg. Ready an 
+attack on the first enemy that steps through a doorway.
+Search. Attempt to spot someone who is hidden.
+Special Attacks
+Grapple. Make a Strength (Athletics) check, opposed 
+by the target’s Athletics or Acrobatics. If you succeed, 
+the target cannot move until they break free. 
+While you have a creature grappled, you can drag them 
+with you by moving at half speed.
+Shove. Make a Strength (Athletics) check, opposed 
+by the target’s Athletics or Acrobatics. If you succeed, 
+you can knock the target prone, or push them 5ft away 
+from you.
+Called Shots. Your DM will offer a bonus effect. 
+You can either attack as normal, applying that effect 
+instead of damage on a hit, or you can make the attack 
+at disadvantage to get both.
+Critical Hits
+If you roll a 20 when making an attack, you deal an 
+extra 10 damage.
+Write your 
+goblin name 
+here
+
+[PDF_PAGE=9]
+Armor 16 (ringmail and shield)
+Health 13
+Speed 30 ft.
+The Unbreakable
+Goblin Fighter
+STR
+14 (+2)
+DEX
+8 (-1)
+CON
+16 (+3)
+INT
+10 (-)
+WIS
+12 (+1)
+CHA
+14 (+2)
+Skills Athletics +4, Intimidation +4, Perception +3, 
+Survival +3
+Languages Common, Goblin
+Actions
+Longsword. Melee Weapon Attack: +4 to hit. 
+1d8+2 slashing damage in one hand. 
+1d10+2 slashing damage in two hands.
+Bonus Actions
+Nimble. You can either Disengage or Dash.
+Second Wind. Once per fight, you can regain 1d10+1 
+hit points.
+Reactions
+Protection. If an ally next to you is attacked, impose 
+disadvantage on the attack roll. You must be 
+wearing a shield to use this.
+Equipment
+Ringmail armour
+Shield
+Longsword
+Crowbar
+2x Torches
+General Actions
+Dash. You gain an extra 30ft. of movement this turn.
+Disengage. Your movement doesn’t provoke 
+opportunity attacks for the rest of the turn.
+Dodge. Until your next turn, all attacks against you 
+are made at disadvantage and you have advantage on 
+Dexterity saving throws.
+Help. One ally gets advantage on their next attack 
+roll, saving throw or ability check.
+Hide. If you are out of sight, make a Dexterity 
+(Stealth) check to become hidden.
+Ready. State a triggering event and an action that 
+you’d like to take when that event occurs. Eg. Ready an 
+attack on the first enemy that steps through a doorway.
+Search. Attempt to spot someone who is hidden.
+Special Attacks
+Grapple. Make a Strength (Athletics) check, opposed 
+by the target’s Athletics or Acrobatics. If you succeed, 
+the target cannot move until they break free. 
+While you have a creature grappled, you can drag them 
+with you by moving at half speed.
+Shove. Make a Strength (Athletics) check, opposed 
+by the target’s Athletics or Acrobatics. If you succeed, 
+you can knock the target prone, or push them 5ft away 
+from you.
+Called Shots. Your DM will offer a bonus effect. 
+You can either attack as normal, applying that effect 
+instead of damage on a hit, or you can make the attack 
+at disadvantage to get both.
+Critical Hits
+If you roll a 20 when making an attack, you deal an 
+extra 10 damage.
+Write your 
+goblin name 
+here
+
+[PDF_PAGE=10]
+Armor 15 (studded leather)
+Health 12
+Speed 30 ft.
+The Longarm
+Goblin Fighter
+STR
+8 (-1)
+DEX
+16 (+3)
+CON
+14 (+2)
+INT
+12 (+1)
+WIS
+14 (+2)
+CHA
+10 (-)
+Skills Acrobatics +5, Athletics +1, Perception +4, 
+Stealth +5
+Languages Common, Goblin
+Actions
+Shortbow. Ranged Weapon Attack: +7 to hit. 
+1d6+3 piercing damage. Can be fired 80ft.
+Dagger. Melee Weapon Attack: +5 to hit. 
+1d4+3 piercing damage. Can be thrown 20ft.
+Bonus Actions
+Nimble. You can either Disengage or Dash.
+Second Wind. Once per fight, you can regain 1d10+1 
+hit points.
+Equipment
+Studded leather armour
+Shortbow
+Dagger
+20x arrows
+Signal Whistle
+2x Torches
+General Actions
+Dash. You gain an extra 30ft. of movement this turn.
+Disengage. Your movement doesn’t provoke 
+opportunity attacks for the rest of the turn.
+Dodge. Until your next turn, all attacks against you 
+are made at disadvantage and you have advantage on 
+Dexterity saving throws.
+Help. One ally gets advantage on their next attack 
+roll, saving throw or ability check.
+Hide. If you are out of sight, make a Dexterity 
+(Stealth) check to become hidden.
+Ready. State a triggering event and an action that 
+you’d like to take when that event occurs. Eg. Ready an 
+attack on the first enemy that steps through a doorway.
+Search. Attempt to spot someone who is hidden.
+Special Attacks
+Grapple. Make a Strength (Athletics) check, opposed 
+by the target’s Athletics or Acrobatics. If you succeed, 
+the target cannot move until they break free. 
+While you have a creature grappled, you can drag them 
+with you by moving at half speed.
+Shove. Make a Strength (Athletics) check, opposed 
+by the target’s Athletics or Acrobatics. If you succeed, 
+you can knock the target prone, or push them 5ft away 
+from you.
+Called Shots. Your DM will offer a bonus effect. 
+You can either attack as normal, applying that effect 
+instead of damage on a hit, or you can make the attack 
+at disadvantage to get both.
+Critical Hits
+If you roll a 20 when making an attack, you deal an 
+extra 10 damage.
+Write your 
+goblin name 
+here
+
+[PDF_PAGE=11]
+Armor 15 (unarmoured)
+Health 10
+Speed 30 ft.
+The Outcast
+Goblin Monk
+STR
+10 (-)
+DEX
+16 (+3)
+CON
+14 (+2)
+INT
+8 (-1)
+WIS
+14 (+2)
+CHA
+12 (+1)
+Skills Acrobatics +5, Insight +4, Perception +4, 
+Stealth +5
+Languages Common, Goblin
+Actions
+Shortsword. Melee Weapon Attack: +5 to hit. 
+1d6+3 piercing damage.
+Unarmed Strike. Melee Weapon Attack: +5 to hit. 
+1d4+3 bludgeoning damage.
+Bonus Actions
+Nimble. You can either Disengage or Dash.
+Martial Arts. If you attacked with a shortsword or 
+unarmed strike, make another unarmed strike.
+Equipment
+Shortsword
+Acid Vial
+Caltrops (bag of 20)
+Manacles
+2x Torches
+General Actions
+Dash. You gain an extra 30ft. of movement this turn.
+Disengage. Your movement doesn’t provoke 
+opportunity attacks for the rest of the turn.
+Dodge. Until your next turn, all attacks against you 
+are made at disadvantage and you have advantage on 
+Dexterity saving throws.
+Help. One ally gets advantage on their next attack 
+roll, saving throw or ability check.
+Hide. If you are out of sight, make a Dexterity 
+(Stealth) check to become hidden.
+Ready. State a triggering event and an action that 
+you’d like to take when that event occurs. Eg. Ready an 
+attack on the first enemy that steps through a doorway.
+Search. Attempt to spot someone who is hidden.
+Special Attacks
+Grapple. Make a Strength (Athletics) check, opposed 
+by the target’s Athletics or Acrobatics. If you succeed, 
+the target cannot move until they break free. 
+While you have a creature grappled, you can drag them 
+with you by moving at half speed.
+Shove. Make a Strength (Athletics) check, opposed 
+by the target’s Athletics or Acrobatics. If you succeed, 
+you can knock the target prone, or push them 5ft away 
+from you.
+Called Shots. Your DM will offer a bonus effect. 
+You can either attack as normal, applying that effect 
+instead of damage on a hit, or you can make the attack 
+at disadvantage to get both.
+Critical Hits
+If you roll a 20 when making an attack, you deal an 
+extra 10 damage.
+Write your 
+goblin name 
+here
+
+[PDF_PAGE=12]
+Random Goblin Names
+GRUB
+Barry
+DUNG
+WORM
+RAGS
+SKUNK
+SNOT
+BOIL
+PUKE
+ZIT
+BILE
+SCAB

@@ -1,0 +1,199 @@
+[PDF_PAGE=2]
+A NIGHT of 
+MASKS and MONSTERS
+in the strange city of ibrido, magic lurks everywhere.
+and sometimes, it has claws.
+PART ONE
+a level 3 adventure for three to six players
+DUNGEONS & DRAGONS, D&D, Wizards of the 
+Coast, Forgotten Realms, Ravenloft, the dragon am-
+persand, and all other Wizards of the Coast product 
+names, and their respective logos are trademarks of 
+Wizards of the Coast in the USA and other countries.
+     This work contains material that is copyright Wiz-
+ards of the Coast and/or other authors. Such material 
+is used with permission under the Community Con-
+tent Agreement for Dungeon Masters Guild.
+     All other original material in this work is ©2018 
+and published under the Community Content Agree-
+ment for Dungeon Masters Guild.
+by Ashley Warren
+
+[PDF_PAGE=4]
+Summary
+In the city of Ibrido, locals enjoy a life of splendor and 
+frivolity. Every week, a lavish party is held at the Cas-
+tel di Maschera, hosted by the Marquis di Maschera, 
+Prospero, who has a reputation for being a generous 
+party-thrower and avid patron of the arts. Receiving an 
+invitation to a Marquis di Maschera party is coveted, 
+and those who enter his social circle never leave it.
+     But the Castel di Maschera holds many secrets. 
+When a strange, hybrid creature — half bird, half man 
+— is found brutally murdered in Ibrido’s city square, 
+tattooed with the Marquis’s signature symbol of two 
+masks, rumors have begun to spread throughout Ibrido 
+that something more sinister may be occurring.
+     Did a Marquis di Maschera party simply get out of 
+hand, or does a real danger threaten the inhabitants of 
+Ibrido?
+Adventure Hook
+The characters, as a thanks for completing a previous 
+quest, are given an all-expenses-paid vacation to the lux-
+urious city of Ibrido. Having received word of their visit, 
+the Marquis di Maschera has sent them an invitation to 
+a party at the Castel di Maschera. (See Invitation, pg. 21, 
+for printout.) There is a port to Ibrido in the docks of 
+Waterdeep. 
+     The characters are transported by gondola across 
+a deep blue lagoon, and deposited at the Ibrido city 
+square. For an extra moody and romantic scene, have  
+the characters arrive at sunset.
+Note for DMs
+NPCs use the commoner stats unless otherwise stated. 
+Statistics not included in the module can be found in the 
+Monster Manual. This adventure is designed for an APL 
+of 3 and works best for groups with three to six players. 
+Scalable difficulty is provided with the boss battle. 
+Mood
+This story is a classic masquerade-meets-murder-mys-
+tery-party with a twist. Inspired by the mercurial beauty 
+of Venice, this is an atmospheric adventure enhanced by 
+in-person details such as music, candlelight, and perhaps 
+a beverage or two to enjoy. 
+ 
+Where is Ibrido?
+Ibrido is an Amnian colony in the void of Emberez, 
+which is currently embroiled in an ongoing war between 
+angels and demons — although on the surface, life 
+appears to proceed as usual. For more information on 
+Emberez, read The War of Emberez supplement provided 
+with this module. This story is part of a larger narra-
+tive; however, you are of course welcome to disregard 
+this lore entirely and adapt the location as you see fit!
+     Ibrido is a city comprised of many islands connected 
+via canals. Because it serves as a trading post for Amn 
+and all of Emberez, its inhabitants are extraordinarily 
+wealthy. 
+     This adventure is relegated to a specific area in Ibrido. 
+Once the characters arrive on Ibrido’s main island, they 
+will not be able to leave until the main quest is complete.
+A Classic War Between  
+Angels and Demons
+The characters will not know until the conclusion of the 
+game that they have just participated in one battle in 
+a much larger war. For centuries, an order of celestials 
+known as the Aureum have fought to defeat the Malum 
+Animus: a collective of demons, hybrid creatures, and 
+cursed werefolk.
+     Marquis Prospero di Maschera is a pseudonym for a
+cambion named Akro Dimiryan, who can alter his 
+appearance at will. After losing a battle against the Aure-
+um, Akro was forced to remain for centuries in the Nine 
+Hells, where cambion are born.  
+     Akro eventually found his way out of the Hells via 
+the portal in Ravukoi, the capital of East Emberez and 
+the seat of the Malum Animus. Disguising himself as an 
+Ibridian, he began building an army of chimera, search-
+ing for more monsters to recruit to his cause. The best 
+subjects for his experiments are adventurers, which he 
+turns into hybrid creatures to “enhance” their abilities. 
+     In attendance at Akro’s party is Kara Krasandel, a 
+deva and high-ranking commander of the Aureum. If 
+she goes after Akro in Emberez, this could instigate a 
+devastating battle that would destroy the all of Emberez 
+and eventually spill into the Material Plane. As such, 
+Kara hopes a group of heroes will defeat Akro in Ibrido 
+so his soul will be transported back to the Nine Hells, 
+and the Aureum can defeat him there once and for all.
+about the adventure
+3
+
+[PDF_PAGE=5]
+he entirety of Ibrido is divided up by canals, and 
+bridges connect the islands to one another. The  
+gondola docks at Ibrido’s city square. Read or  
+paraphrase the following:
+There are a few notable details in the square:
+• A makeshift memorial commemorates the recent death 
+of a strange creature. The memorial includes a cluster 
+of lit candles; several long, blue feathers; and a wooden 
+amulet, onto which a symbol of an eye has been carved. 
+This is the symbol of the Aureum. A successful DC 13 
+Intelligence (Religion) check suggests that it might be 
+some sort of holy symbol, but unless characters have 
+somehow visited Ibrido before, they won’t be familiar 
+with the Aureum.
+• A large, stone bridge leads to the front entrance of 
+Castel di Maschera. A canal runs underneath the bridge. 
+The bridge is 20 ft wide and 30 ft long.
+• A tall clock tower looms over the square. It is a very 
+beautiful clock, depicting the phases of the moon and 
+astronomical symbols alongside the time. It chimes every 
+30 minutes, and the sound is heard throughout Ibrido.
+• An human woman named Kara Krasandel lingers near 
+the base of the stairs. She has long, black hair bound 
+in an intricate braid, and she wears a very beautiful blue 
+and gold gown. Atop her head is a golden dragon mask; 
+it does not yet cover her face. If they do not approach 
+her first, Kara greets the characters in the square. She has 
+information about the memorial.
+You are taken to a lovely city square, paved with cobble-
+stone. The perimeter is lined with buildings painted in 
+jewel tones. Each building varies in structure — some 
+have arched windows and doorways; others have rectan-
+gular windows filled with stained glass — but the effect is 
+altogether very pleasing. In the evening, the streetlamps 
+are lit, casting a warm glow over the city. 
+T
+PART 1
+Arrival in Ibrido
+4
+The Murder of a Strange Creature
+“It happened last week, a day after the Marquis’s last  
+party: the body of a strange creature was found in the 
+square. He was half human, half bird; large blue wings 
+sprouted from his back, and his arms and shoulders  
+were covered with feathers. We think he was murdered  
+because his wings were broken and half-torn from his 
+back, and his bones were broken as if he had fallen from 
+the sky. Nothing like this has ever occurred in Ibrido. 
+Most of the citizens regard it as a fluke. Ibrido receives 
+many visitors, after all.”  
+— Kara Krasandel
+
+[PDF_PAGE=6]
+Map of Ibrido City Square
+A: The makeshift  
+memorial.
+B: The tall clock tower.
+C: The stone bridge to 
+the castle.
+Roleplaying Kara
+Kara is warm and genuine, but hides her secret well. She 
+is there with an agenda. Because of her ties to the Au-
+reum, Kara does not tell the characters the truth about 
+herself and maintains a disguise to mask her true nature 
+as a deva. She has dedicated her life to protecting the 
+residents of Emberez.
+     Kara claims to have lived in Ibrido her whole life, 
+and has attended Marquis’s parties before. She expresses 
+worry about the murder, and asks the characters to be 
+on alert when they attend the party. Much of this is true 
+and passes scrutiny, but a successful DC 16 Wisdom  
+(Insight) check catches on to a small lie among the 
+truth: Kara is from Aurea, another city in Emberez that 
+serves as the seat of the Aureum, and is not native to 
+Ibrido. She has, however, spent significant time in the 
+city and knows much about it.  
+     A successful DC 12 Wisdom (Perception) check 
+notes strange markings on Kara’s hands — the symbol 
+of an eye is tattooed onto each palm. If asked, Kara says 
+that a tattoo artist who frequently attends parties at 
+the Castel di Maschera did them for her. Knowing that 
+the characters are likely outsiders and not familiar with 
+Ibridian customs, she says that eyes are wards against 
+evil. This is also true, if understated: the tattoos serve as 
+wards against demons and fiends.  
+Kara’s tattoo
+5

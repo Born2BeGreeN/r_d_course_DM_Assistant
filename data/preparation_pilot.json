@@ -1,0 +1,288 @@
+{
+  "extraction_method": "pypdf_text_layer",
+  "ocr_performed": false,
+  "diagnostics_policy": "Heuristic review flags, not verified OCR need or reading-order defects. Image-only maps/covers may need no OCR for this task.",
+  "document_count": 3,
+  "documents": [
+    {
+      "document_id": "pdf_8b03203423fdcb8be913",
+      "pdf_filename": "1819187-Kobold_Traps.pdf",
+      "pdf_sha256": "8b03203423fdcb8be913c304a700bcfda0927324e5b1d9cc83c099b1b4862c36",
+      "extraction_method": "pypdf_text_layer",
+      "author": null,
+      "source_url": null,
+      "license": null,
+      "errors": [],
+      "warnings": [],
+      "metadata": {
+        "/Producer": "GPL Ghostscript 9.54.0",
+        "/CreationDate": "D:20210816145752+02'00'",
+        "/ModDate": "D:20210816145752+02'00'",
+        "/Author": "",
+        "/Creator": "LaTeX with hyperref",
+        "/Title": "",
+        "/Subject": "",
+        "/Keywords": ""
+      },
+      "candidate_sha256": "4890961017b24c66220aa7370a72ac4931649daf8afd2b199371f5d5e46e2bff",
+      "candidate_path": "data/extracted/pdf_8b03203423fdcb8be913.txt",
+      "page_count": 4,
+      "characters": 8234,
+      "page_diagnostics": [
+        {
+          "pdf_page": 1,
+          "characters": 0,
+          "flags": [
+            "empty_text_layer",
+            "ocr_review_needed_image_with_little_text"
+          ]
+        },
+        {
+          "pdf_page": 2,
+          "characters": 2455,
+          "flags": [
+            "line_break_hyphenation",
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 3,
+          "characters": 2405,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 4,
+          "characters": 3374,
+          "flags": []
+        }
+      ]
+    },
+    {
+      "document_id": "pdf_7a2ed7e7a7d2d48c4045",
+      "pdf_filename": "3069515-Una_Notte_da_Grifoni.pdf",
+      "pdf_sha256": "7a2ed7e7a7d2d48c4045fd944d9e89a2f904383a03a77d5e818e22e65fee7ddf",
+      "extraction_method": "pypdf_text_layer",
+      "author": null,
+      "source_url": null,
+      "license": null,
+      "errors": [],
+      "warnings": [],
+      "metadata": {
+        "/CreationDate": "D:20260817155741+02'00'",
+        "/ModDate": "D:20260817155741+02'00'",
+        "/Producer": "iLovePDF"
+      },
+      "candidate_sha256": "0ef1fe9178cc02462381e6291b4c5642202c3602e397d3bdf7c6beb2f7c9ad31",
+      "candidate_path": "data/extracted/pdf_7a2ed7e7a7d2d48c4045.txt",
+      "page_count": 18,
+      "characters": 45179,
+      "page_diagnostics": [
+        {
+          "pdf_page": 1,
+          "characters": 0,
+          "flags": [
+            "empty_text_layer",
+            "ocr_review_needed_image_with_little_text"
+          ]
+        },
+        {
+          "pdf_page": 2,
+          "characters": 2501,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 3,
+          "characters": 3058,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 4,
+          "characters": 2720,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 5,
+          "characters": 662,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 6,
+          "characters": 3325,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 7,
+          "characters": 3771,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 8,
+          "characters": 622,
+          "flags": []
+        },
+        {
+          "pdf_page": 9,
+          "characters": 3505,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 10,
+          "characters": 3746,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 11,
+          "characters": 2818,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 12,
+          "characters": 3665,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 13,
+          "characters": 4315,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 14,
+          "characters": 684,
+          "flags": []
+        },
+        {
+          "pdf_page": 15,
+          "characters": 1714,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 16,
+          "characters": 2761,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 17,
+          "characters": 2958,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        },
+        {
+          "pdf_page": 18,
+          "characters": 2354,
+          "flags": [
+            "suspicious_reading_order_column_resets"
+          ]
+        }
+      ]
+    },
+    {
+      "document_id": "pdf_5dcfc61ef86267e75e59",
+      "pdf_filename": "914584-Witchlight_Beer_Festival.pdf",
+      "pdf_sha256": "5dcfc61ef86267e75e593ead37076392ea193f5da865ac0cdf9eb1923d0202e7",
+      "extraction_method": "pypdf_text_layer",
+      "author": "Nathanael Roux",
+      "source_url": null,
+      "license": null,
+      "errors": [],
+      "warnings": [],
+      "metadata": {
+        "/Author": "Nathanael Roux",
+        "/CreationDate": "D:20231127205221-05'00'",
+        "/Creator": "Adobe InDesign 19.0 (Windows)",
+        "/ModDate": "D:20231127205227-05'00'",
+        "/Producer": "Adobe PDF Library 17.0",
+        "/Trapped": "/False"
+      },
+      "candidate_sha256": "fa83453c40dea9aab0a657fac0c6b1fdd9d2748115a60a469aec9c4abafe4a09",
+      "candidate_path": "data/extracted/pdf_5dcfc61ef86267e75e59.txt",
+      "page_count": 9,
+      "characters": 33950,
+      "page_diagnostics": [
+        {
+          "pdf_page": 1,
+          "characters": 4355,
+          "flags": [
+            "line_break_hyphenation"
+          ]
+        },
+        {
+          "pdf_page": 2,
+          "characters": 4662,
+          "flags": [
+            "line_break_hyphenation"
+          ]
+        },
+        {
+          "pdf_page": 3,
+          "characters": 4386,
+          "flags": [
+            "line_break_hyphenation"
+          ]
+        },
+        {
+          "pdf_page": 4,
+          "characters": 5450,
+          "flags": [
+            "line_break_hyphenation"
+          ]
+        },
+        {
+          "pdf_page": 5,
+          "characters": 5054,
+          "flags": [
+            "line_break_hyphenation"
+          ]
+        },
+        {
+          "pdf_page": 6,
+          "characters": 6251,
+          "flags": []
+        },
+        {
+          "pdf_page": 7,
+          "characters": 1071,
+          "flags": []
+        },
+        {
+          "pdf_page": 8,
+          "characters": 2419,
+          "flags": []
+        },
+        {
+          "pdf_page": 9,
+          "characters": 302,
+          "flags": []
+        }
+      ]
+    }
+  ]
+}

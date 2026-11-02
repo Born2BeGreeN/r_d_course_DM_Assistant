@@ -1,0 +1,24 @@
+{
+    "status":  "read_only_probe_completed",
+    "cpu":  [
+                {
+                    "Name":  "12th Gen Intel(R) Core(TM) i7-12700H",
+                    "NumberOfCores":  14,
+                    "NumberOfLogicalProcessors":  20
+                }
+            ],
+    "memory_bytes":  16782049280,
+    "graphics":  [
+                     {
+                         "Name":  "NVIDIA GeForce RTX 3050 Ti Laptop GPU",
+                         "AdapterRAM":  4293918720,
+                         "DriverVersion":  "32.0.15.6636"
+                     },
+                     {
+                         "Name":  "Intel(R) Iris(R) Xe Graphics",
+                         "AdapterRAM":  2147479552,
+                         "DriverVersion":  "32.0.101.6790"
+                     }
+                 ],
+    "note":  "Host metadata only; GPU utilization, energy and monetary hardware cost were not measured. Windows AdapterRAM may not equal usable VRAM."
+}

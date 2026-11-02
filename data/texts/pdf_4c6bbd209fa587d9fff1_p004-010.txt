@@ -1,0 +1,607 @@
+[PDF_PAGE=4]
+  
+ 
+ 
+Not for resale. Permission granted to print or photocopy this document for personal use only. 
+FR-DC-SCROG-01 Pretty Teeth, Sharp Teeth (v1.2)        3 
+ADVENTURE PRIMER 
+“Fanaticism requires extreme measures.” 
+Bidderdoo Harpell, The Pirate King  
+Pretty Teeth, Sharp Teeth is designed for three to seven 
+1st-2nd-level characters and is optimized for five 
+characters with an average party level (APL) of 1. 
+Characters outside this level range cannot participate in 
+this adventure. This adventure occurs in Longsaddle.  
+Background 
+A long time back, two squabbling cults took a shine to 
+lakeside land near LONGSADDLE. Both sides followed 
+MALAR, beast god of hunting and savagery. One bunch 
+raised a chapel on the eastern bank, the other on the 
+western. Well, that feud turned ugly in no time, and soon 
+enough the land ran red with blood. THE HARPELLS, a 
+family of eccentric wizards, transformed the worst 
+offenders into RABBITS as a magical punishment, then 
+banished them to a little island out in the lake. Though the 
+original cultists are long gone, their bloodline lingers in 
+these creatures. And wouldn’t you know it, didn’t take long 
+for some fool to bring one of those rabbits back to the 
+mainland. 
+Most folks figure that story’s just a tale. But now and 
+again, something stirs in the tall grass. A rabbit goes feral. 
+Crops get torn up. Cattle scatter. Ranch hands come back 
+with bite marks. Some of these rabbits are too big, too 
+clever, and far too bold. 
+That’s when the BLUE SIGIL got involved. A mercenary 
+company made up of OGRES. One of their own, GERG, was 
+hired by the local farmers to deal with the rabbit problem. 
+However, the RABBIT FOLK are not without cunning. 
+The most intelligent among them, HARENGON PRIESTS OF 
+MALAR, have devised a plan to mislead a group of 
+adventurers, painting the ogre as the villain and turning 
+their enemies against one another. All the while, they wait 
+in the tall grass, watching to finish off whoever wins. 
+Overview 
+The adventure begins with a Call to Action scene and has 
+one main Part. The adventure takes approximately 1 hour 
+to play. 
+ 
+Call to Action. The characters are approached by a talking 
+rabbit that seeks their help against an ogre. Agreeing to 
+the task of dealing with the ogre is the Call to Action. 
+Part One: Hunters. The characters journey into the plains 
+and confront the ogre, learning that not everything is as it 
+seems. Defeating either the Ogre or the Rabbits of Malar 
+is the Story Objective. 
+Adventure Hook 
+Use these hooks to explain why the characters are in 
+Longsaddle. 
+Longriders. The character has heard that Longsaddle is a 
+place where fortunes are made. Out on these frontier 
+lands, ranchers, farmers, and wizards are always looking 
+to hire folks who can fend off monsters, cattle thieves, 
+and the occasional band of marauding barbarians. 
+Longsaddler. The character is or was a resident of 
+Longsaddle or the surrounding lands. They know the 
+local faces, the Harpells’ reputation, and just how weird 
+things can get around these parts. They might be just as 
+strange themselves and have been accepted as part of the 
+community all the same. 
+Faction Agent. The character is working with one of the 
+many factions of Faerûn, an adventuring society, or a 
+guild. Either way, they are temporarily stationed in 
+Longsaddle between missions, gathering information, 
+maintaining a presence, or awaiting new orders. 
+Harpell Apprentice. The character is currently staying at 
+Ivy Mansion as part of an apprenticeship. Under the 
+tutelage of the Harpells, they’ve been learning spells, 
+dodging experiments gone wrong, and helping contain 
+magical accidents. When the Harpells need someone to 
+handle a strange task or investigate a disturbance, it’s 
+usually the apprentices who get volunteered. 
+ 
+ 
+ 
+  
+
+
+[PDF_PAGE=5]
+  
+ 
+ 
+Not for resale. Permission granted to print or photocopy this document for personal use only. 
+FR-DC-SCROG-01 Pretty Teeth, Sharp Teeth (v1.2)        4 
+CALL TO ACTION 
+Estimated Duration. 15 minutes 
+ 
+The characters are on the road together, hired out of 
+Longsaddle to deliver a wagonload of fence posts and dry 
+goods to the Greely Ranch, two days south of the hamlet. It 
+isn’t glamorous work, but Jed Greely promised 25 gold 
+pieces upon delivery. Coin is coin, and the job also came 
+with the promise of warm stew upon arrival. The merchant 
+from Sixhorns Select Wares even lent them their mule to 
+help with the hauling. Honey is a stubborn beast, no doubt 
+about it, but easily persuaded with a carrot or two. 
+Setting: Longsaddle 
+The frontier hamlet of Longsaddle has always been a place 
+where the strange is just plain common. Founded nigh on 
+centuries ago, this small hamlet hugs a dusty stretch of the 
+Long Road, catering to every rancher, farmer, and traveler 
+passing through. It earned its fame thanks to the eccentric 
+family of wizards known as the Harpells, who planted the 
+Longsaddle square on the maps, whether the rest of Faerûn 
+liked it or not. Tales of talking critters, dancing broomsticks, 
+and spells gone sideways are just part of the scenery. Most 
+folks just give a shrug and get on with their day.  
+ Most of Longsaddle lies beyond the hamlet’s modest 
+limits, scattered across the rolling plains in a patchwork of 
+ranches and farms. Horses, longhorns, and sheep are 
+common enough sights, but some ranchers raise dinosaurs 
+instead of cattle, and a few even herd beasts so peculiar 
+you’d swear they escaped from a wizard’s fever dream. 
+Call to Action 
+Agreeing to the task of dealing with the ogre is the Call to 
+Action. 
+Meeting Jack the Rabbit 
+The characters are setting up camp for their first night 
+beside the Long Road. Their wagon with Greely’s goods is 
+pulled into a shallow gully for shelter, the mule is 
+munching on grass, and the sky is just beginning to trade its 
+daylight for stars. This is the first evening shared by the 
+characters. After character introductions and roleplay 
+interactions with one another, read aloud or paraphrase the 
+following: 
+The wind moves gentle across the plains, rustling dry grass and 
+stirring the scent of dust and sage. The Long Road lies quiet 
+behind the rise, no travelers in sight, just the slow creak from 
+the wagon and the occasional snort from the mule. Then, from 
+the tall grass, something moves. Slow. Careful. A shape too 
+upright for a dog and too small for a man. It steps into the 
+edge of your light, ears twitching, eyes wide and unblinking.  
+It’s a rabbit. A big one. And then it speaks! 
+“Pardon the intrusion, but might I trouble you for a moment 
+of your time?” 
+Area Information 
+The plains have the following features. 
+Terrain. The plains stretch wide and open, a sea of tall 
+grasses dotted with wildflowers, sagebrush, and the 
+occasional lone tree or rocky outcrop. Characters can see 
+about 2 miles in any direction on a clear day, except 
+where obstructions block their view. 
+Lighting. During the day, the plains are bathed in bright 
+light. A rocky outcrop or a lone tree provides shade, 
+creating areas of dim light beneath them. 
+Sounds. Wind rustling through grass is a near-constant 
+presence.  
+Weather. The plains are generally dry, with light winds. 
+Daytime temperatures average around 72°F (22°C), while 
+nights grow chilly, dropping to approximately 47°F (8°C). 
+GREELY’S SUPPLIES 
+The characters have been supplied by Sixhorns Select Wares, a 
+sundries store that sold all manner of useful items, with a wagon 
+with 30 cedar fence posts (each post weighs 35 lbs.) and 405 lbs. 
+worth of dry goods (consisting of flour, oats, dried beans, lard, 
+pickled vegetables, salted pork, sugar, soap, candles, and 
+matches). These supplies, along with the wagon and the mule, 
+Honey, are considered story items and may not be kept by the 
+characters at the end of the adventure session. 
+Creature Information 
+Jack is a priest acolyte with the following characteristics: 
+size Small, fey creature type, and knows the Deception skill. 
+Jack has no gear and relies on natural armor for protection. 
+If Jack needs to defend himself, he relies on his Radiant 
+Flame ability.  
+Jack hail the characters and ask for help, claiming that an 
+evil ogre is trying to round up their family and devour them. 
+He begs the party to slay the brute before more of their kin 
+are lost. Jack claims they’re too small to stand against such 
+brute strength. That’s why he has come seeking help. 
+Using the Search action, a character who succeeds on a 
+DC 15 Wisdom (Insight) check notices something strange 
+about Jack’s expression. His eyes linger a little too long, 
+watching the characters with an unsettling hunger. Still, 
+there is something beneath their story that feels real. His 
+words do not seem entirely false. 
+If confronted about his staring, Jack tilts his head slightly 
+and admits, with a soft chuckle, that he has not eaten yet. 
+His gaze drifts toward the mule, just for a moment, before 
+flickering to the wagon. He sniffs at the air, then politely 
+inquires whether the party might be willing to spare a bit of 
+food for a weary traveler.  
+If the characters deny the request, Jack simply shrugs. If 
+the characters choose to offer some of food, Jack accepts 
+with a bow of thanks. He then tears into the meal with 
+startling speed, devouring it in a manner that is anything 
+but polite. 
+ 
+ 
+ 
+ 
+
+[PDF_PAGE=6]
+  
+ 
+ 
+Not for resale. Permission granted to print or photocopy this document for personal use only. 
+FR-DC-SCROG-01 Pretty Teeth, Sharp Teeth (v1.2)        5 
+JACK 
+Chaotic Evil Harengon (he/him) trickster  
+Jack’s fur is a dusty gray, flecked with white, and his ears are long 
+and expressive. The fey carries himself with a lazy confidence, 
+slouching just enough to look harmless until he isn’t. 
+What They Want. Jack wants the humanoids and the giant to 
+fight one another. Whoever wins will be weakened enough for the 
+Rabbits of Malar to finish off.  
+Horrible with Names. Jack isn’t very good at remembering 
+names, or maybe he just doesn’t care. He prefers to hand out 
+offhand nicknames like “darlin,” “guv,” “sport,” or “chuckles.” He 
+uses them whether they’re insulting or not. 
+Development 
+If the characters ask for payment in exchange for their help, 
+Jack admits that his burrow may hold something of value. 
+An old magical helmet left behind by a druid. Should they 
+choose to help, the treasure will be theirs to claim. If the 
+characters decide not to help or attack Jack, the Harengon 
+retreats into the tall grass. The rabbit folk will attempt to 
+attack the characters later the next day (see Adjusting the 
+Adventure in Part 1).  
+If the characters agree to help, Jack leads them through 
+the plains to the ogre’s location, about three miles away. If 
+they intend to travel tomorrow, Jack gives directions 
+instead, urging them to hurry. He then vanishes into the 
+grass. Proceed to Part 1.  
+ 
+  
+
+
+[PDF_PAGE=7]
+  
+ 
+ 
+Not for resale. Permission granted to print or photocopy this document for personal use only. 
+FR-DC-SCROG-01 Pretty Teeth, Sharp Teeth (v1.2)        6 
+PART 1: HUNTERS 
+Estimated Duration. 40 minutes 
+ 
+The ogre’s location is about three miles from the camp, just 
+off the Long Road across open plains. If the characters 
+choose to continue to Greely’s ranch, it takes a full day to 
+reach it, and another day to backtrack to where Jack said 
+the ogre was lurking. Once he leads the characters there, 
+Jack vanishes into the tall grass. 
+Story Objective 
+Defeating either the Ogre or the Rabbits of Malar is the 
+Story Objective. 
+Meeting Gerg 
+From a mile off, they spot a hulking figure crouched low in 
+the tall grass near a patch of scrub and dirt. If the characters 
+choose to approach, read or paraphrase the following:  
+As you draw closer, it becomes clear it’s an ogre, hunched 
+awkwardly over a hunting trap beside a rabbit burrow. His 
+mounting frustration is plain as day. 
+Creature Information 
+Gerg (Chaotic Neutral, ogre) is clearly unsuited for delicate 
+work. He’s part of the Blue Sigil, a mercenary company of 
+ogres based out of Mog’s Keep near Longsaddle. Gerg hasn’t 
+noticed the characters yet. If he does, he grunts and waves 
+them off, wanting to be left alone. His starting attitude is 
+Indifferent. In the surrounding brush are three hunting 
+traps (including the one that Gerg is working on), though 
+none of them are currently functional. A character 
+proficient with tinker’s tools can repair a hunting trap with 
+a successful DC 13 Intelligence check, taking about ten 
+minutes per trap. Concealing each hunting trap requires a 
+successful DC 14 Wisdom (Survival) check.  
+GERG 
+Chaotic Neutral Ogre (he/him) mercenary  
+A towering ogre wearing a hemp-cloth overalls. The Blue Sigil 
+tattoo, a blue circle crossed by a crescent moon and a lightning 
+bolt, is branded on his left butt cheek, partially visible beneath the 
+sagging fabric of his overalls. 
+What They Want. Gerg wants to finish his job and return to 
+Longsaddle to collect his reward.  
+Talks Funny. Gerg speaks with a soft, rounded tone, replacing 
+their R’s and L’s with W’s. Words like “really” become “weawwy,” 
+and “look out, rabbit!” becomes “wook out, wabbit!”  
+ 
+Characters who study the brand on the ogre’s butt can take 
+the Study action and make a DC 10 Intelligence (History) 
+check to recognize the symbol. The Blue Sigil is a mercenary 
+company of ogres, formed after their tribe decided to fight 
+back against constant adventurer raids. Now operating 
+across the North, they’ve earned a reputation for reliability. 
+Development 
+The characters may choose to attack Gerg. The ogre defends 
+himself as best he can, aiming to knock the characters 
+unconscious rather than kill them. If slain, after one hour, 
+the rabbits emerge from their burrow to see what 
+happened. Upon finding the ogre dead, they seem delighted. 
+They slip out in great numbers to dance in a circle around 
+the characters… before launching a sudden assault. If the 
+characters have already moved on from the area, the 
+rabbits hunt after the characters. See When Rabbits 
+Attack. 
+ADJUSTING THE SCENE  
+Here are some suggestions for adjusting this scene: 
+ 
+• Weak. Gerg is an ogrillion ogre that starts with 34 hit points.   
+• Average. Gerg starts with 34 hit points.  
+• Strong. Gerg has his standard hit point total.  
+If the characters ask why the ogre is hunting the rabbits, 
+read or paraphrase the following: 
+The ogre squints at you with heavy-lidded eyes, scratching his 
+belly as he speaks in a soft, oddly gentle voice. “Wanchers 
+‘wound Wongsaddwe paid me to smash wabbits,” he says. 
+“Dey’s causin’ twoubwe. Scawin’ da cows. I smash, dey pay. 
+That’s the deaw.” 
+Gerg basically explains he was hired by farmers near 
+Longsaddle. The rabbits have been attacking livestock, 
+ruining crops, and stealing eggs from chicken rookeries. A 
+few cattle even vanished. The farmers offered coin to the 
+Blue Sigil and permission to smash whatever he found. That 
+was good enough for Gerg.  
+If the characters choose to help the ogre, Gerg suggests 
+making camp near the rabbit burrow and waiting for the 
+creatures to strike after dark. If any hunting traps have 
+been repaired and successfully concealed, one rabbit of 
+malar is caught in each trap when the rabbits attack that 
+night.  
+Optionally, the characters can enter the burrow (Area 
+R1). Gerg is too large to fit inside and remains nearby. 
+Characters who take the time to explore the surrounding 
+area may discover a second entrance to the burrow (Area 
+R2), hidden beneath a tangle of roots and grass. Finding it 
+requires a successful DC 15 Intelligence (Investigation) 
+check. 
+ 
+ 
+  
+
+
+[PDF_PAGE=8]
+  
+ 
+ 
+Not for resale. Permission granted to print or photocopy this document for personal use only. 
+FR-DC-SCROG-01 Pretty Teeth, Sharp Teeth (v1.2)        7 
+Area Information 
+The Rabbit Burrow has the following features: 
+Dimensions and Terrain. The tunnels are made of packed 
+dirt, roughly 3 feet high and 3 feet wide, just large enough 
+for a Medium creature to crawl on hands and knees. 
+Movement for Medium creatures is treated as difficult 
+terrain. Small creatures can move through the tunnels 
+with little difficulty. 
+Lighting. There are no sources of light within the burrow, 
+except for the magic helm in area R4.  
+Sounds. The burrow walls muffle most sound from the 
+outside. Periodically there are unsettling rabbit shrieks 
+that echo from deeper in the warren. 
+Alert. If the sound of combat breaks out anywhere within 
+the burrow, all nearby inhabitants converge on the 
+source of the sound and join the fight as quickly as 
+possible. 
+Entrances (R1 and R2). These are the primary and 
+secondary access points to the burrow from the surface. 
+Rabbit Nests (R3). Several nests made of fur, grass, and 
+gnawed bones are tucked into the walls of the tunnels. At 
+your option, a nest is occupied or vacant (see When 
+Rabbits Attack).  
+Shrine to Malar (R4). Deep within the warren, the walls 
+are smeared with muddy pawprints and streaks of red. 
+The shrine itself is fashioned from matted tufts of fur, 
+splintered bones, and gnawed antlers arranged into a 
+rough altar. A claw-shaped symbol is etched into the dirt 
+floor. A successful DC 13 Intelligence (Religion) check 
+identifies it as the symbol of Malar, god of the hunt, 
+bloodlust, and bestial savagery. The shrine chamber has a 
+10-foot ceiling.  
+HOLIDAY CONNECTIONS 
+If you’d like, you can add the following detail to Area R4. Nestled 
+in woven grass baskets at the foot of the shrine are 2d4 brightly 
+dyed eggs. Offerings to Malar left by the rabbit folk. Characters 
+can identify them as mundane chicken eggs.  
+Why are there eggs here? Malarite mumbo jumbo. 
+Treasure 
+At the foot of the shrine rests a glowing steel helm with a 
+polished bronze hue, crowned with curving bull horns. This 
+is a Dread Helm imbued with the Beacon minor property. 
+When Rabbits Attack 
+If the characters defeat Gerg, crawl into the rabbit burrow, 
+or wait until nightfall with Gerg, the rabbit folk launch an 
+attack. The rabbits of malar use the giant badger stat 
+block with the following adjustments: Size Small. 
+The harengon priest uses the priest acolyte stat block 
+with these adjustments: Size Small, fey creature type, and 
+proficiency in the Deception skill. They have no chain shirt 
+and mace and rely on natural armor for protection. Their 
+alignment is Chaotic Evil. The harengon priest rely on their 
+Radiant Flame for attacking. The swarm of rabbits use the 
+swarm of rats stat block.  
+If Jack is still alive, he leads the assault. 
+For Strong groups, replace harengon priest with a 
+harengon druid with these adjustments: Size Small, fey 
+creature type, and proficiency in the Deception skill. They 
+have no studded leather and rely on natural armor for 
+protection. Their alignment is Chaotic Evil. The Harengon 
+Druid rely on their Verdant Wisp and Spellcasting for 
+attacking. 
+ADJUSTING THE SCENE 
+Here are some suggestions for adjusting this scene: 
+ 
+• Very Weak. Remove a rabbit of malar 
+• Weak. Remove a swarm of rabbits 
+• Average. A harengon priest, two rabbits of malar, and a 
+swarms of rabbit 
+• Strong. Replace harengon priest with harengon druid  
+• Very Strong. Add two rabbits of malar 
+ADJUSTING THE ADVENTURE 
+It’s entirely possible the characters decide not to help Jack, ignore 
+the ogre situation, and focus on doing their job. Delivering 
+Greely’s goods before heading back to Longsaddle. If that’s the 
+case, the Rabbits of Malar aren’t quite done with them. During the 
+journey to the ranch or on the return trip, the rabbits launch an 
+ambush, striking from the tall grass. If the characters choose to 
+follow the tracks after the battle, a successful DC 12 Wisdom 
+(Survival) check leads them back to the rabbit burrow. By this 
+time, Gerg is already dead. His carcass has been dragged into the 
+burrow and now rests in Area R4. Only a few rabbit folk are left 
+behind.  
+ If there is not enough time for the adventure session, then all 
+the rabbit folk have fled from the burrow.  
+ADJUSTING THE SCENE  
+Here are some suggestions for the few rabbit folk left behind: 
+ 
+• Average. A harengon priest and swarm of 
+rabbits  
+• Strong. Replace harengon priest with harengon druid 
+CLERICS AND ACOLYTES OF MALAR 
+If one of the characters is a known devotee of Malar, the rabbit 
+folk may view the character as a traitor to the faith. In this case, 
+they focus their fury on that character.  
+Development 
+Once the rabbits are defeated, the characters can explore 
+the burrow and recover the treasure in Area R4. If Gerg is 
+still alive, the ogre thanks them and begins collecting rabbit 
+carcasses as proof for the farmers of Longsaddle. If the 
+characters ask for a share of the bounty, Gerg explains that 
+the contract was made between his handlers in the Blue 
+Sigil and the farmers. He doesn’t have a say in how the 
+reward is divided. Still, he invites the party to meet him 
+later at the Gilded Horseshoe, a local inn, and promises to 
+treat them to the best breakfast in all the North. Once the 
+characters are ready to return to Longsaddle or complete 
+their delivery of Greely’s supplies, proceed to Conclusion. 
+  
+
+[PDF_PAGE=9]
+  
+ 
+ 
+Not for resale. Permission granted to print or photocopy this document for personal use only. 
+FR-DC-SCROG-01 Pretty Teeth, Sharp Teeth (v1.2)        8 
+CONCLUSION 
+Estimated Duration. 5 minutes 
+ 
+This adventure has a few different endings, depending on 
+the choices the characters made along the way. 
+ 
+• If the characters sided with Gerg and helped him defeat 
+the Rabbits of Malar, they return to Longsaddle to a 
+warm welcome. See Meeting Up with Gerg and the 
+Farmers of Longsaddle Ending.  
+• If Gerg was slain but the Rabbits of Malar were 
+destroyed, the people of Longsaddle still offer 
+gratitude for the party’s actions. See the Farmers of 
+Longsaddle Ending.  
+• If the characters chased off Jack during the Call to 
+Action, chose to deliver Greely’s goods instead, and 
+never ventured to the rabbit burrow, see You Won’t 
+Believe What Happened Ending.  
+• If the characters slew Gerg, well… see This Means War 
+Ending.  
+Meeting Up with Gerg 
+Back in Longsaddle, the characters make their way to the 
+Gilded Horseshoe . True to his word, Gerg is waiting for 
+them. Gerg is cleaned up as best he can be and already 
+working his way through a platter of smoked sausage. He 
+waves the characters over with a grin and treats them to a 
+hearty breakfast, all paid in full. Between mouthfuls, he 
+raises a mug and toasts their help, calling them “the best 
+wabbit-smashers this side o’ the Spine.” The characters 
+earn the Story Award: Ogre Friend.  
+The Farmers of Longsaddle 
+Now word don’t take long to travel around, folks in 
+Longsaddle know what the characters done out on them 
+wild plains. The farmers of Longsaddle can’t pay the bounty 
+for the rabbits directly, due to their contract with the Blue 
+Sigil mercenary group. They’re not keen on upsetting an 
+entire company of ogres.  
+However, they offer another form of thanks for the 
+characters role in clearing out the nest of predatory 
+varmints. The characters are each presented with a token of 
+local gratitude: hand-stitched embroidered bandana 
+trinkets, a basket of fresh baked goods and preserves, and, 
+most notably, a weapon from local legend. 
+The farmers gather to present the group with a magic 
+spear once wielded by a retired adventurer turned goat 
+herder named Zigfreed. Zigfreed claimed he was the best 
+dragon-slayer this side of the Spine of the World. Spent his 
+final years watching over his land with naught but his goats, 
+a jug of moonshine, and that spear by his side. The farmers 
+reckon the characters can do more with it. Zigfreed’s Spear 
+is a Sylvan Talon imbued with the Songcraft minor property. 
+You Won’t Believe What Happened 
+Now when the characters mosey on back into Longsaddle, 
+they find the hamlet’s already stirring with talk of trouble. 
+Folks whisper about rabbits attacking farms and their 
+livestock. Turns out the farmers hired Gerg, that ogre from 
+the Blue Sigil mercenary company, to handle the mess. But 
+wouldn’t you know it, things went sideways. The poor ogre 
+wound up dead, and when the Longsaddlers went to check 
+the burrow, there wasn’t a hare left in sight. Just an empty 
+warren and a nasty little shrine to Malar, the god of blood, 
+fang, and the hunt. Folks reckon them Rabbits of Malar are 
+still out there.  
+This Means War 
+In time, the Blue Sigil mercenaries piece together what 
+really happened. After interrogating a captured Malarite 
+rabbit, they learn the truth. The characters killed Gerg, one 
+of their own. The characters acquire the Story Award: Blue 
+Sigil Feud. The ogres of the North don’t forget a slight, and 
+they don’t forgive one, either. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+
+[PDF_PAGE=10]
+  
+ 
+ 
+Not for resale. Permission granted to print or photocopy this document for personal use only. 
+FR-DC-SCROG-01 Pretty Teeth, Sharp Teeth (v1.2)        9 
+REWARDS 
+At the end of the session, the characters receive rewards based upon their accomplishments. 
+CHARACTER REWARDS 
+The characters earn the following rewards: 
+Advancement 
+A character participating in this adventure gains one level.  
+Gold 
+If found during the adventure the following items are 
+converted to gold and added to any coins found during the 
+adventure. The gold is split among the party members. If 
+someone wants to keep an item in particular that character 
+can either take it as part of their share, or pay for it with 
+their own gold. Mundane items are not duplicated nor 
+included in this.  
+Item Gold Value 
+Greely’s Reward 25 gp 
+Maximum 25 gp 
+ 
+Magic Item(s) 
+If found during the adventure, the characters can keep the 
+following magic items; these items are described in 
+Appendix 2: 
+• Dread Helm 
+• Sylvan Talon (Spear) 
+Story Awards(s) 
+• Blue Sigil Feud 
+• Ogre Friend 
+ 
+These awards are described in Appendix 2. 
+DUNGEON MASTER REWARDS 
+For running this adventure, you earn a DM Reward. See the 
+Adventurers League Dungeon Master’s Guide for more 
+information. 
+ 
+ 
+  

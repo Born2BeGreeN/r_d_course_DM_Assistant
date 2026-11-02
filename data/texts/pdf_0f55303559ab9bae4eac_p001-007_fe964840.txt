@@ -1,0 +1,402 @@
+[PDF_PAGE=1]
+ 
+KETTLEPOT’S SHOP OF ODDITIES  
+THE MYSTERY SURROUNDING THE DISAPPEARANCE  
+ OF A LOCAL SHOPKEEPER 
+ 
+Treyos Kettlepot was a child when he stowed away on a ship owned by dwarven traders from 
+Waterdeep.  Once arriving in Chult, Kettlepot spent what remained of his childhood living as a 
+street urchin in Crelt, a town lying along the southern coastline of the island.  At the age of 
+fifteen, Kettlepot had a chance meeting with Kralt Freel, a local mage and a collector of 
+oddities from the numerous shipwrecks which dotted the beachfront and rocky bluffs of Wild 
+Coast.  Freel became a father to Treyos, teaching him the business and eventually helping 
+Kettlepot to become a local proprietor himself.  Until recently, Kettlepot witnessed a modest 
+amount of success.  He was locally known for providing a fair price in the purchase and trade 
+of unique and magical artifacts.  The week prior to the Festival of Thard, Kettlepot’s shop 
+remained closed.  Because there was no explanation and no forewarning, customers assumed 
+that the old human had taken the opportunity to visit friends from Mezro.  Two weeks have 
+past; residents of Crelt are becoming worried—many wonder what has happened.  Where is 
+he? And, what is to become of Kettlepot’s Shop of Oddities?   
+This adventure is best played with a group of 2-4 characters of  
+level 3-6. 
+                                                                                                                                                                    WRITTEN BY  
+                                      NED FARLEY 
+ 
+ 
+
+
+[PDF_PAGE=4]
+ 
+ 
+ Written by Ned Farley Kettlepot’s Shop of Oddities 4 
+INTRODUCTION  
+KETTLEPOT’S SHOP OF ODDITIES is an adventure for characters 
+between a third and sixth level of play.  The Dungeon Master (DM) 
+may choose to connect this short module with the TOMB OF 
+ANNIHILATION story arc; however, players from any location within 
+the island continent of CHULT may travel to Crelt to solve the 
+mysterious disappearance of Treyos Kettlepot.   
+The adventure is broken into three parts.  Adventurers will visit the 
+town of Crelt and take in its unique and magical qualities.  Next, they 
+will visit Kettlepot’s shop to determine what may have happened to 
+the old shopkeeper.  Finally, and with the aid of a variety of clues 
+and unnatural experiences, the characters will discover Treyos’s fate 
+and what evil stands behind his disappearance.    
+THE TOWN OF CRELT Crelt does not appear in the lore of The Forgotten Realms.  It was 
+established in 1137 DR by a group of explorers and traders who 
+wished to organize a safe haven and trade cooperative along the 
+southern coast of the peninsula.  In its early years, the town and its 
+residents experienced a trade boom as large seaport communities 
+like Waterdeep became aware of region’s natural resources and the 
+growing markets of its rural towns and cities.  This economic boom 
+reached its height in 1389 DR when a major trade guild in 
+Waterdeep identified the coastal towns and harbor cities of Chult as 
+their primary foreign market.  As Waterdeep guilds grew and 
+prospered, so did the demand for the expansion of its trade 
+networks beyond the Sword Coast.  At its height, Crelt was home to 
+2,800 residents, many traveling to the area from the Sword Coast 
+and the Western Heartlands.  Those arriving in this coastal 
+community included militia members and mercenaries, academics 
+and arcane researchers, and maritime traders.  The town has 
+continued to prosper; however, the competing factions and corrupt 
+trade practices of communities to the north and west have spread to 
+this island continent.  
+The DM may begin by reading the following: 
+ 
+The Dungeon Master (DM) may wish to allow his or her players to 
+reflect on what brought them to this community—it may be as 
+simple as needing rations and goods for their exploration of Chult.  
+Or, it may be the rumors of Crelt’s exotic wares and magical streets. 
+If the characters need more information about the town and the 
+current dangers, read the following text: 
+ 
+TOWN NPCS 
+Crelt is a diverse town.  Being so close to the southern coastline of 
+the continent, this community is not only filled with the many races 
+of the area, but it includes traders, explorers, and academics from 
+the Sword Coast.  Some residents—many living in the southern part 
+of the town—are emigres from as far north as Neverwinter.    
+The two important NPCs are (1) Kettlepot’s longtime friend Krel 
+Trowing, a dwarf from Port Nyanzaru, and (2) a human street urchin 
+who goes by the name of Sped.  Both are aware of Kettlepot’s 
+recent disappearance—they will seek the help of anyone who does 
+not appear to be from Crelt.  The DM may use Krel or Sped to move 
+the story forward.  Sped spends his days running through the market 
+looking for wealthy travelers.  He is known to be an avid pickpocket 
+of foreign visitors.  It will require a DC 17 to persuade Krel or Sped to 
+join the party; however, if convinced, they will lead the travelers to 
+any place they wish to go.  Krel and Sped will emphasize the 
+importance of visiting Kettlepot’s shop. 
+The DM may choose to introduce Krel as the vender crying out for 
+customers to purchase his dragon fruit (see the above-listed 
+reading), or someone with a passive perception of 17 or less may 
+be pickpocketed by Sped—he will get caught. 
+KREL TROWING (NPC) 
+Krel Trowing was born to Dwarven parents living under the Peaks of 
+Flame.  His early years were spent working alongside his father in 
+local mines.  It is in this environment that Krel learned two 
+important lessons—life is filled with trials and tribulation, and if one 
+is to make his life above ground, he must seek his wealth in honest 
+trade.  It is for these reasons that Trowing has not sought 
+membership among any of the local guilds, choosing instead to seek 
+his fortune as an entrepreneur.   
+Krel is not much of a fighter; however, he is master of making and 
+closing “the deal.”  He imports fruit and fine metalwork from 
+Calimshan in West Faerûn.  His contracts require him to coordinate 
+overland transports from harbor towns in the north. 
+ 
+You and your fellow adventurers have entered the bustling town of 
+Crelt.  As the sun rises over the edge of a nearby mountain range, 
+shopkeepers, bankers, and street merchants open their businesses.   
+Unlike your previous experiences in rural parts of the continent, the 
+residents of this community hardly notice your group.   
+The only attention that you receive comes from the numerous 
+venders that recognize travelers with swollen coin purses and 
+exotic weapons. 
+ 
+ 
+As you take in the busy streets, you hear patrons whispering 
+about a local shopkeeper who has not been seen for the last two 
+weeks.  Nearby venders scoff at the concern of their young 
+patrons, remarking that “old Kettlepot is probably visiting his 
+magic-user friends in Mezro… he’ll be back.” 
+ 
+As your attention returns to the busy street, you hear a vender cry 
+out.  “Goods for sale!  The finest dragon fruit in all of Chult!  Don’t 
+pass up your chance.  The fruit is going fast!” 
+
+[PDF_PAGE=5]
+ 
+ 
+ Written by Ned Farley Kettlepot’s Shop of Oddities 5 
+ 
+ 
+SPED THE STREET URCHIN (NPC) 
+Sped is an annoying scrap.  His origins are unknown; however, his 
+ability with slight-of-hand and his knowledge of gambling lead many 
+to believe that he was trained by Crelt’s thieves guild—a group of 
+local fire knives who call themselves “The Underlings.”   
+If asked, Sped will deny his wrongdoing, choosing to describe himself 
+as a “right-young lad, seeking fame and fortune in Chult’s most 
+beautiful town!” 
+As the story unfolds, the adventurers will realize that Sped has a soft 
+place in his heart for Kettlepot.  Many of the merchants who had 
+shops near Treyos’s establishment, would describe the little thief as 
+Kettlepot’s personal project.   
+“He loved that filthy little thief—I don’t think Sped would steal 
+from Treyos if his life depended on it.”   
+In fact, many believe that Kettlepot was getting ready to retire, and 
+as a one-time street urchin himself, Kettlepot had a soft place in his 
+heart for Sped.  It is commonly understood that Sped would be 
+Kettlepot’s heir—he stands to inherit Treyos’s shop and all of its 
+magical goods. 
+  
+ADVENTURING CONTEXT AND THE 
+STORY HOOK 
+When the adventurers arrive in Crelt they will be presented with 
+men, women, and children running from shop to shop gathering 
+food and goods for daily living.  Most patrons will be too busy to 
+talk, but the vendors will always be willing to answer a question or 
+sell their wares to foreign travelers.     
+If the adventurers attempt to stop and interrogate a resident of the 
+town (DC 13 to strike up a conversation) they will quickly find out 
+that even though Crelt is a tightly knit community, the design and 
+layout of its neighborhoods result in the sharing of very little 
+personal information.  Patrons will direct questions to local 
+shopkeepers and street vendors if asked about Kettlepot.   
+ 
+ 
+ 
+ 
+KREL TROWING 
+medium humanoid (human), neutral good 
+Armor Class 13 (leather armor) 
+Hit Points 16 (3d8 + 3) 
+Speed 25 ft. 
+ STR DEX CON INT WIS CHA 
+ 11 (+0) 14 (+2) 12 (+1) 14 (+2) 13 (+1) 15 (+2) 
+Skills nature +4, perception +5, persuasion +4, insight +4, 
+stealth +3, and survival +5 
+Senses  passive perception 15. 
+Languages Common, Goblin, Dwarvish, and Elvish 
+Challenge 1/2 (100 XP) 
+Appraisal.  Krel understands the value of goods and their 
+material source(s).  His appraisal skill is set at a +3 bonus. 
+ACTIONS 
+Dagger. Melee Weapon Attack: +3 to hit, reach 5 ft., one 
+target at a time. Hit: 3 (1d4 +2) piercing damage. Ranged 
+Weapon Attack: +2 to hit, ranged 20/60 ft., one creature. 
+Hit: 4 (1d4 + 2) piercing damage. 
+ 
+SPED THE STREET URCHIN Small humanoid (human), chaotic neutral 
+Armor Class 8 (no armor, only torn street clothes) 
+Hit Points  (1d8 ) 
+Speed 30 ft. 
+ STR DEX CON INT WIS CHA 
+ 8 (-1) 18 (+4) 10 (+0) 7 (-1) 13 (+1) 11 (+0) 
+Skills nature +3, perception +3 
+Senses  passive perception 14. 
+Languages Common, Druidic, and Dwarvish 
+Challenge 0 (10 XP) 
+Quickstep.  Sped has advantage on attack rolls and skill 
+checks if he is in a crowded setting. 
+Chance.  Sped has an advantage in any game of chance or 
+any situate where players are gambling or betting. 
+ACTIONS 
+Small Metal Rod.  (Often hidden on his person.)  Melee 
+Weapon Attack: +2 to hit, reach 5ft., one target. Hit: 3 (1d6) 
+bludgeoning damage, 4 (1d8) bludgeoning damage if wielded 
+with two hands, or 6 (1d8 +2) bludgeoning damage if the 
+target is surprised or in a crowded space. 
+Bite or Scratch.  +1 to hit, reach 5 ft., one target at a time.  
+Bite: 2 (1d4 +0) piercing damage.  Scratch: 3 (1d4 +1),  injury 
+poison if scratched (DC 13, constitution save), 10 (3d6), 3 
+(1d6) on a failed save.  Seek medical treatment immediately 
+or 3 (1d6) damage is taken every hour the wound is exposed 
+or untreated. 
+ 
+
+[PDF_PAGE=6]
+ 
+ 
+ Written by Ned Farley Kettlepot’s Shop of Oddities 6 
+RANDOM EVENT TABLE – MARKET 
+STREET 
+Use this table (and Map 1) to provide your players with a feel for 
+what is happening in the town. 
+ 
+ 
+Map 1. A depiction of the village square. #1 is the hall of a local 
+trade guild, #2 is a row of merchants’ shops (varying goods), #3 is a 
+fountain feature that is the center of the open-air market, and #4 is 
+the path to Kettlepot’s store.  (1 grid square = 5 square feet) 
+FINDING KETTLEPOT’S SHOP 
+Sped or Krel will lead the adventurer’s to Kettlepot’s shop.  Either 
+NPC will eventually point out the locked shop. Once found, read the  
+below-listed description. 
+ 
+ 
+Map 2. The area around Kettlepot’s Shop (#3); #1 is the entry point 
+to the area, #2 is a small body of water, “W” is a public well.  
+The sign states “CLOSED FOR THE HOLIDAY.”  If present, Sped’s 
+inability to read will eventually remove him from the list of 
+potential suspects involved in Kettlepot’s disappearance.  If Krel 
+leads the adventurers to the shop, he will read the sign and remark 
+that it is only written in common.  He may remain a suspect if 
+present during the investigation of the shop. 
+d12 Encounter 
+1-4 
+A fight breaks out in the middle of the street.  One of 
+the brawlers flashes a dagger that is encrusted with 
+the symbol of the Zhentarim faction. 
+5-7 
+A commotion begins at a nearby corner as two 
+barbarians return from the jungle with what appears 
+to be an undead human (MM p. 315-316).  The 
+creature is being dragged through the streets in a 
+bamboo cage. 
+8-9 
+An odd trail of smoke is appearing from the rooftop 
+of one of the nearby shops (Map 2).  With closer 
+inspection, the adventurers find that this is 
+Kettlepot’s shop.  Please note, if this is the result of 
+the random event roll, the players will officially 
+begin the campaign—see next section. 
+10-12 
+Sped breaks away from the group and is seen 
+pickpocketing a wealthy trader.  The trader’s 
+clothing reminds characters of Waterdeep’s 
+Jeweler’s Guild (the DM may choose to use a history 
+check—DC 15—to reveal this information). 
+ 
+Kettlepot’s shop stands out from the other shops on the 
+street.  The façade consists of a single, heavy, wooden front 
+door flanked by two large stain glass windows.  The windows 
+are ten feet across and nine feet tall, they, and the carved 
+wood beams that frame the doorway make up the entire 
+storefront.   
+A pipe shop and a furrier flank Kettlepot’s shop.  Neither are 
+as ornate.  
+The door to the shop is arched and ornately carved.  It is 
+covered with depictions of ships at sea and dragon-like sea 
+creatures rising out of the surf.  At eye level the door reads 
+“Kettlepot’s Shop of Oddities.”  
+Nailed to the door is a hand-written note. 
+
+[PDF_PAGE=7]
+ 
+ 
+ Written by Ned Farley Kettlepot’s Shop of Oddities 7 
+A trail of smoke is visible from the rooftop of Kettlepot’s shop.  The 
+smoke is white and does not appear to be the result of a large fire.  
+In fact, players with a passive perception score of 12 or higher will 
+surmise that this smoke is from a source that is nearly 
+extinguished—whatever is associated with the smoke is smoldering. 
+Once the note is found, the party will hear a breathing noise (like a 
+sniffing dog) coming from the bottom of the door.  As they take note 
+of this sound, the breathing will stop and a low growl will be heard.  
+An insight or perception (wisdom) check (DC 13) will reveal that this 
+is a dog.  If Krel or Sped is present, either NPC will mention that 
+Kettlepot had a dog (Gary) who was only trusting of people that he 
+knows—especially those who had the foresight to provide him with 
+a treat.  (This is the first of several clues that will help solve the 
+mystery of the disappearance.)  
+ 
+ENTERING THE SHOP  
+The ornate door is locked.  A set of thief’s tools (DC 10) may be used 
+to unlock the door.  (The door can be physically forced open with a 
+strength check—DC 17.)  Once the door is breached, players will 
+notice that the shop is dark.  Prior to gaining entry to the shop, 
+players may wish to gain insight into the condition of the shop by 
+attempting to look through the stain glass panels.  These panels are 
+opaque—little, if any, information will be gained from studying the 
+windows.  (If a player attempts to remove a pane of glass, only a 
+dark front room will be visible.  There will be an odor of burned 
+parchment that will be noticeable.) 
+At this point in the adventure, the DM should provide players with 
+clue cards, or challenge the players to begin to take notes and map 
+their surroundings.  The DM will NOT provide a map or written clues 
+for the adventurers. 
+Upon opening the door, the players will notice an odor of burning or 
+burned parchment.  Also, as ambient light from the street enters the 
+doorway will players notice a dog staring back at them—he will 
+appear out of breath and hostile. The DM will read the below-listed 
+description. 
+ 
+THE SHOP 
+The front room of the shop shows signs of heavy foot traffic.  It 
+contains a sales counter and chairs.  The walls of the store are 
+covered in shelves.  Each shelf has bottles and objects that seem 
+exotic in nature, many show evidence of exposure to saltwater.  The 
+room is twenty feet across and is twenty feet deep.  The room is 
+dark; however, the adventurers will note that light would have been 
+provided by crude oil lamps and the stain glass windows of the front 
+facade.  Unlit lamps line the walls, they are situated just above each 
+shelving unit.   
+The contents of the room seem well organized.  Objects are 
+categorized and shelved by effect; each shelving unit is marked in 
+common and dwarvish.  The markings across the stone walls of the 
+shop include the follow descriptions: illusions, healers, star charts 
+and lenses, spell books, folklore, cultural artifacts, insects and 
+birds, ship logs, weeds and herbs, fire starters, and bones and 
+mummy dust.  The below-listed chart will help to randomize a 
+player’s study of each shelving unit.  Each shelf will contain up to 
+eight objects.  The listed effect associated with objects will be 
+connected to the area studied.  These areas coincide to the 
+descriptions listed above.  The DM should study these categories 
+prior to game play and limit the amount of investigation made by 
+party members.  This portion of the adventure is not meant to be a 
+chance to find and steal magical items.   
+1d100 Effect Material Condition 
+1-20 Magical – one 
+charge 
+Exotic Needs repair 
+21-30 Magical – 
+rechargeable 
+daily 
+Common Functioning 
+31-45 Magical – 
+recharged 
+with elf blood 
+Regional Functioning 
+46-60 Magical – 
+recharged 
+with human 
+blood 
+Foreign Broken 
+61-75 Non-magical Historic-
+regional 
+Legible 
+76-80 Non-magical Historic-
+foreign 
+Illegible 
+81-90 Non-magical Prehistoric-
+regional 
+Understandable 
+91-100 Ancient-
+outside of the 
+realms 
+Prehistoric-
+foreign 
+Requires study 
+(1d10 days; DC 
+15 history) 
+  
+Most items will have a mild magical effect, or they are antiques with 
+little to no value.  Values may be estimated by using the equipment 
+As light cascades into the open doorway, you are 
+immediately struck by two things.  First, there is an odor of 
+burnt parchment.  Although it is not strong, it does appear 
+that the source of this smell may be the cause of the trail of 
+smoke that is visible from outside.  Additionally, there is a 
+dog approximately three feet inside the archway of the door 
+that is staring back at you.  He is a small sized hound who is 
+grimacing—you hear a low growl.   
+(If an above-listed NPC is still present, read the below-listed 
+dialogue.) 
+“Oh, don’t mind him.  That is Gary, Kettlepot’s mangy mutt.  
+Give‘em a bit of your rations and he will consider you a 
+friend, or at least he will tolerate you.  Old Gary only 
+tolerates people that give him a treat—or, people he has met 
+before—otherwise he will pester them with snarls and won’t 
+stop barking.” 

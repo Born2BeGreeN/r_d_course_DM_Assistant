@@ -1,0 +1,10 @@
+{
+  "title": "The Weight of Glory",
+  "language": "en",
+  "recommended_level": "5-7",
+  "hook": null,
+  "npcs": [{"name":"Maledos","role":"sorcerer"},{"name":"Torsten","role":null},{"name":"Anika","role":null}],
+  "locations": ["battlefield","broken house"],
+  "threats": [],
+  "rewards": []
+}

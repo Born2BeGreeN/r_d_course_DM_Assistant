@@ -1,0 +1,31 @@
+{
+  "evaluation_snapshot": "data/evaluation_snapshots/hw1_2026-10-31_b69c493a71b2/snapshot.json",
+  "dataset_descriptor": "data/active_dataset.json",
+  "prompts": {"v1": "prompts/v1.txt", "v2": "prompts/v2.txt"},
+  "repair_prompt": "prompts/repair_v1.txt",
+  "sampling": {"A": {"temperature": 0.2, "top_p": 0.9}, "B": {"temperature": 0.8, "top_p": 0.9}},
+  "models": {"openai": "gpt-4o-mini", "ollama": "qwen2.5:3b"},
+  "operations": {
+    "provider_timeout_s": 60, "local_timeout_s": 180,
+    "provider_request_deadline_s": 150, "local_request_deadline_s": 390,
+    "transport_retries": 1, "schema_repairs": 1, "max_call_attempts": 4,
+    "retry_delay_s": 1, "max_retry_after_s": 30,
+    "max_output_tokens": 2048, "local_context_size": 8192
+  },
+  "budget": {
+    "limit_usd": 5.0, "ledger_path": "results/budget.sqlite3",
+    "prior_spend_usd": 0.0, "prior_spend_reference": "repository_history_before_pipeline",
+    "unknown_usage_policy": "retain_full_context_and_output_reservation"
+  },
+  "pricing": {
+    "verified_on": "2026-11-01", "currency": "USD", "billing": "standard_text_per_1m_tokens",
+    "source_url": "https://developers.openai.com/api/docs/models/gpt-4o-mini",
+    "model_ids": ["gpt-4o-mini", "gpt-4o-mini-2024-07-18"],
+    "uncached_input_per_1m": 0.15, "cached_input_per_1m": 0.075, "output_per_1m": 0.60,
+    "reasoning_tokens_included_in_output": true,
+    "thinking_note": "No separate thinking charge for selected non-reasoning model; never add reasoning tokens twice.",
+    "cache_write_note": "No separate cache-write price published for this selected model.",
+    "reservation_input_tokens": 128000,
+    "model_status_note": "Official catalog marks GPT-4o Mini deprecated; account access remains unverified. Never substitute automatically."
+  }
+}

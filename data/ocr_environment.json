@@ -1,0 +1,11 @@
+{
+  "renderer": "Windows.Data.Pdf",
+  "tool_version": "10.0.19041.4355 (WinBuild.160101.0800)",
+  "renderer_version": "10.0.19041.320 (WinBuild.160101.0800)",
+  "available_languages": [
+    "en-US",
+    "ru"
+  ],
+  "tool": "Windows.Media.Ocr",
+  "os_version": "10.0.19045.0"
+}

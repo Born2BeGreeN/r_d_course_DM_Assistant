@@ -1,0 +1,14 @@
+{
+  "valid": true,
+  "errors": [],
+  "input_count": 30,
+  "split_counts": {
+    "golden": 10,
+    "development": 3,
+    "corpus": 17
+  },
+  "manifest_sha256": "2deaedfd5b6fd9e13e55814c7d5a53b004f06da114a3dbf9c5d2926103bb73e1",
+  "base_manifest_valid": true,
+  "active_manifest_valid": true,
+  "development_golden_overlap": []
+}

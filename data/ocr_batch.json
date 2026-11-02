@@ -1,0 +1,169 @@
+{
+  "target_count": 20,
+  "pages": [
+    {
+      "document_id": "pdf_ba9316a7014feccf4bb6",
+      "pdf_page": 1,
+      "record_path": "data/ocr/windows-v2/pdf_ba9316a7014feccf4bb6_p001/ocr.json",
+      "record_sha256": "0ebf0cbc57107b05f6b8be8a9fbe78c5d50207ab29584116ad221a24b756d0a4",
+      "status": "needs_review",
+      "reason": "visual_review_required"
+    },
+    {
+      "document_id": "pdf_ff441e92bceb59bcb0e4",
+      "pdf_page": 1,
+      "record_path": "data/ocr/windows-v2/pdf_ff441e92bceb59bcb0e4_p001/ocr.json",
+      "record_sha256": "c4f05dfd13e3a6110558ee998516b91af8174aabc8d6865672ef357b8329a53d",
+      "status": "needs_review",
+      "reason": "visual_review_required"
+    },
+    {
+      "document_id": "pdf_ff441e92bceb59bcb0e4",
+      "pdf_page": 4,
+      "record_path": "data/ocr/windows-v2/pdf_ff441e92bceb59bcb0e4_p004/ocr.json",
+      "record_sha256": "2a4e10943e954710b3c737cd756f643c0d7963901e0a36ad2cf32f1af9513e2f",
+      "status": "needs_review",
+      "reason": "visual_review_required"
+    },
+    {
+      "document_id": "pdf_090c3a438c6f390a53ad",
+      "pdf_page": 1,
+      "record_path": "data/ocr/windows-v2/pdf_090c3a438c6f390a53ad_p001/ocr.json",
+      "record_sha256": "220aa59e017055cdd75364c342767ff954a5eb1cb18ad5486e8a7955b232fa9f",
+      "status": "needs_review",
+      "reason": "visual_review_required"
+    },
+    {
+      "document_id": "pdf_ed1f6f3fe3a8590a550a",
+      "pdf_page": 1,
+      "record_path": "data/ocr/windows-v2/pdf_ed1f6f3fe3a8590a550a_p001/ocr.json",
+      "record_sha256": "ad5fb072b2bd891acdadb2ff767654b4f3d3ccdf7d905da63f0913f47c204d2d",
+      "status": "needs_review",
+      "reason": "visual_review_required"
+    },
+    {
+      "document_id": "pdf_c3c28a791428af7f0399",
+      "pdf_page": 1,
+      "record_path": "data/ocr/windows-v2/pdf_c3c28a791428af7f0399_p001/ocr.json",
+      "record_sha256": "f9d8f40c8847b25d9a111c8a3a2afa963cd82a5ff1d818a13a9e0d9f788bf030",
+      "status": "needs_review",
+      "reason": "visual_review_required"
+    },
+    {
+      "document_id": "pdf_d8ff4cbe2f96493c88cc",
+      "pdf_page": 5,
+      "record_path": "data/ocr/windows-v2/pdf_d8ff4cbe2f96493c88cc_p005/ocr.json",
+      "record_sha256": "89bb10382113b95bbb6aa566fff0f8367c4c69460877106529153da7862abb46",
+      "status": "needs_review",
+      "reason": "visual_review_required"
+    },
+    {
+      "document_id": "pdf_3ced5a2b5433e507a2f9",
+      "pdf_page": 1,
+      "record_path": "data/ocr/windows-v2/pdf_3ced5a2b5433e507a2f9_p001/ocr.json",
+      "record_sha256": "8ba5fc939423c82cefe8c6ff71372fd014d746899be2462cb35b4630883e8da9",
+      "status": "needs_review",
+      "reason": "visual_review_required"
+    },
+    {
+      "document_id": "pdf_8b03203423fdcb8be913",
+      "pdf_page": 1,
+      "record_path": "data/ocr/windows-v2/pdf_8b03203423fdcb8be913_p001/ocr.json",
+      "record_sha256": "48d328b737e3970540f3ac989a8f60ef0dc879567ead7e278cef894fcda105ef",
+      "status": "needs_review",
+      "reason": "visual_review_required"
+    },
+    {
+      "document_id": "pdf_5e5c8a49a5768666500a",
+      "pdf_page": 1,
+      "record_path": "data/ocr/windows-v2/pdf_5e5c8a49a5768666500a_p001/ocr.json",
+      "record_sha256": "7bba9fdd2997bf349934d9f12f29e04d258eb7acae3e13b85ae49b6d8fa77162",
+      "status": "unresolved",
+      "reason": "no_text_recognized"
+    },
+    {
+      "document_id": "pdf_af58a4c3bae84d680fb5",
+      "pdf_page": 1,
+      "record_path": "data/ocr/windows-v2/pdf_af58a4c3bae84d680fb5_p001/ocr.json",
+      "record_sha256": "f255e1202b623c67d4836d4a027f4b6dd67887e0f6ac798df31a1698c6b9901c",
+      "status": "needs_review",
+      "reason": "visual_review_required"
+    },
+    {
+      "document_id": "pdf_7a2ed7e7a7d2d48c4045",
+      "pdf_page": 1,
+      "record_path": "data/ocr/windows-v2/pdf_7a2ed7e7a7d2d48c4045_p001/ocr.json",
+      "record_sha256": "beb45516d41e7206ba1be3890a81e2650dacc1799089add6bd7752377731d95a",
+      "status": "unresolved",
+      "reason": "language_unavailable"
+    },
+    {
+      "document_id": "pdf_fb44e1ed23f8853082fc",
+      "pdf_page": 1,
+      "record_path": "data/ocr/windows-v2/pdf_fb44e1ed23f8853082fc_p001/ocr.json",
+      "record_sha256": "912a2093daefde329f95774578ddc4d9d91ed05455b897b0a5493e4a6c5e4d2d",
+      "status": "needs_review",
+      "reason": "visual_review_required"
+    },
+    {
+      "document_id": "pdf_7ca9a50d7d9a6803a1b7",
+      "pdf_page": 1,
+      "record_path": "data/ocr/windows-v2/pdf_7ca9a50d7d9a6803a1b7_p001/ocr.json",
+      "record_sha256": "61f1eef8c13fa03126320f7524a4203a05f4ca8b582be03c32a24fa27d2cd691",
+      "status": "needs_review",
+      "reason": "visual_review_required"
+    },
+    {
+      "document_id": "pdf_9febf00b6bec60ef3b44",
+      "pdf_page": 8,
+      "record_path": "data/ocr/windows-v2/pdf_9febf00b6bec60ef3b44_p008/ocr.json",
+      "record_sha256": "9f0f5ef74ca18cfe7dc5bd3483e1ef047c4f7fae53c9792f18bf379d216c2d68",
+      "status": "needs_review",
+      "reason": "visual_review_required"
+    },
+    {
+      "document_id": "pdf_c8731a04ea075b101b54",
+      "pdf_page": 20,
+      "record_path": "data/ocr/windows-v2/pdf_c8731a04ea075b101b54_p020/ocr.json",
+      "record_sha256": "0cf123edd2c71566ed817b50e93d8771b49c814306913b7908d71124e0e62b36",
+      "status": "needs_review",
+      "reason": "visual_review_required"
+    },
+    {
+      "document_id": "pdf_c8731a04ea075b101b54",
+      "pdf_page": 21,
+      "record_path": "data/ocr/windows-v2/pdf_c8731a04ea075b101b54_p021/ocr.json",
+      "record_sha256": "4ad40686606a73bd3c3a09b69a11558ffd2b928a736c38a44ec3da50afec8098",
+      "status": "needs_review",
+      "reason": "visual_review_required"
+    },
+    {
+      "document_id": "pdf_170a25a9c04ff189919a",
+      "pdf_page": 3,
+      "record_path": "data/ocr/windows-v2/pdf_170a25a9c04ff189919a_p003/ocr.json",
+      "record_sha256": "8c07e5d074706f55ca27f67b22c1f54f960ef7dcfa3ce80ec068aa934c482de8",
+      "status": "needs_review",
+      "reason": "visual_review_required"
+    },
+    {
+      "document_id": "pdf_f8d409ea73d3cc0d9ed4",
+      "pdf_page": 1,
+      "record_path": "data/ocr/windows-v2/pdf_f8d409ea73d3cc0d9ed4_p001/ocr.json",
+      "record_sha256": "c7b1f154703d317e234942ba5bd7ac021ad0033bb1365cf83d3e817733cd7a03",
+      "status": "needs_review",
+      "reason": "visual_review_required"
+    },
+    {
+      "document_id": "pdf_f8d409ea73d3cc0d9ed4",
+      "pdf_page": 6,
+      "record_path": "data/ocr/windows-v2/pdf_f8d409ea73d3cc0d9ed4_p006/ocr.json",
+      "record_sha256": "c4b41d7f5e488f4a6cd181bb3a33b6720afd7260f43ca89b553c4f465a2d57be",
+      "status": "needs_review",
+      "reason": "visual_review_required"
+    }
+  ],
+  "counts": {
+    "needs_review": 18,
+    "unresolved": 2
+  }
+}

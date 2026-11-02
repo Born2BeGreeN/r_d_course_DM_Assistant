@@ -1,0 +1,1 @@
+{"accounted_usd":0.066738,"actual_invoice_charge_usd":null,"kind":"checkpoint_budget_audit","ledger_states":[["imported_estimate",1,0],["usage_estimate",61,66738000]],"paid_attempts_recorded":61,"remaining_usd":4.933262,"scope":"All saved external provider generations: baseline plus smoke; no free-quota assumption."}

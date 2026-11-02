@@ -1,0 +1,265 @@
+[PDF_PAGE=1]
+
+
+[PDF_PAGE=2]
+ 
+Welcome to “The Pumpkin King”, a free 
+Halloween encounter from DM Games! 
+Unlike our full modules, this is a one shot 
+encounter that can be dropped into an 
+existing campaign or the springboard to 
+start one. 
+This encounter takes place in the dreaded 
+domain of Ravenloft, however it can be 
+dropped into any one of D&D’s many 
+settings or one of your own invention. This 
+adventure is for 4 PCs level 1 - 2 
+All you NEED for this adventure is this book 
+and a copy of the Dungeons & Dragons 
+basic rules which are able to be 
+downloaded for free from playdnd.com. and 
+a set of gaming dice. I would also Highly 
+recommend the SRD available from the 
+same sight as it has a COMPLETE listing of 
+all D&D Rules. 
+In addition, I would also recommend some 
+miniatures and an erasable battle mat, but 
+those are completely optional. Our maps 
+What is needed to Play?
+Introduction
+The small farming village of Krahedorf, if 
+you can call their meager corn crops 
+“farms”, has had a rash of children go 
+missing leading up to all hallows eve. Even 
+for Barovia this is not a common problem. 
+Speaking to the villagers its become 
+apparent that their is something sinister in 
+the area. 
+The creature taking the children has come 
+to be known as “The Great Pumpkin”. He 
+takes many forms but favors that of a 
+scarecrow as he can easily replace the 
+many other regular rag doll manequins, 
+Encounter Synopsis
+The Punkin’, as he is sometimes know 
+as, will send envoys of his “children” into 
+town during the revels leading up to all 
+hallows eve and spread rumors of sweets 
+and gifts in the corn field to lure his 
+unsuspecting victims to him. Once there, 
+the children go missing and become his 
+minions for eternity, consuming the souls 
+required for him to return yet another 
+year and feast.  
+The Great Pumpkin has no motivation 
+other than to feed and revel in the souls 
+of the stolen children for yet another year. 
+Such is the perversion of a demon
+The Adventure Begins
+Read the following boxed text to the 
+players to start the Adventure:
+When you entered Krahedorf Village, 
+you were ready to take a rest from your 
+travels. It had been a hard road, and 
+stops between your journey’s 
+departure point and destination have 
+been few and far between, but such is 
+the life of a new adventurer.  
+While enjoying your meal, well at least 
+having…”enjoying” is a strong word in 
+this case, you and your party are 
+approached by several haggard and 
+sorrow weary villagers. They tell you a 
+tale of how their children have got 
+missing and they suspect “The Great 
+Pumpkin” or “The Punkin’” as one 
+particularly dim witted villager calls 
+him, has lured the children to the 
+cornfields with promises of treats and 
+gifts.
+
+[PDF_PAGE=3]
+ 
+Feeling particularly heroic, you 
+promise the worried villagers that you 
+will go to the cornfield and will not 
+return without their children
+The Cornfield
+The Players arrive at the cornfield and on 
+your typical cold “dark and stormy nights” 
+so familiar in every halloween and horror 
+stories. And while this is designed as a 
+“tongue in cheek” halloween adventure, it 
+should be treated some what seriously. It 
+IS a horror story after all, and as the 
+players will soon discover, the “Minions” 
+they are fighting are what is left of the 
+children after “The Punkin’” gets a hold of 
+them.  
+Read the text of the players:
+As you approach the cornfield an 
+ominous feeling settles over you. The 
+wind picks up and you are almost 
+instantly chilled to the bone. Between 
+the icy gale and the mist that begins to 
+saturate your clothes, you swear you 
+can almost feel your body temperature 
+drop.  
+Looking around, you find a path that 
+leads deeper into the cornfield and 
+realize it is in fact a corn maze. When 
+you venture forth, blue-white lightening 
+splits the sky as a loud “CRACK” 
+resonates through the countryside. 
+You begin to think you may be in over 
+your head.
+Random Encounters
+1 - 2  4x Swarm of Ravens 
+3 - 4  4x Swarm of Rats 
+5 - 6  4x Swarm of Insects
+The players wander through the corn 
+maze a bit and once they have faced off 
+6 “random: encounters, one EVERY 
+OTHER turn, the secret entrance 
+reveals itself as marked on the map 
+below.  
+Once the players find the entrance, the 
+players will face of the Pumpkin King 
+and his Pump-kids, little demon spawn 
+that are the reincarnated souls of his 
+victims. They can be set anywhere on 
+the map in the appropriate area. 
+The Statistics for the Swarms can be 
+found in the Monster Manual or the 
+SRD located at www.playdnd.com or at 
+dndbeyond.com. 
+Statistics for the Great Pumpkin and the 
+Pump-kids are listed on the next page. 
+Insect, Raven and Rat Swarms are 
+found in the Monster Manual or 5e SRD
+
+
+[PDF_PAGE=4]
+ 
+The Great Pumpkin
+The Great Pumpkin Demonic Construct, Chaotic Evil 
+Armor Class 13 
+Hit Points 88 (12d12 +12) 
+Speed 30 ft 
+  STR      DEX       CON        INT        WIS        CHA 
+11 (+0)   13 (+1)   11(+0)    14 (+2).  13 (+1)    13 (+1) 
+Saving Throws: Dex +1, Cha +1 
+Damage Vulnerabilities: Fire 
+Damage Resistances: bludgeoning, piercing and 
+slashing from non magical attacks 
+Damage Immunities: poison 
+Condition Immunities: Charmed, exhaustion, 
+frightened, paralyzed, poisoned, unconscious 
+Senses: darkvision 60 ft, passive Perception 10 
+Languages: Understands common and abyssal but 
+cant speak 
+Challenge: 2 (450 XP) 
+False Appearance: While the Great Pumpkin is 
+motionless it is indistinguishable from an actual 
+scarecrow  
+ACTIONS                                                                         
+Multi Attack: The Scarecrow makes 2 claw attacks 
+Claws: Melee Weapon Attack: +5 to hit, reach 5 ft, 
+one creature. 7 (2d4+3) If the target is a creature it 
+must succeed on a DC 13 Wisdom saving throw or be 
+frightened until the end of the Great Pumpkin’s next 
+turn. 
+Terrifying Glare: The Great Pumpkin targets one 
+creature it can see within 30 feet of it. If the target can 
+see the Great Pumpkin, the target must succeed on a 
+DC 13 Wisdom saving throw or be magically 
+frightened until the end of the Great Pumpkin's next 
+turn. The Frightened market is paralyzed. 
+Raise Pumpkids: Every other turn the great pumpkin 
+can raise a pumpkid on a Charisma roll of 15 up to a 
+maximum of 6.
+The Great Pumpkin is essentially a 
+Scarecrow but where other constructs of this 
+type are typically infused with the spirit of 
+some malevolent person, the pumpkin is 
+infused with that of demon! He has taken 
+many shapes throughout his long history, his 
+two favorite are either that of a Scarecrow or 
+that of a tangle mass of vines and pumpkins 
+that has a humanoid shape 
+(www.reapermini.com has a FANTASTIC 
+model of this). Needless to say, he loves to 
+claim the souls of children and making little 
+hellspawn of undead “Pumpkids”. Small child 
+like creatures with the head of a Jack-O-
+Lantern. It is a gruesome practice but one 
+that given the great pumpkin his powers over 
+the centuries and allowed him to sustain his 
+life force for centuries
+
+
+[PDF_PAGE=5]
+ 
+Pumpkids
+Pumpkids Small Demonic Undead 
+Armor Class 13 
+Hit Points 13 (2d8+4) 
+Speed 30 ft 
+  STR       DEX       CON        INT       WIS     CHA 
+10 (+0)   14(+2)   11(+0)      6 (-2)     8 (-1)    5 (-3) 
+Damage Vulnerabilities: Bludgeoning 
+Damage Resistances: piercing and slashing from 
+non magical attacks 
+Damage Immunities: poison 
+Condition Immunities: exhaustion, frightened, 
+poisoned 
+Senses: darkvision 60 ft, passive perception 0 
+Languages: Understands common but cant speak 
+Challenge: 1/4 (50 XP) 
+ACTIONS                                                                         
+Claws: Melee Weapon Attack: +5 to hit, reach 5 ft, 
+one creature. 3 (1d4+1)  
+Pitiful Gaze: So heartbreaking is the fate of the 
+children that on a Wisdom DC 15 check they cast a 
+pitiful gaze on one creature. That creature is so 
+overcome with sorrow that it is paralyzed for one turn 
+The Pumpkids are a very sad creation of 
+the children the Great Pumpkin has slain. 
+While he feeds on their spirits, the 
+tortured souls of his tiny victims are 
+placed in what is left of their desiccated 
+bodies. As a reflection of their master, the 
+Pumpkids heads twist and contort until 
+they resemble the leering faces of Jack O’ 
+Lanterns. 
+These tormented little souls are vicious 
+and attack the living on site, unless told 
+otherwise by their twisted master.  
+Occasionally, he uses these creations on 
+All Hallows Eve to lure even more 
+youthful victims to their eternal 
+damnation. 
+Such is the evil of the “Great” Pumpkin.
+
+[PDF_PAGE=6]
+S
+Corn 
+(Impassible)
+Corn 
+(Impassible)
+Corn 
+(Impassible)
+Corn 
+(Impassible)
+The Great 
+Pumpkin 
+Encounter
+
+[PDF_PAGE=7]
+03677: Pumpkin Minions
+03377: Rotpatch, Pumpkin Golem
+03479: Murder of Crows
+03394: Rat Swarm
+77130: Vermin: Beetle Swarm
+Sometimes, miniatures can be so AWESOME that they inspire a module, such as this one. Check 
+out Reaper Miniatures for all the minis used in the creation of this adventure and thanks for playing!

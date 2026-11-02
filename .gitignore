@@ -1,0 +1,25 @@
+# Credentials and local environment files
+.env
+.env.*
+*.env
+*.env.*
+!.env.example
+
+# Python environments, local tools, and caches
+.venv/
+.venv-*/
+.tools/
+.uv-cache/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Original sources and intermediate extraction stay local
+data/raw/
+data/extracted/
+# OCR images and intermediate engine output stay local; review reports are tracked.
+data/ocr/

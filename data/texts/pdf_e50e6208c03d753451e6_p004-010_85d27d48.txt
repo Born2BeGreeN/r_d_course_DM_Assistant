@@ -1,0 +1,500 @@
+[PDF_PAGE=4]
+   
+ 
+ 
+Not for resale. Permission granted to print or photocopy this document for personal use only. 
+FR-DC-SCROG-03 Showdown At Starmetal Hills  (v1.0)        3 
+ 
+ADVENTURE PRIMER 
+“A good man is a hammer in the hand of Tyr.” 
+Miltiades of Phlan 
+Showdown At Starmetal Hills is designed for three to 
+seven 1st-2nd-level characters and is optimized for 
+five characters with an average party level (APL) of 1. 
+Characters outside this level range cannot participate in 
+this adventure. This adventure occurs in Longsaddle. 
+BACKGROUND 
+THE GOGAN BROTHERS GANG, a slick-tongued pack of 
+no-good, thieving, backstabbing, sweet-smiling 
+jackalweres, has robbed the GAMBLING GOLEM in 
+LONGSADDLE. Ordinarily, that would be a fool’s errand.  
+ Years ago, the Gogan boys tried something similar 
+and got themselves caught and ran outta Longsaddle 
+with their tails tucked. In response, the HARPELLS, a 
+family of eccentric wizards and stalwart defenders of 
+the frontier hamlet, wove powerful wards to alert them 
+if any jackalwere ever came slinking back. 
+ But them Gogans are wily. This time, they didn’t show 
+up themselves. Instead, they sent some nasty help, a 
+pack of kenku drifters known as THE LUSKAN CITY 
+GANG. Mean as snakes and twice as ornery. The Gogan 
+Brothers convinced the avian outlaws that Longsaddle 
+was easy pickings. The kenku agreed to the alliance, but 
+they ain’t planning on splitting the loot.  
+ Them Luskan City birds strolled into the Gambling 
+Golem in the morning and raised hell. By the time 
+anyone could muster a response, the outlaws were 
+gone, hightailing it toward the STARMETAL HILLS 
+where the Gogan Brothers were waiting for them. Now 
+the good folk of Longsaddle ain’t about to let that stand. 
+They are fixing to put together a posse made up of 
+ranchers, goat herders, and a few adventurers. There is 
+coin to recover and justice to serve. 
+OVERVIEW 
+The adventure begins with a Call to Action scene and 
+has one main Part. The adventure takes approximately 
+1 hour to play. 
+ 
+Call to Action. The posse arrives at a fork in the trail 
+and decides to split up. Picking a path is the Call to 
+Action.  
+Part 1. The Pursuit. Depending on which path the 
+characters choose to follow, they lead to different 
+problems with the outlaws. Recovering the stolen 
+coin lockbox or bringing the outlaws to justice is the 
+Story Objective. 
+ADVENTURE HOOK  
+Use these hooks to explain why the characters are in 
+Longsaddle. 
+Longriders. The character has heard that Longsaddle is 
+a place where fortunes are made. Out on these 
+frontier lands, ranchers, farmers, and wizards are 
+always looking to hire folks who can fend off 
+monsters, cattle thieves, and the occasional band of 
+marauding barbarians. 
+Longsaddler. The character is or was a resident of 
+Longsaddle or the surrounding lands. They know the 
+local faces, the Harpells’ reputation, and just how 
+weird things can get around these parts. They might 
+be just as strange themselves and have been accepted 
+as part of the community all the same. 
+Faction Agent. The character is working with one of the 
+many factions of Faerûn, an adventuring society, or a 
+guild. Either way, they are temporarily stationed in 
+Longsaddle between missions, gathering information, 
+maintaining a presence, or awaiting new orders. 
+Harpell Apprentice. The character is currently staying 
+at Ivy Mansion as part of an apprenticeship. Under 
+the tutelage of the Harpells, they’ve been learning 
+spells, dodging experiments gone wrong, and helping 
+contain magical accidents. When the Harpells need 
+someone to handle a strange task or investigate a 
+disturbance, it’s usually the apprentices who get 
+volunteered. 
+GOGAN BROTHERS GANG FEUD 
+At certain points in the adventure, the Story Award (Gogan 
+Brothers Gang Feud) (from FR-DC-SCROG-02 Bad Weather 
+Over Longsaddle) may influence the unfolding events. If none 
+of the characters possess this story award, simply ignore any 
+references to it. 
+  
+
+
+[PDF_PAGE=7]
+   
+ 
+ 
+Not for resale. Permission granted to print or photocopy this document for personal use only. 
+FR-DC-SCROG-03 Showdown At Starmetal Hills  (v1.0)        6 
+ 
+PART 1: THE PURSUIT  
+Estimated Duration. 45 minutes 
+ 
+The characters must decide which trail to follow, either 
+the hoofprints leading west or the boot prints heading 
+east. This choice sets the direction of the adventure and 
+determines what encounters lie ahead. Once they 
+choose a trail, they must also decide whether to press 
+their mounts to catch up quickly or travel at a safer pace 
+through the rugged terrain. Pushing their horses may 
+help them close the distance, but it carries the risk of 
+injuring their mounts before they reach the thieves.  
+STORY OBJECTIVE 
+To recover the stolen coin lockbox or bring the outlaws 
+to justice is the Story Objective. 
+THAT’S SOME FANCY RIDING 
+Read aloud or paraphrase the following: 
+The Starmetal Hills roll out ahead like the spine of some 
+long-dead beast, all broken ridgelines and sunbaked stone. 
+Wind hisses through dry grass and thorny brush, stirring 
+dust devils that dance across the trail. The sun glares down 
+from a cloudless sky, already high and hot, with maybe 
+eight hours of daylight left before the hills go dark. 
+AREA INFORMATION 
+The hills have the same general features outlined in the 
+Call to Action. Add the following features. 
+Visibility. During daylight, characters can see up to 2 
+miles unless terrain features such as rocks, ridgelines, 
+or brush block their view. If a character climbs to the 
+top of a high hill, they can see up to 40 miles in any 
+direction. Flying creatures may be able to spot their 
+quarry from above. The horses heading west are 
+approximately 3 miles away, while the group on foot 
+is about 2 miles out. Due to the distance, only vague 
+figures or movement can be seen. The number of 
+individuals or specific details remain unclear, and a 
+flying creature cannot determine whether the horses 
+are mounted or simply running loose unless they get 
+closer. 
+Tracks. Following the tracks is fairly easy during the 
+day. However, at night, limited visibility and uneven 
+terrain make tracking more difficult. At night, a 
+tracker can use the Search action to make a Wisdom 
+(Survival) check against DC 15, with advantage due to 
+the abundance of tracks. On a success, the tracker 
+follows the trail. On a failure, the trail is lost, but the 
+character can attempt to locate it again by carefully 
+searching the area for one hour. 
+ 
+TIME LIMIT 
+The characters are in pursuit of outlaws, and time is not on 
+their side. The thieves have split into two groups in an effort 
+to throw off pursuit. One group travel on horseback, moving 
+fast across open land. The other slips away on foot, sticking to 
+gullies, creek beds, and cover. Fortunately for the pursuers, 
+the mounted outlaws ran into trouble and lost an hour of 
+travel, while the ones on foot spent more time arguing than 
+moving. The posse cannot follow both. The characters must 
+decide which group to chase. The coin lockbox could be with 
+either group. And if the characters spend too long deciding, 
+they may lose both trails entirely. 
+TRACKING TIME 
+Here is a timeline of relevant events to help track the pursuit 
+and determine when key encounters occur: 
+8:00 AM – The outlaws rob the Gambling Golem and flee 
+Longsaddle, heading toward the Starmetal Hills. 
+10:00 AM – The posse departs Longsaddle in pursuit. 
+1:00 PM – The posse arrives at the point where the tracks 
+split. One set of tracks lead into rough terrain on foot, while 
+the other set of tracks is made by horses. 
+9:00 PM – Sundown. Visibility drops, and tracking becomes 
+significantly harder without magical aid or proper light 
+sources. Around this time, the outlaws begin to make camp. 
+3:00 AM (Optional) – The Gogan Brothers murder the outlaws 
+and flee into the Starmetal Hills.  
+5:00 AM (Optional) – The Luskan City Gang mount their 
+horses and continue south toward Triboar.  
+7:00 AM – The posse regroups to compare findings and plan 
+the next steps in the pursuit. 
+ As a Search action, a character can inspect the tracks 
+and make a DC 10 Wisdom (Survival) check. On a 
+success, the character can confirm the same details 
+Athena has already shared about the split in the trail 
+and the outlaws’ movements. If a character beats the DC 
+by 5 or more, they notice something Athena missed: 
+unusual tracks in the nearby brush. Three sets of prints 
+begin as animal tracks before shifting into humanoid 
+boot prints. Whoever they are, they’re following the 
+outlaws on foot.  
+ A character may take the Study action and make a DC 
+13 Intelligence (Nature) check on the animal tracks. On 
+a success, they identify the prints as belonging to a 
+jackal. A character may make a DC 11 Intelligence 
+(Arcana) check to recall that several creatures are 
+capable of such transformations. Shapeshifters such as 
+jackalweres and lycanthropes, certain fiends, druids, or 
+even spellcasters using polymorph magic could all be 
+responsible.  
+ The NPC chosen by the characters to accompany 
+them confirms that the tracks belong to jackalweres. 
+They explain that these jackalweres are likely the Gogan 
+Brothers Gang, a slippery crew of outlaws known up 
+and down the Long Road. The gang isn’t made up of 
+blood kin, but they all call each other “brother” and run 
+their outfit like a big, rowdy family. They’re also made 
+up entirely of jackalweres. 
+ The characters are mounted on either a riding horse 
+or a puddlejumper (giant frog).  
+
+[PDF_PAGE=8]
+   
+ 
+ 
+Not for resale. Permission granted to print or photocopy this document for personal use only. 
+FR-DC-SCROG-03 Showdown At Starmetal Hills  (v1.0)        7 
+ 
+ In difficult terrain, a riding horse travels at a fast pace 
+of 4 miles per hour, a normal pace of 3 miles per hour, 
+or a slow pace of 2 miles per hour. Puddlejumpers 
+aren’t affected by difficult terrain of the Starmetal Hills 
+and have the same travel pace as a riding horse. The 
+mounted outlaws move at a normal pace of 3 miles per 
+hour but are only one hour ahead due to mishaps while 
+trying to manage so many horses. The outlaws on foot 
+move at a normal pace of 1.5 miles per hour but are two 
+hours ahead. Both groups of outlaws stop to camp 
+around 9:00 PM as night falls. 
+• At a normal pace, the mounted characters can catch 
+up to the outlaws on foot within two hours. Reduce 
+the time by one hour if they move at a fast pace or 
+add four hours if they move at a slow pace. 
+• At a normal pace, the mounted characters arrive at 
+the camp of the mounted outlaws within ten hours. 
+Reduce the time by one hour if they move at a fast 
+pace or add two hours if they move at a slow pace. 
+• If the characters are on foot (due to losing their 
+mounts because of riding complications or choosing 
+to go on foot), you can estimate that the characters 
+arrive at the outlaw camps around 11:00 PM for the 
+outlaws on foot, or around 1:00 AM for the outlaws 
+on horseback. These estimates assume the characters 
+are traveling at a normal pace. Reduce the time by 
+one hour if they move at a fast pace or add two hours 
+if they move at a slow pace. 
+Note that traveling at a fast pace imposes disadvantage 
+on a traveler’s Wisdom (Perception or Survival) and 
+Dexterity (Stealth) checks. Traveling at a normal pace 
+imposes disadvantage on Dexterity (Stealth) checks.  
+Traveling at a slow pace grants advantage on Wisdom 
+(Perception or Survival) checks. 
+ If the characters decide to press their mounts to 
+move faster (doubling their speed), they can reach the 
+quarry within 1d10 + 30 minutes. Once a mount has 
+been pushed to double its speed, it cannot be pushed 
+again until it has completed a Short or Long Rest.  
+ To navigate the terrain safely at high speed, each 
+rider must attempt a DC 13 skill check. They may 
+choose one of the following skills for the roll: Strength 
+(Athletics), Intelligence (Investigation), Wisdom 
+(Animal Handling), or Wisdom (Perception). The NPC 
+posse member is assumed to succeed automatically. 
+Any character who fails their check must roll on the 
+Riding Complications table to determine what goes 
+wrong during the ride. 
+TABLE 1.1 RIDING COMPLICATIONS 
+1d6 Complication 
+1 A mount slips on a patch of crumbling rock and 
+takes 7 (2d6) bludgeoning damage from the fall. 
+The rider must succeed on a DC 12 Dexterity 
+saving throw or be thrown from the saddle, 
+taking 3 (1d6) bludgeoning damage and falling 
+prone. 
+2 A snake sunning on a rock sends the mount into 
+a panic. The rider must succeed on a DC 13 
+Animal Handling check to calm the beast. On a 
+failure, the rider is thrown off the mount, taking 
+3 (1d6) bludgeoning damage and falling prone. 
+The mount runs off in a panic. Characters can 
+track it down with a DC 10 Wisdom (Survival) 
+check, but the search takes 1d4 x 10 minutes.  
+3 A mount trips on a rock, does a full front-flip, 
+and somehow lands on its feet. The rider must 
+make a DC 12 Dexterity saving throw or be flung 
+into a cactus, taking 5 (2d4) piercing damage. 
+4 The rider charges through a hidden burrow field, 
+upsetting a swarm of furious groundhogs. The 
+character must succeed on a DC 13 Animal 
+Handling check or be swarmed. The mount takes 
+5 (2d4) piercing damage from a dozen tiny bites, 
+and the rider’s pants are either shredded beyond 
+repair or torn clean off. The swarm stops 
+attacking after a round and flees back into their 
+burrows.  
+5 The rider’s mount gets nervous and starts letting 
+out a series of loud, noxious farts. The rider and 
+the mount directly behind (chosen at random) 
+must each make a DC 12 Constitution saving 
+throw or suffer the poisoned condition for the 
+next hour from the overwhelming stench. It’s 
+that bad.  
+6 The mount plunges into a collapsed sinkhole, ten 
+feet wide and twenty feet deep. It takes 7 (2d6) 
+bludgeoning damage from the fall. The rider 
+must succeed on a DC 12 Dexterity saving throw 
+to leap free. On a failure, they fall in as well, 
+taking 7 (2d6) bludgeoning damage and landing 
+in a heap beside their mount. 
+THE LOCKBOX 
+It does not really matter which group the characters decide to 
+chase. Coincidentally, or perhaps by the will of Tymora, the 
+group they pursue just so happens to be the one carrying the 
+stolen coin lockbox from the Gambling Golem.  
+ The lockbox is protected by a Lock of Trickery imbued with 
+the Unbreakable minor property. The only way to destroy the 
+lock is with an adamantine weapon. The lockbox itself is not 
+indestructible. It has 15 hit points and weighs 40 lbs. due to 
+the coins inside. Inside there are 2,000 copper pieces, a tin 
+harmonica (trinket), a bottle of snake oil (trinket), and a 
+handful of crumpled IOUs, each scribbled with a name: the 
+Slayer, Corvus Ravenwinter, Bertie, Kipper, Regis, Badmoon, 
+and Larry.  
+ Now, if the characters are feeling a bit crooked, they might 
+hang onto that coin lockbox (and the contents inside). Their 
+Bidderdoo companion doesn’t care about the coin lockbox or 
+what the characters intend to do with it. If the characters do 
+keep the enchanted lock, they eventually find the key in 
+Longsaddle after the adventure.   
+DEVELOPMENT 
+If the characters catch up to either group of outlaws 
+before they make camp, proceed to Encounter A. 
+If the characters arrive at the camp of the outlaws, 
+proceed to Encounter B.  
+
+[PDF_PAGE=9]
+   
+ 
+ 
+Not for resale. Permission granted to print or photocopy this document for personal use only. 
+FR-DC-SCROG-03 Showdown At Starmetal Hills  (v1.0)        8 
+ 
+ENCOUNTER A. OUTLAW PURSUIT 
+If the characters catch up with either group of outlaws 
+on the move, then run this encounter. Read or 
+paraphrase the following:  
+The trail winds between two steep hills. Jagged rocks and 
+clusters of scrub line the uneven slope. Large boulders jut 
+from the hillside, creating short pockets of shadow along 
+the path.  
+AREA INFORMATION 
+This location has the following features. 
+Terrain. The trail leads through the hills, where the 
+slope rises sharply on all sides. 
+Slopes. All slopes count as difficult terrain. 
+Obstacles. The surrounding terrain is dotted with 
+natural cover. Large boulders and scattered stone 
+outcroppings offer protection to anyone approaching 
+the ridge. A creature behind one of these features 
+may gain cover, depending on their position. 
+Lighting. During daylight hours, the area is bathed in 
+bright light from the sun.  
+Map. Use map 3.1 (Appendix 1) for this encounter.  
+DEVELOPMENT 
+If the characters followed the mounted group, proceed 
+to The Mounted Outlaws. If they followed the group on 
+foot, proceed to The Outlaws on Foot. 
+THE MOUNTED OUTLAWS 
+The adventurers come upon five riding horses grazing 
+nervously on the hillside. One horse is missing, lost 
+earlier when an outlaw had a mishap with a 
+cantankerous earth elemental that did not take kindly 
+to being stepped on. The elemental killed both the horse 
+and its rider.  
+ A raven circling overhead is actually a familiar. It 
+serves as an aerial reconnaissance for its kenku master, 
+keeping watch from about 200 feet in the air. If the 
+raven is attacked and survives, it immediately takes the 
+Dodge action and attempts to fly away. If the raven is 
+killed, it cannot warn its master. As a result, the 
+mounted outlaws are caught off guard and are easily 
+surprised when the characters arrive. 
+ The Luskan City outlaws (kenku) are hiding nearby, 
+warned by the raven familiar that the characters are 
+close. They have taken cover behind rocky outcroppings 
+and plan to ambush the party as soon as they come 
+within range of their ranged attacks. Any character with 
+a Passive Perception of 14 or higher notices movement 
+behind the rocks and is not surprised. 
+ If the characters killed the raven familiar, the outlaws 
+have dismounted to water their horses and unaware of 
+the characters approach. The characters can choose to 
+ambush the outlaws, who have a Passive Perception of 
+15. On initiative count 11, the outlaws’ horses panic and 
+flee into the hills.  
+ADJUSTING THE SCENE  
+Here are some suggestions for adjusting this scene. The 
+adjustments are cumulative: 
+ 
+• Very Weak. Remove one kenku.  
+• Weak. Remove one kenku. 
+• Average. Five kenku.  
+• Strong. Add one kenku wizard (pirate deck wizard).   
+• Very Strong. Add another kenku wizard (pirate deck 
+wizard).  
+THE BIDDERDOO 
+The Bidderdoo won’t reveal their nature unless the situation 
+becomes dire (such as the characters losing or being 
+outnumbered). In combat, while in human form, the 
+Bidderdoo only provides the Help action to assist the 
+characters. 
+ADJUSTING THE ADVENTURE 
+If they are following the horse tracks it is possible for the 
+characters to press their mounts to catch the mounted 
+outlaws, then use the outlaws’ horses to pursue the second 
+group. However, the only way this plan succeeds is if the 
+characters press the outlaw horses to double their speed for 
+one hour, allowing them to eventually catch up with the 
+outlaws on foot.   
+ This method allows the characters to chase down both 
+groups within the same session, although it may stretch the 
+adventure session beyond one hour. 
+ The other members of the posse won’t be of any help. 
+Athena is preoccupied with tracking down missing posse 
+members who wandered off into the Starmetal Hills and got 
+themselves lost. 
+ If the characters choose to pursue and defeat both 
+groups, only the first group they confront carries any 
+treasure. The coin lockbox is also in the possession of 
+that first group. 
+THE OUTLAWS ON FOOT 
+If the characters were tracking the outlaws on foot, they 
+find the Luskan City outlaws (kenku) and the 
+jackalweres, the latter in their human forms. The two 
+groups are locked in a heated argument over the coin 
+lockbox. The Gogan Brothers want to force it open but 
+worry that breaking the lockbox might damage 
+whatever valuables lie inside. The Luskan City outlaws, 
+unwilling to hand it over, insist on keeping the lockbox 
+until they can discover a magical way to unlock it. They 
+have a passive Perception of 15, but characters 
+attempting to approach may do so with advantage on 
+their Stealth checks.  
+  
+
+[PDF_PAGE=10]
+   
+ 
+ 
+Not for resale. Permission granted to print or photocopy this document for personal use only. 
+FR-DC-SCROG-03 Showdown At Starmetal Hills  (v1.0)        9 
+ 
+ADJUSTING THE SCENE  
+Here are some suggestions for adjusting this scene. The 
+adjustments are cumulative: 
+ 
+• Very Weak. Remove one kenku.  
+• Weak. Remove one kenku and one jackalwere.  
+• Average. Three kenku, two jackalwere.  
+• Strong. Add one jackalwere. 
+• Very Strong. Add one giant jackal (giant hyena). 
+THE BIDDERDOO 
+The Bidderdoo won’t reveal their nature unless the situation 
+becomes dire (such as the characters losing or being 
+outnumbered). In combat, while in human form, the 
+Bidderdoo only provides the Help action to assist the 
+characters. 
+GOGAN BROTHERS GANG FEUD 
+Any character with the Story Award (Gogan Brothers Gang 
+Feud) is immediately recognized by the jackalweres as an 
+enemy of their gang. The shapeshifters prioritize targeting 
+these characters first.  
+OUTLAW NAMES SUGGESTIONS 
+Jackalwere: Bonnie Red Smoke, Delgrave the Hook, Big Iron 
+Crowe, Jedidiah, Cassidy Six-Fingers, Maybelle Witch-Eye, 
+Pearl the Grin, or Ezekiel Harrow 
+Kenku: Cough, Snap, Clang, Hell, Old Timer, Click Click Click, 
+Witch Eye, Hush, Tink Tink, Scratch, Tom, or Rusty 
+TREASURE 
+The treasure for both encounters is the same. 
+Characters that search the bodies of the outlaws find the 
+following: a ten-gallon hat (trinket), a very confused 
+toad (see sidebar), a pair of fancy snakeskin boots 
+(trinket), and a colorful thin art book titled Billy the Kid 
+versus Strahd, filled with pulpy illustrations (trinket). 
+Rounding out the haul is twelve different rabbit foot 
+charms; each dyed a different color (trinkets).  
+BATTLETOAD BILL 
+It is an unsavory pastime in Longsaddle, but toads are often 
+used in animal fighting sports. The toad the characters 
+recovered from the outlaws is no ordinary critter. It is a 
+retired champion brawler known as Battletoad Bill, now freed 
+from that cruel business. If the characters choose to keep the 
+toad and take the time to care for it properly, they gain a loyal 
+pet and an unlikely companion. The characters receive the 
+Story Award: Battletoad. 
+DEVELOPMENT 
+Once the characters have defeated the band of outlaws 
+and retrieved the coin lockbox, they may proceed to 
+Conclusion. If any jackalweres are still alive, go to The 
+Protector in Encounter B.  
+  
+

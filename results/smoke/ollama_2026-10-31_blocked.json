@@ -1,0 +1,40 @@
+{
+  "kind": "local_smoke_not_benchmark",
+  "status": "blocked",
+  "smoke_attempted": false,
+  "generation_calls": 0,
+  "external_provider_calls": 0,
+  "configuration": {
+    "model": "qwen2.5:3b",
+    "base_url": "http://localhost:11434",
+    "context_size": 8192,
+    "timeout_s": 120.0,
+    "sampling": {
+      "temperature": 0.2,
+      "top_p": 0.9,
+      "max_output_tokens": 2048
+    }
+  },
+  "cli_path": null,
+  "host": {
+    "platform": "Windows-10-10.0.19045-SP0",
+    "processor": "Intel64 Family 6 Model 154 Stepping 3, GenuineIntel",
+    "python": "3.12.15",
+    "httpx": "0.28.1",
+    "gpu": null,
+    "gpu_note": "Not measured; do not infer GPU usage."
+  },
+  "model_response": null,
+  "schema_valid": null,
+  "runtime_before": {
+    "base_url": "http://localhost:11434",
+    "requested_model": "qwen2.5:3b",
+    "ready": false,
+    "blocker": "service_unavailable",
+    "version": null,
+    "model": null,
+    "show": null,
+    "running_models": null
+  },
+  "blocker": "service_unavailable"
+}
